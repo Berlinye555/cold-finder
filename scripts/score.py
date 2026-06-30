@@ -60,7 +60,7 @@ def score_article(client: OpenAI, article: dict, dimensions: list[dict]) -> dict
 
     try:
         resp = client.chat.completions.create(
-            model=os.getenv("DEEPSEEK_MODEL", "deepseek-chat"),
+            model=os.getenv("DEEPSEEK_MODEL", "GLM-4-Flash"),
             messages=[{"role": "user", "content": prompt}],
             temperature=0.3,
             max_tokens=200,
