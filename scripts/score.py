@@ -10,7 +10,6 @@ from pathlib import Path
 
 import httpx
 import yaml
-from openai import OpenAI
 
 ROOT = Path(__file__).resolve().parent.parent
 SOURCES_FILE = ROOT / "sources" / "feeds.yaml"
@@ -51,22 +50,39 @@ def load_candidates(date_str: str) -> list[dict]:
         return json.load(f)
 
 
-def score_article(client: OpenAI, article: dict, dimensions: list[dict]) -> dict | None:
+def _call_llm(client: httpx.Client, prompt: str, model: str) -> str | None:
+    """直接通过 HTTP 调用智谱/OpenAI 兼容 API。"""
+    url = f"{os.getenv('DEEPSEEK_BASE_URL', 'https://api.deepseek.com')}/chat/completions"
+    # 去掉可能的双斜杠
+    url = url.replace("v4//chat", "v4/chat")
+
+    payload = {
+        "model": model,
+        "messages": [{"role": "user", "content": prompt}],
+        "temperature": 0.3,
+        "max_tokens": 200,
+    }
+    headers = {
+        "Authorization": f"Bearer {os.getenv('DEEPSEEK_API_KEY')}",
+        "Content-Type": "application/json",
+    }
+    resp = client.post(url, json=payload, headers=headers)
+    resp.raise_for_status()
+    data = resp.json()
+    return data["choices"][0]["message"]["content"].strip()
+
+
+def score_article(client: httpx.Client, article: dict, dimensions: list[dict]) -> dict | None:
     """对单篇文章调用 AI 评分。返回评分结果或 None（失败时）。"""
     content = (article.get("content") or article.get("summary") or "")[:1500]
     title = article.get("title", "")
     source = article.get("source_name", "")
+    model = os.getenv("DEEPSEEK_MODEL", "GLM-4-Flash")
 
     prompt = SCORING_PROMPT.format(title=title, source=source, content=content)
 
     try:
-        resp = client.chat.completions.create(
-            model=os.getenv("DEEPSEEK_MODEL", "GLM-4-Flash"),
-            messages=[{"role": "user", "content": prompt}],
-            temperature=0.3,
-            max_tokens=200,
-        )
-        raw = resp.choices[0].message.content.strip()
+        raw = _call_llm(client, prompt, model)
 
         # 清理可能的 markdown 代码块包裹
         if raw.startswith("```"):
@@ -123,11 +139,8 @@ def run(date_str: str | None = None):
         return
 
     base_url = os.getenv("DEEPSEEK_BASE_URL", "https://api.deepseek.com")
-    client = OpenAI(
-        api_key=api_key,
-        base_url=base_url,
-        timeout=httpx.Timeout(30.0, connect=10.0),
-    )
+    model = os.getenv("DEEPSEEK_MODEL", "GLM-4-Flash")
+    http_client = httpx.Client(timeout=httpx.Timeout(30.0, connect=10.0))
 
     candidates = load_candidates(date_str)
     if not candidates:
@@ -135,16 +148,19 @@ def run(date_str: str | None = None):
         return
 
     # API 连通性测试
-    print(f"API: {base_url} | model: {os.getenv('DEEPSEEK_MODEL', 'GLM-4-Flash')}")
+    print(f"API: {base_url} | model: {model}")
     try:
-        test = client.chat.completions.create(
-            model=os.getenv("DEEPSEEK_MODEL", "GLM-4-Flash"),
-            messages=[{"role": "user", "content": "回复 OK"}],
-            max_tokens=5,
+        test_url = f"{base_url}/chat/completions".replace("v4//chat", "v4/chat")
+        test_resp = http_client.post(
+            test_url,
+            json={"model": model, "messages": [{"role": "user", "content": "回复OK"}], "max_tokens": 5},
+            headers={"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"},
         )
-        print(f"[CONNECT OK] {test.choices[0].message.content}")
+        test_resp.raise_for_status()
+        test_data = test_resp.json()
+        print(f"[CONNECT OK] {test_data['choices'][0]['message']['content']}")
     except Exception as exc:
-        print(f"[CONNECT FAIL] {exc}")
+        print(f"[CONNECT FAIL] {type(exc).__name__}: {exc}")
         return
 
     print(f"\n开始评分 {len(candidates)} 篇候选文章...\n")
@@ -152,7 +168,7 @@ def run(date_str: str | None = None):
     scored = []
     for i, article in enumerate(candidates):
         print(f"[{i+1}/{len(candidates)}] {article.get('title', '')[:40]}...", end=" ")
-        result = score_article(client, article, dimensions)
+        result = score_article(http_client, article, dimensions)
         if result:
             scored.append(result)
             print(f"→ {result['score']}分")
