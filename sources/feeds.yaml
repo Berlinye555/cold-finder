@@ -1,0 +1,200 @@
+# RSS 订阅源配置
+# 分三类：独立博客（天然冷门）、社区（部分热）、大站（挖遗珠）
+
+sources:
+  # ===== 独立技术博客（核心冷门源）=====
+  - name: "阮一峰的网络日志"
+    url: "https://feeds.feedburner.com/ruanyifeng"
+    category: "tech"
+    type: "rss"
+
+  - name: "酷壳 CoolShell"
+    url: "https://coolshell.cn/feed"
+    category: "tech"
+    type: "rss"
+
+  - name: "张鑫旭-鑫空间"
+    url: "https://www.zhangxinxu.com/wordpress/feed/"
+    category: "tech"
+    type: "rss"
+
+  - name: "Birdben"
+    url: "https://birdben.github.io/feed.xml"
+    category: "tech"
+    type: "rss"
+
+  - name: "Chelly's Blog"
+    url: "https://www.chelsblog.com/feed"
+    category: "tech"
+    type: "rss"
+
+  - name: "Airing's Blog"
+    url: "https://blog.ursb.me/feed"
+    category: "tech"
+    type: "rss"
+
+  - name: "程序猿石头"
+    url: "https://www.p手法n.com/feed/"
+    category: "tech"
+    type: "rss"
+
+  - name: "Tomato Blog"
+    url: "https://tomotoes.com/blog/feed/"
+    category: "tech"
+    type: "rss"
+
+  - name: "I'm OWenT"
+    url: "https://owent.net/feed.xml"
+    category: "tech"
+    type: "rss"
+
+  # ===== 独立开发 / 产品 =====
+  - name: "1byte 博客"
+    url: "https://1byte.io/feed/"
+    category: "indie"
+    type: "rss"
+
+  - name: "Indie Hackers 中文"
+    url: "https://rsshub.app/indienova/indie-hackers"
+    category: "indie"
+    type: "rss"
+
+  - name: "小胡子哥的博客"
+    url: "https://www.barretlee.com/feed.xml"
+    category: "indie"
+    type: "rss"
+
+  - name: "Tualatrix 的博客"
+    url: "https://imtx.me/feed/"
+    category: "indie"
+    type: "rss"
+
+  - name: "Chiu's Blog"
+    url: "https://chiehchiu.com/feed"
+    category: "indie"
+    type: "rss"
+
+  - name: "道哥的博客"
+    url: "https://taoshu.in/feed.xml"
+    category: "indie"
+    type: "rss"
+
+  # ===== 技术社区 / 聚合 =====
+  - name: "少数派"
+    url: "https://sspai.com/feed"
+    category: "community"
+    type: "rss"
+
+  - name: "V2EX 创意"
+    url: "https://rsshub.app/v2ex/create"
+    category: "community"
+    type: "rss"
+
+  - name: "V2EX 分享创造"
+    url: "https://rsshub.app/v2ex/share"
+    category: "community"
+    type: "rss"
+
+  - name: "CSDN 首页"
+    url: "https://blog.csdn.net/nav/ai/rss"
+    category: "community"
+    type: "rss"
+
+  - name: "SegmentFault"
+    url: "https://segmentfault.com/feeds"
+    category: "community"
+    type: "rss"
+
+  - name: "InfoQ 中文"
+    url: "https://feed.infoq.com/chinese"
+    category: "community"
+    type: "rss"
+
+  # ===== 产品 / 设计 / 思维 =====
+  - name: "可能吧"
+    url: "https://kenengba.com/feed/"
+    category: "product"
+    type: "rss"
+
+  - name: "WaytoAGI"
+    url: "https://waytoagi.feishu.cn/community/feed"
+    category: "ai"
+    type: "rss"
+
+  - name: "Reorx 的博客"
+    url: "https://reorx.com/feed.xml"
+    category: "product"
+    type: "rss"
+
+  - name: "Limboy's Blog"
+    url: "https://limboy.me/feed.xml"
+    category: "product"
+    type: "rss"
+
+  - name: "ImSam"
+    url: "https://imsam.com/feed/"
+    category: "product"
+    type: "rss"
+
+  # ===== 独立博客聚合（RSSHub 路由）=====
+  - name: "十年之约博客"
+    url: "https://rsshub.app/foreverblog/feeds"
+    category: "blog"
+    type: "rss"
+
+  - name: "Hacker News Show"
+    url: "https://hnrss.org/show"
+    category: "indie"
+    type: "rss"
+
+  # ===== GitHub Trending ====="
+  - name: "GitHub Trending 本周"
+    url: "https://rsshub.app/github/trending/weekly"
+    category: "tech"
+    type: "rss"
+
+# 过滤规则（启发式）
+filter:
+  # 这些域名/关键词的内容直接丢弃（太热门）
+  hot_domains:
+    - "zhihu.com"
+    - "weibo.com"
+    - "toutiao.com"
+  hot_keywords:
+    - "热搜"
+    - "爆款"
+    - "10万+"
+  # 最低字数要求（过滤灌水）
+  min_content_length: 300
+  # 来源域名给出「冷门加权」
+  cold_boost_domains:
+    - "github.io"
+    - "blog."
+    - "个人博客"
+
+# AI 评分配置
+scoring:
+  provider: "deepseek"
+  model: "deepseek-chat"
+  dimensions:
+    - name: "原创性"
+      key: "originality"
+      weight: 0.4
+      prompt: "这篇文章提出了多少独特观点？是否人云亦云？"
+    - name: "信息密度"
+      key: "density"
+      weight: 0.35
+      prompt: "读完后能收获多少新知识或新视角？"
+    - name: "独特视角"
+      key: "uniqueness"
+      weight: 0.25
+      prompt: "文章是否从罕见角度切入？是否挑战主流认知？"
+  # 入选阈值：总分 >= 21（满分 30）才能进推荐
+  min_total_score: 21
+  daily_picks: 3
+
+# 输出配置
+output:
+  wechat_template: "default"
+  rss_title: "冷门精选"
+  rss_description: "每天 3 篇被算法遗漏的好文章"
