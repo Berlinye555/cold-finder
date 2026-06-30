@@ -5,42 +5,42 @@
     <link>https://berlinye.github.io/cold-finder</link>
     <description>每天 3 篇被算法遗漏的好文章</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 30 Jun 2026 10:54:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 10:59:30 +0000</lastBuildDate>
+    <item>
+      <title>[7.3分] [开源]Janus — 为 AI 编程助手打造的外部认知操作系统</title>
+      <link>https://www.v2ex.com/t/1223794#reply0</link>
+      <description>Janus：AI编程助手的外部认知操作系统，创新记忆与约束管理
+
+💡 探索AI编程新助手，Janus带你突破认知边界！
+
+📎 来源：V2EX 技术 | 评分：7.3/10</description>
+      <author>V2EX 技术</author>
+      <pubDate>Tue, 30 Jun 2026 10:59:30 +0000</pubDate>
+      <guid>https://www.v2ex.com/t/1223794#reply0</guid>
+    </item>
     <item>
       <title>[7.2分] 2022 年 7 月和 8 月总结</title>
       <link>https://reorx.com/blog/2022-07-and-08-summary/</link>
-      <description>回顾作者十年病痛经历，反思健康与生活节奏
+      <description>回顾病痛经历，反思生活与健康
 
-💡 十年病痛，反思健康与生活，你值得一看！
+💡 从病痛中反思，重拾生活节奏！
 
 📎 来源：Reorx 的博客 | 评分：7.2/10</description>
       <author>Reorx 的博客</author>
-      <pubDate>Tue, 30 Jun 2026 10:54:36 +0000</pubDate>
+      <pubDate>Tue, 30 Jun 2026 10:59:30 +0000</pubDate>
       <guid>https://reorx.com/blog/2022-07-and-08-summary/</guid>
     </item>
     <item>
-      <title>[7.2分] 使用 Sonarr 搭建自动化追番系统</title>
-      <link>https://reorx.com/blog/track-and-download-shows-automatically-with-sonarr/</link>
-      <description>利用Sonarr搭建自动化追番系统，懒人福音！
+      <title>[7.2分] 科技爱好者周刊（第 401 期）：如何赚到10亿美元</title>
+      <link>http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html</link>
+      <description>从创业导师视角解析如何实现财富积累
 
-💡 懒人必备！一键追番，告别手动下载！
+💡 揭秘创业致富之路，你也能成为亿万富翁！
 
-📎 来源：Reorx 的博客 | 评分：7.2/10</description>
-      <author>Reorx 的博客</author>
-      <pubDate>Tue, 30 Jun 2026 10:54:36 +0000</pubDate>
-      <guid>https://reorx.com/blog/track-and-download-shows-automatically-with-sonarr/</guid>
-    </item>
-    <item>
-      <title>[7.2分] 使用自动化工作流聚合信息摄入和输出</title>
-      <link>https://reorx.com/blog/sharing-my-footprints-automation/</link>
-      <description>利用自动化工具整合信息流，打造个性化数字生活。
-
-💡 自动化聚合信息，打造你的数字生活！
-
-📎 来源：Reorx 的博客 | 评分：7.2/10</description>
-      <author>Reorx 的博客</author>
-      <pubDate>Tue, 30 Jun 2026 10:54:36 +0000</pubDate>
-      <guid>https://reorx.com/blog/sharing-my-footprints-automation/</guid>
+📎 来源：阮一峰的网络日志 | 评分：7.2/10</description>
+      <author>阮一峰的网络日志</author>
+      <pubDate>Tue, 30 Jun 2026 10:59:30 +0000</pubDate>
+      <guid>http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html</guid>
     </item>
   </channel>
 </rss>

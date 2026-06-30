@@ -1,5 +1,18 @@
 [
   {
+    "title": "[开源]Janus — 为 AI 编程助手打造的外部认知操作系统",
+    "url": "https://www.v2ex.com/t/1223794#reply0",
+    "source": "V2EX 技术",
+    "category": "tech",
+    "originality": 7,
+    "density": 8,
+    "uniqueness": 7,
+    "score": 7.3,
+    "summary": "Janus：AI编程助手的外部认知操作系统，创新记忆与约束管理",
+    "hook": "探索AI编程新助手，Janus带你突破认知边界！",
+    "cold_boost": 0
+  },
+  {
     "title": "2022 年 7 月和 8 月总结",
     "url": "https://reorx.com/blog/2022-07-and-08-summary/",
     "source": "Reorx 的博客",
@@ -8,34 +21,21 @@
     "density": 7,
     "uniqueness": 6,
     "score": 7.2,
-    "summary": "回顾作者十年病痛经历，反思健康与生活节奏",
-    "hook": "十年病痛，反思健康与生活，你值得一看！",
+    "summary": "回顾病痛经历，反思生活与健康",
+    "hook": "从病痛中反思，重拾生活节奏！",
     "cold_boost": 0
   },
   {
-    "title": "使用 Sonarr 搭建自动化追番系统",
-    "url": "https://reorx.com/blog/track-and-download-shows-automatically-with-sonarr/",
-    "source": "Reorx 的博客",
-    "category": "product",
+    "title": "科技爱好者周刊（第 401 期）：如何赚到10亿美元",
+    "url": "http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html",
+    "source": "阮一峰的网络日志",
+    "category": "tech",
     "originality": 8,
     "density": 7,
     "uniqueness": 6,
     "score": 7.2,
-    "summary": "利用Sonarr搭建自动化追番系统，懒人福音！",
-    "hook": "懒人必备！一键追番，告别手动下载！",
-    "cold_boost": 0
-  },
-  {
-    "title": "使用自动化工作流聚合信息摄入和输出",
-    "url": "https://reorx.com/blog/sharing-my-footprints-automation/",
-    "source": "Reorx 的博客",
-    "category": "product",
-    "originality": 8,
-    "density": 7,
-    "uniqueness": 6,
-    "score": 7.2,
-    "summary": "利用自动化工具整合信息流，打造个性化数字生活。",
-    "hook": "自动化聚合信息，打造你的数字生活！",
+    "summary": "从创业导师视角解析如何实现财富积累",
+    "hook": "揭秘创业致富之路，你也能成为亿万富翁！",
     "cold_boost": 0
   }
 ]
