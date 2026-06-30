@@ -5,6 +5,42 @@
     <link>https://berlinye.github.io/cold-finder</link>
     <description>每天 3 篇被算法遗漏的好文章</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 30 Jun 2026 08:45:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 09:37:17 +0000</lastBuildDate>
+    <item>
+      <title>[7.3分] 使用 Railway 和 Supabase 零成本搭建 n8n 自动化平台</title>
+      <link>https://reorx.com/blog/0-cost-self-hosted-n8n-with-railway-and-supabase/</link>
+      <description>零成本搭建n8n自动化平台，分享数据迁移与第三方服务接入实践。
+
+💡 探索零成本自动化平台搭建，解锁数据迁移新技巧！
+
+📎 来源：Reorx 的博客 | 评分：7.3/10</description>
+      <author>Reorx 的博客</author>
+      <pubDate>Tue, 30 Jun 2026 09:37:17 +0000</pubDate>
+      <guid>https://reorx.com/blog/0-cost-self-hosted-n8n-with-railway-and-supabase/</guid>
+    </item>
+    <item>
+      <title>[7.3分] 使用 Sonarr 搭建自动化追番系统</title>
+      <link>https://reorx.com/blog/track-and-download-shows-automatically-with-sonarr/</link>
+      <description>懒人搭建自动追番系统，节省时间，体验升级。
+
+💡 懒人也能轻松追番，快来学习！
+
+📎 来源：Reorx 的博客 | 评分：7.3/10</description>
+      <author>Reorx 的博客</author>
+      <pubDate>Tue, 30 Jun 2026 09:37:17 +0000</pubDate>
+      <guid>https://reorx.com/blog/track-and-download-shows-automatically-with-sonarr/</guid>
+    </item>
+    <item>
+      <title>[7.2分] Wizard Alchemy 资料更新和检索这事想听听建议</title>
+      <link>https://www.v2ex.com/t/1223988#reply0</link>
+      <description>整合Roblox游戏资料，打造便捷检索平台。
+
+💡 探索 Wizard Alchemy，高效规划游戏策略！
+
+📎 来源：V2EX 创意 | 评分：7.2/10</description>
+      <author>V2EX 创意</author>
+      <pubDate>Tue, 30 Jun 2026 09:37:17 +0000</pubDate>
+      <guid>https://www.v2ex.com/t/1223988#reply0</guid>
+    </item>
   </channel>
 </rss>
