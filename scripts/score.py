@@ -64,6 +64,7 @@ def score_article(client: OpenAI, article: dict, dimensions: list[dict]) -> dict
             messages=[{"role": "user", "content": prompt}],
             temperature=0.3,
             max_tokens=200,
+            timeout=30,
         )
         raw = resp.choices[0].message.content.strip()
 
@@ -129,7 +130,21 @@ def run(date_str: str | None = None):
         print("没有候选文章可供评分。")
         return
 
-    print(f"开始评分 {len(candidates)} 篇候选文章...\n")
+    # API 连通性测试
+    print(f"API: {base_url} | model: {os.getenv('DEEPSEEK_MODEL', 'GLM-4-Flash')}")
+    try:
+        test = client.chat.completions.create(
+            model=os.getenv("DEEPSEEK_MODEL", "GLM-4-Flash"),
+            messages=[{"role": "user", "content": "回复 OK"}],
+            max_tokens=5,
+            timeout=15,
+        )
+        print(f"[CONNECT OK] {test.choices[0].message.content}")
+    except Exception as exc:
+        print(f"[CONNECT FAIL] {exc}")
+        return
+
+    print(f"\n开始评分 {len(candidates)} 篇候选文章...\n")
 
     scored = []
     for i, article in enumerate(candidates):
