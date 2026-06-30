@@ -145,6 +145,14 @@ def run(date_str: str | None = None):
         print("没有候选文章可供评分。")
         return
 
+    # 限制候选数量：按内容长度排序，取前 50 篇，控制 API 消耗
+    MAX_CANDIDATES = 50
+    candidates.sort(key=lambda a: len(a.get("content") or a.get("summary") or ""), reverse=True)
+    if len(candidates) > MAX_CANDIDATES:
+        skipped = len(candidates) - MAX_CANDIDATES
+        candidates = candidates[:MAX_CANDIDATES]
+        print(f"[LIMIT] 候选池截断: {len(candidates)} 篇 (跳过 {skipped} 篇短内容)")
+
     # API 连通性测试
     print(f"API: {base_url} | model: {model}")
     try:
