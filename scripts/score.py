@@ -187,7 +187,17 @@ def run(date_str: str | None = None):
 
     # 筛选达标文章
     qualified = [s for s in scored if s["score"] >= min_score]
-    picks = qualified[:daily_picks]
+
+    # 来源多样性：每种源最多入选 1 篇
+    picks = []
+    seen_sources = set()
+    for s in qualified:
+        src = s["source"]
+        if src not in seen_sources:
+            picks.append(s)
+            seen_sources.add(src)
+        if len(picks) >= daily_picks:
+            break
 
     print(f"\n评分完成: {len(scored)} 篇有效, {len(qualified)} 篇达标, 入选 {len(picks)} 篇")
 
