@@ -133,7 +133,7 @@ filter:
     - "热搜"
     - "10万+"
     - "刷屏"
-  min_content_length: 200
+  min_content_length: 60
 
 # AI 评分配置
 scoring:

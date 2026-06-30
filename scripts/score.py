@@ -15,25 +15,23 @@ ROOT = Path(__file__).resolve().parent.parent
 SOURCES_FILE = ROOT / "sources" / "feeds.yaml"
 DATA_SCORED = ROOT / "data" / "scored"
 
-SCORING_PROMPT = """你是一位资深编辑，擅长从信息洪流中发现被低估的好内容。
+SCORING_PROMPT = """You are an editor who finds undervalued content. Score this article (1-10) on:
 
-请对以下文章进行评分，满分 10 分，评分维度：
+1. originality — unique ideas, not rehashing common knowledge
+2. density — how much new knowledge/perspective per paragraph
+3. uniqueness — unconventional angle, challenges mainstream views
 
-1. **原创性** (1-10)：提出了多少独特观点？是否人云亦云？
-2. **信息密度** (1-10)：读完后能收获多少新知识或新视角？
-3. **独特视角** (1-10)：是否从罕见角度切入？是否挑战主流认知？
+Then write:
+- A one-line Chinese summary (about 20 words)
+- A one-line hook in Chinese (about 15 words, make readers click)
 
-并生成：
-- 一句中文摘要（约 30 字，概括核心观点）
-- 一句推荐语（约 20 字，说服读者点进去看）
+Article:
+- Title: {title}
+- Source: {source}
+- Summary: {content}
 
-文章信息：
-- 标题：{title}
-- 来源：{source}
-- 内容摘要：{content}
-
-请只返回以下 JSON，不要任何其他文字：
-{{"originality":8,"density":7,"uniqueness":6,"summary":"30字摘要","hook":"20字推荐语"}}"""
+Return ONLY this JSON, nothing else:
+{{"originality":8,"density":7,"uniqueness":6,"summary":"20字中文摘要","hook":"15字中文推荐语"}}"""
 
 
 def load_config() -> dict:
