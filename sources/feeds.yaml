@@ -1,5 +1,5 @@
 # RSS 订阅源配置
-# 源分为：官方 RSS（直连）、RSSHub（桥接无 RSS 的平台）
+# 源分为：官方 RSS（直连）、RSSHub（桥接无 RSS 的平台）、API（纯 JSON 接口）
 
 sources:
   # ===== 技术社区（官方 RSS，高可用）=====
@@ -95,6 +95,32 @@ sources:
     url: "https://1byte.io/feed/"
     category: "indie"
     type: "rss"
+
+  # ===== JSON API 源（纯 HTTP JSON，无需解析）=====
+  - name: "Hacker News"
+    url: "https://hacker-news.firebaseio.com/v0/topstories.json"
+    category: "tech"
+    type: "hn"
+
+  - name: "GitHub Trending"
+    url: "https://api.github.com/search/repositories?q=created:>2025-01-01&sort=stars&per_page=15"
+    category: "tech"
+    type: "github"
+
+  - name: "Reddit Programming"
+    url: "https://www.reddit.com/r/programming/hot.json?limit=20"
+    category: "tech"
+    type: "reddit"
+
+  - name: "Dev.to"
+    url: "https://dev.to/api/articles?per_page=20&tag=programming"
+    category: "tech"
+    type: "devto"
+
+  - name: "Lobsters"
+    url: "https://lobste.rs/hottest.json"
+    category: "tech"
+    type: "lobsters"
 
 # 过滤规则
 filter:
