@@ -1,8 +1,15 @@
 """多渠道输出模块。
-读取今日精选，生成：
-1. output/wechat/YYYY-MM-DD.md  — 公众号排版（复制粘贴到公众号后台）
-2. output/rss/feed.xml           — RSS Feed（用户导入阅读器）
-3. output/site/                  — GitHub Pages 存档页
+读取今日精选，生成六路输出：
+
+长文平台：
+  output/wechat/YYYY-MM-DD.md      — 公众号（**标题**、引用、分隔线）
+  output/longform/YYYY-MM-DD.md    — 通用（知乎/掘金/少数派/CSDN/SegmentFault）
+短文平台：
+  output/short/YYYY-MM-DD.md       — 即刻（轻松一段话）
+  output/xiaohongshu/YYYY-MM-DD.md — 小红书（emoji + #tag + 口语化）
+自动分发：
+  output/rss/feed.xml              — RSS Feed
+  output/site/                     — GitHub Pages 存档
 """
 
 import json
@@ -18,6 +25,9 @@ ROOT = Path(__file__).resolve().parent.parent
 SOURCES_FILE = ROOT / "sources" / "feeds.yaml"
 DATA_SCORED = ROOT / "data" / "scored"
 OUTPUT_WECHAT = ROOT / "output" / "wechat"
+OUTPUT_LONGFORM = ROOT / "output" / "longform"
+OUTPUT_SHORT = ROOT / "output" / "short"
+OUTPUT_XHS = ROOT / "output" / "xiaohongshu"
 OUTPUT_RSS = ROOT / "output" / "rss"
 OUTPUT_SITE = ROOT / "output" / "site"
 ARCHIVE_DIR = ROOT / "data" / "archive"
@@ -95,6 +105,143 @@ def write_wechat(picks: list[dict], date_str: str):
     path = OUTPUT_WECHAT / f"{date_str}.md"
     path.write_text(markdown, encoding="utf-8")
     print(f"[微信] {path}")
+
+
+# ─── 通用长文（知乎/掘金/少数派/CSDN/SegmentFault）──────────────
+
+def generate_longform_md(picks: list[dict], date_str: str) -> str:
+    """生成通用长文 Markdown。知乎、掘金、少数派等完整支持 Markdown 的平台通用。"""
+    if not picks:
+        return f"# 冷门精选 · {date_str}\n\n今日暂未发现符合条件的冷门好文，明天见。"
+
+    lines = []
+    lines.append(f"# 冷门精选 · {date_str}")
+    lines.append("")
+    lines.append("> 每天从上百个 RSS 源中挖出 {0} 篇被算法埋没的好文章。".format(len(picks)))
+    lines.append("")
+
+    for i, p in enumerate(picks, 1):
+        score = p["score"]
+        stars = "⭐" * min(5, round(score / 2))
+        lines.append(f"## {i}. {p['title']}")
+        lines.append("")
+        lines.append(f"**评分** {score}/10 {stars}  |  来源：{p['source']}  |  分类：{p.get('category', '-')}")
+        lines.append("")
+        lines.append(f"> {p['summary']}")
+        lines.append("")
+        lines.append(f"💡 {p['hook']}")
+        lines.append("")
+        lines.append(f"🔗 [{p['url']}]({p['url']})")
+        lines.append("")
+        lines.append("---")
+        lines.append("")
+
+    lines.append("")
+    lines.append("---")
+    lines.append(f"*本内容由 AI 自动筛选生成。订阅 RSS：[{FEED_LINK}/feed.xml]({FEED_LINK}/feed.xml)*")
+
+    return "\n".join(lines)
+
+
+def write_longform(picks: list[dict], date_str: str):
+    OUTPUT_LONGFORM.mkdir(parents=True, exist_ok=True)
+    markdown = generate_longform_md(picks, date_str)
+    path = OUTPUT_LONGFORM / f"{date_str}.md"
+    path.write_text(markdown, encoding="utf-8")
+    print(f"[长文] {path}")
+
+
+# ─── 短文 · 即刻 ────────────────────────────────────────────────
+
+def generate_short_md(picks: list[dict], date_str: str) -> str:
+    """生成即刻风格的短文。一段话概括 + 链接，轻松语气。"""
+    if not picks:
+        return f"🔍 冷门精选 · {date_str}\n\n今天没找到合适的冷门好文，明天再挖。"
+
+    lines = []
+    lines.append(f"🔍 冷门精选 · {date_str}")
+    lines.append("")
+    lines.append(f"今天从信息海里捞了 {len(picks)} 篇被算法埋没的好东西 👇")
+    lines.append("")
+
+    for i, p in enumerate(picks, 1):
+        score = p["score"]
+        stars = "⭐" * min(5, round(score / 2))
+        lines.append(f"{i}. {p['title']}")
+        lines.append(f"   {p['hook']}")
+        lines.append(f"   {stars} {score}/10 · 来源：{p['source']}")
+        lines.append(f"   {p['url']}")
+        lines.append("")
+
+    lines.append("每天自动挖掘，订阅 RSS 导入阅读器 👇")
+    lines.append(f"{FEED_LINK}/feed.xml")
+
+    return "\n".join(lines)
+
+
+def write_short(picks: list[dict], date_str: str):
+    OUTPUT_SHORT.mkdir(parents=True, exist_ok=True)
+    markdown = generate_short_md(picks, date_str)
+    path = OUTPUT_SHORT / f"{date_str}.md"
+    path.write_text(markdown, encoding="utf-8")
+    print(f"[即刻] {path}")
+
+
+# ─── 短文 · 小红书 ──────────────────────────────────────────────
+
+def generate_xiaohongshu_md(picks: list[dict], date_str: str) -> str:
+    """生成小红书风格短文。emoji 多、口语化、#tag 多。"""
+    if not picks:
+        return (
+            f"🔍 今日冷门精选 | {date_str}\n\n"
+            "今天没挖到合适的冷门好文😢 明天继续！\n\n"
+            "#冷门精选 #深度阅读 #信息茧房"
+        )
+
+    # 日期格式化：2025-06-30 → 6月30日
+    try:
+        d = __import__("datetime").datetime.strptime(date_str, "%Y-%m-%d")
+        date_display = f"{d.month}月{d.day}日"
+    except Exception:
+        date_display = date_str
+
+    lines = []
+    lines.append(f"🔍 每日冷门精选 | {date_display}")
+    lines.append("")
+    lines.append("算法没推给你的好内容，我来挖👇")
+    lines.append("")
+
+    emojis = ["1️⃣", "2️⃣", "3️⃣"]
+    for i, p in enumerate(picks):
+        emoji = emojis[i] if i < len(emojis) else f"{i+1}."
+        score = p["score"]
+        stars = "⭐" * min(5, round(score / 2))
+
+        lines.append(f"{emoji} {p['title']}")
+        lines.append(f"💬 {p['hook']}")
+        lines.append(f"📎 {p['url']}")
+        lines.append(f"📊 {stars} {score}/10")
+        lines.append("")
+
+    lines.append("———")
+    lines.append("每天从上百个RSS源挖3篇被算法遗漏的好内容📖")
+    lines.append(f"RSS订阅：{FEED_LINK}/feed.xml")
+    lines.append("")
+    lines.append(
+        "#冷门精选 #深度阅读 #信息茧房打破者 "
+        "#每日推荐 #好内容分享 #阅读打卡 "
+        "#算法之外 #小众宝藏"
+    )
+
+    return "\n".join(lines)
+
+
+def write_xiaohongshu(picks: list[dict], date_str: str):
+    OUTPUT_XHS.mkdir(parents=True, exist_ok=True)
+    markdown = generate_xiaohongshu_md(picks, date_str)
+    path = OUTPUT_XHS / f"{date_str}.md"
+    path.write_text(markdown, encoding="utf-8")
+    print(f"[小红书] {path}")
 
 
 # ─── RSS Feed ──────────────────────────────────────────────────
@@ -231,20 +378,23 @@ def run(date_str: str | None = None):
 
     print(f"今日精选 {len(picks)} 篇\n")
 
-    # 1. 公众号 Markdown
+    # 长文平台
     write_wechat(picks, date_str)
+    write_longform(picks, date_str)
 
-    # 2. RSS Feed（包含最近 30 天）
+    # 短文平台
+    write_short(picks, date_str)
+    write_xiaohongshu(picks, date_str)
+
+    # 自动分发
     write_rss(all_picks)
-
-    # 3. GitHub Pages 存档
     generate_site(all_picks)
 
-    # 4. 归档今日
+    # 归档
     if picks:
         archive_picks(picks, date_str)
 
-    print("\n[DONE] 全部输出已生成")
+    print("\n[DONE] 六路输出全部生成")
 
 
 if __name__ == "__main__":
