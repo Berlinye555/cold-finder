@@ -8,6 +8,7 @@ import time
 from datetime import datetime
 from pathlib import Path
 
+import httpx
 import yaml
 from openai import OpenAI
 
@@ -64,7 +65,6 @@ def score_article(client: OpenAI, article: dict, dimensions: list[dict]) -> dict
             messages=[{"role": "user", "content": prompt}],
             temperature=0.3,
             max_tokens=200,
-            timeout=30,
         )
         raw = resp.choices[0].message.content.strip()
 
@@ -123,7 +123,11 @@ def run(date_str: str | None = None):
         return
 
     base_url = os.getenv("DEEPSEEK_BASE_URL", "https://api.deepseek.com")
-    client = OpenAI(api_key=api_key, base_url=base_url)
+    client = OpenAI(
+        api_key=api_key,
+        base_url=base_url,
+        timeout=httpx.Timeout(30.0, connect=10.0),
+    )
 
     candidates = load_candidates(date_str)
     if not candidates:
@@ -137,7 +141,6 @@ def run(date_str: str | None = None):
             model=os.getenv("DEEPSEEK_MODEL", "GLM-4-Flash"),
             messages=[{"role": "user", "content": "回复 OK"}],
             max_tokens=5,
-            timeout=15,
         )
         print(f"[CONNECT OK] {test.choices[0].message.content}")
     except Exception as exc:
