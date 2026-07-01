@@ -5,42 +5,42 @@
     <link>https://berlinye.github.io/cold-finder</link>
     <description>每天 3 篇被算法遗漏的好文章</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 01 Jul 2026 03:02:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 03:26:42 +0000</lastBuildDate>
     <item>
-      <title>[7.3分] 浅谈 Chrome Manifest V3 的优缺点</title>
-      <link>https://reorx.com/blog/understanding-chrome-manifest-v3/</link>
-      <description>解析Chrome Manifest V3的变革与影响
+      <title>[7.3分] 写在 PicGo 即将 8 周年之际</title>
+      <link>https://molunerfinn.com/8-years-of-PicGo/</link>
+      <description>回顾PicGo八年发展历程，探讨开源项目与个人成长。
 
-💡 揭秘Manifest V3：变革背后的影响与挑战
+💡 PicGo八年，你的成长见证者！
 
-📎 来源：Reorx 的博客 | 评分：7.3/10</description>
-      <author>Reorx 的博客</author>
-      <pubDate>Wed, 01 Jul 2026 03:02:47 +0000</pubDate>
-      <guid>https://reorx.com/blog/understanding-chrome-manifest-v3/</guid>
+📎 来源：Molunerfinn | 评分：7.3/10</description>
+      <author>Molunerfinn</author>
+      <pubDate>Wed, 01 Jul 2026 03:26:42 +0000</pubDate>
+      <guid>https://molunerfinn.com/8-years-of-PicGo/</guid>
     </item>
     <item>
-      <title>[7.2分] 科技爱好者周刊（第 401 期）：如何赚到10亿美元</title>
-      <link>http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html</link>
-      <description>探讨如何通过创业实现财富积累，提供独特视角。
+      <title>[7.2分] [电台字幕]-No.570 直到自己开始挣钱，才发现父母当年扛起那个家有多不容易！ |《普通人史记》</title>
+      <link>https://liuyandong.com/archives/23333</link>
+      <description>讲述农村孩子奋斗故事，反思家庭与时代关系。
 
-💡 揭秘创业致富之道，你也能成为10亿富翁！
+💡 农村孩子奋斗路，感悟家庭深情！
 
-📎 来源：阮一峰的网络日志 | 评分：7.2/10</description>
-      <author>阮一峰的网络日志</author>
-      <pubDate>Wed, 01 Jul 2026 03:02:47 +0000</pubDate>
-      <guid>http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html</guid>
+📎 来源：刘延东 | 评分：7.2/10</description>
+      <author>刘延东</author>
+      <pubDate>Wed, 01 Jul 2026 03:26:42 +0000</pubDate>
+      <guid>https://liuyandong.com/archives/23333</guid>
     </item>
     <item>
-      <title>[7.2分] gookit/gcli v3.8：新增支持共享选项、文档生成和参数重排</title>
-      <link>https://www.v2ex.com/t/1224117#reply0</link>
-      <description>gcli v3.8升级，新增共享选项、文档生成等实用功能
+      <title>[7.2分] HTTP/2 HPACK 实际应用举例</title>
+      <link>https://halfrost.com/http2-hpack-example/</link>
+      <description>深入解析HTTP/2 HPACK算法应用实例，揭示压缩奥秘。
 
-💡 gcli v3.8升级，解锁CLI新功能！
+💡 HTTP/2 HPACK应用揭秘，高效压缩技术大揭秘！
 
-📎 来源：V2EX 技术 | 评分：7.2/10</description>
-      <author>V2EX 技术</author>
-      <pubDate>Wed, 01 Jul 2026 03:02:47 +0000</pubDate>
-      <guid>https://www.v2ex.com/t/1224117#reply0</guid>
+📎 来源：Halfrost | 评分：7.2/10</description>
+      <author>Halfrost</author>
+      <pubDate>Wed, 01 Jul 2026 03:26:42 +0000</pubDate>
+      <guid>https://halfrost.com/http2-hpack-example/</guid>
     </item>
   </channel>
 </rss>
