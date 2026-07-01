@@ -93,13 +93,13 @@ def _parse_blog_list_file(client: httpx.Client, filename: str, category: str) ->
         if not url_match:
             url_match = re.search(r"-\s*(?:博客地址|地址|网站)[：:]*\s*<?(https?://[^\s>\n]+)", block)
         if not url_match:
-            url_match = re.search(r"https?://[^\s)\n]+", block)
+            url_match = re.search(r"(https?://[^\s)\n]+)", block)
         blog_url = url_match.group(1).rstrip(">").rstrip(")") if url_match else ""
 
         # 提取 RSS
         rss_match = re.search(r"\[RSS[^\]]*\]\s*\(?(https?://[^\s)\]]+)", block)
         if not rss_match:
-            rss_match = re.search(r"https?://[^\s)]*(?:feed|rss|atom|\.xml)[^\s)]*", block, re.I)
+            rss_match = re.search(r"(https?://[^\s)]*(?:feed|rss|atom|\.xml)[^\s)]*)", block, re.I)
         rss_url = rss_match.group(1) if rss_match else ""
 
         # 提取描述（### 标题之后、下一段之前的内容）
