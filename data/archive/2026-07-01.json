@@ -1,0 +1,41 @@
+[
+  {
+    "title": "浅谈 Chrome Manifest V3 的优缺点",
+    "url": "https://reorx.com/blog/understanding-chrome-manifest-v3/",
+    "source": "Reorx 的博客",
+    "category": "product",
+    "originality": 7,
+    "density": 8,
+    "uniqueness": 7,
+    "score": 7.3,
+    "summary": "解析Chrome Manifest V3的变革与影响",
+    "hook": "揭秘Manifest V3：变革背后的影响与挑战",
+    "cold_boost": 0
+  },
+  {
+    "title": "科技爱好者周刊（第 401 期）：如何赚到10亿美元",
+    "url": "http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html",
+    "source": "阮一峰的网络日志",
+    "category": "tech",
+    "originality": 8,
+    "density": 7,
+    "uniqueness": 6,
+    "score": 7.2,
+    "summary": "探讨如何通过创业实现财富积累，提供独特视角。",
+    "hook": "揭秘创业致富之道，你也能成为10亿富翁！",
+    "cold_boost": 0
+  },
+  {
+    "title": "gookit/gcli v3.8：新增支持共享选项、文档生成和参数重排",
+    "url": "https://www.v2ex.com/t/1224117#reply0",
+    "source": "V2EX 技术",
+    "category": "tech",
+    "originality": 8,
+    "density": 7,
+    "uniqueness": 6,
+    "score": 7.2,
+    "summary": "gcli v3.8升级，新增共享选项、文档生成等实用功能",
+    "hook": "gcli v3.8升级，解锁CLI新功能！",
+    "cold_boost": 0
+  }
+]

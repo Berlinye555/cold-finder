@@ -5,42 +5,42 @@
     <link>https://berlinye.github.io/cold-finder</link>
     <description>每天 3 篇被算法遗漏的好文章</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 30 Jun 2026 10:59:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 03:02:47 +0000</lastBuildDate>
     <item>
-      <title>[7.3分] [开源]Janus — 为 AI 编程助手打造的外部认知操作系统</title>
-      <link>https://www.v2ex.com/t/1223794#reply0</link>
-      <description>Janus：AI编程助手的外部认知操作系统，创新记忆与约束管理
+      <title>[7.3分] 浅谈 Chrome Manifest V3 的优缺点</title>
+      <link>https://reorx.com/blog/understanding-chrome-manifest-v3/</link>
+      <description>解析Chrome Manifest V3的变革与影响
 
-💡 探索AI编程新助手，Janus带你突破认知边界！
+💡 揭秘Manifest V3：变革背后的影响与挑战
 
-📎 来源：V2EX 技术 | 评分：7.3/10</description>
-      <author>V2EX 技术</author>
-      <pubDate>Tue, 30 Jun 2026 10:59:30 +0000</pubDate>
-      <guid>https://www.v2ex.com/t/1223794#reply0</guid>
-    </item>
-    <item>
-      <title>[7.2分] 2022 年 7 月和 8 月总结</title>
-      <link>https://reorx.com/blog/2022-07-and-08-summary/</link>
-      <description>回顾病痛经历，反思生活与健康
-
-💡 从病痛中反思，重拾生活节奏！
-
-📎 来源：Reorx 的博客 | 评分：7.2/10</description>
+📎 来源：Reorx 的博客 | 评分：7.3/10</description>
       <author>Reorx 的博客</author>
-      <pubDate>Tue, 30 Jun 2026 10:59:30 +0000</pubDate>
-      <guid>https://reorx.com/blog/2022-07-and-08-summary/</guid>
+      <pubDate>Wed, 01 Jul 2026 03:02:47 +0000</pubDate>
+      <guid>https://reorx.com/blog/understanding-chrome-manifest-v3/</guid>
     </item>
     <item>
       <title>[7.2分] 科技爱好者周刊（第 401 期）：如何赚到10亿美元</title>
       <link>http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html</link>
-      <description>从创业导师视角解析如何实现财富积累
+      <description>探讨如何通过创业实现财富积累，提供独特视角。
 
-💡 揭秘创业致富之路，你也能成为亿万富翁！
+💡 揭秘创业致富之道，你也能成为10亿富翁！
 
 📎 来源：阮一峰的网络日志 | 评分：7.2/10</description>
       <author>阮一峰的网络日志</author>
-      <pubDate>Tue, 30 Jun 2026 10:59:30 +0000</pubDate>
+      <pubDate>Wed, 01 Jul 2026 03:02:47 +0000</pubDate>
       <guid>http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html</guid>
+    </item>
+    <item>
+      <title>[7.2分] gookit/gcli v3.8：新增支持共享选项、文档生成和参数重排</title>
+      <link>https://www.v2ex.com/t/1224117#reply0</link>
+      <description>gcli v3.8升级，新增共享选项、文档生成等实用功能
+
+💡 gcli v3.8升级，解锁CLI新功能！
+
+📎 来源：V2EX 技术 | 评分：7.2/10</description>
+      <author>V2EX 技术</author>
+      <pubDate>Wed, 01 Jul 2026 03:02:47 +0000</pubDate>
+      <guid>https://www.v2ex.com/t/1224117#reply0</guid>
     </item>
   </channel>
 </rss>
