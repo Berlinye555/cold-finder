@@ -2,11 +2,9 @@ name: Daily Digest
 
 on:
   schedule:
-    # 北京时间每天 8:00 (UTC 0:00)
-    - cron: "0 0 * * *"
-  workflow_dispatch:  # 手动触发
+    - cron: "0 0 * * *"       # 北京时间 8:00
+  workflow_dispatch:
 
-# GitHub Pages 部署权限
 permissions:
   contents: write
   pages: write
@@ -15,7 +13,7 @@ permissions:
 jobs:
   digest:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 25
 
     steps:
       - name: Checkout
@@ -32,13 +30,8 @@ jobs:
 
       - name: Fetch
         run: python scripts/fetch.py
-        env:
-          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
 
-      - name: Filter
-        run: python scripts/filter.py
-
-      - name: Score
+      - name: Enrich
         run: python scripts/score.py
         env:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
@@ -47,20 +40,15 @@ jobs:
       - name: Output
         run: python scripts/output.py
 
-      # ── 提交生成的内容到仓库 ──
-      - name: Commit outputs
+      - name: Commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
-          # 拉取远程更新（防止冲突）
           git pull --rebase origin master || true
-
-          git add output/ data/archive/
+          git add output/ data/enriched/
           git diff --cached --quiet || git commit -m "chore(digest): daily update $(date +%Y-%m-%d)"
           git push origin master
 
-      # ── 部署 GitHub Pages ──
       - name: Setup Pages
         uses: actions/configure-pages@v4
 

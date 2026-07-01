@@ -5,7 +5,7 @@ __pycache__/
 venv/
 data/raw/*
 !data/raw/.gitkeep
-data/scored/*
-!data/scored/.gitkeep
+data/enriched/*
+!data/enriched/.gitkeep
 output/site/*
 !output/site/.gitkeep
