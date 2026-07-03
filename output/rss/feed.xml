@@ -5,5 +5,545 @@
     <link>https://berlinye555.github.io/cold-finder</link>
     <description>精选自 605 个中文博客 + GitHub 日榜</description>
     <language>zh-CN</language>
+    <item>
+      <title>浏览器原生支持JSON模块导入与开发啦！</title>
+      <link>https://www.zhangxinxu.com/wordpress/2026/06/native-json-module-import/</link>
+      <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
+      <guid>https://www.zhangxinxu.com/wordpress/2026/06/native-json-module-import/</guid>
+    </item>
+    <item>
+      <title>CSS color-scheme属性与light-dark()颜色函数</title>
+      <link>https://www.zhangxinxu.com/wordpress/2026/06/css-color-theme-light-dark-function/</link>
+      <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
+      <guid>https://www.zhangxinxu.com/wordpress/2026/06/css-color-theme-light-dark-function/</guid>
+    </item>
+    <item>
+      <title>全是好东西！HTML command属性和JS toggle事件</title>
+      <link>https://www.zhangxinxu.com/wordpress/2026/06/html-common-toggle-beforetoggle-event/</link>
+      <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
+      <guid>https://www.zhangxinxu.com/wordpress/2026/06/html-common-toggle-beforetoggle-event/</guid>
+    </item>
+    <item>
+      <title>看完凡人真人版！韩立的性格狠点+师傅阵容，越聊越燃</title>
+      <link>https://www.xiaoyuzhoufm.com/episode/69108064af4fc00da7dedff9?utm_source=rss</link>
+      <description>经历：快手（资深技术专家）、阿里（高级技术专家）、滴滴（技术专家）、事业单位。</description>
+      <guid>https://www.xiaoyuzhoufm.com/episode/69108064af4fc00da7dedff9?utm_source=rss</guid>
+    </item>
+    <item>
+      <title>凡人修仙序章：那些入门级修仙名场面</title>
+      <link>https://www.xiaoyuzhoufm.com/episode/68e0fa1c8bf86095c5c5606a?utm_source=rss</link>
+      <description>经历：快手（资深技术专家）、阿里（高级技术专家）、滴滴（技术专家）、事业单位。</description>
+      <guid>https://www.xiaoyuzhoufm.com/episode/68e0fa1c8bf86095c5c5606a?utm_source=rss</guid>
+    </item>
+    <item>
+      <title>《局外人》是对行为的审判还是对灵魂的审判？</title>
+      <link>https://www.xiaoyuzhoufm.com/episode/68c6d2e22c82c9dcca527114?utm_source=rss</link>
+      <description>经历：快手（资深技术专家）、阿里（高级技术专家）、滴滴（技术专家）、事业单位。</description>
+      <guid>https://www.xiaoyuzhoufm.com/episode/68c6d2e22c82c9dcca527114?utm_source=rss</guid>
+    </item>
+    <item>
+      <title>两个 SwiftUI 动画 Bug 排查小记</title>
+      <link>https://fatbobman.com/zh/posts/debugging-notes-on-two-swiftui-animation-bugs/</link>
+      <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
+      <guid>https://fatbobman.com/zh/posts/debugging-notes-on-two-swiftui-animation-bugs/</guid>
+    </item>
+    <item>
+      <title>SPI 加入 Apple，Swift 迈向自举 - 肘子的 Swift 周报 #142</title>
+      <link>https://fatbobman.com/zh/weekly/issue-142/</link>
+      <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
+      <guid>https://fatbobman.com/zh/weekly/issue-142/</guid>
+    </item>
+    <item>
+      <title>Swift 还让你 Excited 吗？ - 肘子的 Swift 周报 #141</title>
+      <link>https://fatbobman.com/zh/weekly/issue-141/</link>
+      <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
+      <guid>https://fatbobman.com/zh/weekly/issue-141/</guid>
+    </item>
+    <item>
+      <title>react-virtualized AutoSizer 实现原理详解</title>
+      <link>https://webfem.com/post/react-virtualized-AutoSizer</link>
+      <description>一个专注前端技术的博客，主要写系列文章，偶尔写一写采坑记录。</description>
+      <guid>https://webfem.com/post/react-virtualized-AutoSizer</guid>
+    </item>
+    <item>
+      <title>JWT技术详解：从入门到精通</title>
+      <link>https://webfem.com/post/jwt</link>
+      <description>一个专注前端技术的博客，主要写系列文章，偶尔写一写采坑记录。</description>
+      <guid>https://webfem.com/post/jwt</guid>
+    </item>
+    <item>
+      <title>如何在电脑上调试手机网页</title>
+      <link>https://webfem.com/post/mobile-dev</link>
+      <description>一个专注前端技术的博客，主要写系列文章，偶尔写一写采坑记录。</description>
+      <guid>https://webfem.com/post/mobile-dev</guid>
+    </item>
+    <item>
+      <title>修改 forkgram/tdesktop 实现 有@我消息的群 置顶 效果和PrimaryUnmutedMessages一样</title>
+      <link>https://zelikk.blogspot.com/2026/07/forkgram-tdesktop-at-me-on-top.html</link>
+      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
+      <guid>https://zelikk.blogspot.com/2026/07/forkgram-tdesktop-at-me-on-top.html</guid>
+    </item>
+    <item>
+      <title>修改 forkgram/tdesktop 实现不查看某人的头像</title>
+      <link>https://zelikk.blogspot.com/2026/07/forkgram-tdesktop-ban-avatar-pic.html</link>
+      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
+      <guid>https://zelikk.blogspot.com/2026/07/forkgram-tdesktop-ban-avatar-pic.html</guid>
+    </item>
+    <item>
+      <title>修改 forkgram/tdesktop 移植 Ayugram 的屏蔽某个用户消息的功能(Fully Hide Messages from Blocked Users)</title>
+      <link>https://zelikk.blogspot.com/2026/06/fully-hide-messages-from-blocked-users-ayugram-transformed-to-forkgram.html</link>
+      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
+      <guid>https://zelikk.blogspot.com/2026/06/fully-hide-messages-from-blocked-users-ayugram-transformed-to-forkgram.html</guid>
+    </item>
+    <item>
+      <title>后疫情时代下美国 CS Master 申请纪实</title>
+      <link>https://halfrost.com/halfrost_2021/</link>
+      <description>后疫情时代，美国CS Master申请路漫漫，本文揭秘申请全过程与心得。</description>
+      <guid>https://halfrost.com/halfrost_2021/</guid>
+    </item>
+    <item>
+      <title>下一个五年计划起航 ！</title>
+      <link>https://halfrost.com/halfrost_2020/</link>
+      <description>回顾2020，武汉抗疫，火神山雷神山奇迹诞生。</description>
+      <guid>https://halfrost.com/halfrost_2020/</guid>
+    </item>
+    <item>
+      <title>面试中 LRU / LFU 的青铜与王者</title>
+      <link>https://halfrost.com/lru_lfu_interview/</link>
+      <description>深入解析LRU/LFU缓存淘汰算法，面试必备！</description>
+      <guid>https://halfrost.com/lru_lfu_interview/</guid>
+    </item>
+    <item>
+      <title>Dario Amodei：AI 开源是伪命题</title>
+      <link>http://www.ruanyifeng.com/blog/2026/06/anthropic.html</link>
+      <description>对我来说，博客首先是一种知识管理工具，其次才是传播工具。我的技术文章，主要用来整理我还不懂的知识。我只写那些我还没有完全掌握的东西，那些我精通的东西，往往没有动力写。炫耀从来不是我的动机，好奇才是。</description>
+      <guid>http://www.ruanyifeng.com/blog/2026/06/anthropic.html</guid>
+    </item>
+    <item>
+      <title>科技爱好者周刊（第 401 期）：如何赚到10亿美元</title>
+      <link>http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html</link>
+      <description>对我来说，博客首先是一种知识管理工具，其次才是传播工具。我的技术文章，主要用来整理我还不懂的知识。我只写那些我还没有完全掌握的东西，那些我精通的东西，往往没有动力写。炫耀从来不是我的动机，好奇才是。</description>
+      <guid>http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html</guid>
+    </item>
+    <item>
+      <title>科技爱好者周刊（第 400 期）：rsync 的争论</title>
+      <link>http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html</link>
+      <description>对我来说，博客首先是一种知识管理工具，其次才是传播工具。我的技术文章，主要用来整理我还不懂的知识。我只写那些我还没有完全掌握的东西，那些我精通的东西，往往没有动力写。炫耀从来不是我的动机，好奇才是。</description>
+      <guid>http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html</guid>
+    </item>
+    <item>
+      <title>鸡枞在雨季重来</title>
+      <link>https://www.hecaitou.com/2026/07/jizong-reborn-in-the-rain.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/07/jizong-reborn-in-the-rain.html</guid>
+    </item>
+    <item>
+      <title>一些闲话</title>
+      <link>https://www.hecaitou.com/2026/07/Some-Casual-Chats.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/07/Some-Casual-Chats.html</guid>
+    </item>
+    <item>
+      <title>走捷径成瘾</title>
+      <link>https://www.hecaitou.com/2026/06/Hooked-on-Shortcuts.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/06/Hooked-on-Shortcuts.html</guid>
+    </item>
+    <item>
+      <title>是微服务架构不香还是云不香？</title>
+      <link>https://coolshell.cn/articles/22422.html</link>
+      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
+      <guid>https://coolshell.cn/articles/22422.html</guid>
+    </item>
+    <item>
+      <title>我看ChatGPT: 为啥谷歌掉了千亿美金</title>
+      <link>https://coolshell.cn/articles/22398.html</link>
+      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
+      <guid>https://coolshell.cn/articles/22398.html</guid>
+    </item>
+    <item>
+      <title>聊聊 nostr 和 审查</title>
+      <link>https://coolshell.cn/articles/22367.html</link>
+      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
+      <guid>https://coolshell.cn/articles/22367.html</guid>
+    </item>
+    <item>
+      <title>2016 年，我做过一次 AI 写代码创业</title>
+      <link>http://blog.youxu.info/2026/01/14/ai-codes-retrospective/</link>
+      <description>这个中文博客是我的思考记录，主要用来帮助我 debug/refactor 我的思想，但本人不对任何因为阅读造成的后果负责。</description>
+      <guid>http://blog.youxu.info/2026/01/14/ai-codes-retrospective/</guid>
+    </item>
+    <item>
+      <title>风险分配框架</title>
+      <link>http://blog.youxu.info/2022/03/23/risk-allocation/</link>
+      <description>这个中文博客是我的思考记录，主要用来帮助我 debug/refactor 我的思想，但本人不对任何因为阅读造成的后果负责。</description>
+      <guid>http://blog.youxu.info/2022/03/23/risk-allocation/</guid>
+    </item>
+    <item>
+      <title>财务自由后做些什么</title>
+      <link>http://blog.youxu.info/2021/11/01/after-fire/</link>
+      <description>这个中文博客是我的思考记录，主要用来帮助我 debug/refactor 我的思想，但本人不对任何因为阅读造成的后果负责。</description>
+      <guid>http://blog.youxu.info/2021/11/01/after-fire/</guid>
+    </item>
+    <item>
+      <title>Latest post on Threads：2026.07.02</title>
+      <link>https://www.changhai.org/articles/miscellaneous/eblog/202605.php#latest</link>
+      <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
+      <guid>https://www.changhai.org/articles/miscellaneous/eblog/202605.php#latest</guid>
+    </item>
+    <item>
+      <title>最新微博：2026 年 7 月 2 日</title>
+      <link>https://www.changhai.org/articles/miscellaneous/blog/202607.php#latest</link>
+      <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
+      <guid>https://www.changhai.org/articles/miscellaneous/blog/202607.php#latest</guid>
+    </item>
+    <item>
+      <title>台湾：从新竹到台中</title>
+      <link>https://www.youtube.com/watch?v=fG0rf9oRM1o</link>
+      <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
+      <guid>https://www.youtube.com/watch?v=fG0rf9oRM1o</guid>
+    </item>
+    <item>
+      <title>百度的槽点到底在哪里</title>
+      <link>http://weiwuhui.com/10670.html</link>
+      <description>魏老师执教于上海交通大学媒体与传播学院，天奇创投基金管理合伙人。媒体行业的思考和见解，尽在魏老师。</description>
+      <guid>http://weiwuhui.com/10670.html</guid>
+    </item>
+    <item>
+      <title>这届百度公关 专业丢分了</title>
+      <link>http://weiwuhui.com/10675.html</link>
+      <description>魏老师执教于上海交通大学媒体与传播学院，天奇创投基金管理合伙人。媒体行业的思考和见解，尽在魏老师。</description>
+      <guid>http://weiwuhui.com/10675.html</guid>
+    </item>
+    <item>
+      <title>韩信的悲剧 其实是被时代抛弃了</title>
+      <link>http://weiwuhui.com/10680.html</link>
+      <description>魏老师执教于上海交通大学媒体与传播学院，天奇创投基金管理合伙人。媒体行业的思考和见解，尽在魏老师。</description>
+      <guid>http://weiwuhui.com/10680.html</guid>
+    </item>
+    <item>
+      <title>矩阵函数近似中的暴力美学</title>
+      <link>https://spaces.ac.cn/archives/11787</link>
+      <description>本文提出矩阵函数通用近似框架，突破有理次方计算局限。</description>
+      <guid>https://spaces.ac.cn/archives/11787</guid>
+    </item>
+    <item>
+      <title>强制间隔投影（Margin-Enforcing Projection）</title>
+      <link>https://spaces.ac.cn/archives/11784</link>
+      <description>介绍强制间隔投影（MEP），强化分类间隔，提升模型鲁棒性。</description>
+      <guid>https://spaces.ac.cn/archives/11784</guid>
+    </item>
+    <item>
+      <title>MoE环游记：9、门控归一化之争</title>
+      <link>https://spaces.ac.cn/archives/11782</link>
+      <description>探讨MoE中门控归一化之争，Softmax与Sigmoid激活函数的优劣。</description>
+      <guid>https://spaces.ac.cn/archives/11782</guid>
+    </item>
+    <item>
+      <title>读《置身钉内》后的一些感受</title>
+      <link>https://limboy.me/posts/pinned-inside-dingtalk</link>
+      <description>[**Make good new things**]( 非常认同 Paul Graham 的这个观点，我认为它捕捉到了有意义工作的本质：创造真正好的新颖的事物。不仅仅是重复旧事物，不仅仅是追逐潮流，而是为世界贡献真正有价值的东西。跟 Steve Jobs 的 [Make Something Wonderful]( 有异曲同工之妙。</description>
+      <guid>https://limboy.me/posts/pinned-inside-dingtalk</guid>
+    </item>
+    <item>
+      <title>Claude Code 带给我的改变</title>
+      <link>https://limboy.me/posts/the-changes-claude-code-brought-me</link>
+      <description>[**Make good new things**]( 非常认同 Paul Graham 的这个观点，我认为它捕捉到了有意义工作的本质：创造真正好的新颖的事物。不仅仅是重复旧事物，不仅仅是追逐潮流，而是为世界贡献真正有价值的东西。跟 Steve Jobs 的 [Make Something Wonderful]( 有异曲同工之妙。</description>
+      <guid>https://limboy.me/posts/the-changes-claude-code-brought-me</guid>
+    </item>
+    <item>
+      <title>微信是一个奇葩</title>
+      <link>https://limboy.me/posts/wechat-is-abnormal</link>
+      <description>[**Make good new things**]( 非常认同 Paul Graham 的这个观点，我认为它捕捉到了有意义工作的本质：创造真正好的新颖的事物。不仅仅是重复旧事物，不仅仅是追逐潮流，而是为世界贡献真正有价值的东西。跟 Steve Jobs 的 [Make Something Wonderful]( 有异曲同工之妙。</description>
+      <guid>https://limboy.me/posts/wechat-is-abnormal</guid>
+    </item>
+    <item>
+      <title>在香港骑共享单车：访客视角的经验</title>
+      <link>https://hsu.cy/2026/06/hkbikeshare/</link>
+      <description>他的博客网站，名字叫 Neverland，意思是：你永远不要期望从中得到一些有用的东西，但你也不可能永远找不到。</description>
+      <guid>https://hsu.cy/2026/06/hkbikeshare/</guid>
+    </item>
+    <item>
+      <title>What exactly is an executive chair, Tim Cook’s new position?</title>
+      <link>https://hsu.cy/2026/04/tim-cook-as-the-executive-chair/</link>
+      <description>他的博客网站，名字叫 Neverland，意思是：你永远不要期望从中得到一些有用的东西，但你也不可能永远找不到。</description>
+      <guid>https://hsu.cy/2026/04/tim-cook-as-the-executive-chair/</guid>
+    </item>
+    <item>
+      <title>中文 Markdown 强调标记的渲染问题</title>
+      <link>https://hsu.cy/2026/04/markdown-emphases-cjk/</link>
+      <description>他的博客网站，名字叫 Neverland，意思是：你永远不要期望从中得到一些有用的东西，但你也不可能永远找不到。</description>
+      <guid>https://hsu.cy/2026/04/markdown-emphases-cjk/</guid>
+    </item>
+    <item>
+      <title>庄子不会喜欢 AI：效率，机心，伯乐之罪</title>
+      <link>https://greatdk.com/2144.html</link>
+      <description>面包多创始人。</description>
+      <guid>https://greatdk.com/2144.html</guid>
+    </item>
+    <item>
+      <title>3 天 100 万注册用户，日烧千亿 token，一次意外的里程碑</title>
+      <link>https://greatdk.com/2149.html</link>
+      <description>面包多创始人。</description>
+      <guid>https://greatdk.com/2149.html</guid>
+    </item>
+    <item>
+      <title>TikTok 也曾经很在乎那一万个新增用户</title>
+      <link>https://greatdk.com/2113.html</link>
+      <description>面包多创始人。</description>
+      <guid>https://greatdk.com/2113.html</guid>
+    </item>
+    <item>
+      <title>在等待 AI 的时候，干些什么好？</title>
+      <link>https://www.gtdstudy.com/posts/2026-04-05-to-be-human/</link>
+      <description/>
+      <guid>https://www.gtdstudy.com/posts/2026-04-05-to-be-human/</guid>
+    </item>
+    <item>
+      <title>推背感</title>
+      <link>https://www.gtdstudy.com/posts/2026-03-16-about-speed/</link>
+      <description/>
+      <guid>https://www.gtdstudy.com/posts/2026-03-16-about-speed/</guid>
+    </item>
+    <item>
+      <title>谈谈写信</title>
+      <link>https://www.gtdstudy.com/posts/first-post/</link>
+      <description/>
+      <guid>https://www.gtdstudy.com/posts/first-post/</guid>
+    </item>
+    <item>
+      <title>拯救呼吸大作战</title>
+      <link>https://roriri.one/2026/06/21/save-my-breath/</link>
+      <description>过敏性鼻炎患者分享通气鼻贴与鼻内扩张器的使用体验。</description>
+      <guid>https://roriri.one/2026/06/21/save-my-breath/</guid>
+    </item>
+    <item>
+      <title>回火星</title>
+      <link>https://roriri.one/2026/06/20/back-to-mars/</link>
+      <description>煎蛋论坛煎包下线，用户备份数据，回忆满满的老社区老去。</description>
+      <guid>https://roriri.one/2026/06/20/back-to-mars/</guid>
+    </item>
+    <item>
+      <title>统计十讲</title>
+      <link>https://roriri.one/2026/05/29/stat-10-lec/</link>
+      <description>统计教育问题多，需改进教学方法与教材内容。</description>
+      <guid>https://roriri.one/2026/05/29/stat-10-lec/</guid>
+    </item>
+    <item>
+      <title>马代(2)</title>
+      <link>https://lenciel.com/2026/06/maldives-2/</link>
+      <description>马代海面广阔，蓝洞和海岛标定区域，度假房沉默见证潮起潮落。</description>
+      <guid>https://lenciel.com/2026/06/maldives-2/</guid>
+    </item>
+    <item>
+      <title>马代(1)</title>
+      <link>https://lenciel.com/2026/04/maldives-1/</link>
+      <description/>
+      <guid>https://lenciel.com/2026/04/maldives-1/</guid>
+    </item>
+    <item>
+      <title>Thoughts On AI In Early 2026 (3)</title>
+      <link>https://lenciel.com/2026/03/thoughts-on-ai-in-early-2026-part-3/</link>
+      <description>科技进步，AI普及，生活忙碌失控的尴尬局面对所有人构成挑战。</description>
+      <guid>https://lenciel.com/2026/03/thoughts-on-ai-in-early-2026-part-3/</guid>
+    </item>
+    <item>
+      <title>2025 重新定义的生活</title>
+      <link>https://diygod.cc/2025</link>
+      <description>作品：RSSHub、RSSHub Radar、DPlayer、APlayer。</description>
+      <guid>https://diygod.cc/2025</guid>
+    </item>
+    <item>
+      <title>欧洲旅游VLOG | 巴塞罗那 罗马 梵蒂冈 威尼斯 米兰 苏黎世 因特拉肯 巴黎</title>
+      <link>https://diygod.cc/europe-travel</link>
+      <description>作品：RSSHub、RSSHub Radar、DPlayer、APlayer。</description>
+      <guid>https://diygod.cc/europe-travel</guid>
+    </item>
+    <item>
+      <title>上古神器 Beancount：Crypto 与 AI 时代的复式记账终极方案</title>
+      <link>https://diygod.cc/beancount</link>
+      <description>作品：RSSHub、RSSHub Radar、DPlayer、APlayer。</description>
+      <guid>https://diygod.cc/beancount</guid>
+    </item>
+    <item>
+      <title>2018 平淡无奇</title>
+      <link>https://geekplux.com/posts/2018-summary</link>
+      <description>- 骄傲谦逊的理性主义者</description>
+      <guid>https://geekplux.com/posts/2018-summary</guid>
+    </item>
+    <item>
+      <title>2019 柳暗花明</title>
+      <link>https://geekplux.com/posts/2019-summary</link>
+      <description>- 骄傲谦逊的理性主义者</description>
+      <guid>https://geekplux.com/posts/2019-summary</guid>
+    </item>
+    <item>
+      <title>2020 恍如隔世</title>
+      <link>https://geekplux.com/posts/2020-summary</link>
+      <description>- 骄傲谦逊的理性主义者</description>
+      <guid>https://geekplux.com/posts/2020-summary</guid>
+    </item>
+    <item>
+      <title>AI Hasn’t Rebuilt the Organization Yet. Anxiety Rebuilt Management First</title>
+      <link>https://www.edony.ink/en/ai-hasnt-rebuilt-the-organization-yet-anxiety-rebuilt-management-first/</link>
+      <description>喜欢我的文章，第二欢迎的是留言，第三欢迎的是分享，第四欢迎的是打赏。如果要问第一欢迎的是什么，我的答案是希望你也能开始自己的写作历程，把自己的见闻和思考分享出来，网络上高质量的中文内容，需要大家一起努力。</description>
+      <guid>https://www.edony.ink/en/ai-hasnt-rebuilt-the-organization-yet-anxiety-rebuilt-management-first/</guid>
+    </item>
+    <item>
+      <title>AI 还没重构组织，焦虑先重构了管理</title>
+      <link>https://www.edony.ink/ai-huan-mei-zhong-gou-zu-zhi-jiao-lu-xian-zhong-gou-liao-guan-li/</link>
+      <description>喜欢我的文章，第二欢迎的是留言，第三欢迎的是分享，第四欢迎的是打赏。如果要问第一欢迎的是什么，我的答案是希望你也能开始自己的写作历程，把自己的见闻和思考分享出来，网络上高质量的中文内容，需要大家一起努力。</description>
+      <guid>https://www.edony.ink/ai-huan-mei-zhong-gou-zu-zhi-jiao-lu-xian-zhong-gou-liao-guan-li/</guid>
+    </item>
+    <item>
+      <title>为什么偏偏是“左耳进，右耳出”</title>
+      <link>https://www.edony.ink/why-does-left-come-before-right/</link>
+      <description>喜欢我的文章，第二欢迎的是留言，第三欢迎的是分享，第四欢迎的是打赏。如果要问第一欢迎的是什么，我的答案是希望你也能开始自己的写作历程，把自己的见闻和思考分享出来，网络上高质量的中文内容，需要大家一起努力。</description>
+      <guid>https://www.edony.ink/why-does-left-come-before-right/</guid>
+    </item>
+    <item>
+      <title>我跟给我传教的基督徒的一些故事</title>
+      <link>https://liuyandong.com/archives/23852</link>
+      <description>这本是反抗美国政府通过的电信法的宣言。只是现在，有了更深的涵义，全球的政府几乎都已经把互联网管起来了。但是，我坚信，自由与民主终究会胜利，就像雅典那微如荧光的自由之火，历尽坎坷，终将照耀人类。我相信暴政终将灭亡，即使坎坷，即使曲折。</description>
+      <guid>https://liuyandong.com/archives/23852</guid>
+    </item>
+    <item>
+      <title>封建迷信</title>
+      <link>https://liuyandong.com/archives/23800</link>
+      <description>这本是反抗美国政府通过的电信法的宣言。只是现在，有了更深的涵义，全球的政府几乎都已经把互联网管起来了。但是，我坚信，自由与民主终究会胜利，就像雅典那微如荧光的自由之火，历尽坎坷，终将照耀人类。我相信暴政终将灭亡，即使坎坷，即使曲折。</description>
+      <guid>https://liuyandong.com/archives/23800</guid>
+    </item>
+    <item>
+      <title>八十年代的六一儿童节</title>
+      <link>https://liuyandong.com/archives/23787</link>
+      <description>这本是反抗美国政府通过的电信法的宣言。只是现在，有了更深的涵义，全球的政府几乎都已经把互联网管起来了。但是，我坚信，自由与民主终究会胜利，就像雅典那微如荧光的自由之火，历尽坎坷，终将照耀人类。我相信暴政终将灭亡，即使坎坷，即使曲折。</description>
+      <guid>https://liuyandong.com/archives/23787</guid>
+    </item>
+    <item>
+      <title>新手爸妈的疫苗攻略</title>
+      <link>https://wangrufei.com/archives/399</link>
+      <description>最近在尝试做母婴、育儿类自媒体，主要是想练练家庭纪实摄影，能成与否无所谓，按照自己的心得体会持续更新就行了。</description>
+      <guid>https://wangrufei.com/archives/399</guid>
+    </item>
+    <item>
+      <title>给宝宝接种麻腮风疫苗</title>
+      <link>https://wangrufei.com/archives/398</link>
+      <description>最近在尝试做母婴、育儿类自媒体，主要是想练练家庭纪实摄影，能成与否无所谓，按照自己的心得体会持续更新就行了。</description>
+      <guid>https://wangrufei.com/archives/398</guid>
+    </item>
+    <item>
+      <title>8个月，宝宝好奇心更重了</title>
+      <link>https://wangrufei.com/archives/397</link>
+      <description>最近在尝试做母婴、育儿类自媒体，主要是想练练家庭纪实摄影，能成与否无所谓，按照自己的心得体会持续更新就行了。</description>
+      <guid>https://wangrufei.com/archives/397</guid>
+    </item>
+    <item>
+      <title>天台（tāi）游记</title>
+      <link>https://battlele.com/tiantai-trip/</link>
+      <description>天台游记：体验当地美食，探访国清寺，享受宁静假期。</description>
+      <guid>https://battlele.com/tiantai-trip/</guid>
+    </item>
+    <item>
+      <title>舟山骑车游</title>
+      <link>https://battlele.com/zhoushan-trip/</link>
+      <description>舟山群岛骑车游，体验海天佛国美景。</description>
+      <guid>https://battlele.com/zhoushan-trip/</guid>
+    </item>
+    <item>
+      <title>五月的上海游记</title>
+      <link>https://battlele.com/mayday-sh-trip/</link>
+      <description>五一假期上海行，体验Fitting与博物馆特展。</description>
+      <guid>https://battlele.com/mayday-sh-trip/</guid>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://jdhao.github.io/about/</link>
+      <description>编程; Nvim; 生活; 读书; 思考。</description>
+      <guid>https://jdhao.github.io/about/</guid>
+    </item>
+    <item>
+      <title>Manage uv.lock file with Renovate</title>
+      <link>https://jdhao.github.io/2026/05/13/uv_lock_file_management_with_renovate/</link>
+      <description>编程; Nvim; 生活; 读书; 思考。</description>
+      <guid>https://jdhao.github.io/2026/05/13/uv_lock_file_management_with_renovate/</guid>
+    </item>
+    <item>
+      <title>Set up Python Provider for Neovim</title>
+      <link>https://jdhao.github.io/2026/05/11/nvim_python_provider_setup/</link>
+      <description>编程; Nvim; 生活; 读书; 思考。</description>
+      <guid>https://jdhao.github.io/2026/05/11/nvim_python_provider_setup/</guid>
+    </item>
+    <item>
+      <title>我的 Blog 改版了, 重回网页设计的黄金时代, 像素化!</title>
+      <link>https://s5s5.me/4300</link>
+      <description>代表文章：《[小程序是不是应该淘汰了？](</description>
+      <guid>https://s5s5.me/4300</guid>
+    </item>
+    <item>
+      <title>年终总结 2025</title>
+      <link>https://s5s5.me/4299</link>
+      <description>代表文章：《[小程序是不是应该淘汰了？](</description>
+      <guid>https://s5s5.me/4299</guid>
+    </item>
+    <item>
+      <title>大V的“文字狱”</title>
+      <link>https://s5s5.me/4292</link>
+      <description>代表文章：《[小程序是不是应该淘汰了？](</description>
+      <guid>https://s5s5.me/4292</guid>
+    </item>
+    <item>
+      <title>How I drove a rental Mazda across America in 59 hours</title>
+      <link>https://www.justzht.com/how-i-drove-a-rental-mazda-across-america-in-59-hours/</link>
+      <description>59小时横跨美国，记录自驾Mazda的冒险之旅。</description>
+      <guid>https://www.justzht.com/how-i-drove-a-rental-mazda-across-america-in-59-hours/</guid>
+    </item>
+    <item>
+      <title>2026.6.24</title>
+      <link>https://www.justzht.com/2026-6-24/</link>
+      <description>59小时单人横跨美国，记录Cannonball之旅。</description>
+      <guid>https://www.justzht.com/2026-6-24/</guid>
+    </item>
+    <item>
+      <title>full circle.</title>
+      <link>https://www.justzht.com/full-circle/</link>
+      <description>苹果开发者分享工作成果，与父母沟通心路历程。</description>
+      <guid>https://www.justzht.com/full-circle/</guid>
+    </item>
+    <item>
+      <title>Random Thoughts - 20260702</title>
+      <link>https://www.bboy.app/2026/07/02/random-thoughts-20260702/</link>
+      <description>描述：一个分享个人见解、关注项目更新和技术文章的博客。</description>
+      <guid>https://www.bboy.app/2026/07/02/random-thoughts-20260702/</guid>
+    </item>
+    <item>
+      <title>20260702的胡言乱语</title>
+      <link>https://www.bboy.app/2026/07/02/20260702%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/</link>
+      <description>描述：一个分享个人见解、关注项目更新和技术文章的博客。</description>
+      <guid>https://www.bboy.app/2026/07/02/20260702%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/</guid>
+    </item>
+    <item>
+      <title>20260622的胡言乱语</title>
+      <link>https://www.bboy.app/2026/06/22/20260622%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/</link>
+      <description>描述：一个分享个人见解、关注项目更新和技术文章的博客。</description>
+      <guid>https://www.bboy.app/2026/06/22/20260622%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/</guid>
+    </item>
+    <item>
+      <title>AI 时代，我为什么还要写一个自己的工具箱</title>
+      <link>https://iachieveall.com/archives/ai-shi-dai-wo-wei-shi-me-huan-yao-xie-yi-ge-zi-ji-de-gong-ju-xiang</link>
+      <description>创作初衷：交流高质量技术，分享实战经验、面试指南，帮助阅读我的博客的人少走弯路，和技术同好共同探索。</description>
+      <guid>https://iachieveall.com/archives/ai-shi-dai-wo-wei-shi-me-huan-yao-xie-yi-ge-zi-ji-de-gong-ju-xiang</guid>
+    </item>
+    <item>
+      <title>读懂 SSO</title>
+      <link>https://iachieveall.com/archives/du-dong-sso</link>
+      <description>创作初衷：交流高质量技术，分享实战经验、面试指南，帮助阅读我的博客的人少走弯路，和技术同好共同探索。</description>
+      <guid>https://iachieveall.com/archives/du-dong-sso</guid>
+    </item>
+    <item>
+      <title>光伏产业基础知识</title>
+      <link>https://iachieveall.com/archives/guang-fu-chan-ye-ji-chu-zhi-shi</link>
+      <description>创作初衷：交流高质量技术，分享实战经验、面试指南，帮助阅读我的博客的人少走弯路，和技术同好共同探索。</description>
+      <guid>https://iachieveall.com/archives/guang-fu-chan-ye-ji-chu-zhi-shi</guid>
+    </item>
   </channel>
 </rss>
