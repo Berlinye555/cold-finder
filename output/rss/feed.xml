@@ -78,6 +78,12 @@
       <guid>https://webfem.com/post/mobile-dev</guid>
     </item>
     <item>
+      <title>修改 forkgram/tdesktop 实现 设置全体群组和channel 静音 mute all</title>
+      <link>https://zelikk.blogspot.com/2026/07/forkgram-tdesktop-mute-all.html</link>
+      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
+      <guid>https://zelikk.blogspot.com/2026/07/forkgram-tdesktop-mute-all.html</guid>
+    </item>
+    <item>
       <title>修改 forkgram/tdesktop 实现 有@我消息的群 置顶 效果和PrimaryUnmutedMessages一样</title>
       <link>https://zelikk.blogspot.com/2026/07/forkgram-tdesktop-at-me-on-top.html</link>
       <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
@@ -90,15 +96,9 @@
       <guid>https://zelikk.blogspot.com/2026/07/forkgram-tdesktop-ban-avatar-pic.html</guid>
     </item>
     <item>
-      <title>修改 forkgram/tdesktop 移植 Ayugram 的屏蔽某个用户消息的功能(Fully Hide Messages from Blocked Users)</title>
-      <link>https://zelikk.blogspot.com/2026/06/fully-hide-messages-from-blocked-users-ayugram-transformed-to-forkgram.html</link>
-      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
-      <guid>https://zelikk.blogspot.com/2026/06/fully-hide-messages-from-blocked-users-ayugram-transformed-to-forkgram.html</guid>
-    </item>
-    <item>
       <title>后疫情时代下美国 CS Master 申请纪实</title>
       <link>https://halfrost.com/halfrost_2021/</link>
-      <description>后疫情时代，美国CS Master申请路漫漫，本文揭秘申请全过程与心得。</description>
+      <description>后疫情时代，美国CS Master申请困难重重，本文揭秘申请全过程。</description>
       <guid>https://halfrost.com/halfrost_2021/</guid>
     </item>
     <item>
@@ -110,8 +110,14 @@
     <item>
       <title>面试中 LRU / LFU 的青铜与王者</title>
       <link>https://halfrost.com/lru_lfu_interview/</link>
-      <description>深入解析LRU/LFU缓存淘汰算法，面试必备！</description>
+      <description>深入剖析LRU和LFU缓存算法，面试必备！</description>
       <guid>https://halfrost.com/lru_lfu_interview/</guid>
+    </item>
+    <item>
+      <title>科技爱好者周刊（第 402 期）：我在智念 AI 的日子（小说）</title>
+      <link>http://www.ruanyifeng.com/blog/2026/07/weekly-issue-402.html</link>
+      <description>对我来说，博客首先是一种知识管理工具，其次才是传播工具。我的技术文章，主要用来整理我还不懂的知识。我只写那些我还没有完全掌握的东西，那些我精通的东西，往往没有动力写。炫耀从来不是我的动机，好奇才是。</description>
+      <guid>http://www.ruanyifeng.com/blog/2026/07/weekly-issue-402.html</guid>
     </item>
     <item>
       <title>Dario Amodei：AI 开源是伪命题</title>
@@ -126,10 +132,10 @@
       <guid>http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html</guid>
     </item>
     <item>
-      <title>科技爱好者周刊（第 400 期）：rsync 的争论</title>
-      <link>http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html</link>
-      <description>对我来说，博客首先是一种知识管理工具，其次才是传播工具。我的技术文章，主要用来整理我还不懂的知识。我只写那些我还没有完全掌握的东西，那些我精通的东西，往往没有动力写。炫耀从来不是我的动机，好奇才是。</description>
-      <guid>http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html</guid>
+      <title>在辅导孩子之前，自己先去做个心理辅导</title>
+      <link>https://www.hecaitou.com/2026/07/want-to-tutor-your-kids-start-with-therapy.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/07/want-to-tutor-your-kids-start-with-therapy.html</guid>
     </item>
     <item>
       <title>鸡枞在雨季重来</title>
@@ -142,12 +148,6 @@
       <link>https://www.hecaitou.com/2026/07/Some-Casual-Chats.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/07/Some-Casual-Chats.html</guid>
-    </item>
-    <item>
-      <title>走捷径成瘾</title>
-      <link>https://www.hecaitou.com/2026/06/Hooked-on-Shortcuts.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/06/Hooked-on-Shortcuts.html</guid>
     </item>
     <item>
       <title>是微服务架构不香还是云不香？</title>
@@ -192,16 +192,16 @@
       <guid>https://www.changhai.org/articles/miscellaneous/eblog/202605.php#latest</guid>
     </item>
     <item>
+      <title>微言小义 (2026.05 - 2026.06)</title>
+      <link>https://www.changhai.org/articles/miscellaneous/blog/202605.php</link>
+      <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
+      <guid>https://www.changhai.org/articles/miscellaneous/blog/202605.php</guid>
+    </item>
+    <item>
       <title>最新微博：2026 年 7 月 2 日</title>
       <link>https://www.changhai.org/articles/miscellaneous/blog/202607.php#latest</link>
       <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
       <guid>https://www.changhai.org/articles/miscellaneous/blog/202607.php#latest</guid>
-    </item>
-    <item>
-      <title>台湾：从新竹到台中</title>
-      <link>https://www.youtube.com/watch?v=fG0rf9oRM1o</link>
-      <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
-      <guid>https://www.youtube.com/watch?v=fG0rf9oRM1o</guid>
     </item>
     <item>
       <title>百度的槽点到底在哪里</title>
@@ -230,7 +230,7 @@
     <item>
       <title>强制间隔投影（Margin-Enforcing Projection）</title>
       <link>https://spaces.ac.cn/archives/11784</link>
-      <description>介绍强制间隔投影（MEP），强化分类间隔，提升模型鲁棒性。</description>
+      <description>介绍强制间隔投影（MEP）数学运算，强化分类结果间隔。</description>
       <guid>https://spaces.ac.cn/archives/11784</guid>
     </item>
     <item>
@@ -314,25 +314,25 @@
     <item>
       <title>拯救呼吸大作战</title>
       <link>https://roriri.one/2026/06/21/save-my-breath/</link>
-      <description>过敏性鼻炎患者分享通气鼻贴与鼻内扩张器的使用体验。</description>
+      <description>过敏性鼻炎患者分享通气鼻贴和鼻内扩张器的使用体验。</description>
       <guid>https://roriri.one/2026/06/21/save-my-breath/</guid>
     </item>
     <item>
       <title>回火星</title>
       <link>https://roriri.one/2026/06/20/back-to-mars/</link>
-      <description>煎蛋论坛煎包下线，用户备份数据，回忆满满的老社区老去。</description>
+      <description>煎蛋论坛煎包复刻，见证社区老去与回忆传承。</description>
       <guid>https://roriri.one/2026/06/20/back-to-mars/</guid>
     </item>
     <item>
       <title>统计十讲</title>
       <link>https://roriri.one/2026/05/29/stat-10-lec/</link>
-      <description>统计教育问题多，需改进教学方法与教材内容。</description>
+      <description>统计教育问题多，需改革教学方法与教材内容。</description>
       <guid>https://roriri.one/2026/05/29/stat-10-lec/</guid>
     </item>
     <item>
       <title>马代(2)</title>
       <link>https://lenciel.com/2026/06/maldives-2/</link>
-      <description>马代海面广阔，蓝洞和海岛标定区域，度假房沉默见证潮起潮落。</description>
+      <description>马代海面广阔，蓝洞和海岛标定区域，度假房散布其间，静默见证潮起潮落。</description>
       <guid>https://lenciel.com/2026/06/maldives-2/</guid>
     </item>
     <item>
@@ -344,7 +344,7 @@
     <item>
       <title>Thoughts On AI In Early 2026 (3)</title>
       <link>https://lenciel.com/2026/03/thoughts-on-ai-in-early-2026-part-3/</link>
-      <description>科技进步，AI普及，生活忙碌失控的尴尬局面对所有人构成挑战。</description>
+      <description>2026年AI普及，不跟上或跟上的忙碌与失控。</description>
       <guid>https://lenciel.com/2026/03/thoughts-on-ai-in-early-2026-part-3/</guid>
     </item>
     <item>
@@ -440,19 +440,19 @@
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台游记：体验当地美食，探访国清寺，享受宁静假期。</description>
+      <description>天台之旅，品尝特色小吃，游览国清寺，享受悠闲假期。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
       <title>舟山骑车游</title>
       <link>https://battlele.com/zhoushan-trip/</link>
-      <description>舟山群岛骑车游，体验海天佛国美景。</description>
+      <description>舟山群岛骑车游，体验东海云廊美景与波音747大飞机。</description>
       <guid>https://battlele.com/zhoushan-trip/</guid>
     </item>
     <item>
       <title>五月的上海游记</title>
       <link>https://battlele.com/mayday-sh-trip/</link>
-      <description>五一假期上海行，体验Fitting与博物馆特展。</description>
+      <description>五一假期上海行，体验博物馆特展与城市风光。</description>
       <guid>https://battlele.com/mayday-sh-trip/</guid>
     </item>
     <item>
@@ -462,16 +462,16 @@
       <guid>https://jdhao.github.io/about/</guid>
     </item>
     <item>
+      <title>Elasticsearch Dynamic Mapping Pitfalls</title>
+      <link>https://jdhao.github.io/2026/07/03/elasticsearch_dynamic_mapping_pitfall/</link>
+      <description>编程; Nvim; 生活; 读书; 思考。</description>
+      <guid>https://jdhao.github.io/2026/07/03/elasticsearch_dynamic_mapping_pitfall/</guid>
+    </item>
+    <item>
       <title>Manage uv.lock file with Renovate</title>
       <link>https://jdhao.github.io/2026/05/13/uv_lock_file_management_with_renovate/</link>
       <description>编程; Nvim; 生活; 读书; 思考。</description>
       <guid>https://jdhao.github.io/2026/05/13/uv_lock_file_management_with_renovate/</guid>
-    </item>
-    <item>
-      <title>Set up Python Provider for Neovim</title>
-      <link>https://jdhao.github.io/2026/05/11/nvim_python_provider_setup/</link>
-      <description>编程; Nvim; 生活; 读书; 思考。</description>
-      <guid>https://jdhao.github.io/2026/05/11/nvim_python_provider_setup/</guid>
     </item>
     <item>
       <title>我的 Blog 改版了, 重回网页设计的黄金时代, 像素化!</title>
@@ -494,19 +494,19 @@
     <item>
       <title>How I drove a rental Mazda across America in 59 hours</title>
       <link>https://www.justzht.com/how-i-drove-a-rental-mazda-across-america-in-59-hours/</link>
-      <description>59小时横跨美国，记录自驾Mazda的冒险之旅。</description>
+      <description>59小时横跨美国，记录租车自驾之旅。</description>
       <guid>https://www.justzht.com/how-i-drove-a-rental-mazda-across-america-in-59-hours/</guid>
     </item>
     <item>
       <title>2026.6.24</title>
       <link>https://www.justzht.com/2026-6-24/</link>
-      <description>59小时单人横跨美国，记录Cannonball之旅。</description>
+      <description>59小时单人横跨美国，体验独特自驾之旅。</description>
       <guid>https://www.justzht.com/2026-6-24/</guid>
     </item>
     <item>
       <title>full circle.</title>
       <link>https://www.justzht.com/full-circle/</link>
-      <description>苹果开发者分享工作成果，与父母沟通心路历程。</description>
+      <description>与父母分享苹果工作经历，感叹互联网的遗忘与距离。</description>
       <guid>https://www.justzht.com/full-circle/</guid>
     </item>
     <item>
