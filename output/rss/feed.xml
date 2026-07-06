@@ -98,20 +98,26 @@
     <item>
       <title>后疫情时代下美国 CS Master 申请纪实</title>
       <link>https://halfrost.com/halfrost_2021/</link>
-      <description>后疫情时代美国CS硕士申请纪实，分享申请全过程心得与收获。</description>
+      <description>后疫情时代，美国CS硕士申请纪实，留学生面临多重挑战。</description>
       <guid>https://halfrost.com/halfrost_2021/</guid>
     </item>
     <item>
       <title>下一个五年计划起航 ！</title>
       <link>https://halfrost.com/halfrost_2020/</link>
-      <description>回顾2020，展望新五年，共抗疫情，共筑未来。</description>
+      <description>回顾2020，展望未来五年，共抗疫情，共筑梦想。</description>
       <guid>https://halfrost.com/halfrost_2020/</guid>
     </item>
     <item>
       <title>面试中 LRU / LFU 的青铜与王者</title>
       <link>https://halfrost.com/lru_lfu_interview/</link>
-      <description>解析LRU和LFU缓存算法，揭秘面试难题。</description>
+      <description>解析LRU和LFU缓存算法，探讨面试中的关键点。</description>
       <guid>https://halfrost.com/lru_lfu_interview/</guid>
+    </item>
+    <item>
+      <title>给了孩子就是他的</title>
+      <link>https://www.hecaitou.com/2026/07/once-given-its-theirs.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/07/once-given-its-theirs.html</guid>
     </item>
     <item>
       <title>在闲鱼找卖家</title>
@@ -124,12 +130,6 @@
       <link>https://www.hecaitou.com/2026/07/want-to-tutor-your-kids-start-with-therapy.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/07/want-to-tutor-your-kids-start-with-therapy.html</guid>
-    </item>
-    <item>
-      <title>鸡枞在雨季重来</title>
-      <link>https://www.hecaitou.com/2026/07/jizong-reborn-in-the-rain.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/07/jizong-reborn-in-the-rain.html</guid>
     </item>
     <item>
       <title>是微服务架构不香还是云不香？</title>
@@ -204,22 +204,22 @@
       <guid>http://weiwuhui.com/10680.html</guid>
     </item>
     <item>
+      <title>让炼丹更科学一些（七）：步长调度与权重平均</title>
+      <link>https://spaces.ac.cn/archives/11804</link>
+      <description>探讨步长调度与权重平均在炼丹中的理论联系与替代可能性。</description>
+      <guid>https://spaces.ac.cn/archives/11804</guid>
+    </item>
+    <item>
       <title>矩阵函数近似中的暴力美学</title>
       <link>https://spaces.ac.cn/archives/11787</link>
-      <description>本文提出矩阵函数通用近似框架，解决现有方法局限性。</description>
+      <description>本文提出矩阵函数通用近似框架，突破有理次方限制。</description>
       <guid>https://spaces.ac.cn/archives/11787</guid>
     </item>
     <item>
       <title>强制间隔投影（Margin-Enforcing Projection）</title>
       <link>https://spaces.ac.cn/archives/11784</link>
-      <description>介绍强制间隔投影（MEP）数学运算，确保分类结果间隔至少为m。</description>
+      <description>介绍一种数学运算MEP，确保分类间隔至少为m，增强分类稳健性和特征学习。</description>
       <guid>https://spaces.ac.cn/archives/11784</guid>
-    </item>
-    <item>
-      <title>MoE环游记：9、门控归一化之争</title>
-      <link>https://spaces.ac.cn/archives/11782</link>
-      <description>探讨MoE中门控归一化之争，Softmax与Sigmoid激活函数的优劣。</description>
-      <guid>https://spaces.ac.cn/archives/11782</guid>
     </item>
     <item>
       <title>读《置身钉内》后的一些感受</title>
@@ -294,22 +294,22 @@
       <guid>https://www.gtdstudy.com/posts/first-post/</guid>
     </item>
     <item>
+      <title>Vibe Coding 时代的角色与架构</title>
+      <link>https://roriri.one/2026/07/04/vibe-coding/</link>
+      <description>Vibe Coding 时代，角色与架构的重要性被重新审视。</description>
+      <guid>https://roriri.one/2026/07/04/vibe-coding/</guid>
+    </item>
+    <item>
       <title>拯救呼吸大作战</title>
       <link>https://roriri.one/2026/06/21/save-my-breath/</link>
-      <description>过敏性鼻炎患者分享通气鼻贴与鼻内扩张器的使用体验。</description>
+      <description>过敏性鼻炎患者分享通气鼻贴改善呼吸体验。</description>
       <guid>https://roriri.one/2026/06/21/save-my-breath/</guid>
     </item>
     <item>
       <title>回火星</title>
       <link>https://roriri.one/2026/06/20/back-to-mars/</link>
-      <description>煎蛋论坛复刻，见证社区老去与回忆传承。</description>
+      <description>煎蛋论坛煎包下线，网友备份复刻，回忆满满的老社区老去。</description>
       <guid>https://roriri.one/2026/06/20/back-to-mars/</guid>
-    </item>
-    <item>
-      <title>统计十讲</title>
-      <link>https://roriri.one/2026/05/29/stat-10-lec/</link>
-      <description>统计教育面临滥用方法、错误教学与教材问题。</description>
-      <guid>https://roriri.one/2026/05/29/stat-10-lec/</guid>
     </item>
     <item>
       <title>彩云易散</title>
@@ -320,7 +320,7 @@
     <item>
       <title>马代(2)</title>
       <link>https://lenciel.com/2026/06/maldives-2/</link>
-      <description>马代海面广阔，蓝洞和海岛标定区域，度假房散布其中，静默承载着各种情感。</description>
+      <description>马代海面广阔，蓝洞和海岛标定区域，度假房静默见证潮起潮落。</description>
       <guid>https://lenciel.com/2026/06/maldives-2/</guid>
     </item>
     <item>
@@ -422,19 +422,19 @@
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台游记：探秘台州美食与文化，体验国清寺的宁静。</description>
+      <description>天台游记：体验台州特色小吃，游览国清寺。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
       <title>舟山骑车游</title>
       <link>https://battlele.com/zhoushan-trip/</link>
-      <description>舟山骑车游，体验海天佛国，挑战环岛半程。</description>
+      <description>舟山骑车游，体验群岛城市之美。</description>
       <guid>https://battlele.com/zhoushan-trip/</guid>
     </item>
     <item>
       <title>五月的上海游记</title>
       <link>https://battlele.com/mayday-sh-trip/</link>
-      <description>五一上海行，Fitting回访与博物馆特展之旅。</description>
+      <description>五一假期上海之行，体验Fitting与博物馆特展。</description>
       <guid>https://battlele.com/mayday-sh-trip/</guid>
     </item>
     <item>
@@ -474,6 +474,12 @@
       <guid>https://s5s5.me/4292</guid>
     </item>
     <item>
+      <title>2026.7.5</title>
+      <link>https://www.justzht.com/2026-7-5/</link>
+      <description>周日凌晨，宅家思考人生与游戏设计。</description>
+      <guid>https://www.justzht.com/2026-7-5/</guid>
+    </item>
+    <item>
       <title>How I drove a rental Mazda across America in 59 hours</title>
       <link>https://www.justzht.com/how-i-drove-a-rental-mazda-across-america-in-59-hours/</link>
       <description>59小时横跨美国，记录自驾Mazda的Cannonball之旅。</description>
@@ -482,14 +488,8 @@
     <item>
       <title>2026.6.24</title>
       <link>https://www.justzht.com/2026-6-24/</link>
-      <description>59小时横跨美国，单人Cannonball之旅。</description>
+      <description>59小时单人横跨美国，体验独特自驾之旅。</description>
       <guid>https://www.justzht.com/2026-6-24/</guid>
-    </item>
-    <item>
-      <title>full circle.</title>
-      <link>https://www.justzht.com/full-circle/</link>
-      <description>苹果开发者分享技术，与父母沟通成长与选择。</description>
-      <guid>https://www.justzht.com/full-circle/</guid>
     </item>
     <item>
       <title>Random Thoughts - 20260702</title>

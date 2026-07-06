@@ -3,7 +3,7 @@
 
 📡 [RSS 订阅](https://berlinye555.github.io/cold-finder/feed.xml) | [网页浏览](https://berlinye555.github.io/cold-finder)
 
-## 🆕 今日新增 · 2026-07-05
+## 🆕 今日新增 · 2026-07-06
 
 | 分类 | 新增 | 跳转 |
 |------|:----:|------|
