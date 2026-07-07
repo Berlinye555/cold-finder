@@ -42,6 +42,12 @@
       <guid>https://www.xiaoyuzhoufm.com/episode/68c6d2e22c82c9dcca527114?utm_source=rss</guid>
     </item>
     <item>
+      <title>当 Linux 成为“空气”：容器、Agent 与不再重要的“桌面之争” - 肘子的 Swift 周报 #143</title>
+      <link>https://fatbobman.com/zh/weekly/issue-143/</link>
+      <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
+      <guid>https://fatbobman.com/zh/weekly/issue-143/</guid>
+    </item>
+    <item>
       <title>两个 SwiftUI 动画 Bug 排查小记</title>
       <link>https://fatbobman.com/zh/posts/debugging-notes-on-two-swiftui-animation-bugs/</link>
       <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
@@ -52,12 +58,6 @@
       <link>https://fatbobman.com/zh/weekly/issue-142/</link>
       <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
       <guid>https://fatbobman.com/zh/weekly/issue-142/</guid>
-    </item>
-    <item>
-      <title>Swift 还让你 Excited 吗？ - 肘子的 Swift 周报 #141</title>
-      <link>https://fatbobman.com/zh/weekly/issue-141/</link>
-      <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
-      <guid>https://fatbobman.com/zh/weekly/issue-141/</guid>
     </item>
     <item>
       <title>react-virtualized AutoSizer 实现原理详解</title>
@@ -78,6 +78,12 @@
       <guid>https://webfem.com/post/mobile-dev</guid>
     </item>
     <item>
+      <title>改进 TeleFolders 一个方便修改电报Telegram对话分组Folder的工具</title>
+      <link>https://zelikk.blogspot.com/2026/07/telefolders-en-csv.html</link>
+      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
+      <guid>https://zelikk.blogspot.com/2026/07/telefolders-en-csv.html</guid>
+    </item>
+    <item>
       <title>修改 forkgram/tdesktop 实现 设置全体群组和channel 静音 mute all</title>
       <link>https://zelikk.blogspot.com/2026/07/forkgram-tdesktop-mute-all.html</link>
       <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
@@ -90,27 +96,21 @@
       <guid>https://zelikk.blogspot.com/2026/07/forkgram-tdesktop-at-me-on-top.html</guid>
     </item>
     <item>
-      <title>修改 forkgram/tdesktop 实现不查看某人的头像</title>
-      <link>https://zelikk.blogspot.com/2026/07/forkgram-tdesktop-ban-avatar-pic.html</link>
-      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
-      <guid>https://zelikk.blogspot.com/2026/07/forkgram-tdesktop-ban-avatar-pic.html</guid>
-    </item>
-    <item>
       <title>后疫情时代下美国 CS Master 申请纪实</title>
       <link>https://halfrost.com/halfrost_2021/</link>
-      <description>后疫情时代，美国CS硕士申请纪实，留学生面临多重挑战。</description>
+      <description>后疫情时代美国CS硕士申请路，留学生如何应对挑战？</description>
       <guid>https://halfrost.com/halfrost_2021/</guid>
     </item>
     <item>
       <title>下一个五年计划起航 ！</title>
       <link>https://halfrost.com/halfrost_2020/</link>
-      <description>回顾2020，展望未来五年，共抗疫情，共筑梦想。</description>
+      <description>回顾2020，武汉抗疫，火神雷神山奇迹，见证中国力量。</description>
       <guid>https://halfrost.com/halfrost_2020/</guid>
     </item>
     <item>
       <title>面试中 LRU / LFU 的青铜与王者</title>
       <link>https://halfrost.com/lru_lfu_interview/</link>
-      <description>解析LRU和LFU缓存算法，探讨面试中的关键点。</description>
+      <description>深入剖析LRU/LFU缓存算法，面试必备！</description>
       <guid>https://halfrost.com/lru_lfu_interview/</guid>
     </item>
     <item>
@@ -206,7 +206,7 @@
     <item>
       <title>让炼丹更科学一些（七）：步长调度与权重平均</title>
       <link>https://spaces.ac.cn/archives/11804</link>
-      <description>探讨步长调度与权重平均在炼丹中的理论联系与替代可能性。</description>
+      <description>探讨学习率调度与权重平均在炼丹中的理论联系及替换可能性。</description>
       <guid>https://spaces.ac.cn/archives/11804</guid>
     </item>
     <item>
@@ -218,7 +218,7 @@
     <item>
       <title>强制间隔投影（Margin-Enforcing Projection）</title>
       <link>https://spaces.ac.cn/archives/11784</link>
-      <description>介绍一种数学运算MEP，确保分类间隔至少为m，增强分类稳健性和特征学习。</description>
+      <description>介绍一种数学运算，强制间隔投影（MEP），确保分类结果间隔至少为m。</description>
       <guid>https://spaces.ac.cn/archives/11784</guid>
     </item>
     <item>
@@ -294,15 +294,15 @@
       <guid>https://www.gtdstudy.com/posts/first-post/</guid>
     </item>
     <item>
-      <title>Vibe Coding 时代的角色与架构</title>
+      <title>Vibe Coding  时代的角色与架构</title>
       <link>https://roriri.one/2026/07/04/vibe-coding/</link>
-      <description>Vibe Coding 时代，角色与架构的重要性被重新审视。</description>
+      <description>Vibe Coding时代，各角色重要性被重新审视。</description>
       <guid>https://roriri.one/2026/07/04/vibe-coding/</guid>
     </item>
     <item>
       <title>拯救呼吸大作战</title>
       <link>https://roriri.one/2026/06/21/save-my-breath/</link>
-      <description>过敏性鼻炎患者分享通气鼻贴改善呼吸体验。</description>
+      <description>过敏性鼻炎患者分享通气鼻贴与鼻内扩张器的体验。</description>
       <guid>https://roriri.one/2026/06/21/save-my-breath/</guid>
     </item>
     <item>
@@ -320,7 +320,7 @@
     <item>
       <title>马代(2)</title>
       <link>https://lenciel.com/2026/06/maldives-2/</link>
-      <description>马代海面广阔，蓝洞和海岛标定区域，度假房静默见证潮起潮落。</description>
+      <description>马代海面广阔，蓝洞和海岛标定区域，度假房散布其间，静默承载着各种情感。</description>
       <guid>https://lenciel.com/2026/06/maldives-2/</guid>
     </item>
     <item>
@@ -422,19 +422,19 @@
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台游记：体验台州特色小吃，游览国清寺。</description>
+      <description>天台之旅，从美食到古迹，感受江南风情。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
       <title>舟山骑车游</title>
       <link>https://battlele.com/zhoushan-trip/</link>
-      <description>舟山骑车游，体验群岛城市之美。</description>
+      <description>舟山环岛骑行，探访东海云廊与波音747大飞机。</description>
       <guid>https://battlele.com/zhoushan-trip/</guid>
     </item>
     <item>
       <title>五月的上海游记</title>
       <link>https://battlele.com/mayday-sh-trip/</link>
-      <description>五一假期上海之行，体验Fitting与博物馆特展。</description>
+      <description>五一假期上海游，体验博物馆特展与城市风光。</description>
       <guid>https://battlele.com/mayday-sh-trip/</guid>
     </item>
     <item>
@@ -482,7 +482,7 @@
     <item>
       <title>How I drove a rental Mazda across America in 59 hours</title>
       <link>https://www.justzht.com/how-i-drove-a-rental-mazda-across-america-in-59-hours/</link>
-      <description>59小时横跨美国，记录自驾Mazda的Cannonball之旅。</description>
+      <description>59小时横跨美国，Mazda租车之旅视频总结。</description>
       <guid>https://www.justzht.com/how-i-drove-a-rental-mazda-across-america-in-59-hours/</guid>
     </item>
     <item>
