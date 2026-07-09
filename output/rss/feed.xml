@@ -98,20 +98,26 @@
     <item>
       <title>后疫情时代下美国 CS Master 申请纪实</title>
       <link>https://halfrost.com/halfrost_2021/</link>
-      <description>后疫情时代，美国CS Master申请困难重重，本文揭秘申请全过程。</description>
+      <description>后疫情时代，美国CS硕士申请路漫漫，本文揭秘申请难点与心得。</description>
       <guid>https://halfrost.com/halfrost_2021/</guid>
     </item>
     <item>
       <title>下一个五年计划起航 ！</title>
       <link>https://halfrost.com/halfrost_2020/</link>
-      <description>下一个五年计划起航，回顾2020年疫情与建设奇迹。</description>
+      <description>回顾2020，展望未来五年，共克时艰，共创辉煌。</description>
       <guid>https://halfrost.com/halfrost_2020/</guid>
     </item>
     <item>
       <title>面试中 LRU / LFU 的青铜与王者</title>
       <link>https://halfrost.com/lru_lfu_interview/</link>
-      <description>深入解析LRU/LFU缓存淘汰算法，揭秘面试中的青铜与王者。</description>
+      <description>深入解析LRU和LFU缓存算法，揭秘面试中的关键技巧。</description>
       <guid>https://halfrost.com/lru_lfu_interview/</guid>
+    </item>
+    <item>
+      <title>有时候我也忍不住想要找个老公</title>
+      <link>https://www.hecaitou.com/2026/07/sometimes-i-too-want-a-husband.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/07/sometimes-i-too-want-a-husband.html</guid>
     </item>
     <item>
       <title>浪人无所依</title>
@@ -124,12 +130,6 @@
       <link>https://www.hecaitou.com/2026/07/after-an-unsatisfactory-exam.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/07/after-an-unsatisfactory-exam.html</guid>
-    </item>
-    <item>
-      <title>给了孩子就是他的</title>
-      <link>https://www.hecaitou.com/2026/07/once-given-its-theirs.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/07/once-given-its-theirs.html</guid>
     </item>
     <item>
       <title>是微服务架构不香还是云不香？</title>
@@ -206,19 +206,19 @@
     <item>
       <title>让炼丹更科学一些（七）：步长调度与权重平均</title>
       <link>https://spaces.ac.cn/archives/11804</link>
-      <description>探讨步长调度与权重平均在炼丹中的理论联系及替代可能性。</description>
+      <description>探讨学习率调度与权重平均在炼丹中的理论联系及替代可能性。</description>
       <guid>https://spaces.ac.cn/archives/11804</guid>
     </item>
     <item>
       <title>矩阵函数近似中的暴力美学</title>
       <link>https://spaces.ac.cn/archives/11787</link>
-      <description>本文提出矩阵函数通用近似框架，解决现有方法适用性局限。</description>
+      <description>本文提出矩阵函数通用近似框架，突破有理次方计算局限。</description>
       <guid>https://spaces.ac.cn/archives/11787</guid>
     </item>
     <item>
       <title>强制间隔投影（Margin-Enforcing Projection）</title>
       <link>https://spaces.ac.cn/archives/11784</link>
-      <description>介绍一种数学运算，强制间隔投影（MEP），用于提高分类结果的稳定性和检索准确性。</description>
+      <description>介绍一种数学运算MEP，确保分类间隔至少为m，提升分类稳健性与特征学习效果。</description>
       <guid>https://spaces.ac.cn/archives/11784</guid>
     </item>
     <item>
@@ -302,14 +302,20 @@
     <item>
       <title>拯救呼吸大作战</title>
       <link>https://roriri.one/2026/06/21/save-my-breath/</link>
-      <description>过敏性鼻炎患者分享通气鼻贴和鼻内扩张器的使用体验。</description>
+      <description>过敏性鼻炎患者分享通气鼻贴与鼻内扩张器的使用体验。</description>
       <guid>https://roriri.one/2026/06/21/save-my-breath/</guid>
     </item>
     <item>
       <title>回火星</title>
       <link>https://roriri.one/2026/06/20/back-to-mars/</link>
-      <description>煎蛋论坛煎包下线，网友备份复刻，回忆满满。</description>
+      <description>煎蛋论坛煎包复刻，见证互联网社区老去。</description>
       <guid>https://roriri.one/2026/06/20/back-to-mars/</guid>
+    </item>
+    <item>
+      <title>苹果的电源</title>
+      <link>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</link>
+      <description>乔布斯传记中提及的电源设计工程师Rod Holt，因苹果电源设计而闻名。</description>
+      <guid>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</guid>
     </item>
     <item>
       <title>彩云易散</title>
@@ -320,14 +326,8 @@
     <item>
       <title>马代(2)</title>
       <link>https://lenciel.com/2026/06/maldives-2/</link>
-      <description>马代海面广阔，蓝洞与海岛界定区域，度假村静谧见证潮起潮落。</description>
+      <description>马代海面无差别，蓝洞与海岛定区域，度假房沉默见证潮起潮落。</description>
       <guid>https://lenciel.com/2026/06/maldives-2/</guid>
-    </item>
-    <item>
-      <title>马代(1)</title>
-      <link>https://lenciel.com/2026/04/maldives-1/</link>
-      <description/>
-      <guid>https://lenciel.com/2026/04/maldives-1/</guid>
     </item>
     <item>
       <title>2025 重新定义的生活</title>
@@ -422,19 +422,19 @@
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台游记：体验当地美食，探访国清寺，享受悠闲假期。</description>
+      <description>天台游记：体验台州美食与文化，畅游国清寺。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
       <title>舟山骑车游</title>
       <link>https://battlele.com/zhoushan-trip/</link>
-      <description>舟山群岛骑车游，体验独特海岛风情。</description>
+      <description>舟山群岛骑行，体验东海云廊美景与波音747大飞机。</description>
       <guid>https://battlele.com/zhoushan-trip/</guid>
     </item>
     <item>
       <title>五月的上海游记</title>
       <link>https://battlele.com/mayday-sh-trip/</link>
-      <description>五一假期上海之行，体验博物馆特展与城市风情。</description>
+      <description>五一假期上海游，体验博物馆特展与城市风光。</description>
       <guid>https://battlele.com/mayday-sh-trip/</guid>
     </item>
     <item>
@@ -476,38 +476,38 @@
     <item>
       <title>2026.7.5</title>
       <link>https://www.justzht.com/2026-7-5/</link>
-      <description>2026.7.5</description>
+      <description>凌晨三点，极乐迪斯科引发人生思考。</description>
       <guid>https://www.justzht.com/2026-7-5/</guid>
     </item>
     <item>
       <title>How I drove a rental Mazda across America in 59 hours</title>
       <link>https://www.justzht.com/how-i-drove-a-rental-mazda-across-america-in-59-hours/</link>
-      <description>59小时横跨美国，租车自驾之旅精彩总结。</description>
+      <description>59小时横跨美国，记录自驾Mazda的cannonball之旅。</description>
       <guid>https://www.justzht.com/how-i-drove-a-rental-mazda-across-america-in-59-hours/</guid>
     </item>
     <item>
       <title>2026.6.24</title>
       <link>https://www.justzht.com/2026-6-24/</link>
-      <description>59小时横跨美国，单车自驾之旅。</description>
+      <description>59小时单人横跨美国，记录难忘的Cannonball之旅。</description>
       <guid>https://www.justzht.com/2026-6-24/</guid>
+    </item>
+    <item>
+      <title>20260708的胡言乱语</title>
+      <link>https://www.bboy.app/2026/07/08/20260708%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/</link>
+      <description>描述：一个分享个人见解、关注项目更新和技术文章的博客。</description>
+      <guid>https://www.bboy.app/2026/07/08/20260708%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/</guid>
+    </item>
+    <item>
+      <title>Random Thoughts - 20260708</title>
+      <link>https://www.bboy.app/2026/07/08/random-thoughts-20260708/</link>
+      <description>描述：一个分享个人见解、关注项目更新和技术文章的博客。</description>
+      <guid>https://www.bboy.app/2026/07/08/random-thoughts-20260708/</guid>
     </item>
     <item>
       <title>Random Thoughts - 20260702</title>
       <link>https://www.bboy.app/2026/07/02/random-thoughts-20260702/</link>
       <description>描述：一个分享个人见解、关注项目更新和技术文章的博客。</description>
       <guid>https://www.bboy.app/2026/07/02/random-thoughts-20260702/</guid>
-    </item>
-    <item>
-      <title>20260702的胡言乱语</title>
-      <link>https://www.bboy.app/2026/07/02/20260702%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/</link>
-      <description>描述：一个分享个人见解、关注项目更新和技术文章的博客。</description>
-      <guid>https://www.bboy.app/2026/07/02/20260702%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/</guid>
-    </item>
-    <item>
-      <title>20260622的胡言乱语</title>
-      <link>https://www.bboy.app/2026/06/22/20260622%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/</link>
-      <description>描述：一个分享个人见解、关注项目更新和技术文章的博客。</description>
-      <guid>https://www.bboy.app/2026/06/22/20260622%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/</guid>
     </item>
     <item>
       <title>AI 时代，我为什么还要写一个自己的工具箱</title>
