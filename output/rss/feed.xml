@@ -6,6 +6,12 @@
     <description>精选自 605 个中文博客 + GitHub 日榜</description>
     <language>zh-CN</language>
     <item>
+      <title>前端快讯：setHTML()和Element.startViewTransition已支持</title>
+      <link>https://www.zhangxinxu.com/wordpress/2026/07/sethtml-element-startviewtransition/</link>
+      <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
+      <guid>https://www.zhangxinxu.com/wordpress/2026/07/sethtml-element-startviewtransition/</guid>
+    </item>
+    <item>
       <title>AI时代网站智能体无障碍访问开发指南</title>
       <link>https://www.zhangxinxu.com/wordpress/2026/07/ai-agent-accessible-guide/</link>
       <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
@@ -16,12 +22,6 @@
       <link>https://www.zhangxinxu.com/wordpress/2026/06/native-json-module-import/</link>
       <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
       <guid>https://www.zhangxinxu.com/wordpress/2026/06/native-json-module-import/</guid>
-    </item>
-    <item>
-      <title>CSS color-scheme属性与light-dark()颜色函数</title>
-      <link>https://www.zhangxinxu.com/wordpress/2026/06/css-color-theme-light-dark-function/</link>
-      <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
-      <guid>https://www.zhangxinxu.com/wordpress/2026/06/css-color-theme-light-dark-function/</guid>
     </item>
     <item>
       <title>看完凡人真人版！韩立的性格狠点+师傅阵容，越聊越燃</title>
@@ -78,6 +78,12 @@
       <guid>https://webfem.com/post/mobile-dev</guid>
     </item>
     <item>
+      <title>TeleFolders 一个方便修改电报Telegram对话分组Folder的工具 功能简介</title>
+      <link>https://zelikk.blogspot.com/2026/07/telefolders.html</link>
+      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
+      <guid>https://zelikk.blogspot.com/2026/07/telefolders.html</guid>
+    </item>
+    <item>
       <title>改进 TeleFolders 一个方便修改电报Telegram对话分组Folder的工具</title>
       <link>https://zelikk.blogspot.com/2026/07/telefolders-en-csv.html</link>
       <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
@@ -90,28 +96,28 @@
       <guid>https://zelikk.blogspot.com/2026/07/forkgram-tdesktop-mute-all.html</guid>
     </item>
     <item>
-      <title>修改 forkgram/tdesktop 实现 有@我消息的群 置顶 效果和PrimaryUnmutedMessages一样</title>
-      <link>https://zelikk.blogspot.com/2026/07/forkgram-tdesktop-at-me-on-top.html</link>
-      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
-      <guid>https://zelikk.blogspot.com/2026/07/forkgram-tdesktop-at-me-on-top.html</guid>
-    </item>
-    <item>
       <title>后疫情时代下美国 CS Master 申请纪实</title>
       <link>https://halfrost.com/halfrost_2021/</link>
-      <description>后疫情时代，美国CS硕士申请路漫漫，本文揭秘申请难点与心得。</description>
+      <description>后疫情时代，美国CS Master申请路漫漫，本文揭秘申请全攻略。</description>
       <guid>https://halfrost.com/halfrost_2021/</guid>
     </item>
     <item>
       <title>下一个五年计划起航 ！</title>
       <link>https://halfrost.com/halfrost_2020/</link>
-      <description>回顾2020，展望未来五年，共克时艰，共创辉煌。</description>
+      <description>回顾2020，展望新五年，共抗疫情，共建家园。</description>
       <guid>https://halfrost.com/halfrost_2020/</guid>
     </item>
     <item>
       <title>面试中 LRU / LFU 的青铜与王者</title>
       <link>https://halfrost.com/lru_lfu_interview/</link>
-      <description>深入解析LRU和LFU缓存算法，揭秘面试中的关键技巧。</description>
+      <description>解析LRU与LFU缓存算法，揭秘面试难题。</description>
       <guid>https://halfrost.com/lru_lfu_interview/</guid>
+    </item>
+    <item>
+      <title>你不能总是把考试放在生命的正中</title>
+      <link>https://www.hecaitou.com/2026/07/you-cant-always-put-exams-at-the-center-of-your-life.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/07/you-cant-always-put-exams-at-the-center-of-your-life.html</guid>
     </item>
     <item>
       <title>有时候我也忍不住想要找个老公</title>
@@ -124,12 +130,6 @@
       <link>https://www.hecaitou.com/2026/07/nowhere-to-lean-nowhere-to-belong.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/07/nowhere-to-lean-nowhere-to-belong.html</guid>
-    </item>
-    <item>
-      <title>考得不理想之后</title>
-      <link>https://www.hecaitou.com/2026/07/after-an-unsatisfactory-exam.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/07/after-an-unsatisfactory-exam.html</guid>
     </item>
     <item>
       <title>是微服务架构不香还是云不香？</title>
@@ -168,16 +168,16 @@
       <guid>http://blog.youxu.info/2021/11/01/after-fire/</guid>
     </item>
     <item>
+      <title>Latest post on Threads：2026.07.09</title>
+      <link>https://www.changhai.org/articles/miscellaneous/eblog/202605.php#latest</link>
+      <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
+      <guid>https://www.changhai.org/articles/miscellaneous/eblog/202605.php#latest</guid>
+    </item>
+    <item>
       <title>最新微博：2026 年 7 月 7 日</title>
       <link>https://www.changhai.org/articles/miscellaneous/blog/202607.php#latest</link>
       <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
       <guid>https://www.changhai.org/articles/miscellaneous/blog/202607.php#latest</guid>
-    </item>
-    <item>
-      <title>Latest post on Threads：2026.07.02</title>
-      <link>https://www.changhai.org/articles/miscellaneous/eblog/202605.php#latest</link>
-      <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
-      <guid>https://www.changhai.org/articles/miscellaneous/eblog/202605.php#latest</guid>
     </item>
     <item>
       <title>微言小义 (2026.05 - 2026.06)</title>
@@ -212,13 +212,13 @@
     <item>
       <title>矩阵函数近似中的暴力美学</title>
       <link>https://spaces.ac.cn/archives/11787</link>
-      <description>本文提出矩阵函数通用近似框架，突破有理次方计算局限。</description>
+      <description>矩阵函数近似中的暴力美学</description>
       <guid>https://spaces.ac.cn/archives/11787</guid>
     </item>
     <item>
       <title>强制间隔投影（Margin-Enforcing Projection）</title>
       <link>https://spaces.ac.cn/archives/11784</link>
-      <description>介绍一种数学运算MEP，确保分类间隔至少为m，提升分类稳健性与特征学习效果。</description>
+      <description>介绍一种数学运算MEP，通过强制间隔提升分类结果的稳健性。</description>
       <guid>https://spaces.ac.cn/archives/11784</guid>
     </item>
     <item>
@@ -294,6 +294,12 @@
       <guid>https://www.gtdstudy.com/posts/first-post/</guid>
     </item>
     <item>
+      <title>Sneakerweb：互联网的脆弱与韧性</title>
+      <link>https://roriri.one/2026/07/09/sneakerweb/</link>
+      <description>探讨互联网内容传播的脆弱与韧性，以古巴离线内容系统为例。</description>
+      <guid>https://roriri.one/2026/07/09/sneakerweb/</guid>
+    </item>
+    <item>
       <title>Vibe Coding  时代的角色与架构</title>
       <link>https://roriri.one/2026/07/04/vibe-coding/</link>
       <description>Vibe Coding 时代，产品研发流程中每个角色都至关重要。</description>
@@ -302,14 +308,8 @@
     <item>
       <title>拯救呼吸大作战</title>
       <link>https://roriri.one/2026/06/21/save-my-breath/</link>
-      <description>过敏性鼻炎患者分享通气鼻贴与鼻内扩张器的使用体验。</description>
+      <description>过敏性鼻炎患者分享通气鼻贴和鼻内扩张器的使用体验。</description>
       <guid>https://roriri.one/2026/06/21/save-my-breath/</guid>
-    </item>
-    <item>
-      <title>回火星</title>
-      <link>https://roriri.one/2026/06/20/back-to-mars/</link>
-      <description>煎蛋论坛煎包复刻，见证互联网社区老去。</description>
-      <guid>https://roriri.one/2026/06/20/back-to-mars/</guid>
     </item>
     <item>
       <title>苹果的电源</title>
@@ -326,7 +326,7 @@
     <item>
       <title>马代(2)</title>
       <link>https://lenciel.com/2026/06/maldives-2/</link>
-      <description>马代海面无差别，蓝洞与海岛定区域，度假房沉默见证潮起潮落。</description>
+      <description>马代海面广阔，蓝洞和海岛点缀，度假村静谧见证潮起潮落。</description>
       <guid>https://lenciel.com/2026/06/maldives-2/</guid>
     </item>
     <item>
@@ -422,19 +422,19 @@
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台游记：体验台州美食与文化，畅游国清寺。</description>
+      <description>天台游记：体验台州美食与国清寺古韵。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
       <title>舟山骑车游</title>
       <link>https://battlele.com/zhoushan-trip/</link>
-      <description>舟山群岛骑行，体验东海云廊美景与波音747大飞机。</description>
+      <description>舟山群岛骑车游，体验东海云廊美景与波音747大飞机。</description>
       <guid>https://battlele.com/zhoushan-trip/</guid>
     </item>
     <item>
       <title>五月的上海游记</title>
       <link>https://battlele.com/mayday-sh-trip/</link>
-      <description>五一假期上海游，体验博物馆特展与城市风光。</description>
+      <description>五一上海游，体验博物馆特展与城市风光。</description>
       <guid>https://battlele.com/mayday-sh-trip/</guid>
     </item>
     <item>
@@ -476,19 +476,19 @@
     <item>
       <title>2026.7.5</title>
       <link>https://www.justzht.com/2026-7-5/</link>
-      <description>凌晨三点，极乐迪斯科引发人生思考。</description>
+      <description>周日凌晨，反思生活与创作，游戏中的复杂对话系统引发灵感。</description>
       <guid>https://www.justzht.com/2026-7-5/</guid>
     </item>
     <item>
       <title>How I drove a rental Mazda across America in 59 hours</title>
       <link>https://www.justzht.com/how-i-drove-a-rental-mazda-across-america-in-59-hours/</link>
-      <description>59小时横跨美国，记录自驾Mazda的cannonball之旅。</description>
+      <description>59小时横跨美国，记录自驾Mazda的Cannonball之旅。</description>
       <guid>https://www.justzht.com/how-i-drove-a-rental-mazda-across-america-in-59-hours/</guid>
     </item>
     <item>
       <title>2026.6.24</title>
       <link>https://www.justzht.com/2026-6-24/</link>
-      <description>59小时单人横跨美国，记录难忘的Cannonball之旅。</description>
+      <description>2026.6.24</description>
       <guid>https://www.justzht.com/2026-6-24/</guid>
     </item>
     <item>
