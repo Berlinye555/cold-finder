@@ -98,19 +98,19 @@
     <item>
       <title>后疫情时代下美国 CS Master 申请纪实</title>
       <link>https://halfrost.com/halfrost_2021/</link>
-      <description>后疫情时代，美国CS Master申请困难重重，本文揭秘申请全过程。</description>
+      <description>后疫情时代，中美关系紧张，美国CS Master申请纪实。</description>
       <guid>https://halfrost.com/halfrost_2021/</guid>
     </item>
     <item>
       <title>下一个五年计划起航 ！</title>
       <link>https://halfrost.com/halfrost_2020/</link>
-      <description>五年计划启航，回顾2020疫情与建设奇迹。</description>
+      <description>回顾2020，展望未来五年，共抗疫情，共建家园。</description>
       <guid>https://halfrost.com/halfrost_2020/</guid>
     </item>
     <item>
       <title>面试中 LRU / LFU 的青铜与王者</title>
       <link>https://halfrost.com/lru_lfu_interview/</link>
-      <description>剖析LRU/LFU缓存算法，面试必备技巧。</description>
+      <description>深入解析LRU/LFU缓存算法，面试必备！</description>
       <guid>https://halfrost.com/lru_lfu_interview/</guid>
     </item>
     <item>
@@ -132,6 +132,12 @@
       <guid>http://www.ruanyifeng.com/blog/2026/06/anthropic.html</guid>
     </item>
     <item>
+      <title>今天取消了Tidal订阅</title>
+      <link>https://www.hecaitou.com/2026/07/canceling-my-tidal-subscription.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/07/canceling-my-tidal-subscription.html</guid>
+    </item>
+    <item>
       <title>抛弃糟糠妻与剑斩意中人</title>
       <link>https://www.hecaitou.com/2026/07/abandoning-wife-of-adversity-slaying-beloved.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
@@ -142,12 +148,6 @@
       <link>https://www.hecaitou.com/2026/07/you-cant-always-put-exams-at-the-center-of-your-life.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/07/you-cant-always-put-exams-at-the-center-of-your-life.html</guid>
-    </item>
-    <item>
-      <title>有时候我也忍不住想要找个老公</title>
-      <link>https://www.hecaitou.com/2026/07/sometimes-i-too-want-a-husband.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/07/sometimes-i-too-want-a-husband.html</guid>
     </item>
     <item>
       <title>是微服务架构不香还是云不香？</title>
@@ -224,19 +224,19 @@
     <item>
       <title>让炼丹更科学一些（七）：步长调度与权重平均</title>
       <link>https://spaces.ac.cn/archives/11804</link>
-      <description>探讨学习率调度与权重平均在炼丹中的理论联系及替代可能性。</description>
+      <description>探索步长调度与权重平均在炼丹中的理论联系与替换可能性。</description>
       <guid>https://spaces.ac.cn/archives/11804</guid>
     </item>
     <item>
       <title>矩阵函数近似中的暴力美学</title>
       <link>https://spaces.ac.cn/archives/11787</link>
-      <description>本文提出矩阵函数近似通用框架，突破传统方法局限。</description>
+      <description>本文提出一种适用于任意矩阵函数的通用近似框架，突破传统计算限制。</description>
       <guid>https://spaces.ac.cn/archives/11787</guid>
     </item>
     <item>
       <title>强制间隔投影（Margin-Enforcing Projection）</title>
       <link>https://spaces.ac.cn/archives/11784</link>
-      <description>介绍了一种名为MEP的数学运算，用于增强分类结果的间隔。</description>
+      <description>介绍了一种名为强制间隔投影的数学运算，用于提高分类结果的稳定性和特征学习效果。</description>
       <guid>https://spaces.ac.cn/archives/11784</guid>
     </item>
     <item>
@@ -314,13 +314,13 @@
     <item>
       <title>Sneakerweb：互联网的脆弱与韧性</title>
       <link>https://roriri.one/2026/07/09/sneakerweb/</link>
-      <description>互联网内容传播的演变与古巴离线内容系统的启示。</description>
+      <description>探讨互联网内容传播的脆弱与韧性，以古巴离线内容系统为例。</description>
       <guid>https://roriri.one/2026/07/09/sneakerweb/</guid>
     </item>
     <item>
       <title>Vibe Coding  时代的角色与架构</title>
       <link>https://roriri.one/2026/07/04/vibe-coding/</link>
-      <description>Vibe Coding 时代，架构劣化导致需求变更引发工程挑战。</description>
+      <description>Vibe Coding 时代，各角色重要性被重新审视。</description>
       <guid>https://roriri.one/2026/07/04/vibe-coding/</guid>
     </item>
     <item>
@@ -332,7 +332,7 @@
     <item>
       <title>苹果的电源</title>
       <link>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</link>
-      <description>Rod Holt，苹果电源设计工程师，因乔布斯传记而闻名。</description>
+      <description>Rod Holt因苹果电源设计闻名，被多次提及于乔布斯传记及相关书籍。</description>
       <guid>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</guid>
     </item>
     <item>
@@ -344,7 +344,7 @@
     <item>
       <title>马代(2)</title>
       <link>https://lenciel.com/2026/06/maldives-2/</link>
-      <description>马代海面简单复制，蓝洞与海岛标定区域，度假房沉默宣誓包容。</description>
+      <description>马代海面一望无际，蓝洞与度假岛点缀其中，静谧中透着无限包容。</description>
       <guid>https://lenciel.com/2026/06/maldives-2/</guid>
     </item>
     <item>
@@ -440,19 +440,19 @@
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台之旅，品美食，游名寺，感受江南风情。</description>
+      <description>天台游记：体验台州天台，品尝特色小吃，游览国清寺。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
       <title>舟山骑车游</title>
       <link>https://battlele.com/zhoushan-trip/</link>
-      <description>舟山群岛骑车游，体验东海云廊美景与波音747大飞机。</description>
+      <description>舟山群岛骑行，体验东海云廊美景与波音747大飞机。</description>
       <guid>https://battlele.com/zhoushan-trip/</guid>
     </item>
     <item>
       <title>五月的上海游记</title>
       <link>https://battlele.com/mayday-sh-trip/</link>
-      <description>五一假期上海游，体验Fitting回访与博物馆特展。</description>
+      <description>五一假期上海行，体验Fitting与博物馆特展。</description>
       <guid>https://battlele.com/mayday-sh-trip/</guid>
     </item>
     <item>
@@ -494,19 +494,19 @@
     <item>
       <title>2026.7.5</title>
       <link>https://www.justzht.com/2026-7-5/</link>
-      <description>周日凌晨，玩家反思生活与游戏，设想人生模拟游戏。</description>
+      <description>周日凌晨，宅家思考人生与游戏设计。</description>
       <guid>https://www.justzht.com/2026-7-5/</guid>
     </item>
     <item>
       <title>How I drove a rental Mazda across America in 59 hours</title>
       <link>https://www.justzht.com/how-i-drove-a-rental-mazda-across-america-in-59-hours/</link>
-      <description>59小时横跨美国，记录自驾Mazda的冒险之旅。</description>
+      <description>59小时横跨美国，记录自驾Mazda的Cannonball之旅。</description>
       <guid>https://www.justzht.com/how-i-drove-a-rental-mazda-across-america-in-59-hours/</guid>
     </item>
     <item>
       <title>2026.6.24</title>
       <link>https://www.justzht.com/2026-6-24/</link>
-      <description>59小时单人横跨美国，体验独特自驾之旅。</description>
+      <description>59小时单人自驾横跨美国，体验独特旅行。</description>
       <guid>https://www.justzht.com/2026-6-24/</guid>
     </item>
     <item>
