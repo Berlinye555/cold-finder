@@ -42,6 +42,12 @@
       <guid>https://www.xiaoyuzhoufm.com/episode/68c6d2e22c82c9dcca527114?utm_source=rss</guid>
     </item>
     <item>
+      <title>当每一次写入都有了新价格 - 肘子的 Swift 周报 #144</title>
+      <link>https://fatbobman.com/zh/weekly/issue-144/</link>
+      <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
+      <guid>https://fatbobman.com/zh/weekly/issue-144/</guid>
+    </item>
+    <item>
       <title>当 Linux 成为“空气”：容器、Agent 与不再重要的“桌面之争” - 肘子的 Swift 周报 #143</title>
       <link>https://fatbobman.com/zh/weekly/issue-143/</link>
       <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
@@ -52,12 +58,6 @@
       <link>https://fatbobman.com/zh/posts/debugging-notes-on-two-swiftui-animation-bugs/</link>
       <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
       <guid>https://fatbobman.com/zh/posts/debugging-notes-on-two-swiftui-animation-bugs/</guid>
-    </item>
-    <item>
-      <title>SPI 加入 Apple，Swift 迈向自举 - 肘子的 Swift 周报 #142</title>
-      <link>https://fatbobman.com/zh/weekly/issue-142/</link>
-      <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
-      <guid>https://fatbobman.com/zh/weekly/issue-142/</guid>
     </item>
     <item>
       <title>react-virtualized AutoSizer 实现原理详解</title>
@@ -78,6 +78,12 @@
       <guid>https://webfem.com/post/mobile-dev</guid>
     </item>
     <item>
+      <title>从forkgram/tdesktop github action编译 win10 amd64 二进制文件 v6.9.4</title>
+      <link>https://zelikk.blogspot.com/2026/07/forkgram-tdesktop-github-action-win10-amd64-v694.html</link>
+      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
+      <guid>https://zelikk.blogspot.com/2026/07/forkgram-tdesktop-github-action-win10-amd64-v694.html</guid>
+    </item>
+    <item>
       <title>TeleFolders 一个方便修改电报Telegram对话分组Folder的工具 功能简介</title>
       <link>https://zelikk.blogspot.com/2026/07/telefolders.html</link>
       <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
@@ -90,27 +96,21 @@
       <guid>https://zelikk.blogspot.com/2026/07/telefolders-en-csv.html</guid>
     </item>
     <item>
-      <title>修改 forkgram/tdesktop 实现 设置全体群组和channel 静音 mute all</title>
-      <link>https://zelikk.blogspot.com/2026/07/forkgram-tdesktop-mute-all.html</link>
-      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
-      <guid>https://zelikk.blogspot.com/2026/07/forkgram-tdesktop-mute-all.html</guid>
-    </item>
-    <item>
       <title>后疫情时代下美国 CS Master 申请纪实</title>
       <link>https://halfrost.com/halfrost_2021/</link>
-      <description>后疫情时代美国CS硕士申请困难重重，本文揭秘申请全流程与心得。</description>
+      <description>后疫情时代，中美关系影响下，美国CS硕士申请的艰难历程。</description>
       <guid>https://halfrost.com/halfrost_2021/</guid>
     </item>
     <item>
       <title>下一个五年计划起航 ！</title>
       <link>https://halfrost.com/halfrost_2020/</link>
-      <description>回顾2020，武汉抗疫，火神山雷神山奇迹诞生。</description>
+      <description>回顾2020，展望下一个五年计划，共克时艰，共建美好未来。</description>
       <guid>https://halfrost.com/halfrost_2020/</guid>
     </item>
     <item>
       <title>面试中 LRU / LFU 的青铜与王者</title>
       <link>https://halfrost.com/lru_lfu_interview/</link>
-      <description>解析LRU和LFU缓存算法，探讨面试中的关键点。</description>
+      <description>深入解析LRU/LFU缓存算法，面试必备！</description>
       <guid>https://halfrost.com/lru_lfu_interview/</guid>
     </item>
     <item>
@@ -132,6 +132,12 @@
       <guid>http://www.ruanyifeng.com/blog/2026/06/anthropic.html</guid>
     </item>
     <item>
+      <title>拆解一瞬间的心念</title>
+      <link>https://www.hecaitou.com/2026/07/deconstructing-a-fleeting-thought.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/07/deconstructing-a-fleeting-thought.html</guid>
+    </item>
+    <item>
       <title>菜文太硬</title>
       <link>https://www.hecaitou.com/2026/07/My-Stiff-Writing.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
@@ -142,12 +148,6 @@
       <link>https://www.hecaitou.com/2026/07/canceling-my-tidal-subscription.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/07/canceling-my-tidal-subscription.html</guid>
-    </item>
-    <item>
-      <title>抛弃糟糠妻与剑斩意中人</title>
-      <link>https://www.hecaitou.com/2026/07/abandoning-wife-of-adversity-slaying-beloved.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/07/abandoning-wife-of-adversity-slaying-beloved.html</guid>
     </item>
     <item>
       <title>是微服务架构不香还是云不香？</title>
@@ -222,6 +222,12 @@
       <guid>http://weiwuhui.com/10680.html</guid>
     </item>
     <item>
+      <title>LogSumExp和Softmax的泰勒展开</title>
+      <link>https://spaces.ac.cn/archives/11814</link>
+      <description>论文分析Softmax线性化Attention，泰勒展开有新收获。</description>
+      <guid>https://spaces.ac.cn/archives/11814</guid>
+    </item>
+    <item>
       <title>让炼丹更科学一些（七）：步长调度与权重平均</title>
       <link>https://spaces.ac.cn/archives/11804</link>
       <description>探讨学习率调度与权重平均在炼丹中的理论联系及替代可能性。</description>
@@ -230,14 +236,8 @@
     <item>
       <title>矩阵函数近似中的暴力美学</title>
       <link>https://spaces.ac.cn/archives/11787</link>
-      <description>本文提出矩阵函数通用近似框架，突破有理次方限制。</description>
+      <description>本文提出矩阵函数通用近似框架，突破有理次方计算局限。</description>
       <guid>https://spaces.ac.cn/archives/11787</guid>
-    </item>
-    <item>
-      <title>强制间隔投影（Margin-Enforcing Projection）</title>
-      <link>https://spaces.ac.cn/archives/11784</link>
-      <description>介绍一种名为强制间隔投影的数学运算，确保分类结果间隔至少为m。</description>
-      <guid>https://spaces.ac.cn/archives/11784</guid>
     </item>
     <item>
       <title>读《置身钉内》后的一些感受</title>
@@ -294,6 +294,12 @@
       <guid>https://greatdk.com/2113.html</guid>
     </item>
     <item>
+      <title>没有了 Shell，Ghost 什么也不是</title>
+      <link>https://www.gtdstudy.com/posts/without-shell-ghost-is-nothing/</link>
+      <description/>
+      <guid>https://www.gtdstudy.com/posts/without-shell-ghost-is-nothing/</guid>
+    </item>
+    <item>
       <title>在等待 AI 的时候，干些什么好？</title>
       <link>https://www.gtdstudy.com/posts/2026-04-05-to-be-human/</link>
       <description/>
@@ -306,21 +312,15 @@
       <guid>https://www.gtdstudy.com/posts/2026-03-16-about-speed/</guid>
     </item>
     <item>
-      <title>谈谈写信</title>
-      <link>https://www.gtdstudy.com/posts/first-post/</link>
-      <description/>
-      <guid>https://www.gtdstudy.com/posts/first-post/</guid>
-    </item>
-    <item>
       <title>Sneakerweb：互联网的脆弱与韧性</title>
       <link>https://roriri.one/2026/07/09/sneakerweb/</link>
-      <description>探讨互联网内容传输的演变，从史前时代到现代的挑战与机遇。</description>
+      <description>探讨互联网内容的传播与存储，从史前到现代的演变。</description>
       <guid>https://roriri.one/2026/07/09/sneakerweb/</guid>
     </item>
     <item>
       <title>Vibe Coding  时代的角色与架构</title>
       <link>https://roriri.one/2026/07/04/vibe-coding/</link>
-      <description>Vibe Coding 时代，产品研发流程中每个角色的重要性。</description>
+      <description>Vibe Coding时代，各角色重要性被重新审视。</description>
       <guid>https://roriri.one/2026/07/04/vibe-coding/</guid>
     </item>
     <item>
@@ -332,7 +332,7 @@
     <item>
       <title>苹果的电源</title>
       <link>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</link>
-      <description>Rod Holt，苹果电源设计工程师，虽未获乔布斯赞誉，却因其在苹果书籍中被提及而闻名。</description>
+      <description>乔布斯传记中，电源设计工程师Rod Holt因苹果电源设计而闻名。</description>
       <guid>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</guid>
     </item>
     <item>
@@ -344,7 +344,7 @@
     <item>
       <title>马代(2)</title>
       <link>https://lenciel.com/2026/06/maldives-2/</link>
-      <description>马代海面无差别，蓝洞海岛定区域，度假屋沉默宣誓包容。</description>
+      <description>马代海面如镜，蓝洞与岛屿勾勒独特航线，度假村静默见证潮起潮落。</description>
       <guid>https://lenciel.com/2026/06/maldives-2/</guid>
     </item>
     <item>
@@ -440,19 +440,19 @@
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台游记：体验台州美食与国清寺的宁静。</description>
+      <description>天台游记：探秘台州天台，品尝特色小吃，游览国清寺。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
       <title>舟山骑车游</title>
       <link>https://battlele.com/zhoushan-trip/</link>
-      <description>舟山群岛骑车游，体验海天佛国美景与波音747大飞机。</description>
+      <description>舟山群岛骑行，体验东海云廊美景与波音747大飞机。</description>
       <guid>https://battlele.com/zhoushan-trip/</guid>
     </item>
     <item>
       <title>五月的上海游记</title>
       <link>https://battlele.com/mayday-sh-trip/</link>
-      <description>五一假期上海行，体验Fitting回访与博物馆特展。</description>
+      <description>五一假期上海游，体验博物馆特展与城市风光。</description>
       <guid>https://battlele.com/mayday-sh-trip/</guid>
     </item>
     <item>
@@ -492,22 +492,22 @@
       <guid>https://s5s5.me/4292</guid>
     </item>
     <item>
+      <title>2026.7.12</title>
+      <link>https://www.justzht.com/2026-7-12/</link>
+      <description>周四购得Polaroid相机，周末与友共赏云海。</description>
+      <guid>https://www.justzht.com/2026-7-12/</guid>
+    </item>
+    <item>
       <title>2026.7.5</title>
       <link>https://www.justzht.com/2026-7-5/</link>
-      <description>周日凌晨，宅家思考人生与游戏设计。</description>
+      <description>凌晨三点，嗜睡与游戏间度过国庆，反思人生与游戏设计。</description>
       <guid>https://www.justzht.com/2026-7-5/</guid>
     </item>
     <item>
       <title>How I drove a rental Mazda across America in 59 hours</title>
       <link>https://www.justzht.com/how-i-drove-a-rental-mazda-across-america-in-59-hours/</link>
-      <description>59小时横跨美国，Mazda租车之旅完美落幕。</description>
+      <description>59小时横跨美国，记录自驾Mazda的旅程总结。</description>
       <guid>https://www.justzht.com/how-i-drove-a-rental-mazda-across-america-in-59-hours/</guid>
-    </item>
-    <item>
-      <title>2026.6.24</title>
-      <link>https://www.justzht.com/2026-6-24/</link>
-      <description>59小时单人横跨美国，记录我的Cannonball之旅。</description>
-      <guid>https://www.justzht.com/2026-6-24/</guid>
     </item>
     <item>
       <title>20260708的胡言乱语</title>
