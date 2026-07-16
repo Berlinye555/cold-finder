@@ -98,19 +98,19 @@
     <item>
       <title>后疫情时代下美国 CS Master 申请纪实</title>
       <link>https://halfrost.com/halfrost_2021/</link>
-      <description>后疫情时代，美国CS硕士申请路漫漫，留学生如何应对挑战？</description>
+      <description>后疫情时代，美国CS Master申请路漫漫，本文揭秘申请全过程。</description>
       <guid>https://halfrost.com/halfrost_2021/</guid>
     </item>
     <item>
       <title>下一个五年计划起航 ！</title>
       <link>https://halfrost.com/halfrost_2020/</link>
-      <description>下一个五年计划启航，回顾2020疫情挑战与火神山、雷神山奇迹。</description>
+      <description>回顾2020，展望新五年，共抗疫情，筑梦未来。</description>
       <guid>https://halfrost.com/halfrost_2020/</guid>
     </item>
     <item>
       <title>面试中 LRU / LFU 的青铜与王者</title>
       <link>https://halfrost.com/lru_lfu_interview/</link>
-      <description>解析LRU/LFU缓存淘汰算法，面试必备！</description>
+      <description>LRU/LFU缓存淘汰算法面试解析，深入浅出。</description>
       <guid>https://halfrost.com/lru_lfu_interview/</guid>
     </item>
     <item>
@@ -132,6 +132,12 @@
       <guid>http://www.ruanyifeng.com/blog/2026/06/anthropic.html</guid>
     </item>
     <item>
+      <title>和世界杯平行</title>
+      <link>https://www.hecaitou.com/2026/07/Parallel-to-the-World-Cup.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/07/Parallel-to-the-World-Cup.html</guid>
+    </item>
+    <item>
       <title>场面人</title>
       <link>https://www.hecaitou.com/2026/07/The-Performers.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
@@ -142,12 +148,6 @@
       <link>https://www.hecaitou.com/2026/07/deconstructing-a-fleeting-thought.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/07/deconstructing-a-fleeting-thought.html</guid>
-    </item>
-    <item>
-      <title>菜文太硬</title>
-      <link>https://www.hecaitou.com/2026/07/My-Stiff-Writing.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/07/My-Stiff-Writing.html</guid>
     </item>
     <item>
       <title>是微服务架构不香还是云不香？</title>
@@ -186,22 +186,28 @@
       <guid>http://blog.youxu.info/2021/11/01/after-fire/</guid>
     </item>
     <item>
+      <title>最新微博：2026 年 7 月 15 日</title>
+      <link>https://www.changhai.org/articles/miscellaneous/blog/202607.php#latest</link>
+      <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
+      <guid>https://www.changhai.org/articles/miscellaneous/blog/202607.php#latest</guid>
+    </item>
+    <item>
       <title>Latest post on Threads：2026.07.09</title>
       <link>https://www.changhai.org/articles/miscellaneous/eblog/202605.php#latest</link>
       <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
       <guid>https://www.changhai.org/articles/miscellaneous/eblog/202605.php#latest</guid>
     </item>
     <item>
-      <title>最新微博：2026 年 7 月 7 日</title>
-      <link>https://www.changhai.org/articles/miscellaneous/blog/202607.php#latest</link>
-      <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
-      <guid>https://www.changhai.org/articles/miscellaneous/blog/202607.php#latest</guid>
-    </item>
-    <item>
       <title>微言小义 (2026.05 - 2026.06)</title>
       <link>https://www.changhai.org/articles/miscellaneous/blog/202605.php</link>
       <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
       <guid>https://www.changhai.org/articles/miscellaneous/blog/202605.php</guid>
+    </item>
+    <item>
+      <title>爲什麼要學英語？</title>
+      <link>https://blog.yitianshijie.net/2026/07/15/why-do-we-learn-english/</link>
+      <description>代表文章：《[李如一 | 论推荐之难](</description>
+      <guid>https://blog.yitianshijie.net/2026/07/15/why-do-we-learn-english/</guid>
     </item>
     <item>
       <title>百度的槽点到底在哪里</title>
@@ -230,13 +236,13 @@
     <item>
       <title>让炼丹更科学一些（七）：步长调度与权重平均</title>
       <link>https://spaces.ac.cn/archives/11804</link>
-      <description>探讨学习率调度与权重平均在模型训练中的相互替换与联系。</description>
+      <description>探讨学习率调度与权重平均在炼丹中的理论联系及替代可能性。</description>
       <guid>https://spaces.ac.cn/archives/11804</guid>
     </item>
     <item>
       <title>矩阵函数近似中的暴力美学</title>
       <link>https://spaces.ac.cn/archives/11787</link>
-      <description>本文提出矩阵函数通用近似框架，突破有理次方限制。</description>
+      <description>矩阵函数近似中的暴力美学</description>
       <guid>https://spaces.ac.cn/archives/11787</guid>
     </item>
     <item>
@@ -314,25 +320,25 @@
     <item>
       <title>Sneakerweb：互联网的脆弱与韧性</title>
       <link>https://roriri.one/2026/07/09/sneakerweb/</link>
-      <description>互联网时代，内容存储与传输的变迁与挑战。</description>
+      <description>互联网内容传播的脆弱与韧性对比。</description>
       <guid>https://roriri.one/2026/07/09/sneakerweb/</guid>
     </item>
     <item>
       <title>Vibe Coding  时代的角色与架构</title>
       <link>https://roriri.one/2026/07/04/vibe-coding/</link>
-      <description>Vibe Coding 时代，产品研发各角色重要性不容忽视。</description>
+      <description>Vibe Coding 时代，产品研发流程中每个角色都至关重要。</description>
       <guid>https://roriri.one/2026/07/04/vibe-coding/</guid>
     </item>
     <item>
       <title>拯救呼吸大作战</title>
       <link>https://roriri.one/2026/06/21/save-my-breath/</link>
-      <description>过敏性鼻炎患者分享通气鼻贴和鼻内扩张器的使用体验。</description>
+      <description>过敏性鼻炎患者分享通气鼻贴与鼻内扩张器的使用体验。</description>
       <guid>https://roriri.one/2026/06/21/save-my-breath/</guid>
     </item>
     <item>
       <title>苹果的电源</title>
       <link>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</link>
-      <description>乔布斯赞颂电源设计大师Rod Holt，其成就被广泛认可。</description>
+      <description>Rod Holt，苹果电源设计工程师，因乔布斯传记而闻名。</description>
       <guid>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</guid>
     </item>
     <item>
@@ -344,7 +350,7 @@
     <item>
       <title>马代(2)</title>
       <link>https://lenciel.com/2026/06/maldives-2/</link>
-      <description>马代海面广阔，蓝洞和海岛标定区域，度假房静默见证潮起潮落。</description>
+      <description>马代海面如一，蓝洞和海岛定区域，度假屋沉默中见证潮起潮落。</description>
       <guid>https://lenciel.com/2026/06/maldives-2/</guid>
     </item>
     <item>
@@ -440,19 +446,19 @@
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台游记：探秘台州天台，品尝当地美食，游览国清寺。</description>
+      <description>天台游记：体验台州天台，品尝特色小吃，游览国清寺。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
       <title>舟山骑车游</title>
       <link>https://battlele.com/zhoushan-trip/</link>
-      <description>舟山骑车游</description>
+      <description>舟山骑车游，体验群岛城市风光。</description>
       <guid>https://battlele.com/zhoushan-trip/</guid>
     </item>
     <item>
       <title>五月的上海游记</title>
       <link>https://battlele.com/mayday-sh-trip/</link>
-      <description>五一假期上海游，体验博物馆特展与外滩风情。</description>
+      <description>五一假期上海行，体验博物馆特展与城市风光。</description>
       <guid>https://battlele.com/mayday-sh-trip/</guid>
     </item>
     <item>
@@ -494,20 +500,26 @@
     <item>
       <title>2026.7.12</title>
       <link>https://www.justzht.com/2026-7-12/</link>
-      <description>周末购入相机，与友聚餐，尝试 dating app。</description>
+      <description>拍立得交易、美食体验、社交软件观察。</description>
       <guid>https://www.justzht.com/2026-7-12/</guid>
     </item>
     <item>
       <title>2026.7.5</title>
       <link>https://www.justzht.com/2026-7-5/</link>
-      <description>凌晨三点，嗜睡与游戏间，反思人生与游戏对话系统。</description>
+      <description>周日凌晨，反思长假与自我对话系统。</description>
       <guid>https://www.justzht.com/2026-7-5/</guid>
     </item>
     <item>
       <title>How I drove a rental Mazda across America in 59 hours</title>
       <link>https://www.justzht.com/how-i-drove-a-rental-mazda-across-america-in-59-hours/</link>
-      <description>59小时横跨美国，Mazda之旅完美收官。</description>
+      <description>59小时横跨美国，记录自驾Mazda的cannonball之旅。</description>
       <guid>https://www.justzht.com/how-i-drove-a-rental-mazda-across-america-in-59-hours/</guid>
+    </item>
+    <item>
+      <title>聊聊 -XX:MaxRAMPercentage=75%</title>
+      <link>https://www.bboy.app/2026/07/15/%E8%81%8A%E8%81%8A-xxmaxrampercentage75/</link>
+      <description>描述：一个分享个人见解、关注项目更新和技术文章的博客。</description>
+      <guid>https://www.bboy.app/2026/07/15/%E8%81%8A%E8%81%8A-xxmaxrampercentage75/</guid>
     </item>
     <item>
       <title>20260715的胡言乱语</title>
@@ -520,12 +532,6 @@
       <link>https://www.bboy.app/2026/07/15/random-thoughts-20260715/</link>
       <description>描述：一个分享个人见解、关注项目更新和技术文章的博客。</description>
       <guid>https://www.bboy.app/2026/07/15/random-thoughts-20260715/</guid>
-    </item>
-    <item>
-      <title>20260714的胡言乱语</title>
-      <link>https://www.bboy.app/2026/07/14/20260714%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/</link>
-      <description>描述：一个分享个人见解、关注项目更新和技术文章的博客。</description>
-      <guid>https://www.bboy.app/2026/07/14/20260714%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/</guid>
     </item>
     <item>
       <title>AI 时代，我为什么还要写一个自己的工具箱</title>
