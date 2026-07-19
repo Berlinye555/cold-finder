@@ -78,6 +78,12 @@
       <guid>https://webfem.com/post/mobile-dev</guid>
     </item>
     <item>
+      <title>用 Cloudflare worker 抓取 喷嚏网 浮世汇 生成 RSS</title>
+      <link>https://zelikk.blogspot.com/2026/07/cloudflare-worker-rss.html</link>
+      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
+      <guid>https://zelikk.blogspot.com/2026/07/cloudflare-worker-rss.html</guid>
+    </item>
+    <item>
       <title>从forkgram/tdesktop github action编译 win10 amd64 二进制文件 v6.9.4</title>
       <link>https://zelikk.blogspot.com/2026/07/forkgram-tdesktop-github-action-win10-amd64-v694.html</link>
       <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
@@ -90,15 +96,9 @@
       <guid>https://zelikk.blogspot.com/2026/07/telefolders.html</guid>
     </item>
     <item>
-      <title>改进 TeleFolders 一个方便修改电报Telegram对话分组Folder的工具</title>
-      <link>https://zelikk.blogspot.com/2026/07/telefolders-en-csv.html</link>
-      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
-      <guid>https://zelikk.blogspot.com/2026/07/telefolders-en-csv.html</guid>
-    </item>
-    <item>
       <title>后疫情时代下美国 CS Master 申请纪实</title>
       <link>https://halfrost.com/halfrost_2021/</link>
-      <description>后疫情时代，美国CS Master申请之路充满挑战。</description>
+      <description>后疫情时代美国CS硕士申请纪实，留学生赴美留学之路困难重重。</description>
       <guid>https://halfrost.com/halfrost_2021/</guid>
     </item>
     <item>
@@ -132,6 +132,12 @@
       <guid>http://www.ruanyifeng.com/blog/2026/07/weekly-issue-402.html</guid>
     </item>
     <item>
+      <title>为什么从左到右是前进</title>
+      <link>https://www.hecaitou.com/2026/07/Why-Left-to-Right-Means-Moving-Forward.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/07/Why-Left-to-Right-Means-Moving-Forward.html</guid>
+    </item>
+    <item>
       <title>用 AI 做个自评</title>
       <link>https://www.hecaitou.com/2026/07/Evaluating-Myself-with-AI.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
@@ -142,12 +148,6 @@
       <link>https://www.hecaitou.com/2026/07/The-Curse-of-the-Cinephile.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/07/The-Curse-of-the-Cinephile.html</guid>
-    </item>
-    <item>
-      <title>和世界杯平行</title>
-      <link>https://www.hecaitou.com/2026/07/Parallel-to-the-World-Cup.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/07/Parallel-to-the-World-Cup.html</guid>
     </item>
     <item>
       <title>是微服务架构不香还是云不香？</title>
@@ -186,16 +186,16 @@
       <guid>http://blog.youxu.info/2021/11/01/after-fire/</guid>
     </item>
     <item>
+      <title>最新微博：2026 年 7 月 18 日</title>
+      <link>https://www.changhai.org/articles/miscellaneous/blog/202607.php#latest</link>
+      <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
+      <guid>https://www.changhai.org/articles/miscellaneous/blog/202607.php#latest</guid>
+    </item>
+    <item>
       <title>Latest post on Threads：2026.07.17</title>
       <link>https://www.changhai.org/articles/miscellaneous/eblog/202605.php#latest</link>
       <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
       <guid>https://www.changhai.org/articles/miscellaneous/eblog/202605.php#latest</guid>
-    </item>
-    <item>
-      <title>最新微博：2026 年 7 月 15 日</title>
-      <link>https://www.changhai.org/articles/miscellaneous/blog/202607.php#latest</link>
-      <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
-      <guid>https://www.changhai.org/articles/miscellaneous/blog/202607.php#latest</guid>
     </item>
     <item>
       <title>微言小义 (2026.05 - 2026.06)</title>
@@ -230,19 +230,19 @@
     <item>
       <title>基于排序不等式的相似度指标</title>
       <link>https://spaces.ac.cn/archives/11818</link>
-      <description>探索基于排序不等式的相似度新指标，拓展余弦相似度应用。</description>
+      <description>探索基于排序不等式的相似度新指标，超越传统余弦相似度。</description>
       <guid>https://spaces.ac.cn/archives/11818</guid>
     </item>
     <item>
       <title>LogSumExp和Softmax的泰勒展开</title>
       <link>https://spaces.ac.cn/archives/11814</link>
-      <description>分析Softmax线性化，提升Transformer性能。</description>
+      <description>论文分析Softmax线性化，引入LogSumExp记号。</description>
       <guid>https://spaces.ac.cn/archives/11814</guid>
     </item>
     <item>
       <title>让炼丹更科学一些（七）：步长调度与权重平均</title>
       <link>https://spaces.ac.cn/archives/11804</link>
-      <description>探讨学习率调度与权重平均在炼丹中的理论联系及替换可能性。</description>
+      <description>探讨学习率调度与权重平均在炼丹中的相互替换与理论分析。</description>
       <guid>https://spaces.ac.cn/archives/11804</guid>
     </item>
     <item>
@@ -320,13 +320,13 @@
     <item>
       <title>Sneakerweb：互联网的脆弱与韧性</title>
       <link>https://roriri.one/2026/07/09/sneakerweb/</link>
-      <description>互联网时代，内容传播的脆弱与韧性的对比。</description>
+      <description>互联网内容传播的演变与古巴离线内容系统的启示。</description>
       <guid>https://roriri.one/2026/07/09/sneakerweb/</guid>
     </item>
     <item>
       <title>Vibe Coding  时代的角色与架构</title>
       <link>https://roriri.one/2026/07/04/vibe-coding/</link>
-      <description>Vibe Coding 时代，产品研发流程中每个角色都至关重要。</description>
+      <description>Vibe Coding时代，技术角色与架构的重要性被重新审视。</description>
       <guid>https://roriri.one/2026/07/04/vibe-coding/</guid>
     </item>
     <item>
@@ -338,7 +338,7 @@
     <item>
       <title>苹果的电源</title>
       <link>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</link>
-      <description>乔布斯传记中，电源设计工程师Rod Holt因苹果电源设计而闻名。</description>
+      <description>乔布斯赞颂电源设计工程师Rod Holt，成就苹果传奇。</description>
       <guid>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</guid>
     </item>
     <item>
@@ -350,7 +350,7 @@
     <item>
       <title>马代(2)</title>
       <link>https://lenciel.com/2026/06/maldives-2/</link>
-      <description>马代海面无差别，蓝洞和海岛标定区域，度假房散布其间，静谧宣誓容纳一切。</description>
+      <description>马代海面如镜，蓝洞海岛定区域，度假房静默见证潮起潮落。</description>
       <guid>https://lenciel.com/2026/06/maldives-2/</guid>
     </item>
     <item>
@@ -446,13 +446,13 @@
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台游记：体验当地美食与国清寺的宁静。</description>
+      <description>天台（tāi）游记</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
       <title>舟山骑车游</title>
       <link>https://battlele.com/zhoushan-trip/</link>
-      <description>舟山群岛骑行，体验东海云廊美景与波音747大飞机。</description>
+      <description>舟山骑车游</description>
       <guid>https://battlele.com/zhoushan-trip/</guid>
     </item>
     <item>
@@ -500,19 +500,19 @@
     <item>
       <title>2026.7.12</title>
       <link>https://www.justzht.com/2026-7-12/</link>
-      <description>周末购入相机，与朋友聚餐，尝试新社交软件。</description>
+      <description>周末购得相机，与友聚餐，尝试新社交应用。</description>
       <guid>https://www.justzht.com/2026-7-12/</guid>
     </item>
     <item>
       <title>2026.7.5</title>
       <link>https://www.justzht.com/2026-7-5/</link>
-      <description>凌晨三点，嗜睡与游戏间，反思人生与设计。</description>
+      <description>凌晨三点，宅家思考人生与游戏的交织。</description>
       <guid>https://www.justzht.com/2026-7-5/</guid>
     </item>
     <item>
       <title>How I drove a rental Mazda across America in 59 hours</title>
       <link>https://www.justzht.com/how-i-drove-a-rental-mazda-across-america-in-59-hours/</link>
-      <description>59小时横跨美国，租车自驾之旅总结视频。</description>
+      <description>59小时横跨美国，记录租车自驾之旅。</description>
       <guid>https://www.justzht.com/how-i-drove-a-rental-mazda-across-america-in-59-hours/</guid>
     </item>
     <item>
@@ -534,6 +534,12 @@
       <guid>https://www.bboy.app/2026/07/15/random-thoughts-20260715/</guid>
     </item>
     <item>
+      <title>从 Prompt 开始的 AI 之旅</title>
+      <link>https://iachieveall.com/archives/cong-prompt-kai-shi-de-ai-zhi-lu</link>
+      <description>创作初衷：交流高质量技术，分享实战经验、面试指南，帮助阅读我的博客的人少走弯路，和技术同好共同探索。</description>
+      <guid>https://iachieveall.com/archives/cong-prompt-kai-shi-de-ai-zhi-lu</guid>
+    </item>
+    <item>
       <title>AI 时代，我为什么还要写一个自己的工具箱</title>
       <link>https://iachieveall.com/archives/ai-shi-dai-wo-wei-shi-me-huan-yao-xie-yi-ge-zi-ji-de-gong-ju-xiang</link>
       <description>创作初衷：交流高质量技术，分享实战经验、面试指南，帮助阅读我的博客的人少走弯路，和技术同好共同探索。</description>
@@ -544,12 +550,6 @@
       <link>https://iachieveall.com/archives/du-dong-sso</link>
       <description>创作初衷：交流高质量技术，分享实战经验、面试指南，帮助阅读我的博客的人少走弯路，和技术同好共同探索。</description>
       <guid>https://iachieveall.com/archives/du-dong-sso</guid>
-    </item>
-    <item>
-      <title>光伏产业基础知识</title>
-      <link>https://iachieveall.com/archives/guang-fu-chan-ye-ji-chu-zhi-shi</link>
-      <description>创作初衷：交流高质量技术，分享实战经验、面试指南，帮助阅读我的博客的人少走弯路，和技术同好共同探索。</description>
-      <guid>https://iachieveall.com/archives/guang-fu-chan-ye-ji-chu-zhi-shi</guid>
     </item>
   </channel>
 </rss>
