@@ -98,19 +98,19 @@
     <item>
       <title>后疫情时代下美国 CS Master 申请纪实</title>
       <link>https://halfrost.com/halfrost_2021/</link>
-      <description>后疫情时代美国CS硕士申请纪实，留学生赴美留学之路困难重重。</description>
+      <description>后疫情时代美国CS硕士申请挑战多，本文揭秘申请全攻略。</description>
       <guid>https://halfrost.com/halfrost_2021/</guid>
     </item>
     <item>
       <title>下一个五年计划起航 ！</title>
       <link>https://halfrost.com/halfrost_2020/</link>
-      <description>回顾2020，展望下一个五年计划，共克时艰，砥砺前行。</description>
+      <description>回顾2020，武汉抗疫，火神雷神山速建，共克时艰。</description>
       <guid>https://halfrost.com/halfrost_2020/</guid>
     </item>
     <item>
       <title>面试中 LRU / LFU 的青铜与王者</title>
       <link>https://halfrost.com/lru_lfu_interview/</link>
-      <description>解析LRU和LFU缓存算法，揭秘面试难题。</description>
+      <description>面试必备：LRU与LFU缓存算法解析。</description>
       <guid>https://halfrost.com/lru_lfu_interview/</guid>
     </item>
     <item>
@@ -132,6 +132,12 @@
       <guid>http://www.ruanyifeng.com/blog/2026/07/weekly-issue-402.html</guid>
     </item>
     <item>
+      <title>学习适应湿润的北京</title>
+      <link>https://www.hecaitou.com/2026/07/Adapting-to-a-Humid-Beijing.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/07/Adapting-to-a-Humid-Beijing.html</guid>
+    </item>
+    <item>
       <title>为什么从左到右是前进</title>
       <link>https://www.hecaitou.com/2026/07/Why-Left-to-Right-Means-Moving-Forward.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
@@ -142,12 +148,6 @@
       <link>https://www.hecaitou.com/2026/07/Evaluating-Myself-with-AI.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/07/Evaluating-Myself-with-AI.html</guid>
-    </item>
-    <item>
-      <title>阅片量的诅咒</title>
-      <link>https://www.hecaitou.com/2026/07/The-Curse-of-the-Cinephile.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/07/The-Curse-of-the-Cinephile.html</guid>
     </item>
     <item>
       <title>是微服务架构不香还是云不香？</title>
@@ -186,7 +186,7 @@
       <guid>http://blog.youxu.info/2021/11/01/after-fire/</guid>
     </item>
     <item>
-      <title>最新微博：2026 年 7 月 18 日</title>
+      <title>最新微博：2026 年 7 月 19 日</title>
       <link>https://www.changhai.org/articles/miscellaneous/blog/202607.php#latest</link>
       <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
       <guid>https://www.changhai.org/articles/miscellaneous/blog/202607.php#latest</guid>
@@ -230,19 +230,19 @@
     <item>
       <title>基于排序不等式的相似度指标</title>
       <link>https://spaces.ac.cn/archives/11818</link>
-      <description>探索基于排序不等式的相似度新指标，超越传统余弦相似度。</description>
+      <description>探索排序不等式在相似度指标中的应用，构建更宽松的新指标。</description>
       <guid>https://spaces.ac.cn/archives/11818</guid>
     </item>
     <item>
       <title>LogSumExp和Softmax的泰勒展开</title>
       <link>https://spaces.ac.cn/archives/11814</link>
-      <description>论文分析Softmax线性化，引入LogSumExp记号。</description>
+      <description>论文分析Softmax线性化，LogSumExp泰勒展开带来新收获。</description>
       <guid>https://spaces.ac.cn/archives/11814</guid>
     </item>
     <item>
       <title>让炼丹更科学一些（七）：步长调度与权重平均</title>
       <link>https://spaces.ac.cn/archives/11804</link>
-      <description>探讨学习率调度与权重平均在炼丹中的相互替换与理论分析。</description>
+      <description>探讨步长调度与权重平均在炼丹模型中的关系与替代可能性。</description>
       <guid>https://spaces.ac.cn/archives/11804</guid>
     </item>
     <item>
@@ -320,25 +320,25 @@
     <item>
       <title>Sneakerweb：互联网的脆弱与韧性</title>
       <link>https://roriri.one/2026/07/09/sneakerweb/</link>
-      <description>互联网内容传播的演变与古巴离线内容系统的启示。</description>
+      <description>互联网时代，内容传播的脆弱与韧性的反思。</description>
       <guid>https://roriri.one/2026/07/09/sneakerweb/</guid>
     </item>
     <item>
       <title>Vibe Coding  时代的角色与架构</title>
       <link>https://roriri.one/2026/07/04/vibe-coding/</link>
-      <description>Vibe Coding时代，技术角色与架构的重要性被重新审视。</description>
+      <description>Vibe Coding 时代，架构稳定与角色重要性。</description>
       <guid>https://roriri.one/2026/07/04/vibe-coding/</guid>
     </item>
     <item>
       <title>拯救呼吸大作战</title>
       <link>https://roriri.one/2026/06/21/save-my-breath/</link>
-      <description>过敏性鼻炎患者分享通气鼻贴和鼻内扩张器的使用体验。</description>
+      <description>过敏性鼻炎患者分享通气鼻贴与鼻内扩张器的使用体验。</description>
       <guid>https://roriri.one/2026/06/21/save-my-breath/</guid>
     </item>
     <item>
       <title>苹果的电源</title>
       <link>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</link>
-      <description>乔布斯赞颂电源设计工程师Rod Holt，成就苹果传奇。</description>
+      <description>Rod Holt，被乔布斯遗忘的电源设计工程师，因苹果电源设计闻名。</description>
       <guid>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</guid>
     </item>
     <item>
@@ -350,7 +350,7 @@
     <item>
       <title>马代(2)</title>
       <link>https://lenciel.com/2026/06/maldives-2/</link>
-      <description>马代海面如镜，蓝洞海岛定区域，度假房静默见证潮起潮落。</description>
+      <description>马代海面无差别，蓝洞海岛定区域，度假房沉默宣誓包容。</description>
       <guid>https://lenciel.com/2026/06/maldives-2/</guid>
     </item>
     <item>
@@ -446,13 +446,13 @@
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台（tāi）游记</description>
+      <description>天台游记：体验台州天台，品尝特色小吃，游览国清寺。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
       <title>舟山骑车游</title>
       <link>https://battlele.com/zhoushan-trip/</link>
-      <description>舟山骑车游</description>
+      <description>舟山环岛骑行，体验东海云廊美景与波音747大飞机。</description>
       <guid>https://battlele.com/zhoushan-trip/</guid>
     </item>
     <item>
@@ -468,7 +468,7 @@
       <guid>https://jdhao.github.io/about/</guid>
     </item>
     <item>
-      <title>Elastic_vector_not_shown_in_source</title>
+      <title>Vector Field Not Shown in Source in Elasticsearch?</title>
       <link>https://jdhao.github.io/2026/07/07/elastic_vector_not_shown_in_source/</link>
       <description>编程; Nvim; 生活; 读书; 思考。</description>
       <guid>https://jdhao.github.io/2026/07/07/elastic_vector_not_shown_in_source/</guid>
@@ -500,13 +500,13 @@
     <item>
       <title>2026.7.12</title>
       <link>https://www.justzht.com/2026-7-12/</link>
-      <description>周末购得相机，与友聚餐，尝试新社交应用。</description>
+      <description>周四购得Polaroid相机，周末与友聚餐、拍照，并用 dating app 社交。</description>
       <guid>https://www.justzht.com/2026-7-12/</guid>
     </item>
     <item>
       <title>2026.7.5</title>
       <link>https://www.justzht.com/2026-7-5/</link>
-      <description>凌晨三点，宅家思考人生与游戏的交织。</description>
+      <description>凌晨三点，宅家打游戏，反思人生与创作。</description>
       <guid>https://www.justzht.com/2026-7-5/</guid>
     </item>
     <item>
