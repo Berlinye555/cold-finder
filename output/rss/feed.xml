@@ -42,6 +42,12 @@
       <guid>https://www.xiaoyuzhoufm.com/episode/68c6d2e22c82c9dcca527114?utm_source=rss</guid>
     </item>
     <item>
+      <title>当灵感跑在了结果前面 - 肘子的 Swift 周报 #145</title>
+      <link>https://fatbobman.com/zh/weekly/issue-145/</link>
+      <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
+      <guid>https://fatbobman.com/zh/weekly/issue-145/</guid>
+    </item>
+    <item>
       <title>当每一次写入都有了新价格 - 肘子的 Swift 周报 #144</title>
       <link>https://fatbobman.com/zh/weekly/issue-144/</link>
       <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
@@ -52,12 +58,6 @@
       <link>https://fatbobman.com/zh/weekly/issue-143/</link>
       <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
       <guid>https://fatbobman.com/zh/weekly/issue-143/</guid>
-    </item>
-    <item>
-      <title>两个 SwiftUI 动画 Bug 排查小记</title>
-      <link>https://fatbobman.com/zh/posts/debugging-notes-on-two-swiftui-animation-bugs/</link>
-      <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
-      <guid>https://fatbobman.com/zh/posts/debugging-notes-on-two-swiftui-animation-bugs/</guid>
     </item>
     <item>
       <title>react-virtualized AutoSizer 实现原理详解</title>
@@ -98,19 +98,19 @@
     <item>
       <title>后疫情时代下美国 CS Master 申请纪实</title>
       <link>https://halfrost.com/halfrost_2021/</link>
-      <description>后疫情时代美国CS硕士申请挑战多，本文揭秘申请全攻略。</description>
+      <description>后疫情时代下美国 CS Master 申请纪实</description>
       <guid>https://halfrost.com/halfrost_2021/</guid>
     </item>
     <item>
       <title>下一个五年计划起航 ！</title>
       <link>https://halfrost.com/halfrost_2020/</link>
-      <description>回顾2020，武汉抗疫，火神雷神山速建，共克时艰。</description>
+      <description>回顾2020，展望新五年，共抗疫情，共建奇迹。</description>
       <guid>https://halfrost.com/halfrost_2020/</guid>
     </item>
     <item>
       <title>面试中 LRU / LFU 的青铜与王者</title>
       <link>https://halfrost.com/lru_lfu_interview/</link>
-      <description>面试必备：LRU与LFU缓存算法解析。</description>
+      <description>深入解析LRU/LFU缓存淘汰算法，面试必备！</description>
       <guid>https://halfrost.com/lru_lfu_interview/</guid>
     </item>
     <item>
@@ -132,6 +132,12 @@
       <guid>http://www.ruanyifeng.com/blog/2026/07/weekly-issue-402.html</guid>
     </item>
     <item>
+      <title>体感</title>
+      <link>https://www.hecaitou.com/2026/07/Personal-Sensation.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/07/Personal-Sensation.html</guid>
+    </item>
+    <item>
       <title>学习适应湿润的北京</title>
       <link>https://www.hecaitou.com/2026/07/Adapting-to-a-Humid-Beijing.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
@@ -142,12 +148,6 @@
       <link>https://www.hecaitou.com/2026/07/Why-Left-to-Right-Means-Moving-Forward.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/07/Why-Left-to-Right-Means-Moving-Forward.html</guid>
-    </item>
-    <item>
-      <title>用 AI 做个自评</title>
-      <link>https://www.hecaitou.com/2026/07/Evaluating-Myself-with-AI.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/07/Evaluating-Myself-with-AI.html</guid>
     </item>
     <item>
       <title>是微服务架构不香还是云不香？</title>
@@ -230,19 +230,19 @@
     <item>
       <title>基于排序不等式的相似度指标</title>
       <link>https://spaces.ac.cn/archives/11818</link>
-      <description>探索排序不等式在相似度指标中的应用，构建更宽松的新指标。</description>
+      <description>探索排序不等式构建更宽松相似度指标的新方法。</description>
       <guid>https://spaces.ac.cn/archives/11818</guid>
     </item>
     <item>
       <title>LogSumExp和Softmax的泰勒展开</title>
       <link>https://spaces.ac.cn/archives/11814</link>
-      <description>论文分析Softmax线性化，LogSumExp泰勒展开带来新收获。</description>
+      <description>论文分析Softmax线性化Attention，LogSumExp展开有收获。</description>
       <guid>https://spaces.ac.cn/archives/11814</guid>
     </item>
     <item>
       <title>让炼丹更科学一些（七）：步长调度与权重平均</title>
       <link>https://spaces.ac.cn/archives/11804</link>
-      <description>探讨步长调度与权重平均在炼丹模型中的关系与替代可能性。</description>
+      <description>探讨学习率调度与权重平均在炼丹中的理论联系及替代可能性。</description>
       <guid>https://spaces.ac.cn/archives/11804</guid>
     </item>
     <item>
@@ -320,25 +320,25 @@
     <item>
       <title>Sneakerweb：互联网的脆弱与韧性</title>
       <link>https://roriri.one/2026/07/09/sneakerweb/</link>
-      <description>互联网时代，内容传播的脆弱与韧性的反思。</description>
+      <description>探讨互联网内容传输的演变，从史前时代到现代云服务，以及古巴离线内容系统的兴衰。</description>
       <guid>https://roriri.one/2026/07/09/sneakerweb/</guid>
     </item>
     <item>
       <title>Vibe Coding  时代的角色与架构</title>
       <link>https://roriri.one/2026/07/04/vibe-coding/</link>
-      <description>Vibe Coding 时代，架构稳定与角色重要性。</description>
+      <description>Vibe Coding时代，产品研发各角色重要性不容忽视。</description>
       <guid>https://roriri.one/2026/07/04/vibe-coding/</guid>
     </item>
     <item>
       <title>拯救呼吸大作战</title>
       <link>https://roriri.one/2026/06/21/save-my-breath/</link>
-      <description>过敏性鼻炎患者分享通气鼻贴与鼻内扩张器的使用体验。</description>
+      <description>过敏性鼻炎患者分享通气鼻贴和鼻内扩张器的使用体验。</description>
       <guid>https://roriri.one/2026/06/21/save-my-breath/</guid>
     </item>
     <item>
       <title>苹果的电源</title>
       <link>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</link>
-      <description>Rod Holt，被乔布斯遗忘的电源设计工程师，因苹果电源设计闻名。</description>
+      <description>乔布斯传记中，电源设计工程师Rod Holt因苹果电源设计闻名。</description>
       <guid>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</guid>
     </item>
     <item>
@@ -350,7 +350,7 @@
     <item>
       <title>马代(2)</title>
       <link>https://lenciel.com/2026/06/maldives-2/</link>
-      <description>马代海面无差别，蓝洞海岛定区域，度假房沉默宣誓包容。</description>
+      <description>马代海岛宁静独特，蓝洞与度假房点缀其中，诉说着生命的波澜。</description>
       <guid>https://lenciel.com/2026/06/maldives-2/</guid>
     </item>
     <item>
@@ -446,19 +446,19 @@
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台游记：体验台州天台，品尝特色小吃，游览国清寺。</description>
+      <description>天台（tāi）游记</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
       <title>舟山骑车游</title>
       <link>https://battlele.com/zhoushan-trip/</link>
-      <description>舟山环岛骑行，体验东海云廊美景与波音747大飞机。</description>
+      <description>舟山骑行之旅，探寻海天佛国美景。</description>
       <guid>https://battlele.com/zhoushan-trip/</guid>
     </item>
     <item>
       <title>五月的上海游记</title>
       <link>https://battlele.com/mayday-sh-trip/</link>
-      <description>五一假期上海行，体验Fitting与博物馆特展。</description>
+      <description>五一假期上海游，体验博物馆特展与城市风光。</description>
       <guid>https://battlele.com/mayday-sh-trip/</guid>
     </item>
     <item>
@@ -500,19 +500,19 @@
     <item>
       <title>2026.7.12</title>
       <link>https://www.justzht.com/2026-7-12/</link>
-      <description>周四购得Polaroid相机，周末与友聚餐、拍照，并用 dating app 社交。</description>
+      <description>周末拍立得体验，与朋友聚餐，探索 dating app。</description>
       <guid>https://www.justzht.com/2026-7-12/</guid>
     </item>
     <item>
       <title>2026.7.5</title>
       <link>https://www.justzht.com/2026-7-5/</link>
-      <description>凌晨三点，宅家打游戏，反思人生与创作。</description>
+      <description>周日凌晨，宅家两天，反思人生与游戏设计。</description>
       <guid>https://www.justzht.com/2026-7-5/</guid>
     </item>
     <item>
       <title>How I drove a rental Mazda across America in 59 hours</title>
       <link>https://www.justzht.com/how-i-drove-a-rental-mazda-across-america-in-59-hours/</link>
-      <description>59小时横跨美国，记录租车自驾之旅。</description>
+      <description>59小时横跨美国，用租赁的Mazda记录Cannonball之旅。</description>
       <guid>https://www.justzht.com/how-i-drove-a-rental-mazda-across-america-in-59-hours/</guid>
     </item>
     <item>
