@@ -98,13 +98,13 @@
     <item>
       <title>后疫情时代下美国 CS Master 申请纪实</title>
       <link>https://halfrost.com/halfrost_2021/</link>
-      <description>后疫情时代美国CS硕士申请路漫漫，本文揭秘申请全攻略。</description>
+      <description>后疫情时代，美国CS硕士申请困难重重，本文分享申请纪实与经验。</description>
       <guid>https://halfrost.com/halfrost_2021/</guid>
     </item>
     <item>
       <title>下一个五年计划起航 ！</title>
       <link>https://halfrost.com/halfrost_2020/</link>
-      <description>下一个五年计划起航，回顾2020疫情与建设奇迹。</description>
+      <description>五年计划启航，回顾2020年疫情与火神山、雷神山建设。</description>
       <guid>https://halfrost.com/halfrost_2020/</guid>
     </item>
     <item>
@@ -132,6 +132,12 @@
       <guid>http://www.ruanyifeng.com/blog/2026/07/weekly-issue-403.html</guid>
     </item>
     <item>
+      <title>隐藏在人群之中</title>
+      <link>https://www.hecaitou.com/2026/07/Hiding-in-the-Crowd.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/07/Hiding-in-the-Crowd.html</guid>
+    </item>
+    <item>
       <title>回答读者stoic提问</title>
       <link>https://www.hecaitou.com/2026/07/A-Reply-to-Stoic.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
@@ -142,12 +148,6 @@
       <link>https://www.hecaitou.com/2026/07/Mind-on-a-Watermelon-Peel.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/07/Mind-on-a-Watermelon-Peel.html</guid>
-    </item>
-    <item>
-      <title>和一把电脑椅互动</title>
-      <link>https://www.hecaitou.com/2026/07/interaction-with-a-computer-chair.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/07/interaction-with-a-computer-chair.html</guid>
     </item>
     <item>
       <title>是微服务架构不香还是云不香？</title>
@@ -186,7 +186,7 @@
       <guid>http://blog.youxu.info/2021/11/01/after-fire/</guid>
     </item>
     <item>
-      <title>最新微博：2026 年 7 月 23 日</title>
+      <title>最新微博：2026 年 7 月 25 日</title>
       <link>https://www.changhai.org/articles/miscellaneous/blog/202607.php#latest</link>
       <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
       <guid>https://www.changhai.org/articles/miscellaneous/blog/202607.php#latest</guid>
@@ -202,18 +202,6 @@
       <link>https://www.changhai.org/articles/miscellaneous/blog/202605.php</link>
       <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
       <guid>https://www.changhai.org/articles/miscellaneous/blog/202605.php</guid>
-    </item>
-    <item>
-      <title>《玩具總動員 5》中國票房爲何不濟？</title>
-      <link>https://blog.yitianshijie.net/2026/07/24/why-toy-story-5-fails-in-china/</link>
-      <description>代表文章：《[李如一 | 论推荐之难](</description>
-      <guid>https://blog.yitianshijie.net/2026/07/24/why-toy-story-5-fails-in-china/</guid>
-    </item>
-    <item>
-      <title>爲什麼要學英語？</title>
-      <link>https://blog.yitianshijie.net/2026/07/15/why-do-we-learn-english/</link>
-      <description>代表文章：《[李如一 | 论推荐之难](</description>
-      <guid>https://blog.yitianshijie.net/2026/07/15/why-do-we-learn-english/</guid>
     </item>
     <item>
       <title>人为什么要中庸 AI从一个意想不到的角度给了我雷霆一击</title>
@@ -236,19 +224,19 @@
     <item>
       <title>将Softmax Attention线性化为Gated DeltaNet</title>
       <link>https://spaces.ac.cn/archives/11823</link>
-      <description>将Softmax Attention线性化，实现Gated DeltaNet。</description>
+      <description>将Softmax Attention线性化为Gated DeltaNet，实现高效注意力机制。</description>
       <guid>https://spaces.ac.cn/archives/11823</guid>
     </item>
     <item>
       <title>基于排序不等式的相似度指标</title>
       <link>https://spaces.ac.cn/archives/11818</link>
-      <description>探讨基于排序不等式的新相似度指标，超越余弦相似度。</description>
+      <description>论文提出基于排序不等式的新相似度指标，超越余弦相似度。</description>
       <guid>https://spaces.ac.cn/archives/11818</guid>
     </item>
     <item>
       <title>LogSumExp和Softmax的泰勒展开</title>
       <link>https://spaces.ac.cn/archives/11814</link>
-      <description>论文分析Softmax线性化Attention，引入LogSumExp记号。</description>
+      <description>论文分析Softmax线性化Attention，提供近似展开新思路。</description>
       <guid>https://spaces.ac.cn/archives/11814</guid>
     </item>
     <item>
@@ -326,25 +314,25 @@
     <item>
       <title>Sneakerweb：互联网的脆弱与韧性</title>
       <link>https://roriri.one/2026/07/09/sneakerweb/</link>
-      <description>互联网时代，内容传播的脆弱与韧性交织。</description>
+      <description>探讨互联网内容的传播与保存，从古至今的变迁。</description>
       <guid>https://roriri.one/2026/07/09/sneakerweb/</guid>
     </item>
     <item>
       <title>Vibe Coding  时代的角色与架构</title>
       <link>https://roriri.one/2026/07/04/vibe-coding/</link>
-      <description>Vibe Coding 时代，产品研发流程中每个角色都至关重要。</description>
+      <description>Vibe Coding 时代，产品研发各角色重要性被重新审视。</description>
       <guid>https://roriri.one/2026/07/04/vibe-coding/</guid>
     </item>
     <item>
       <title>拯救呼吸大作战</title>
       <link>https://roriri.one/2026/06/21/save-my-breath/</link>
-      <description>过敏性鼻炎患者分享通气鼻贴和鼻内扩张器的使用体验。</description>
+      <description>过敏性鼻炎患者分享通气鼻贴与鼻内扩张器的使用体验。</description>
       <guid>https://roriri.one/2026/06/21/save-my-breath/</guid>
     </item>
     <item>
       <title>苹果的电源</title>
       <link>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</link>
-      <description>乔布斯传记中提及的电源设计工程师Rod Holt，因苹果电源设计而闻名。</description>
+      <description>Rod Holt因苹果电源设计成就，成为世界著名工程师。</description>
       <guid>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</guid>
     </item>
     <item>
@@ -356,7 +344,7 @@
     <item>
       <title>马代(2)</title>
       <link>https://lenciel.com/2026/06/maldives-2/</link>
-      <description>马代海面无差别，蓝洞与海岛标定区域，度假房沉默见证潮起潮落。</description>
+      <description>马代海面广阔，蓝洞和海岛标定区域，度假房静谧装下人生百态。</description>
       <guid>https://lenciel.com/2026/06/maldives-2/</guid>
     </item>
     <item>
@@ -452,19 +440,19 @@
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台之旅，体验地道的台州美食与文化。</description>
+      <description>天台（tāi）游记</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
       <title>舟山骑车游</title>
       <link>https://battlele.com/zhoushan-trip/</link>
-      <description>舟山骑行之旅，环岛半程挑战，体验海天佛国美景。</description>
+      <description>舟山群岛骑行，体验东海云廊美景与波音747大飞机。</description>
       <guid>https://battlele.com/zhoushan-trip/</guid>
     </item>
     <item>
       <title>五月的上海游记</title>
       <link>https://battlele.com/mayday-sh-trip/</link>
-      <description>五一假期上海行，体验Fitting回访与博物馆特展。</description>
+      <description>五一假期上海行，体验Fitting与博物馆特展。</description>
       <guid>https://battlele.com/mayday-sh-trip/</guid>
     </item>
     <item>
@@ -506,19 +494,19 @@
     <item>
       <title>2026.7.21</title>
       <link>https://www.justzht.com/2026-7-21/</link>
-      <description>周末爬山，短视频拍摄，证件照新体验。</description>
+      <description>周末爬山，短视频反响不错，Infinite Loop拍照体验大不同。</description>
       <guid>https://www.justzht.com/2026-7-21/</guid>
     </item>
     <item>
       <title>2026.7.12</title>
       <link>https://www.justzht.com/2026-7-12/</link>
-      <description>周末购得相机，与友聚餐，尝试新交友软件。</description>
+      <description>周五晚拍拍立得，周六看云海，社交与自然交织。</description>
       <guid>https://www.justzht.com/2026-7-12/</guid>
     </item>
     <item>
       <title>2026.7.5</title>
       <link>https://www.justzht.com/2026-7-5/</link>
-      <description>周日凌晨，玩家反思生活与游戏，构想人生模拟游戏。</description>
+      <description>凌晨三点，宅家两日，思考人生与游戏设计。</description>
       <guid>https://www.justzht.com/2026-7-5/</guid>
     </item>
     <item>
