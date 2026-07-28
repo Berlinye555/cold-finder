@@ -42,6 +42,12 @@
       <guid>https://www.xiaoyuzhoufm.com/episode/68c6d2e22c82c9dcca527114?utm_source=rss</guid>
     </item>
     <item>
+      <title>不是模型变慢了，是任务变大了 - 肘子的 Swift 周报 #146</title>
+      <link>https://fatbobman.com/zh/weekly/issue-146/</link>
+      <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
+      <guid>https://fatbobman.com/zh/weekly/issue-146/</guid>
+    </item>
+    <item>
       <title>当灵感跑在了结果前面 - 肘子的 Swift 周报 #145</title>
       <link>https://fatbobman.com/zh/weekly/issue-145/</link>
       <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
@@ -52,12 +58,6 @@
       <link>https://fatbobman.com/zh/weekly/issue-144/</link>
       <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
       <guid>https://fatbobman.com/zh/weekly/issue-144/</guid>
-    </item>
-    <item>
-      <title>当 Linux 成为“空气”：容器、Agent 与不再重要的“桌面之争” - 肘子的 Swift 周报 #143</title>
-      <link>https://fatbobman.com/zh/weekly/issue-143/</link>
-      <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
-      <guid>https://fatbobman.com/zh/weekly/issue-143/</guid>
     </item>
     <item>
       <title>react-virtualized AutoSizer 实现原理详解</title>
@@ -78,39 +78,39 @@
       <guid>https://webfem.com/post/mobile-dev</guid>
     </item>
     <item>
-      <title>用 Cloudflare worker 抓取 喷嚏网 浮世汇 生成 RSS</title>
-      <link>https://zelikk.blogspot.com/2026/07/cloudflare-worker-rss.html</link>
+      <title>白嫖 Zerops 免费容器 用Hermes对接tencent/hy3:free</title>
+      <link>https://zelikk.blogspot.com/2026/07/zerops-hermes-agent-api-token.html</link>
       <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
-      <guid>https://zelikk.blogspot.com/2026/07/cloudflare-worker-rss.html</guid>
+      <guid>https://zelikk.blogspot.com/2026/07/zerops-hermes-agent-api-token.html</guid>
     </item>
     <item>
-      <title>从forkgram/tdesktop github action编译 win10 amd64 二进制文件 v6.9.4</title>
-      <link>https://zelikk.blogspot.com/2026/07/forkgram-tdesktop-github-action-win10-amd64-v694.html</link>
+      <title>Github 设置 API token 为你的Hermes Agent</title>
+      <link>https://zelikk.blogspot.com/2026/07/github-api-token-hermes-agent.html</link>
       <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
-      <guid>https://zelikk.blogspot.com/2026/07/forkgram-tdesktop-github-action-win10-amd64-v694.html</guid>
+      <guid>https://zelikk.blogspot.com/2026/07/github-api-token-hermes-agent.html</guid>
     </item>
     <item>
-      <title>TeleFolders 一个方便修改电报Telegram对话分组Folder的工具 功能简介</title>
-      <link>https://zelikk.blogspot.com/2026/07/telefolders.html</link>
+      <title>Cloudflare 设置 API token 为你的Hermes Agent</title>
+      <link>https://zelikk.blogspot.com/2026/07/cloudflare-api-token-hermes-agent.html</link>
       <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
-      <guid>https://zelikk.blogspot.com/2026/07/telefolders.html</guid>
+      <guid>https://zelikk.blogspot.com/2026/07/cloudflare-api-token-hermes-agent.html</guid>
     </item>
     <item>
       <title>后疫情时代下美国 CS Master 申请纪实</title>
       <link>https://halfrost.com/halfrost_2021/</link>
-      <description>后疫情时代，美国CS硕士申请困难重重，本文分享申请纪实与经验。</description>
+      <description>后疫情时代，美国CS Master申请纪实，留学之路不易走。</description>
       <guid>https://halfrost.com/halfrost_2021/</guid>
     </item>
     <item>
       <title>下一个五年计划起航 ！</title>
       <link>https://halfrost.com/halfrost_2020/</link>
-      <description>五年计划启航，回顾2020年疫情与火神山、雷神山建设。</description>
+      <description>下一个五年计划起航，回顾2020疫情与建设奇迹。</description>
       <guid>https://halfrost.com/halfrost_2020/</guid>
     </item>
     <item>
       <title>面试中 LRU / LFU 的青铜与王者</title>
       <link>https://halfrost.com/lru_lfu_interview/</link>
-      <description>深入解析LRU/LFU缓存算法，面试必备！</description>
+      <description>面试LRU/LFU算法，基础与进阶解析。</description>
       <guid>https://halfrost.com/lru_lfu_interview/</guid>
     </item>
     <item>
@@ -132,22 +132,22 @@
       <guid>http://www.ruanyifeng.com/blog/2026/07/weekly-issue-403.html</guid>
     </item>
     <item>
+      <title>粉格证明</title>
+      <link>https://www.hecaitou.com/2026/07/Proof-of-Fanhood.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/07/Proof-of-Fanhood.html</guid>
+    </item>
+    <item>
+      <title>那些没有成为冠军的人</title>
+      <link>https://www.hecaitou.com/2026/07/those-who-didnt-become-champions.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/07/those-who-didnt-become-champions.html</guid>
+    </item>
+    <item>
       <title>隐藏在人群之中</title>
       <link>https://www.hecaitou.com/2026/07/Hiding-in-the-Crowd.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/07/Hiding-in-the-Crowd.html</guid>
-    </item>
-    <item>
-      <title>回答读者stoic提问</title>
-      <link>https://www.hecaitou.com/2026/07/A-Reply-to-Stoic.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/07/A-Reply-to-Stoic.html</guid>
-    </item>
-    <item>
-      <title>心踩西瓜皮</title>
-      <link>https://www.hecaitou.com/2026/07/Mind-on-a-Watermelon-Peel.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/07/Mind-on-a-Watermelon-Peel.html</guid>
     </item>
     <item>
       <title>是微服务架构不香还是云不香？</title>
@@ -204,6 +204,18 @@
       <guid>https://www.changhai.org/articles/miscellaneous/blog/202605.php</guid>
     </item>
     <item>
+      <title>《玩具總動員 5》中國票房爲何不濟？</title>
+      <link>https://blog.yitianshijie.net/2026/07/24/why-toy-story-5-fails-in-china/</link>
+      <description>代表文章：《[李如一 | 论推荐之难](</description>
+      <guid>https://blog.yitianshijie.net/2026/07/24/why-toy-story-5-fails-in-china/</guid>
+    </item>
+    <item>
+      <title>爲什麼要學英語？</title>
+      <link>https://blog.yitianshijie.net/2026/07/15/why-do-we-learn-english/</link>
+      <description>代表文章：《[李如一 | 论推荐之难](</description>
+      <guid>https://blog.yitianshijie.net/2026/07/15/why-do-we-learn-english/</guid>
+    </item>
+    <item>
       <title>人为什么要中庸 AI从一个意想不到的角度给了我雷霆一击</title>
       <link>http://weiwuhui.com/10798.html</link>
       <description>魏老师执教于上海交通大学媒体与传播学院，天奇创投基金管理合伙人。媒体行业的思考和见解，尽在魏老师。</description>
@@ -224,19 +236,19 @@
     <item>
       <title>将Softmax Attention线性化为Gated DeltaNet</title>
       <link>https://spaces.ac.cn/archives/11823</link>
-      <description>将Softmax Attention线性化为Gated DeltaNet，实现高效注意力机制。</description>
+      <description>将Softmax Attention线性化为Gated DeltaNet，实现更高效注意力机制。</description>
       <guid>https://spaces.ac.cn/archives/11823</guid>
     </item>
     <item>
       <title>基于排序不等式的相似度指标</title>
       <link>https://spaces.ac.cn/archives/11818</link>
-      <description>论文提出基于排序不等式的新相似度指标，超越余弦相似度。</description>
+      <description>《Beyond Cosine Similarity》论文提出基于排序不等式的相似度指标，拓展了余弦相似度应用。</description>
       <guid>https://spaces.ac.cn/archives/11818</guid>
     </item>
     <item>
       <title>LogSumExp和Softmax的泰勒展开</title>
       <link>https://spaces.ac.cn/archives/11814</link>
-      <description>论文分析Softmax线性化Attention，提供近似展开新思路。</description>
+      <description>论文分析Softmax线性化，LogSumExp泰勒展开，提升Transformer性能。</description>
       <guid>https://spaces.ac.cn/archives/11814</guid>
     </item>
     <item>
@@ -312,27 +324,9 @@
       <guid>https://www.gtdstudy.com/posts/2026-03-16-about-speed/</guid>
     </item>
     <item>
-      <title>Sneakerweb：互联网的脆弱与韧性</title>
-      <link>https://roriri.one/2026/07/09/sneakerweb/</link>
-      <description>探讨互联网内容的传播与保存，从古至今的变迁。</description>
-      <guid>https://roriri.one/2026/07/09/sneakerweb/</guid>
-    </item>
-    <item>
-      <title>Vibe Coding  时代的角色与架构</title>
-      <link>https://roriri.one/2026/07/04/vibe-coding/</link>
-      <description>Vibe Coding 时代，产品研发各角色重要性被重新审视。</description>
-      <guid>https://roriri.one/2026/07/04/vibe-coding/</guid>
-    </item>
-    <item>
-      <title>拯救呼吸大作战</title>
-      <link>https://roriri.one/2026/06/21/save-my-breath/</link>
-      <description>过敏性鼻炎患者分享通气鼻贴与鼻内扩张器的使用体验。</description>
-      <guid>https://roriri.one/2026/06/21/save-my-breath/</guid>
-    </item>
-    <item>
       <title>苹果的电源</title>
       <link>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</link>
-      <description>Rod Holt因苹果电源设计成就，成为世界著名工程师。</description>
+      <description>乔布斯传记中提及的电源设计工程师Rod Holt，因苹果电源设计闻名。</description>
       <guid>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</guid>
     </item>
     <item>
@@ -344,7 +338,7 @@
     <item>
       <title>马代(2)</title>
       <link>https://lenciel.com/2026/06/maldives-2/</link>
-      <description>马代海面广阔，蓝洞和海岛标定区域，度假房静谧装下人生百态。</description>
+      <description>马代海面广阔，蓝洞和海岛是区域路线的标定，度假房散布其间，静默承载着各种情感。</description>
       <guid>https://lenciel.com/2026/06/maldives-2/</guid>
     </item>
     <item>
@@ -440,19 +434,19 @@
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台（tāi）游记</description>
+      <description>天台游记：体验台州天台，品尝特色小吃，游览国清寺。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
       <title>舟山骑车游</title>
       <link>https://battlele.com/zhoushan-trip/</link>
-      <description>舟山群岛骑行，体验东海云廊美景与波音747大飞机。</description>
+      <description>舟山骑车游，环岛骑行，体验海天佛国风光。</description>
       <guid>https://battlele.com/zhoushan-trip/</guid>
     </item>
     <item>
       <title>五月的上海游记</title>
       <link>https://battlele.com/mayday-sh-trip/</link>
-      <description>五一假期上海行，体验Fitting与博物馆特展。</description>
+      <description>五一假期上海行，Fitting回访与博物馆特展之旅。</description>
       <guid>https://battlele.com/mayday-sh-trip/</guid>
     </item>
     <item>
@@ -492,40 +486,40 @@
       <guid>https://s5s5.me/4292</guid>
     </item>
     <item>
+      <title>2026.7.26</title>
+      <link>https://www.justzht.com/2026-7-26/</link>
+      <description>一周六天公司生活，体检、同事离职、回国签证、创业广告牌。</description>
+      <guid>https://www.justzht.com/2026-7-26/</guid>
+    </item>
+    <item>
       <title>2026.7.21</title>
       <link>https://www.justzht.com/2026-7-21/</link>
-      <description>周末爬山，短视频反响不错，Infinite Loop拍照体验大不同。</description>
+      <description>周末登山拍照，体验新变化，生活小趣事。</description>
       <guid>https://www.justzht.com/2026-7-21/</guid>
     </item>
     <item>
       <title>2026.7.12</title>
       <link>https://www.justzht.com/2026-7-12/</link>
-      <description>周五晚拍拍立得，周六看云海，社交与自然交织。</description>
+      <description>拍立得交易、美食体验与社交软件的思考。</description>
       <guid>https://www.justzht.com/2026-7-12/</guid>
     </item>
     <item>
-      <title>2026.7.5</title>
-      <link>https://www.justzht.com/2026-7-5/</link>
-      <description>凌晨三点，宅家两日，思考人生与游戏设计。</description>
-      <guid>https://www.justzht.com/2026-7-5/</guid>
+      <title>20260728的胡言乱语</title>
+      <link>https://www.bboy.app/2026/07/28/20260728%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/</link>
+      <description>描述：一个分享个人见解、关注项目更新和技术文章的博客。</description>
+      <guid>https://www.bboy.app/2026/07/28/20260728%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/</guid>
     </item>
     <item>
-      <title>聊聊 -XX:MaxRAMPercentage=75%</title>
-      <link>https://www.bboy.app/2026/07/15/%E8%81%8A%E8%81%8A-xxmaxrampercentage75/</link>
+      <title>Random Thoughts - 20260728</title>
+      <link>https://www.bboy.app/2026/07/28/random-thoughts-20260728/</link>
       <description>描述：一个分享个人见解、关注项目更新和技术文章的博客。</description>
-      <guid>https://www.bboy.app/2026/07/15/%E8%81%8A%E8%81%8A-xxmaxrampercentage75/</guid>
+      <guid>https://www.bboy.app/2026/07/28/random-thoughts-20260728/</guid>
     </item>
     <item>
-      <title>20260715的胡言乱语</title>
-      <link>https://www.bboy.app/2026/07/15/20260715%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/</link>
+      <title>夏天来杯黄瓜柠檬水</title>
+      <link>https://www.bboy.app/2026/07/27/%E5%A4%8F%E5%A4%A9%E6%9D%A5%E6%9D%AF%E9%BB%84%E7%93%9C%E6%9F%A0%E6%AA%AC%E6%B0%B4/</link>
       <description>描述：一个分享个人见解、关注项目更新和技术文章的博客。</description>
-      <guid>https://www.bboy.app/2026/07/15/20260715%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/</guid>
-    </item>
-    <item>
-      <title>Random Thoughts - 20260715</title>
-      <link>https://www.bboy.app/2026/07/15/random-thoughts-20260715/</link>
-      <description>描述：一个分享个人见解、关注项目更新和技术文章的博客。</description>
-      <guid>https://www.bboy.app/2026/07/15/random-thoughts-20260715/</guid>
+      <guid>https://www.bboy.app/2026/07/27/%E5%A4%8F%E5%A4%A9%E6%9D%A5%E6%9D%AF%E9%BB%84%E7%93%9C%E6%9F%A0%E6%AA%AC%E6%B0%B4/</guid>
     </item>
     <item>
       <title>从 Prompt 开始的 AI 之旅</title>
