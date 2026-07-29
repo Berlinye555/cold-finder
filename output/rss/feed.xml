@@ -78,6 +78,12 @@
       <guid>https://webfem.com/post/mobile-dev</guid>
     </item>
     <item>
+      <title>部署 K-UI-workers 用Hermes对接tencent/hy3:free</title>
+      <link>https://zelikk.blogspot.com/2026/07/k-ui-workers-hermes-agent.html</link>
+      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
+      <guid>https://zelikk.blogspot.com/2026/07/k-ui-workers-hermes-agent.html</guid>
+    </item>
+    <item>
       <title>白嫖 Zerops 免费容器 用Hermes对接tencent/hy3:free</title>
       <link>https://zelikk.blogspot.com/2026/07/zerops-hermes-agent-api-token.html</link>
       <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
@@ -90,27 +96,21 @@
       <guid>https://zelikk.blogspot.com/2026/07/github-api-token-hermes-agent.html</guid>
     </item>
     <item>
-      <title>Cloudflare 设置 API token 为你的Hermes Agent</title>
-      <link>https://zelikk.blogspot.com/2026/07/cloudflare-api-token-hermes-agent.html</link>
-      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
-      <guid>https://zelikk.blogspot.com/2026/07/cloudflare-api-token-hermes-agent.html</guid>
-    </item>
-    <item>
       <title>后疫情时代下美国 CS Master 申请纪实</title>
       <link>https://halfrost.com/halfrost_2021/</link>
-      <description>后疫情时代，美国CS Master申请纪实，留学之路不易走。</description>
+      <description>后疫情时代，美国CS硕士申请路漫漫，本文揭秘申请全过程。</description>
       <guid>https://halfrost.com/halfrost_2021/</guid>
     </item>
     <item>
       <title>下一个五年计划起航 ！</title>
       <link>https://halfrost.com/halfrost_2020/</link>
-      <description>下一个五年计划起航，回顾2020疫情与建设奇迹。</description>
+      <description>回顾2020，武汉抗疫，火神山、雷神山医院建设，见证中国力量。</description>
       <guid>https://halfrost.com/halfrost_2020/</guid>
     </item>
     <item>
       <title>面试中 LRU / LFU 的青铜与王者</title>
       <link>https://halfrost.com/lru_lfu_interview/</link>
-      <description>面试LRU/LFU算法，基础与进阶解析。</description>
+      <description>解析LRU和LFU缓存算法，揭秘面试难题。</description>
       <guid>https://halfrost.com/lru_lfu_interview/</guid>
     </item>
     <item>
@@ -132,6 +132,12 @@
       <guid>http://www.ruanyifeng.com/blog/2026/07/weekly-issue-403.html</guid>
     </item>
     <item>
+      <title>自作孽</title>
+      <link>https://www.hecaitou.com/2026/07/My-Own-Undoing.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/07/My-Own-Undoing.html</guid>
+    </item>
+    <item>
       <title>粉格证明</title>
       <link>https://www.hecaitou.com/2026/07/Proof-of-Fanhood.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
@@ -142,12 +148,6 @@
       <link>https://www.hecaitou.com/2026/07/those-who-didnt-become-champions.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/07/those-who-didnt-become-champions.html</guid>
-    </item>
-    <item>
-      <title>隐藏在人群之中</title>
-      <link>https://www.hecaitou.com/2026/07/Hiding-in-the-Crowd.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/07/Hiding-in-the-Crowd.html</guid>
     </item>
     <item>
       <title>是微服务架构不香还是云不香？</title>
@@ -186,7 +186,7 @@
       <guid>http://blog.youxu.info/2021/11/01/after-fire/</guid>
     </item>
     <item>
-      <title>最新微博：2026 年 7 月 25 日</title>
+      <title>最新微博：2026 年 7 月 28 日</title>
       <link>https://www.changhai.org/articles/miscellaneous/blog/202607.php#latest</link>
       <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
       <guid>https://www.changhai.org/articles/miscellaneous/blog/202607.php#latest</guid>
@@ -204,16 +204,10 @@
       <guid>https://www.changhai.org/articles/miscellaneous/blog/202605.php</guid>
     </item>
     <item>
-      <title>《玩具總動員 5》中國票房爲何不濟？</title>
-      <link>https://blog.yitianshijie.net/2026/07/24/why-toy-story-5-fails-in-china/</link>
-      <description>代表文章：《[李如一 | 论推荐之难](</description>
-      <guid>https://blog.yitianshijie.net/2026/07/24/why-toy-story-5-fails-in-china/</guid>
-    </item>
-    <item>
-      <title>爲什麼要學英語？</title>
-      <link>https://blog.yitianshijie.net/2026/07/15/why-do-we-learn-english/</link>
-      <description>代表文章：《[李如一 | 论推荐之难](</description>
-      <guid>https://blog.yitianshijie.net/2026/07/15/why-do-we-learn-english/</guid>
+      <title>罚销比7.5% 平台反垄断迄今最高 携程出了个大血</title>
+      <link>http://weiwuhui.com/10988.html</link>
+      <description>魏老师执教于上海交通大学媒体与传播学院，天奇创投基金管理合伙人。媒体行业的思考和见解，尽在魏老师。</description>
+      <guid>http://weiwuhui.com/10988.html</guid>
     </item>
     <item>
       <title>人为什么要中庸 AI从一个意想不到的角度给了我雷霆一击</title>
@@ -228,27 +222,21 @@
       <guid>http://weiwuhui.com/10752.html</guid>
     </item>
     <item>
-      <title>TRAE Work已正式上岗 成为我的教学小助理</title>
-      <link>http://weiwuhui.com/10760.html</link>
-      <description>魏老师执教于上海交通大学媒体与传播学院，天奇创投基金管理合伙人。媒体行业的思考和见解，尽在魏老师。</description>
-      <guid>http://weiwuhui.com/10760.html</guid>
-    </item>
-    <item>
       <title>将Softmax Attention线性化为Gated DeltaNet</title>
       <link>https://spaces.ac.cn/archives/11823</link>
-      <description>将Softmax Attention线性化为Gated DeltaNet，实现更高效注意力机制。</description>
+      <description>将Softmax Attention线性化，实现Gated DeltaNet。</description>
       <guid>https://spaces.ac.cn/archives/11823</guid>
     </item>
     <item>
       <title>基于排序不等式的相似度指标</title>
       <link>https://spaces.ac.cn/archives/11818</link>
-      <description>《Beyond Cosine Similarity》论文提出基于排序不等式的相似度指标，拓展了余弦相似度应用。</description>
+      <description>探索排序不等式构建的新相似度指标，超越传统余弦相似度。</description>
       <guid>https://spaces.ac.cn/archives/11818</guid>
     </item>
     <item>
       <title>LogSumExp和Softmax的泰勒展开</title>
       <link>https://spaces.ac.cn/archives/11814</link>
-      <description>论文分析Softmax线性化，LogSumExp泰勒展开，提升Transformer性能。</description>
+      <description>论文分析Softmax线性化Attention，引入LogSumExp记号。</description>
       <guid>https://spaces.ac.cn/archives/11814</guid>
     </item>
     <item>
@@ -326,7 +314,7 @@
     <item>
       <title>苹果的电源</title>
       <link>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</link>
-      <description>乔布斯传记中提及的电源设计工程师Rod Holt，因苹果电源设计闻名。</description>
+      <description>乔布斯传记中，电源设计工程师Rod Holt因苹果电源设计而闻名。</description>
       <guid>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</guid>
     </item>
     <item>
@@ -338,7 +326,7 @@
     <item>
       <title>马代(2)</title>
       <link>https://lenciel.com/2026/06/maldives-2/</link>
-      <description>马代海面广阔，蓝洞和海岛是区域路线的标定，度假房散布其间，静默承载着各种情感。</description>
+      <description>马代海面无差别复制，蓝洞和海岛标定区域，度假房沉默见证潮起潮落。</description>
       <guid>https://lenciel.com/2026/06/maldives-2/</guid>
     </item>
     <item>
@@ -434,19 +422,19 @@
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台游记：体验台州天台，品尝特色小吃，游览国清寺。</description>
+      <description>天台之旅，品尝特色小吃，游览国清寺，体验慢生活。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
       <title>舟山骑车游</title>
       <link>https://battlele.com/zhoushan-trip/</link>
-      <description>舟山骑车游，环岛骑行，体验海天佛国风光。</description>
+      <description>舟山环岛骑行，体验海天佛国美景。</description>
       <guid>https://battlele.com/zhoushan-trip/</guid>
     </item>
     <item>
       <title>五月的上海游记</title>
       <link>https://battlele.com/mayday-sh-trip/</link>
-      <description>五一假期上海行，Fitting回访与博物馆特展之旅。</description>
+      <description>五一假期上海游，体验Fitting与博物馆特展。</description>
       <guid>https://battlele.com/mayday-sh-trip/</guid>
     </item>
     <item>
@@ -488,19 +476,19 @@
     <item>
       <title>2026.7.26</title>
       <link>https://www.justzht.com/2026-7-26/</link>
-      <description>一周六天公司生活，体检、同事离职、回国签证、创业广告牌。</description>
+      <description>2026.7.26</description>
       <guid>https://www.justzht.com/2026-7-26/</guid>
     </item>
     <item>
       <title>2026.7.21</title>
       <link>https://www.justzht.com/2026-7-21/</link>
-      <description>周末登山拍照，体验新变化，生活小趣事。</description>
+      <description>周末爬山，短视频拍摄，证件照新体验。</description>
       <guid>https://www.justzht.com/2026-7-21/</guid>
     </item>
     <item>
       <title>2026.7.12</title>
       <link>https://www.justzht.com/2026-7-12/</link>
-      <description>拍立得交易、美食体验与社交软件的思考。</description>
+      <description>相机收藏家偶遇旧店员，拍立得体验与社交软件的思考。</description>
       <guid>https://www.justzht.com/2026-7-12/</guid>
     </item>
     <item>
