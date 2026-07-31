@@ -98,20 +98,26 @@
     <item>
       <title>后疫情时代下美国 CS Master 申请纪实</title>
       <link>https://halfrost.com/halfrost_2021/</link>
-      <description>后疫情时代美国CS硕士申请，挑战与心得分享。</description>
+      <description>后疫情时代美国CS Master申请难上加难，本文揭秘留学生申请全过程。</description>
       <guid>https://halfrost.com/halfrost_2021/</guid>
     </item>
     <item>
       <title>下一个五年计划起航 ！</title>
       <link>https://halfrost.com/halfrost_2020/</link>
-      <description>回顾2020，展望下一个五年计划，共克时艰，砥砺前行。</description>
+      <description>回顾2020，武汉抗疫与火神山、雷神山奇迹诞生。</description>
       <guid>https://halfrost.com/halfrost_2020/</guid>
     </item>
     <item>
       <title>面试中 LRU / LFU 的青铜与王者</title>
       <link>https://halfrost.com/lru_lfu_interview/</link>
-      <description>深入剖析LRU/LFU缓存算法，面试必备！</description>
+      <description>解析LRU和LFU缓存算法，揭秘面试难题。</description>
       <guid>https://halfrost.com/lru_lfu_interview/</guid>
+    </item>
+    <item>
+      <title>科技爱好者周刊（第 406 期）：道可，道非，常道</title>
+      <link>http://www.ruanyifeng.com/blog/2026/07/weekly-issue-406.html</link>
+      <description>对我来说，博客首先是一种知识管理工具，其次才是传播工具。我的技术文章，主要用来整理我还不懂的知识。我只写那些我还没有完全掌握的东西，那些我精通的东西，往往没有动力写。炫耀从来不是我的动机，好奇才是。</description>
+      <guid>http://www.ruanyifeng.com/blog/2026/07/weekly-issue-406.html</guid>
     </item>
     <item>
       <title>科技爱好者周刊（第 405 期）：资源，社会公平与算力</title>
@@ -126,10 +132,10 @@
       <guid>http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html</guid>
     </item>
     <item>
-      <title>科技爱好者周刊（第 403 期）：为什么 Dropbox 不成功</title>
-      <link>http://www.ruanyifeng.com/blog/2026/07/weekly-issue-403.html</link>
-      <description>对我来说，博客首先是一种知识管理工具，其次才是传播工具。我的技术文章，主要用来整理我还不懂的知识。我只写那些我还没有完全掌握的东西，那些我精通的东西，往往没有动力写。炫耀从来不是我的动机，好奇才是。</description>
-      <guid>http://www.ruanyifeng.com/blog/2026/07/weekly-issue-403.html</guid>
+      <title>我已AI倦怠</title>
+      <link>https://www.hecaitou.com/2026/07/Just-Exhausted-by-AI.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/07/Just-Exhausted-by-AI.html</guid>
     </item>
     <item>
       <title>自作孽</title>
@@ -142,12 +148,6 @@
       <link>https://www.hecaitou.com/2026/07/Proof-of-Fanhood.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/07/Proof-of-Fanhood.html</guid>
-    </item>
-    <item>
-      <title>那些没有成为冠军的人</title>
-      <link>https://www.hecaitou.com/2026/07/those-who-didnt-become-champions.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/07/those-who-didnt-become-champions.html</guid>
     </item>
     <item>
       <title>是微服务架构不香还是云不香？</title>
@@ -236,19 +236,19 @@
     <item>
       <title>解构Scaling Law：优化、架构、数据的三重奏</title>
       <link>https://spaces.ac.cn/archives/11833</link>
-      <description>揭秘Scaling Law，探寻优化、架构、数据间规律。</description>
+      <description>深度学习Scaling Law：揭秘优化、架构、数据三要素的相互作用。</description>
       <guid>https://spaces.ac.cn/archives/11833</guid>
     </item>
     <item>
       <title>将Softmax Attention线性化为Gated DeltaNet</title>
       <link>https://spaces.ac.cn/archives/11823</link>
-      <description>将Softmax Attention线性化为Gated DeltaNet，实现高效注意力机制。</description>
+      <description>本文提出将Softmax Attention线性化为Gated DeltaNet的新方法。</description>
       <guid>https://spaces.ac.cn/archives/11823</guid>
     </item>
     <item>
       <title>基于排序不等式的相似度指标</title>
       <link>https://spaces.ac.cn/archives/11818</link>
-      <description>探索基于排序不等式的相似度新指标，超越余弦相似度。</description>
+      <description>探索基于排序不等式的相似度新指标，超越传统余弦相似度。</description>
       <guid>https://spaces.ac.cn/archives/11818</guid>
     </item>
     <item>
@@ -326,7 +326,7 @@
     <item>
       <title>苹果的电源</title>
       <link>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</link>
-      <description>乔布斯传记中，电源设计工程师Rod Holt因苹果电源设计而闻名。</description>
+      <description>Rod Holt，苹果电源设计工程师，因乔布斯传记闻名。</description>
       <guid>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</guid>
     </item>
     <item>
@@ -338,7 +338,7 @@
     <item>
       <title>马代(2)</title>
       <link>https://lenciel.com/2026/06/maldives-2/</link>
-      <description>马代海面简单复制，蓝洞与海岛标定区域，度假房沉默宣誓容纳潮起潮落。</description>
+      <description>马代海面广阔，蓝洞和海岛是区域标识，度假村沉默见证潮起潮落。</description>
       <guid>https://lenciel.com/2026/06/maldives-2/</guid>
     </item>
     <item>
@@ -434,7 +434,7 @@
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台游记：体验台州天台，品尝特色小吃，游览国清寺。</description>
+      <description>天台游记：体验当地美食，探访国清寺，享受悠闲假期。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
@@ -486,22 +486,22 @@
       <guid>https://s5s5.me/4292</guid>
     </item>
     <item>
+      <title>2026.7.30</title>
+      <link>https://www.justzht.com/2026-7-30/</link>
+      <description>体检一切正常，维生素 B 超标，更新个人主页，工作忙碌，有买房想法。</description>
+      <guid>https://www.justzht.com/2026-7-30/</guid>
+    </item>
+    <item>
       <title>2026.7.26</title>
       <link>https://www.justzht.com/2026-7-26/</link>
-      <description>一周六天公司生活，体检、同事离职，忙于回国签证和创业项目。</description>
+      <description>一周六天公司生活，体检、同事离职，忙于签证与创业项目。</description>
       <guid>https://www.justzht.com/2026-7-26/</guid>
     </item>
     <item>
       <title>2026.7.21</title>
       <link>https://www.justzht.com/2026-7-21/</link>
-      <description>周末爬山、短视频拍摄、签证证件照新体验。</description>
+      <description>周末登山，短视频拍摄，证件照新体验。</description>
       <guid>https://www.justzht.com/2026-7-21/</guid>
-    </item>
-    <item>
-      <title>2026.7.12</title>
-      <link>https://www.justzht.com/2026-7-12/</link>
-      <description>周末相机交易、美食与社交生活记录。</description>
-      <guid>https://www.justzht.com/2026-7-12/</guid>
     </item>
     <item>
       <title>20260728的胡言乱语</title>
