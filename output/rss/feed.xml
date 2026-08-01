@@ -98,13 +98,13 @@
     <item>
       <title>后疫情时代下美国 CS Master 申请纪实</title>
       <link>https://halfrost.com/halfrost_2021/</link>
-      <description>后疫情时代美国CS Master申请难上加难，本文揭秘留学生申请全过程。</description>
+      <description>后疫情时代，美国CS硕士申请路漫漫，本文揭秘申请全过程。</description>
       <guid>https://halfrost.com/halfrost_2021/</guid>
     </item>
     <item>
       <title>下一个五年计划起航 ！</title>
       <link>https://halfrost.com/halfrost_2020/</link>
-      <description>回顾2020，武汉抗疫与火神山、雷神山奇迹诞生。</description>
+      <description>回顾2020，共抗疫情，见证火神山、雷神山奇迹。</description>
       <guid>https://halfrost.com/halfrost_2020/</guid>
     </item>
     <item>
@@ -132,6 +132,12 @@
       <guid>http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html</guid>
     </item>
     <item>
+      <title>快乐星期五</title>
+      <link>https://www.hecaitou.com/2026/07/Happy-Friday.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/07/Happy-Friday.html</guid>
+    </item>
+    <item>
       <title>我已AI倦怠</title>
       <link>https://www.hecaitou.com/2026/07/Just-Exhausted-by-AI.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
@@ -142,12 +148,6 @@
       <link>https://www.hecaitou.com/2026/07/My-Own-Undoing.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/07/My-Own-Undoing.html</guid>
-    </item>
-    <item>
-      <title>粉格证明</title>
-      <link>https://www.hecaitou.com/2026/07/Proof-of-Fanhood.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/07/Proof-of-Fanhood.html</guid>
     </item>
     <item>
       <title>是微服务架构不香还是云不香？</title>
@@ -186,6 +186,12 @@
       <guid>http://blog.youxu.info/2021/11/01/after-fire/</guid>
     </item>
     <item>
+      <title>独立日飞行表演</title>
+      <link>https://www.youtube.com/watch?v=FLUw76TdhHU</link>
+      <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
+      <guid>https://www.youtube.com/watch?v=FLUw76TdhHU</guid>
+    </item>
+    <item>
       <title>最新微博：2026 年 7 月 28 日</title>
       <link>https://www.changhai.org/articles/miscellaneous/blog/202607.php#latest</link>
       <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
@@ -196,12 +202,6 @@
       <link>https://www.changhai.org/articles/miscellaneous/eblog/202605.php#latest</link>
       <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
       <guid>https://www.changhai.org/articles/miscellaneous/eblog/202605.php#latest</guid>
-    </item>
-    <item>
-      <title>微言小义 (2026.05 - 2026.06)</title>
-      <link>https://www.changhai.org/articles/miscellaneous/blog/202605.php</link>
-      <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
-      <guid>https://www.changhai.org/articles/miscellaneous/blog/202605.php</guid>
     </item>
     <item>
       <title>《玩具總動員 5》中國票房爲何不濟？</title>
@@ -236,19 +236,19 @@
     <item>
       <title>解构Scaling Law：优化、架构、数据的三重奏</title>
       <link>https://spaces.ac.cn/archives/11833</link>
-      <description>深度学习Scaling Law：揭秘优化、架构、数据三要素的相互作用。</description>
+      <description>深度学习Scaling Law揭秘：优化、架构、数据三重奏影响模型性能。</description>
       <guid>https://spaces.ac.cn/archives/11833</guid>
     </item>
     <item>
       <title>将Softmax Attention线性化为Gated DeltaNet</title>
       <link>https://spaces.ac.cn/archives/11823</link>
-      <description>本文提出将Softmax Attention线性化为Gated DeltaNet的新方法。</description>
+      <description>本文提出将Softmax Attention线性化为Gated DeltaNet，实现更高效注意力机制。</description>
       <guid>https://spaces.ac.cn/archives/11823</guid>
     </item>
     <item>
       <title>基于排序不等式的相似度指标</title>
       <link>https://spaces.ac.cn/archives/11818</link>
-      <description>探索基于排序不等式的相似度新指标，超越传统余弦相似度。</description>
+      <description>《Beyond Cosine Similarity》论文提出基于排序不等式的新相似度指标。</description>
       <guid>https://spaces.ac.cn/archives/11818</guid>
     </item>
     <item>
@@ -326,7 +326,7 @@
     <item>
       <title>苹果的电源</title>
       <link>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</link>
-      <description>Rod Holt，苹果电源设计工程师，因乔布斯传记闻名。</description>
+      <description>Rod Holt因苹果电源设计闻名，被多部作品提及。</description>
       <guid>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</guid>
     </item>
     <item>
@@ -338,7 +338,7 @@
     <item>
       <title>马代(2)</title>
       <link>https://lenciel.com/2026/06/maldives-2/</link>
-      <description>马代海面广阔，蓝洞和海岛是区域标识，度假村沉默见证潮起潮落。</description>
+      <description>马代海面无差别，蓝洞和海岛标定区域，度假房静默见证潮起潮落。</description>
       <guid>https://lenciel.com/2026/06/maldives-2/</guid>
     </item>
     <item>
@@ -360,16 +360,16 @@
       <guid>https://diygod.cc/beancount</guid>
     </item>
     <item>
-      <title>2018 平淡无奇</title>
-      <link>https://geekplux.com/posts/2018-summary</link>
-      <description>- 骄傲谦逊的理性主义者</description>
-      <guid>https://geekplux.com/posts/2018-summary</guid>
-    </item>
-    <item>
       <title>2019 柳暗花明</title>
       <link>https://geekplux.com/posts/2019-summary</link>
       <description>- 骄傲谦逊的理性主义者</description>
       <guid>https://geekplux.com/posts/2019-summary</guid>
+    </item>
+    <item>
+      <title>2018 平淡无奇</title>
+      <link>https://geekplux.com/posts/2018-summary</link>
+      <description>- 骄傲谦逊的理性主义者</description>
+      <guid>https://geekplux.com/posts/2018-summary</guid>
     </item>
     <item>
       <title>2020 恍如隔世</title>
@@ -434,19 +434,19 @@
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台游记：体验当地美食，探访国清寺，享受悠闲假期。</description>
+      <description>天台之旅，体验当地美食与古迹。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
       <title>舟山骑车游</title>
       <link>https://battlele.com/zhoushan-trip/</link>
-      <description>舟山骑车游</description>
+      <description>舟山骑车游，环岛骑行，探索海天佛国，体验独特群岛风情。</description>
       <guid>https://battlele.com/zhoushan-trip/</guid>
     </item>
     <item>
       <title>五月的上海游记</title>
       <link>https://battlele.com/mayday-sh-trip/</link>
-      <description>五一假期上海行，体验Fitting与博物馆特展。</description>
+      <description>五一假期上海游，体验博物馆特展与城市风光。</description>
       <guid>https://battlele.com/mayday-sh-trip/</guid>
     </item>
     <item>
@@ -488,19 +488,19 @@
     <item>
       <title>2026.7.30</title>
       <link>https://www.justzht.com/2026-7-30/</link>
-      <description>体检一切正常，维生素 B 超标，更新个人主页，工作忙碌，有买房想法。</description>
+      <description>体检指标正常，维生素 B 超标，更新个人主页，工作忙碌，有买房想法。</description>
       <guid>https://www.justzht.com/2026-7-30/</guid>
     </item>
     <item>
       <title>2026.7.26</title>
       <link>https://www.justzht.com/2026-7-26/</link>
-      <description>一周六天公司生活，体检、同事离职，忙于签证与创业项目。</description>
+      <description>一周六天公司生活，体检、同事离职、回国签证、创业广告牌，生活琐碎中寻找乐趣。</description>
       <guid>https://www.justzht.com/2026-7-26/</guid>
     </item>
     <item>
       <title>2026.7.21</title>
       <link>https://www.justzht.com/2026-7-21/</link>
-      <description>周末登山，短视频拍摄，证件照新体验。</description>
+      <description>周末爬山，短视频拍摄，证件照新体验。</description>
       <guid>https://www.justzht.com/2026-7-21/</guid>
     </item>
     <item>
