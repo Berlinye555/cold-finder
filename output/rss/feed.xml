@@ -98,19 +98,19 @@
     <item>
       <title>后疫情时代下美国 CS Master 申请纪实</title>
       <link>https://halfrost.com/halfrost_2021/</link>
-      <description>后疫情时代，美国CS硕士申请路漫漫，本文揭秘申请全过程。</description>
+      <description>后疫情时代美国CS硕士申请纪实，留学生困境与择校策略解析。</description>
       <guid>https://halfrost.com/halfrost_2021/</guid>
     </item>
     <item>
       <title>下一个五年计划起航 ！</title>
       <link>https://halfrost.com/halfrost_2020/</link>
-      <description>回顾2020，共抗疫情，见证火神山、雷神山奇迹。</description>
+      <description>回顾2020，武汉抗疫，火神山雷神山彰显中国速度。</description>
       <guid>https://halfrost.com/halfrost_2020/</guid>
     </item>
     <item>
       <title>面试中 LRU / LFU 的青铜与王者</title>
       <link>https://halfrost.com/lru_lfu_interview/</link>
-      <description>解析LRU和LFU缓存算法，揭秘面试难题。</description>
+      <description>深入解析LRU和LFU缓存淘汰算法，面试必备！</description>
       <guid>https://halfrost.com/lru_lfu_interview/</guid>
     </item>
     <item>
@@ -132,22 +132,22 @@
       <guid>http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html</guid>
     </item>
     <item>
+      <title>那些让人脸红的文字</title>
+      <link>https://www.hecaitou.com/2026/08/writing-that-makes-me-cringe.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/08/writing-that-makes-me-cringe.html</guid>
+    </item>
+    <item>
+      <title>这是我所能达到的最远的距离</title>
+      <link>https://www.hecaitou.com/2026/07/As-Far-As-I-Can-Get.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/07/As-Far-As-I-Can-Get.html</guid>
+    </item>
+    <item>
       <title>快乐星期五</title>
       <link>https://www.hecaitou.com/2026/07/Happy-Friday.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/07/Happy-Friday.html</guid>
-    </item>
-    <item>
-      <title>我已AI倦怠</title>
-      <link>https://www.hecaitou.com/2026/07/Just-Exhausted-by-AI.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/07/Just-Exhausted-by-AI.html</guid>
-    </item>
-    <item>
-      <title>自作孽</title>
-      <link>https://www.hecaitou.com/2026/07/My-Own-Undoing.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/07/My-Own-Undoing.html</guid>
     </item>
     <item>
       <title>是微服务架构不香还是云不香？</title>
@@ -216,6 +216,12 @@
       <guid>https://blog.yitianshijie.net/2026/07/15/why-do-we-learn-english/</guid>
     </item>
     <item>
+      <title>携程看上去很便宜，问题出在哪里</title>
+      <link>http://weiwuhui.com/11045.html</link>
+      <description>魏老师执教于上海交通大学媒体与传播学院，天奇创投基金管理合伙人。媒体行业的思考和见解，尽在魏老师。</description>
+      <guid>http://weiwuhui.com/11045.html</guid>
+    </item>
+    <item>
       <title>罚销比7.5% 平台反垄断迄今最高 携程出了个大血</title>
       <link>http://weiwuhui.com/10988.html</link>
       <description>魏老师执教于上海交通大学媒体与传播学院，天奇创投基金管理合伙人。媒体行业的思考和见解，尽在魏老师。</description>
@@ -228,28 +234,28 @@
       <guid>http://weiwuhui.com/10798.html</guid>
     </item>
     <item>
-      <title>都是抓“奴隶” 这两个游戏的内核是完全不同的</title>
-      <link>http://weiwuhui.com/10752.html</link>
-      <description>魏老师执教于上海交通大学媒体与传播学院，天奇创投基金管理合伙人。媒体行业的思考和见解，尽在魏老师。</description>
-      <guid>http://weiwuhui.com/10752.html</guid>
-    </item>
-    <item>
       <title>解构Scaling Law：优化、架构、数据的三重奏</title>
       <link>https://spaces.ac.cn/archives/11833</link>
-      <description>深度学习Scaling Law揭秘：优化、架构、数据三重奏影响模型性能。</description>
+      <description>深度学习Scaling Law：揭秘优化、架构、数据三要素的奥秘。</description>
       <guid>https://spaces.ac.cn/archives/11833</guid>
     </item>
     <item>
       <title>将Softmax Attention线性化为Gated DeltaNet</title>
       <link>https://spaces.ac.cn/archives/11823</link>
-      <description>本文提出将Softmax Attention线性化为Gated DeltaNet，实现更高效注意力机制。</description>
+      <description>将Softmax Attention线性化，实现Gated DeltaNet。</description>
       <guid>https://spaces.ac.cn/archives/11823</guid>
     </item>
     <item>
       <title>基于排序不等式的相似度指标</title>
       <link>https://spaces.ac.cn/archives/11818</link>
-      <description>《Beyond Cosine Similarity》论文提出基于排序不等式的新相似度指标。</description>
+      <description>探索基于排序不等式的相似度新指标，超越传统余弦相似度。</description>
       <guid>https://spaces.ac.cn/archives/11818</guid>
+    </item>
+    <item>
+      <title>Google’s AI Problem Is Bigger Than You Think</title>
+      <link>https://limboy.me/posts/google-ai-problem-is-bigger-than-you-think</link>
+      <description>[**Make good new things**]( 非常认同 Paul Graham 的这个观点，我认为它捕捉到了有意义工作的本质：创造真正好的新颖的事物。不仅仅是重复旧事物，不仅仅是追逐潮流，而是为世界贡献真正有价值的东西。跟 Steve Jobs 的 [Make Something Wonderful]( 有异曲同工之妙。</description>
+      <guid>https://limboy.me/posts/google-ai-problem-is-bigger-than-you-think</guid>
     </item>
     <item>
       <title>读《置身钉内》后的一些感受</title>
@@ -262,12 +268,6 @@
       <link>https://limboy.me/posts/the-changes-claude-code-brought-me</link>
       <description>[**Make good new things**]( 非常认同 Paul Graham 的这个观点，我认为它捕捉到了有意义工作的本质：创造真正好的新颖的事物。不仅仅是重复旧事物，不仅仅是追逐潮流，而是为世界贡献真正有价值的东西。跟 Steve Jobs 的 [Make Something Wonderful]( 有异曲同工之妙。</description>
       <guid>https://limboy.me/posts/the-changes-claude-code-brought-me</guid>
-    </item>
-    <item>
-      <title>微信是一个奇葩</title>
-      <link>https://limboy.me/posts/wechat-is-abnormal</link>
-      <description>[**Make good new things**]( 非常认同 Paul Graham 的这个观点，我认为它捕捉到了有意义工作的本质：创造真正好的新颖的事物。不仅仅是重复旧事物，不仅仅是追逐潮流，而是为世界贡献真正有价值的东西。跟 Steve Jobs 的 [Make Something Wonderful]( 有异曲同工之妙。</description>
-      <guid>https://limboy.me/posts/wechat-is-abnormal</guid>
     </item>
     <item>
       <title>在香港骑共享单车：访客视角的经验</title>
@@ -326,7 +326,7 @@
     <item>
       <title>苹果的电源</title>
       <link>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</link>
-      <description>Rod Holt因苹果电源设计闻名，被多部作品提及。</description>
+      <description>乔布斯传记中，电源设计工程师Rod Holt因苹果电源设计而闻名。</description>
       <guid>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</guid>
     </item>
     <item>
@@ -338,7 +338,7 @@
     <item>
       <title>马代(2)</title>
       <link>https://lenciel.com/2026/06/maldives-2/</link>
-      <description>马代海面无差别，蓝洞和海岛标定区域，度假房静默见证潮起潮落。</description>
+      <description>马代海面广阔，蓝洞与海岛标定区域，度假房散布其中，静默见证潮起潮落。</description>
       <guid>https://lenciel.com/2026/06/maldives-2/</guid>
     </item>
     <item>
@@ -434,19 +434,19 @@
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台之旅，体验当地美食与古迹。</description>
+      <description>天台游记：体验台州天台，品尝特色小吃，游览国清寺。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
       <title>舟山骑车游</title>
       <link>https://battlele.com/zhoushan-trip/</link>
-      <description>舟山骑车游，环岛骑行，探索海天佛国，体验独特群岛风情。</description>
+      <description>舟山骑行之旅，环岛半程百公里，体验海天佛国美景。</description>
       <guid>https://battlele.com/zhoushan-trip/</guid>
     </item>
     <item>
       <title>五月的上海游记</title>
       <link>https://battlele.com/mayday-sh-trip/</link>
-      <description>五一假期上海游，体验博物馆特展与城市风光。</description>
+      <description>五一假期上海行，体验Fitting与博物馆特展。</description>
       <guid>https://battlele.com/mayday-sh-trip/</guid>
     </item>
     <item>
@@ -488,19 +488,19 @@
     <item>
       <title>2026.7.30</title>
       <link>https://www.justzht.com/2026-7-30/</link>
-      <description>体检指标正常，维生素 B 超标，更新个人主页，工作忙碌，有买房想法。</description>
+      <description>体检正常，维生素 B 超标，更新个人主页，工作忙碌，想买房。</description>
       <guid>https://www.justzht.com/2026-7-30/</guid>
     </item>
     <item>
       <title>2026.7.26</title>
       <link>https://www.justzht.com/2026-7-26/</link>
-      <description>一周六天公司生活，体检、同事离职、回国签证、创业广告牌，生活琐碎中寻找乐趣。</description>
+      <description>一周六天工作，周末体检、拍照，准备回国签证，新买域名想创意广告。</description>
       <guid>https://www.justzht.com/2026-7-26/</guid>
     </item>
     <item>
       <title>2026.7.21</title>
       <link>https://www.justzht.com/2026-7-21/</link>
-      <description>周末爬山，短视频拍摄，证件照新体验。</description>
+      <description>周末登山，短视频拍摄，证件照新体验。</description>
       <guid>https://www.justzht.com/2026-7-21/</guid>
     </item>
     <item>
