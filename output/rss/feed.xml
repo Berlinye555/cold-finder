@@ -78,6 +78,12 @@
       <guid>https://webfem.com/post/mobile-dev</guid>
     </item>
     <item>
+      <title>甲骨文Oracle ARM VPS Ubuntu系统 用非root用户 不用 sudo -i 安装omniroute by Hermes 对接 tencent/hy3:free</title>
+      <link>https://zelikk.blogspot.com/2026/08/omniroute-hermes-agent-oracle-arm-ubuntu-root-sudo-.html</link>
+      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
+      <guid>https://zelikk.blogspot.com/2026/08/omniroute-hermes-agent-oracle-arm-ubuntu-root-sudo-.html</guid>
+    </item>
+    <item>
       <title>部署 K-UI-workers 用Hermes对接tencent/hy3:free</title>
       <link>https://zelikk.blogspot.com/2026/07/k-ui-workers-hermes-agent.html</link>
       <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
@@ -90,27 +96,21 @@
       <guid>https://zelikk.blogspot.com/2026/07/zerops-hermes-agent-api-token.html</guid>
     </item>
     <item>
-      <title>Github 设置 API token 为你的Hermes Agent</title>
-      <link>https://zelikk.blogspot.com/2026/07/github-api-token-hermes-agent.html</link>
-      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
-      <guid>https://zelikk.blogspot.com/2026/07/github-api-token-hermes-agent.html</guid>
-    </item>
-    <item>
       <title>后疫情时代下美国 CS Master 申请纪实</title>
       <link>https://halfrost.com/halfrost_2021/</link>
-      <description>后疫情时代美国CS硕士申请纪实，留学生困境与择校策略解析。</description>
+      <description>后疫情时代美国CS硕士申请难上加难，本文揭秘申请全过程及心得。</description>
       <guid>https://halfrost.com/halfrost_2021/</guid>
     </item>
     <item>
       <title>下一个五年计划起航 ！</title>
       <link>https://halfrost.com/halfrost_2020/</link>
-      <description>回顾2020，武汉抗疫，火神山雷神山彰显中国速度。</description>
+      <description>下一个五年计划起航，回顾2020疫情与基建奇迹。</description>
       <guid>https://halfrost.com/halfrost_2020/</guid>
     </item>
     <item>
       <title>面试中 LRU / LFU 的青铜与王者</title>
       <link>https://halfrost.com/lru_lfu_interview/</link>
-      <description>深入解析LRU和LFU缓存淘汰算法，面试必备！</description>
+      <description>解析LRU和LFU缓存算法，揭秘面试难题。</description>
       <guid>https://halfrost.com/lru_lfu_interview/</guid>
     </item>
     <item>
@@ -132,6 +132,12 @@
       <guid>http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html</guid>
     </item>
     <item>
+      <title>低分辨率爱好</title>
+      <link>https://www.hecaitou.com/2026/08/Low-Resolution-Hobbies.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/08/Low-Resolution-Hobbies.html</guid>
+    </item>
+    <item>
       <title>那些让人脸红的文字</title>
       <link>https://www.hecaitou.com/2026/08/writing-that-makes-me-cringe.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
@@ -142,12 +148,6 @@
       <link>https://www.hecaitou.com/2026/07/As-Far-As-I-Can-Get.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/07/As-Far-As-I-Can-Get.html</guid>
-    </item>
-    <item>
-      <title>快乐星期五</title>
-      <link>https://www.hecaitou.com/2026/07/Happy-Friday.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/07/Happy-Friday.html</guid>
     </item>
     <item>
       <title>是微服务架构不香还是云不香？</title>
@@ -236,20 +236,26 @@
     <item>
       <title>解构Scaling Law：优化、架构、数据的三重奏</title>
       <link>https://spaces.ac.cn/archives/11833</link>
-      <description>深度学习Scaling Law：揭秘优化、架构、数据三要素的奥秘。</description>
+      <description>探索Scaling Law，揭示优化、架构、数据间关系。</description>
       <guid>https://spaces.ac.cn/archives/11833</guid>
     </item>
     <item>
       <title>将Softmax Attention线性化为Gated DeltaNet</title>
       <link>https://spaces.ac.cn/archives/11823</link>
-      <description>将Softmax Attention线性化，实现Gated DeltaNet。</description>
+      <description>文章提出将Softmax Attention线性化成Gated DeltaNet。</description>
       <guid>https://spaces.ac.cn/archives/11823</guid>
     </item>
     <item>
       <title>基于排序不等式的相似度指标</title>
       <link>https://spaces.ac.cn/archives/11818</link>
-      <description>探索基于排序不等式的相似度新指标，超越传统余弦相似度。</description>
+      <description>探索基于排序不等式的相似度新指标。</description>
       <guid>https://spaces.ac.cn/archives/11818</guid>
+    </item>
+    <item>
+      <title>社交媒体与香烟</title>
+      <link>https://limboy.me/posts/social-media-and-cigarettes</link>
+      <description>[**Make good new things**]( 非常认同 Paul Graham 的这个观点，我认为它捕捉到了有意义工作的本质：创造真正好的新颖的事物。不仅仅是重复旧事物，不仅仅是追逐潮流，而是为世界贡献真正有价值的东西。跟 Steve Jobs 的 [Make Something Wonderful]( 有异曲同工之妙。</description>
+      <guid>https://limboy.me/posts/social-media-and-cigarettes</guid>
     </item>
     <item>
       <title>Google’s AI Problem Is Bigger Than You Think</title>
@@ -262,12 +268,6 @@
       <link>https://limboy.me/posts/pinned-inside-dingtalk</link>
       <description>[**Make good new things**]( 非常认同 Paul Graham 的这个观点，我认为它捕捉到了有意义工作的本质：创造真正好的新颖的事物。不仅仅是重复旧事物，不仅仅是追逐潮流，而是为世界贡献真正有价值的东西。跟 Steve Jobs 的 [Make Something Wonderful]( 有异曲同工之妙。</description>
       <guid>https://limboy.me/posts/pinned-inside-dingtalk</guid>
-    </item>
-    <item>
-      <title>Claude Code 带给我的改变</title>
-      <link>https://limboy.me/posts/the-changes-claude-code-brought-me</link>
-      <description>[**Make good new things**]( 非常认同 Paul Graham 的这个观点，我认为它捕捉到了有意义工作的本质：创造真正好的新颖的事物。不仅仅是重复旧事物，不仅仅是追逐潮流，而是为世界贡献真正有价值的东西。跟 Steve Jobs 的 [Make Something Wonderful]( 有异曲同工之妙。</description>
-      <guid>https://limboy.me/posts/the-changes-claude-code-brought-me</guid>
     </item>
     <item>
       <title>在香港骑共享单车：访客视角的经验</title>
@@ -307,26 +307,26 @@
     </item>
     <item>
       <title>来信 · 莫良</title>
+      <link>https://www.gtdstudy.com/guestbook/79160fdf-d95f-4270-aa68-fe4c84ab5178/</link>
+      <description/>
+      <guid>https://www.gtdstudy.com/guestbook/79160fdf-d95f-4270-aa68-fe4c84ab5178/</guid>
+    </item>
+    <item>
+      <title>来信 · 莫良</title>
       <link>https://www.gtdstudy.com/guestbook/5c18fc62-248c-4191-8ce9-e99382aeaa21/</link>
       <description/>
       <guid>https://www.gtdstudy.com/guestbook/5c18fc62-248c-4191-8ce9-e99382aeaa21/</guid>
     </item>
     <item>
-      <title>没有了 Shell，Ghost 什么也不是</title>
-      <link>https://www.gtdstudy.com/posts/without-shell-ghost-is-nothing/</link>
+      <title>质变带来成功，量变则不会</title>
+      <link>https://www.gtdstudy.com/posts/2026-07-27/</link>
       <description/>
-      <guid>https://www.gtdstudy.com/posts/without-shell-ghost-is-nothing/</guid>
-    </item>
-    <item>
-      <title>在等待 AI 的时候，干些什么好？</title>
-      <link>https://www.gtdstudy.com/posts/2026-04-05-to-be-human/</link>
-      <description/>
-      <guid>https://www.gtdstudy.com/posts/2026-04-05-to-be-human/</guid>
+      <guid>https://www.gtdstudy.com/posts/2026-07-27/</guid>
     </item>
     <item>
       <title>苹果的电源</title>
       <link>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</link>
-      <description>乔布斯传记中，电源设计工程师Rod Holt因苹果电源设计而闻名。</description>
+      <description>Rod Holt因苹果电源设计而闻名，被多部作品提及。</description>
       <guid>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</guid>
     </item>
     <item>
@@ -338,7 +338,7 @@
     <item>
       <title>马代(2)</title>
       <link>https://lenciel.com/2026/06/maldives-2/</link>
-      <description>马代海面广阔，蓝洞与海岛标定区域，度假房散布其中，静默见证潮起潮落。</description>
+      <description>马代海面简单复制，蓝洞与海岛标定区域，度假房静默宣誓包容力。</description>
       <guid>https://lenciel.com/2026/06/maldives-2/</guid>
     </item>
     <item>
@@ -434,13 +434,13 @@
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台游记：体验台州天台，品尝特色小吃，游览国清寺。</description>
+      <description>天台游记：体验台州美食与国清寺古韵。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
       <title>舟山骑车游</title>
       <link>https://battlele.com/zhoushan-trip/</link>
-      <description>舟山骑行之旅，环岛半程百公里，体验海天佛国美景。</description>
+      <description>舟山群岛骑行，体验东海云廊美景与波音747大飞机。</description>
       <guid>https://battlele.com/zhoushan-trip/</guid>
     </item>
     <item>
@@ -456,16 +456,16 @@
       <guid>https://jdhao.github.io/about/</guid>
     </item>
     <item>
+      <title>Using ruff as Linter for Python Projects</title>
+      <link>https://jdhao.github.io/2026/08/02/introduce_ruff_linter_to_python_project/</link>
+      <description>编程; Nvim; 生活; 读书; 思考。</description>
+      <guid>https://jdhao.github.io/2026/08/02/introduce_ruff_linter_to_python_project/</guid>
+    </item>
+    <item>
       <title>Vector Field Not Shown in Source in Elasticsearch?</title>
       <link>https://jdhao.github.io/2026/07/07/elastic_vector_not_shown_in_source/</link>
       <description>编程; Nvim; 生活; 读书; 思考。</description>
       <guid>https://jdhao.github.io/2026/07/07/elastic_vector_not_shown_in_source/</guid>
-    </item>
-    <item>
-      <title>Elasticsearch Dynamic Mapping Pitfalls</title>
-      <link>https://jdhao.github.io/2026/07/03/elasticsearch_dynamic_mapping_pitfall/</link>
-      <description>编程; Nvim; 生活; 读书; 思考。</description>
-      <guid>https://jdhao.github.io/2026/07/03/elasticsearch_dynamic_mapping_pitfall/</guid>
     </item>
     <item>
       <title>我的 Blog 改版了, 重回网页设计的黄金时代, 像素化!</title>
@@ -488,19 +488,19 @@
     <item>
       <title>2026.7.30</title>
       <link>https://www.justzht.com/2026-7-30/</link>
-      <description>体检正常，维生素 B 超标，更新个人主页，工作忙碌，想买房。</description>
+      <description>体检无大碍，维生素 B 超标，更新个人主页，工作忙碌，生活小记。</description>
       <guid>https://www.justzht.com/2026-7-30/</guid>
     </item>
     <item>
       <title>2026.7.26</title>
       <link>https://www.justzht.com/2026-7-26/</link>
-      <description>一周六天工作，周末体检、拍照，准备回国签证，新买域名想创意广告。</description>
+      <description>一周六天工作，周末体验公司家庭日，准备回国签证，尝试创意广告。</description>
       <guid>https://www.justzht.com/2026-7-26/</guid>
     </item>
     <item>
       <title>2026.7.21</title>
       <link>https://www.justzht.com/2026-7-21/</link>
-      <description>周末登山，短视频拍摄，证件照新体验。</description>
+      <description>周末爬山，短视频拍摄，证件照新体验。</description>
       <guid>https://www.justzht.com/2026-7-21/</guid>
     </item>
     <item>
