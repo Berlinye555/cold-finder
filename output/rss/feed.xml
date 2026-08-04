@@ -6,6 +6,12 @@
     <description>精选自 605 个中文博客 + GitHub 日榜</description>
     <language>zh-CN</language>
     <item>
+      <title>来了来了，Flex/Grid布局的间隙装饰线它来了</title>
+      <link>https://www.zhangxinxu.com/wordpress/2026/08/css-flex-grid-column-row-rule/</link>
+      <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
+      <guid>https://www.zhangxinxu.com/wordpress/2026/08/css-flex-grid-column-row-rule/</guid>
+    </item>
+    <item>
       <title>Screen.isExtended、getScreenDetails与多显示器开发</title>
       <link>https://www.zhangxinxu.com/wordpress/2026/07/windows-getscreendetails-isextended/</link>
       <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
@@ -16,12 +22,6 @@
       <link>https://www.zhangxinxu.com/wordpress/2026/07/css-custom-repeat-function/</link>
       <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
       <guid>https://www.zhangxinxu.com/wordpress/2026/07/css-custom-repeat-function/</guid>
-    </item>
-    <item>
-      <title>CSS新单位dvh、lvmin、vi、cqb等初解</title>
-      <link>https://www.zhangxinxu.com/wordpress/2026/07/css-dvh-vi-cqi/</link>
-      <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
-      <guid>https://www.zhangxinxu.com/wordpress/2026/07/css-dvh-vi-cqi/</guid>
     </item>
     <item>
       <title>看完凡人真人版！韩立的性格狠点+师傅阵容，越聊越燃</title>
@@ -42,6 +42,12 @@
       <guid>https://www.xiaoyuzhoufm.com/episode/68c6d2e22c82c9dcca527114?utm_source=rss</guid>
     </item>
     <item>
+      <title>热茶还是冰咖啡 - 肘子的 Swift 周报 #147</title>
+      <link>https://fatbobman.com/zh/weekly/issue-147/</link>
+      <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
+      <guid>https://fatbobman.com/zh/weekly/issue-147/</guid>
+    </item>
+    <item>
       <title>Liquid Glass：UIKit 适配踩坑实录</title>
       <link>https://fatbobman.com/zh/posts/liquid-glass-a-field-guide-to-uikit-compatibility-pitfalls/</link>
       <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
@@ -52,12 +58,6 @@
       <link>https://fatbobman.com/zh/weekly/issue-146/</link>
       <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
       <guid>https://fatbobman.com/zh/weekly/issue-146/</guid>
-    </item>
-    <item>
-      <title>当灵感跑在了结果前面 - 肘子的 Swift 周报 #145</title>
-      <link>https://fatbobman.com/zh/weekly/issue-145/</link>
-      <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
-      <guid>https://fatbobman.com/zh/weekly/issue-145/</guid>
     </item>
     <item>
       <title>react-virtualized AutoSizer 实现原理详解</title>
@@ -78,39 +78,39 @@
       <guid>https://webfem.com/post/mobile-dev</guid>
     </item>
     <item>
-      <title>甲骨文Oracle ARM VPS Ubuntu系统 用非root用户 不用 sudo -i 安装omniroute by Hermes 对接 tencent/hy3:free</title>
+      <title>部署cfnew by Hermes 对接 oc/deepseek-v4-flash-free</title>
+      <link>https://zelikk.blogspot.com/2026/08/cfnew-hermes-oc-deepseek-v4-flash-free.html</link>
+      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
+      <guid>https://zelikk.blogspot.com/2026/08/cfnew-hermes-oc-deepseek-v4-flash-free.html</guid>
+    </item>
+    <item>
+      <title>安装OmniRoute 白嫖免费模型 在 甲骨文Oracle ARM VPS Ubuntu系统 用非root用户 不用 sudo -i by Hermes 对接 tencent/hy3:free</title>
       <link>https://zelikk.blogspot.com/2026/08/omniroute-hermes-agent-oracle-arm-ubuntu-root-sudo-.html</link>
       <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
       <guid>https://zelikk.blogspot.com/2026/08/omniroute-hermes-agent-oracle-arm-ubuntu-root-sudo-.html</guid>
     </item>
     <item>
-      <title>部署 K-UI-workers 用Hermes对接tencent/hy3:free</title>
+      <title>部署 K-UI-workers by Hermes对接tencent/hy3:free</title>
       <link>https://zelikk.blogspot.com/2026/07/k-ui-workers-hermes-agent.html</link>
       <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
       <guid>https://zelikk.blogspot.com/2026/07/k-ui-workers-hermes-agent.html</guid>
     </item>
     <item>
-      <title>白嫖 Zerops 免费容器 用Hermes对接tencent/hy3:free</title>
-      <link>https://zelikk.blogspot.com/2026/07/zerops-hermes-agent-api-token.html</link>
-      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
-      <guid>https://zelikk.blogspot.com/2026/07/zerops-hermes-agent-api-token.html</guid>
-    </item>
-    <item>
       <title>后疫情时代下美国 CS Master 申请纪实</title>
       <link>https://halfrost.com/halfrost_2021/</link>
-      <description>后疫情时代美国CS硕士申请难上加难，本文揭秘申请全过程及心得。</description>
+      <description>后疫情时代美国CS硕士申请路漫漫，留学生如何应对挑战？</description>
       <guid>https://halfrost.com/halfrost_2021/</guid>
     </item>
     <item>
       <title>下一个五年计划起航 ！</title>
       <link>https://halfrost.com/halfrost_2020/</link>
-      <description>下一个五年计划起航，回顾2020疫情与基建奇迹。</description>
+      <description>回顾2020，武汉抗疫，火神山雷神山奇迹诞生。</description>
       <guid>https://halfrost.com/halfrost_2020/</guid>
     </item>
     <item>
       <title>面试中 LRU / LFU 的青铜与王者</title>
       <link>https://halfrost.com/lru_lfu_interview/</link>
-      <description>解析LRU和LFU缓存算法，揭秘面试难题。</description>
+      <description>解析LRU和LFU缓存淘汰算法，面试必备！</description>
       <guid>https://halfrost.com/lru_lfu_interview/</guid>
     </item>
     <item>
@@ -132,6 +132,12 @@
       <guid>http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html</guid>
     </item>
     <item>
+      <title>拍照往事</title>
+      <link>https://www.hecaitou.com/2026/08/Photographic-Memories.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/08/Photographic-Memories.html</guid>
+    </item>
+    <item>
       <title>低分辨率爱好</title>
       <link>https://www.hecaitou.com/2026/08/Low-Resolution-Hobbies.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
@@ -142,12 +148,6 @@
       <link>https://www.hecaitou.com/2026/08/writing-that-makes-me-cringe.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/08/writing-that-makes-me-cringe.html</guid>
-    </item>
-    <item>
-      <title>这是我所能达到的最远的距离</title>
-      <link>https://www.hecaitou.com/2026/07/As-Far-As-I-Can-Get.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/07/As-Far-As-I-Can-Get.html</guid>
     </item>
     <item>
       <title>是微服务架构不香还是云不香？</title>
@@ -186,22 +186,22 @@
       <guid>http://blog.youxu.info/2021/11/01/after-fire/</guid>
     </item>
     <item>
-      <title>独立日飞行表演</title>
-      <link>https://www.youtube.com/watch?v=FLUw76TdhHU</link>
-      <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
-      <guid>https://www.youtube.com/watch?v=FLUw76TdhHU</guid>
-    </item>
-    <item>
-      <title>最新微博：2026 年 7 月 28 日</title>
+      <title>最新微博：2026 年 8 月 3 日</title>
       <link>https://www.changhai.org/articles/miscellaneous/blog/202607.php#latest</link>
       <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
       <guid>https://www.changhai.org/articles/miscellaneous/blog/202607.php#latest</guid>
     </item>
     <item>
-      <title>Latest post on Threads：2026.07.22</title>
+      <title>Latest post on Threads：2026.08.03</title>
       <link>https://www.changhai.org/articles/miscellaneous/eblog/202605.php#latest</link>
       <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
       <guid>https://www.changhai.org/articles/miscellaneous/eblog/202605.php#latest</guid>
+    </item>
+    <item>
+      <title>独立日飞行表演</title>
+      <link>https://www.youtube.com/watch?v=FLUw76TdhHU</link>
+      <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
+      <guid>https://www.youtube.com/watch?v=FLUw76TdhHU</guid>
     </item>
     <item>
       <title>《玩具總動員 5》中國票房爲何不濟？</title>
@@ -236,13 +236,13 @@
     <item>
       <title>解构Scaling Law：优化、架构、数据的三重奏</title>
       <link>https://spaces.ac.cn/archives/11833</link>
-      <description>探索Scaling Law，揭示优化、架构、数据间关系。</description>
+      <description>深度学习Scaling Law：揭秘优化、架构、数据三因素如何影响模型性能。</description>
       <guid>https://spaces.ac.cn/archives/11833</guid>
     </item>
     <item>
       <title>将Softmax Attention线性化为Gated DeltaNet</title>
       <link>https://spaces.ac.cn/archives/11823</link>
-      <description>文章提出将Softmax Attention线性化成Gated DeltaNet。</description>
+      <description>本文将Softmax Attention线性化，提出Gated DeltaNet。</description>
       <guid>https://spaces.ac.cn/archives/11823</guid>
     </item>
     <item>
@@ -252,10 +252,10 @@
       <guid>https://spaces.ac.cn/archives/11818</guid>
     </item>
     <item>
-      <title>社交媒体与香烟</title>
-      <link>https://limboy.me/posts/social-media-and-cigarettes</link>
+      <title>社交媒体、香烟、科技与个人</title>
+      <link>https://limboy.me/posts/social-media-and-cigarettes-technology</link>
       <description>[**Make good new things**]( 非常认同 Paul Graham 的这个观点，我认为它捕捉到了有意义工作的本质：创造真正好的新颖的事物。不仅仅是重复旧事物，不仅仅是追逐潮流，而是为世界贡献真正有价值的东西。跟 Steve Jobs 的 [Make Something Wonderful]( 有异曲同工之妙。</description>
-      <guid>https://limboy.me/posts/social-media-and-cigarettes</guid>
+      <guid>https://limboy.me/posts/social-media-and-cigarettes-technology</guid>
     </item>
     <item>
       <title>Google’s AI Problem Is Bigger Than You Think</title>
@@ -326,7 +326,7 @@
     <item>
       <title>苹果的电源</title>
       <link>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</link>
-      <description>Rod Holt因苹果电源设计而闻名，被多部作品提及。</description>
+      <description>Rod Holt，苹果电源设计工程师，因乔布斯传记而闻名。</description>
       <guid>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</guid>
     </item>
     <item>
@@ -338,7 +338,7 @@
     <item>
       <title>马代(2)</title>
       <link>https://lenciel.com/2026/06/maldives-2/</link>
-      <description>马代海面简单复制，蓝洞与海岛标定区域，度假房静默宣誓包容力。</description>
+      <description>马代海面如一，蓝洞和岛屿划分区域，度假屋沉默见证潮起潮落。</description>
       <guid>https://lenciel.com/2026/06/maldives-2/</guid>
     </item>
     <item>
@@ -434,7 +434,7 @@
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台游记：体验台州美食与国清寺古韵。</description>
+      <description>天台之旅，品尝特色小吃，游览国清寺，享受悠闲假期。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
@@ -446,7 +446,7 @@
     <item>
       <title>五月的上海游记</title>
       <link>https://battlele.com/mayday-sh-trip/</link>
-      <description>五一假期上海行，体验Fitting与博物馆特展。</description>
+      <description>五一假期上海行，体验Fitting回访与博物馆特展。</description>
       <guid>https://battlele.com/mayday-sh-trip/</guid>
     </item>
     <item>
@@ -486,22 +486,22 @@
       <guid>https://s5s5.me/4292</guid>
     </item>
     <item>
+      <title>2026.8.3</title>
+      <link>https://www.justzht.com/2026-8-3/</link>
+      <description>夏夜琐事与工作矛盾交织，生活小插曲与法律纠纷并行。</description>
+      <guid>https://www.justzht.com/2026-8-3/</guid>
+    </item>
+    <item>
       <title>2026.7.30</title>
       <link>https://www.justzht.com/2026-7-30/</link>
-      <description>体检无大碍，维生素 B 超标，更新个人主页，工作忙碌，生活小记。</description>
+      <description>体检正常，维生素 B 超标，更新个人主页，工作忙碌，有买房想法。</description>
       <guid>https://www.justzht.com/2026-7-30/</guid>
     </item>
     <item>
       <title>2026.7.26</title>
       <link>https://www.justzht.com/2026-7-26/</link>
-      <description>一周六天工作，周末体验公司家庭日，准备回国签证，尝试创意广告。</description>
+      <description>一周六天公司生活，体检、同事离职，生活与工作交织。</description>
       <guid>https://www.justzht.com/2026-7-26/</guid>
-    </item>
-    <item>
-      <title>2026.7.21</title>
-      <link>https://www.justzht.com/2026-7-21/</link>
-      <description>周末爬山，短视频拍摄，证件照新体验。</description>
-      <guid>https://www.justzht.com/2026-7-21/</guid>
     </item>
     <item>
       <title>20260728的胡言乱语</title>
