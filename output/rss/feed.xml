@@ -78,39 +78,39 @@
       <guid>https://webfem.com/post/mobile-dev</guid>
     </item>
     <item>
+      <title>面向Agent开发实例集合 202608</title>
+      <link>https://zelikk.blogspot.com/2026/08/develop-with-agent-202608.html</link>
+      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
+      <guid>https://zelikk.blogspot.com/2026/08/develop-with-agent-202608.html</guid>
+    </item>
+    <item>
+      <title>Forkgram Mute All 功能移植到 Telegram Web K版 部署到 Cloudflare Page by Hermes 对接 oc/deepseek-v4-flash-free</title>
+      <link>https://zelikk.blogspot.com/2026/08/forkgram-mute-all-telegram-web-k.html</link>
+      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
+      <guid>https://zelikk.blogspot.com/2026/08/forkgram-mute-all-telegram-web-k.html</guid>
+    </item>
+    <item>
       <title>部署cfnew by Hermes 对接 oc/deepseek-v4-flash-free</title>
       <link>https://zelikk.blogspot.com/2026/08/cfnew-hermes-oc-deepseek-v4-flash-free.html</link>
       <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
       <guid>https://zelikk.blogspot.com/2026/08/cfnew-hermes-oc-deepseek-v4-flash-free.html</guid>
     </item>
     <item>
-      <title>安装OmniRoute 白嫖免费模型 在 甲骨文Oracle ARM VPS Ubuntu系统 用非root用户 不用 sudo -i by Hermes 对接 tencent/hy3:free</title>
-      <link>https://zelikk.blogspot.com/2026/08/omniroute-hermes-agent-oracle-arm-ubuntu-root-sudo-.html</link>
-      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
-      <guid>https://zelikk.blogspot.com/2026/08/omniroute-hermes-agent-oracle-arm-ubuntu-root-sudo-.html</guid>
-    </item>
-    <item>
-      <title>部署 K-UI-workers by Hermes对接tencent/hy3:free</title>
-      <link>https://zelikk.blogspot.com/2026/07/k-ui-workers-hermes-agent.html</link>
-      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
-      <guid>https://zelikk.blogspot.com/2026/07/k-ui-workers-hermes-agent.html</guid>
-    </item>
-    <item>
       <title>后疫情时代下美国 CS Master 申请纪实</title>
       <link>https://halfrost.com/halfrost_2021/</link>
-      <description>后疫情时代美国CS硕士申请路漫漫，留学生如何应对挑战？</description>
+      <description>后疫情时代美国CS硕士申请困难重重，本文分享申请心得与经验。</description>
       <guid>https://halfrost.com/halfrost_2021/</guid>
     </item>
     <item>
       <title>下一个五年计划起航 ！</title>
       <link>https://halfrost.com/halfrost_2020/</link>
-      <description>回顾2020，武汉抗疫，火神山雷神山奇迹诞生。</description>
+      <description>回顾2020，展望未来五年计划，共克时艰，共筑辉煌。</description>
       <guid>https://halfrost.com/halfrost_2020/</guid>
     </item>
     <item>
       <title>面试中 LRU / LFU 的青铜与王者</title>
       <link>https://halfrost.com/lru_lfu_interview/</link>
-      <description>解析LRU和LFU缓存淘汰算法，面试必备！</description>
+      <description>深入解析LRU/LFU缓存淘汰算法，面试必备！</description>
       <guid>https://halfrost.com/lru_lfu_interview/</guid>
     </item>
     <item>
@@ -132,6 +132,12 @@
       <guid>http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html</guid>
     </item>
     <item>
+      <title>观山</title>
+      <link>https://www.hecaitou.com/2026/08/On-Watching-the-Mountain.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/08/On-Watching-the-Mountain.html</guid>
+    </item>
+    <item>
       <title>拍照往事</title>
       <link>https://www.hecaitou.com/2026/08/Photographic-Memories.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
@@ -142,12 +148,6 @@
       <link>https://www.hecaitou.com/2026/08/Low-Resolution-Hobbies.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/08/Low-Resolution-Hobbies.html</guid>
-    </item>
-    <item>
-      <title>那些让人脸红的文字</title>
-      <link>https://www.hecaitou.com/2026/08/writing-that-makes-me-cringe.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/08/writing-that-makes-me-cringe.html</guid>
     </item>
     <item>
       <title>是微服务架构不香还是云不香？</title>
@@ -186,7 +186,7 @@
       <guid>http://blog.youxu.info/2021/11/01/after-fire/</guid>
     </item>
     <item>
-      <title>最新微博：2026 年 8 月 3 日</title>
+      <title>最新微博：2026 年 8 月 4 日</title>
       <link>https://www.changhai.org/articles/miscellaneous/blog/202607.php#latest</link>
       <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
       <guid>https://www.changhai.org/articles/miscellaneous/blog/202607.php#latest</guid>
@@ -234,22 +234,22 @@
       <guid>http://weiwuhui.com/10798.html</guid>
     </item>
     <item>
+      <title>简单谈谈K3的MoE和Attention</title>
+      <link>https://spaces.ac.cn/archives/11848</link>
+      <description>K3模型发布，融合多项改进，架构设计亮点多。</description>
+      <guid>https://spaces.ac.cn/archives/11848</guid>
+    </item>
+    <item>
       <title>解构Scaling Law：优化、架构、数据的三重奏</title>
       <link>https://spaces.ac.cn/archives/11833</link>
-      <description>深度学习Scaling Law：揭秘优化、架构、数据三因素如何影响模型性能。</description>
+      <description>探索Scaling Law，揭示优化、架构、数据三要素间的关系。</description>
       <guid>https://spaces.ac.cn/archives/11833</guid>
     </item>
     <item>
       <title>将Softmax Attention线性化为Gated DeltaNet</title>
       <link>https://spaces.ac.cn/archives/11823</link>
-      <description>本文将Softmax Attention线性化，提出Gated DeltaNet。</description>
+      <description>将Softmax Attention线性化，创新提出Gated DeltaNet。</description>
       <guid>https://spaces.ac.cn/archives/11823</guid>
-    </item>
-    <item>
-      <title>基于排序不等式的相似度指标</title>
-      <link>https://spaces.ac.cn/archives/11818</link>
-      <description>探索基于排序不等式的相似度新指标。</description>
-      <guid>https://spaces.ac.cn/archives/11818</guid>
     </item>
     <item>
       <title>社交媒体、香烟、科技与个人</title>
@@ -326,7 +326,7 @@
     <item>
       <title>苹果的电源</title>
       <link>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</link>
-      <description>Rod Holt，苹果电源设计工程师，因乔布斯传记而闻名。</description>
+      <description>Rod Holt，苹果电源设计工程师，虽未获乔布斯赞誉，却因其在苹果历史中的贡献成为知名人物。</description>
       <guid>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</guid>
     </item>
     <item>
@@ -338,7 +338,7 @@
     <item>
       <title>马代(2)</title>
       <link>https://lenciel.com/2026/06/maldives-2/</link>
-      <description>马代海面如一，蓝洞和岛屿划分区域，度假屋沉默见证潮起潮落。</description>
+      <description>马代海面广阔，蓝洞海岛标定区域，度假房沉默见证潮起潮落。</description>
       <guid>https://lenciel.com/2026/06/maldives-2/</guid>
     </item>
     <item>
@@ -434,19 +434,19 @@
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台之旅，品尝特色小吃，游览国清寺，享受悠闲假期。</description>
+      <description>天台游记：体验地道的台州美食，探访国清寺古韵。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
       <title>舟山骑车游</title>
       <link>https://battlele.com/zhoushan-trip/</link>
-      <description>舟山群岛骑行，体验东海云廊美景与波音747大飞机。</description>
+      <description>舟山骑车游</description>
       <guid>https://battlele.com/zhoushan-trip/</guid>
     </item>
     <item>
       <title>五月的上海游记</title>
       <link>https://battlele.com/mayday-sh-trip/</link>
-      <description>五一假期上海行，体验Fitting回访与博物馆特展。</description>
+      <description>五一假期上海游，体验博物馆特展与城市风光。</description>
       <guid>https://battlele.com/mayday-sh-trip/</guid>
     </item>
     <item>
@@ -488,7 +488,7 @@
     <item>
       <title>2026.8.3</title>
       <link>https://www.justzht.com/2026-8-3/</link>
-      <description>夏夜琐事与工作矛盾交织，生活小插曲与法律纠纷并行。</description>
+      <description>夏夜扔垃圾，遇修电箱小哥，反思工作与生活琐事。</description>
       <guid>https://www.justzht.com/2026-8-3/</guid>
     </item>
     <item>
@@ -500,8 +500,14 @@
     <item>
       <title>2026.7.26</title>
       <link>https://www.justzht.com/2026-7-26/</link>
-      <description>一周六天公司生活，体检、同事离职，生活与工作交织。</description>
+      <description>一周六天工作，周末体检与朋友聚会，思考未来与个人项目。</description>
       <guid>https://www.justzht.com/2026-7-26/</guid>
+    </item>
+    <item>
+      <title>在 K8s 里搭建 WireGuard VPN 并访问集群网络</title>
+      <link>https://www.bboy.app/2026/08/04/%E5%9C%A8-k8s-%E9%87%8C%E6%90%AD%E5%BB%BA-wireguard-vpn-%E5%B9%B6%E8%AE%BF%E9%97%AE%E9%9B%86%E7%BE%A4%E7%BD%91%E7%BB%9C/</link>
+      <description>描述：一个分享个人见解、关注项目更新和技术文章的博客。</description>
+      <guid>https://www.bboy.app/2026/08/04/%E5%9C%A8-k8s-%E9%87%8C%E6%90%AD%E5%BB%BA-wireguard-vpn-%E5%B9%B6%E8%AE%BF%E9%97%AE%E9%9B%86%E7%BE%A4%E7%BD%91%E7%BB%9C/</guid>
     </item>
     <item>
       <title>20260728的胡言乱语</title>
@@ -514,12 +520,6 @@
       <link>https://www.bboy.app/2026/07/28/random-thoughts-20260728/</link>
       <description>描述：一个分享个人见解、关注项目更新和技术文章的博客。</description>
       <guid>https://www.bboy.app/2026/07/28/random-thoughts-20260728/</guid>
-    </item>
-    <item>
-      <title>夏天来杯黄瓜柠檬水</title>
-      <link>https://www.bboy.app/2026/07/27/%E5%A4%8F%E5%A4%A9%E6%9D%A5%E6%9D%AF%E9%BB%84%E7%93%9C%E6%9F%A0%E6%AA%AC%E6%B0%B4/</link>
-      <description>描述：一个分享个人见解、关注项目更新和技术文章的博客。</description>
-      <guid>https://www.bboy.app/2026/07/27/%E5%A4%8F%E5%A4%A9%E6%9D%A5%E6%9D%AF%E9%BB%84%E7%93%9C%E6%9F%A0%E6%AA%AC%E6%B0%B4/</guid>
     </item>
     <item>
       <title>从 Prompt 开始的 AI 之旅</title>
