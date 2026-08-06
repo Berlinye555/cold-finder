@@ -98,19 +98,19 @@
     <item>
       <title>后疫情时代下美国 CS Master 申请纪实</title>
       <link>https://halfrost.com/halfrost_2021/</link>
-      <description>后疫情时代美国CS硕士申请困难重重，本文分享申请心得与经验。</description>
+      <description>后疫情时代美国CS硕士申请，挑战重重，经验分享助你成功。</description>
       <guid>https://halfrost.com/halfrost_2021/</guid>
     </item>
     <item>
       <title>下一个五年计划起航 ！</title>
       <link>https://halfrost.com/halfrost_2020/</link>
-      <description>回顾2020，展望未来五年计划，共克时艰，共筑辉煌。</description>
+      <description>回顾2020，武汉抗疫，火神山雷神山奇迹诞生。</description>
       <guid>https://halfrost.com/halfrost_2020/</guid>
     </item>
     <item>
       <title>面试中 LRU / LFU 的青铜与王者</title>
       <link>https://halfrost.com/lru_lfu_interview/</link>
-      <description>深入解析LRU/LFU缓存淘汰算法，面试必备！</description>
+      <description>解析LRU/LFU缓存算法面试难题，深度剖析其实现与优化。</description>
       <guid>https://halfrost.com/lru_lfu_interview/</guid>
     </item>
     <item>
@@ -132,6 +132,12 @@
       <guid>http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html</guid>
     </item>
     <item>
+      <title>恶人做在前</title>
+      <link>https://www.hecaitou.com/2026/08/the-case-for-playing-the-villain-first.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/08/the-case-for-playing-the-villain-first.html</guid>
+    </item>
+    <item>
       <title>观山</title>
       <link>https://www.hecaitou.com/2026/08/On-Watching-the-Mountain.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
@@ -142,12 +148,6 @@
       <link>https://www.hecaitou.com/2026/08/Photographic-Memories.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/08/Photographic-Memories.html</guid>
-    </item>
-    <item>
-      <title>低分辨率爱好</title>
-      <link>https://www.hecaitou.com/2026/08/Low-Resolution-Hobbies.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/08/Low-Resolution-Hobbies.html</guid>
     </item>
     <item>
       <title>是微服务架构不香还是云不香？</title>
@@ -216,6 +216,12 @@
       <guid>https://blog.yitianshijie.net/2026/07/15/why-do-we-learn-english/</guid>
     </item>
     <item>
+      <title>华尔街开始查账 AI泡沫破灭了吗</title>
+      <link>http://weiwuhui.com/11053.html</link>
+      <description>魏老师执教于上海交通大学媒体与传播学院，天奇创投基金管理合伙人。媒体行业的思考和见解，尽在魏老师。</description>
+      <guid>http://weiwuhui.com/11053.html</guid>
+    </item>
+    <item>
       <title>携程看上去很便宜，问题出在哪里</title>
       <link>http://weiwuhui.com/11045.html</link>
       <description>魏老师执教于上海交通大学媒体与传播学院，天奇创投基金管理合伙人。媒体行业的思考和见解，尽在魏老师。</description>
@@ -228,27 +234,21 @@
       <guid>http://weiwuhui.com/10988.html</guid>
     </item>
     <item>
-      <title>人为什么要中庸 AI从一个意想不到的角度给了我雷霆一击</title>
-      <link>http://weiwuhui.com/10798.html</link>
-      <description>魏老师执教于上海交通大学媒体与传播学院，天奇创投基金管理合伙人。媒体行业的思考和见解，尽在魏老师。</description>
-      <guid>http://weiwuhui.com/10798.html</guid>
-    </item>
-    <item>
       <title>简单谈谈K3的MoE和Attention</title>
       <link>https://spaces.ac.cn/archives/11848</link>
-      <description>K3模型发布，融合多项改进，架构设计亮点多。</description>
+      <description>K3模型发布，融合多项改进，架构设计详解。</description>
       <guid>https://spaces.ac.cn/archives/11848</guid>
     </item>
     <item>
       <title>解构Scaling Law：优化、架构、数据的三重奏</title>
       <link>https://spaces.ac.cn/archives/11833</link>
-      <description>探索Scaling Law，揭示优化、架构、数据三要素间的关系。</description>
+      <description>深度学习Scaling Law解析，优化、架构、数据三重奏提升模型效果。</description>
       <guid>https://spaces.ac.cn/archives/11833</guid>
     </item>
     <item>
       <title>将Softmax Attention线性化为Gated DeltaNet</title>
       <link>https://spaces.ac.cn/archives/11823</link>
-      <description>将Softmax Attention线性化，创新提出Gated DeltaNet。</description>
+      <description>将Softmax Attention线性化，创新提出Gated DeltaNet模型。</description>
       <guid>https://spaces.ac.cn/archives/11823</guid>
     </item>
     <item>
@@ -326,7 +326,7 @@
     <item>
       <title>苹果的电源</title>
       <link>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</link>
-      <description>Rod Holt，苹果电源设计工程师，虽未获乔布斯赞誉，却因其在苹果历史中的贡献成为知名人物。</description>
+      <description>Rod Holt，苹果电源设计工程师，被乔布斯忽视，却因贡献闻名。</description>
       <guid>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</guid>
     </item>
     <item>
@@ -338,7 +338,7 @@
     <item>
       <title>马代(2)</title>
       <link>https://lenciel.com/2026/06/maldives-2/</link>
-      <description>马代海面广阔，蓝洞海岛标定区域，度假房沉默见证潮起潮落。</description>
+      <description>马代海面广阔，蓝洞和海岛标定区域，度假房点缀其间，静默见证潮起潮落。</description>
       <guid>https://lenciel.com/2026/06/maldives-2/</guid>
     </item>
     <item>
@@ -434,7 +434,7 @@
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台游记：体验地道的台州美食，探访国清寺古韵。</description>
+      <description>天台游记：体验台州美食与国清寺文化。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
@@ -446,7 +446,7 @@
     <item>
       <title>五月的上海游记</title>
       <link>https://battlele.com/mayday-sh-trip/</link>
-      <description>五一假期上海游，体验博物馆特展与城市风光。</description>
+      <description>五一假期上海行，体验Fitting与博物馆特展。</description>
       <guid>https://battlele.com/mayday-sh-trip/</guid>
     </item>
     <item>
@@ -488,19 +488,19 @@
     <item>
       <title>2026.8.3</title>
       <link>https://www.justzht.com/2026-8-3/</link>
-      <description>夏夜扔垃圾，遇修电箱小哥，反思工作与生活琐事。</description>
+      <description>夏日炎炎，生活琐事不断，工作矛盾与肇事逃逸案件交织。</description>
       <guid>https://www.justzht.com/2026-8-3/</guid>
     </item>
     <item>
       <title>2026.7.30</title>
       <link>https://www.justzht.com/2026-7-30/</link>
-      <description>体检正常，维生素 B 超标，更新个人主页，工作忙碌，有买房想法。</description>
+      <description>体检指标正常，维生素 B 超标，更新个人主页，工作忙碌，有买房想法。</description>
       <guid>https://www.justzht.com/2026-7-30/</guid>
     </item>
     <item>
       <title>2026.7.26</title>
       <link>https://www.justzht.com/2026-7-26/</link>
-      <description>一周六天工作，周末体检与朋友聚会，思考未来与个人项目。</description>
+      <description>一周六天公司生活，体检、同事离职、约会、签证、创业广告牌。</description>
       <guid>https://www.justzht.com/2026-7-26/</guid>
     </item>
     <item>
