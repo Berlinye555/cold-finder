@@ -98,19 +98,19 @@
     <item>
       <title>后疫情时代下美国 CS Master 申请纪实</title>
       <link>https://halfrost.com/halfrost_2021/</link>
-      <description>后疫情时代，美国CS硕士申请路漫漫，本文揭秘申请难点与心得。</description>
+      <description>后疫情时代，美国CS Master申请纪实，分享申请全过程心得。</description>
       <guid>https://halfrost.com/halfrost_2021/</guid>
     </item>
     <item>
       <title>下一个五年计划起航 ！</title>
       <link>https://halfrost.com/halfrost_2020/</link>
-      <description>五年计划新征程，共克时艰战疫情。</description>
+      <description>回顾2020，共抗疫情，见证火神山、雷神山奇迹。</description>
       <guid>https://halfrost.com/halfrost_2020/</guid>
     </item>
     <item>
       <title>面试中 LRU / LFU 的青铜与王者</title>
       <link>https://halfrost.com/lru_lfu_interview/</link>
-      <description>LRU和LFU缓存算法在面试中的重要性及实现技巧。</description>
+      <description>解析LRU和LFU缓存算法，探讨面试中的关键点。</description>
       <guid>https://halfrost.com/lru_lfu_interview/</guid>
     </item>
     <item>
@@ -132,6 +132,12 @@
       <guid>http://www.ruanyifeng.com/blog/2026/07/weekly-issue-405.html</guid>
     </item>
     <item>
+      <title>临时文化一下</title>
+      <link>https://www.hecaitou.com/2026/08/acting-cultured-just-this-once.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/08/acting-cultured-just-this-once.html</guid>
+    </item>
+    <item>
       <title>诺兰访谈的小集结</title>
       <link>https://www.hecaitou.com/2026/08/nolan-interview-and-the-brief-rally-of-minds.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
@@ -142,12 +148,6 @@
       <link>https://www.hecaitou.com/2026/08/me-a-power-strip-collector.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/08/me-a-power-strip-collector.html</guid>
-    </item>
-    <item>
-      <title>恶人做在前</title>
-      <link>https://www.hecaitou.com/2026/08/the-case-for-playing-the-villain-first.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/08/the-case-for-playing-the-villain-first.html</guid>
     </item>
     <item>
       <title>是微服务架构不香还是云不香？</title>
@@ -242,7 +242,7 @@
     <item>
       <title>解构Scaling Law：优化、架构、数据的三重奏</title>
       <link>https://spaces.ac.cn/archives/11833</link>
-      <description>探索Scaling Law，揭秘优化、架构、数据三要素的内在联系。</description>
+      <description>深度学习Scaling Law解析，优化、架构、数据三要素解析。</description>
       <guid>https://spaces.ac.cn/archives/11833</guid>
     </item>
     <item>
@@ -252,22 +252,22 @@
       <guid>https://spaces.ac.cn/archives/11823</guid>
     </item>
     <item>
+      <title>注意力</title>
+      <link>https://limboy.me/posts/attention</link>
+      <description>[**Make good new things**]( 非常认同 Paul Graham 的这个观点，我认为它捕捉到了有意义工作的本质：创造真正好的新颖的事物。不仅仅是重复旧事物，不仅仅是追逐潮流，而是为世界贡献真正有价值的东西。跟 Steve Jobs 的 [Make Something Wonderful]( 有异曲同工之妙。</description>
+      <guid>https://limboy.me/posts/attention</guid>
+    </item>
+    <item>
+      <title>价值观</title>
+      <link>https://limboy.me/posts/values</link>
+      <description>[**Make good new things**]( 非常认同 Paul Graham 的这个观点，我认为它捕捉到了有意义工作的本质：创造真正好的新颖的事物。不仅仅是重复旧事物，不仅仅是追逐潮流，而是为世界贡献真正有价值的东西。跟 Steve Jobs 的 [Make Something Wonderful]( 有异曲同工之妙。</description>
+      <guid>https://limboy.me/posts/values</guid>
+    </item>
+    <item>
       <title>社交媒体、香烟、科技与个人</title>
       <link>https://limboy.me/posts/social-media-and-cigarettes-technology</link>
       <description>[**Make good new things**]( 非常认同 Paul Graham 的这个观点，我认为它捕捉到了有意义工作的本质：创造真正好的新颖的事物。不仅仅是重复旧事物，不仅仅是追逐潮流，而是为世界贡献真正有价值的东西。跟 Steve Jobs 的 [Make Something Wonderful]( 有异曲同工之妙。</description>
       <guid>https://limboy.me/posts/social-media-and-cigarettes-technology</guid>
-    </item>
-    <item>
-      <title>Google’s AI Problem Is Bigger Than You Think</title>
-      <link>https://limboy.me/posts/google-ai-problem-is-bigger-than-you-think</link>
-      <description>[**Make good new things**]( 非常认同 Paul Graham 的这个观点，我认为它捕捉到了有意义工作的本质：创造真正好的新颖的事物。不仅仅是重复旧事物，不仅仅是追逐潮流，而是为世界贡献真正有价值的东西。跟 Steve Jobs 的 [Make Something Wonderful]( 有异曲同工之妙。</description>
-      <guid>https://limboy.me/posts/google-ai-problem-is-bigger-than-you-think</guid>
-    </item>
-    <item>
-      <title>读《置身钉内》后的一些感受</title>
-      <link>https://limboy.me/posts/pinned-inside-dingtalk</link>
-      <description>[**Make good new things**]( 非常认同 Paul Graham 的这个观点，我认为它捕捉到了有意义工作的本质：创造真正好的新颖的事物。不仅仅是重复旧事物，不仅仅是追逐潮流，而是为世界贡献真正有价值的东西。跟 Steve Jobs 的 [Make Something Wonderful]( 有异曲同工之妙。</description>
-      <guid>https://limboy.me/posts/pinned-inside-dingtalk</guid>
     </item>
     <item>
       <title>在香港骑共享单车：访客视角的经验</title>
@@ -326,7 +326,7 @@
     <item>
       <title>苹果的电源</title>
       <link>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</link>
-      <description>Rod Holt，苹果电源设计工程师，因乔布斯传记而闻名。</description>
+      <description>Rod Holt，苹果电源设计工程师，乔布斯传记中反复提及，成为电源设计界名人。</description>
       <guid>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</guid>
     </item>
     <item>
@@ -338,7 +338,7 @@
     <item>
       <title>马代(2)</title>
       <link>https://lenciel.com/2026/06/maldives-2/</link>
-      <description>马代海面无差别，蓝洞海岛定区域，度假房沉默宣誓包容。</description>
+      <description>马代海面简单复制，蓝洞与海岛标定区域，度假房沉默宣誓包容。</description>
       <guid>https://lenciel.com/2026/06/maldives-2/</guid>
     </item>
     <item>
@@ -434,19 +434,19 @@
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台之旅，体验特色小吃与古寺宁静。</description>
+      <description>天台之旅，品尝特色小吃，探访国清寺，享受悠闲假期。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
       <title>舟山骑车游</title>
       <link>https://battlele.com/zhoushan-trip/</link>
-      <description>舟山群岛骑行，体验东海云廊美景与波音747大飞机。</description>
+      <description>舟山骑车游，环岛骑行，探寻海天佛国美景。</description>
       <guid>https://battlele.com/zhoushan-trip/</guid>
     </item>
     <item>
       <title>五月的上海游记</title>
       <link>https://battlele.com/mayday-sh-trip/</link>
-      <description>五一假期上海游，体验博物馆特展与城市风光。</description>
+      <description>五一上海游，Fitting回访与博物馆特展之旅。</description>
       <guid>https://battlele.com/mayday-sh-trip/</guid>
     </item>
     <item>
@@ -462,10 +462,10 @@
       <guid>https://jdhao.github.io/2026/08/07/opentelemetry-tracing-part1/</guid>
     </item>
     <item>
-      <title>Using ruff as Linter for Python Projects</title>
-      <link>https://jdhao.github.io/2026/08/02/introduce_ruff_linter_to_python_project/</link>
+      <title>Vector Field Not Shown in Source in Elasticsearch?</title>
+      <link>https://jdhao.github.io/2026/07/07/elastic_vector_not_shown_in_source/</link>
       <description>编程; Nvim; 生活; 读书; 思考。</description>
-      <guid>https://jdhao.github.io/2026/08/02/introduce_ruff_linter_to_python_project/</guid>
+      <guid>https://jdhao.github.io/2026/07/07/elastic_vector_not_shown_in_source/</guid>
     </item>
     <item>
       <title>我的 Blog 改版了, 重回网页设计的黄金时代, 像素化!</title>
@@ -488,19 +488,19 @@
     <item>
       <title>2026.8.3</title>
       <link>https://www.justzht.com/2026-8-3/</link>
-      <description>2026.8.3</description>
+      <description>夏夜垃圾回收，与PGE小哥偶遇，工作矛盾与肇事逃逸案件交织。</description>
       <guid>https://www.justzht.com/2026-8-3/</guid>
     </item>
     <item>
       <title>2026.7.30</title>
       <link>https://www.justzht.com/2026-7-30/</link>
-      <description>体检指标正常，维生素 B 超标，更新个人主页，工作忙碌，有买房想法。</description>
+      <description>体检一切正常，维生素 B 超标，更新个人主页，工作忙碌，想买房。</description>
       <guid>https://www.justzht.com/2026-7-30/</guid>
     </item>
     <item>
       <title>2026.7.26</title>
       <link>https://www.justzht.com/2026-7-26/</link>
-      <description>一周六天公司生活，体检、同事离职、回国签证、创业广告牌。</description>
+      <description>一周六天公司生活，体检、同事离职，忙于回国签证和创业项目。</description>
       <guid>https://www.justzht.com/2026-7-26/</guid>
     </item>
     <item>
