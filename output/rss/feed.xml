@@ -78,39 +78,39 @@
       <guid>https://webfem.com/post/mobile-dev</guid>
     </item>
     <item>
+      <title>修改 forkgram/tdesktop 实现 跳转到前一条后一条@我的消息</title>
+      <link>https://zelikk.blogspot.com/2026/08/forkgram-goto-pre-next-mention.html</link>
+      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
+      <guid>https://zelikk.blogspot.com/2026/08/forkgram-goto-pre-next-mention.html</guid>
+    </item>
+    <item>
+      <title>修改 forkgram/tdesktop 实现 跳转到最后一条@我的消息</title>
+      <link>https://zelikk.blogspot.com/2026/08/forkgram-goto-last-mention.html</link>
+      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
+      <guid>https://zelikk.blogspot.com/2026/08/forkgram-goto-last-mention.html</guid>
+    </item>
+    <item>
       <title>面向Agent开发实例集合 202608</title>
       <link>https://zelikk.blogspot.com/2026/08/develop-with-agent-202608.html</link>
       <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
       <guid>https://zelikk.blogspot.com/2026/08/develop-with-agent-202608.html</guid>
     </item>
     <item>
-      <title>Forkgram Mute All 功能移植到 Telegram Web K版 部署到 Cloudflare Page by Hermes 对接 oc/deepseek-v4-flash-free</title>
-      <link>https://zelikk.blogspot.com/2026/08/forkgram-mute-all-telegram-web-k.html</link>
-      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
-      <guid>https://zelikk.blogspot.com/2026/08/forkgram-mute-all-telegram-web-k.html</guid>
-    </item>
-    <item>
-      <title>部署cfnew by Hermes 对接 oc/deepseek-v4-flash-free</title>
-      <link>https://zelikk.blogspot.com/2026/08/cfnew-hermes-oc-deepseek-v4-flash-free.html</link>
-      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
-      <guid>https://zelikk.blogspot.com/2026/08/cfnew-hermes-oc-deepseek-v4-flash-free.html</guid>
-    </item>
-    <item>
       <title>后疫情时代下美国 CS Master 申请纪实</title>
       <link>https://halfrost.com/halfrost_2021/</link>
-      <description>后疫情时代，美国CS Master申请纪实，分享申请全过程心得。</description>
+      <description>后疫情时代美国CS硕士申请路漫漫，留学生如何应对挑战？</description>
       <guid>https://halfrost.com/halfrost_2021/</guid>
     </item>
     <item>
       <title>下一个五年计划起航 ！</title>
       <link>https://halfrost.com/halfrost_2020/</link>
-      <description>回顾2020，共抗疫情，见证火神山、雷神山奇迹。</description>
+      <description>下一个五年计划起航，回顾2020年疫情下的武汉与全国抗疫精神。</description>
       <guid>https://halfrost.com/halfrost_2020/</guid>
     </item>
     <item>
       <title>面试中 LRU / LFU 的青铜与王者</title>
       <link>https://halfrost.com/lru_lfu_interview/</link>
-      <description>解析LRU和LFU缓存算法，探讨面试中的关键点。</description>
+      <description>解析LRU和LFU缓存算法，揭秘面试难题。</description>
       <guid>https://halfrost.com/lru_lfu_interview/</guid>
     </item>
     <item>
@@ -132,6 +132,12 @@
       <guid>http://www.ruanyifeng.com/blog/2026/07/weekly-issue-405.html</guid>
     </item>
     <item>
+      <title>荷马史诗和职场规则</title>
+      <link>https://www.hecaitou.com/2026/08/homeric-epics-and-workplace-rules.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/08/homeric-epics-and-workplace-rules.html</guid>
+    </item>
+    <item>
       <title>临时文化一下</title>
       <link>https://www.hecaitou.com/2026/08/acting-cultured-just-this-once.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
@@ -142,12 +148,6 @@
       <link>https://www.hecaitou.com/2026/08/nolan-interview-and-the-brief-rally-of-minds.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/08/nolan-interview-and-the-brief-rally-of-minds.html</guid>
-    </item>
-    <item>
-      <title>俺，插线板（插排）收藏家</title>
-      <link>https://www.hecaitou.com/2026/08/me-a-power-strip-collector.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/08/me-a-power-strip-collector.html</guid>
     </item>
     <item>
       <title>是微服务架构不香还是云不香？</title>
@@ -234,22 +234,22 @@
       <guid>http://weiwuhui.com/11045.html</guid>
     </item>
     <item>
+      <title>除了交叉熵，LM Loss还有什么选择？</title>
+      <link>https://spaces.ac.cn/archives/11854</link>
+      <description>探讨LLM预训练中除交叉熵外的其他损失函数选择及其影响。</description>
+      <guid>https://spaces.ac.cn/archives/11854</guid>
+    </item>
+    <item>
       <title>简单谈谈K3的MoE和Attention</title>
       <link>https://spaces.ac.cn/archives/11848</link>
-      <description>K3模型融合多项改进，带来架构创新。</description>
+      <description>K3模型融合创新，MoE与Attention优化显著。</description>
       <guid>https://spaces.ac.cn/archives/11848</guid>
     </item>
     <item>
       <title>解构Scaling Law：优化、架构、数据的三重奏</title>
       <link>https://spaces.ac.cn/archives/11833</link>
-      <description>深度学习Scaling Law解析，优化、架构、数据三要素解析。</description>
+      <description>探索Scaling Law，解析优化、架构、数据三因素如何影响大型神经网络训练效果。</description>
       <guid>https://spaces.ac.cn/archives/11833</guid>
-    </item>
-    <item>
-      <title>将Softmax Attention线性化为Gated DeltaNet</title>
-      <link>https://spaces.ac.cn/archives/11823</link>
-      <description>将Softmax Attention线性化为Gated DeltaNet，实现高效注意力机制。</description>
-      <guid>https://spaces.ac.cn/archives/11823</guid>
     </item>
     <item>
       <title>注意力</title>
@@ -326,7 +326,7 @@
     <item>
       <title>苹果的电源</title>
       <link>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</link>
-      <description>Rod Holt，苹果电源设计工程师，乔布斯传记中反复提及，成为电源设计界名人。</description>
+      <description>Rod Holt因苹果电源设计而闻名，被乔布斯传记多次提及。</description>
       <guid>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</guid>
     </item>
     <item>
@@ -338,7 +338,7 @@
     <item>
       <title>马代(2)</title>
       <link>https://lenciel.com/2026/06/maldives-2/</link>
-      <description>马代海面简单复制，蓝洞与海岛标定区域，度假房沉默宣誓包容。</description>
+      <description>马代海面广阔，蓝洞与海岛标定区域，度假房散布其间，静谧中蕴含着生活的多样性。</description>
       <guid>https://lenciel.com/2026/06/maldives-2/</guid>
     </item>
     <item>
@@ -414,6 +414,12 @@
       <guid>https://liuyandong.com/archives/23787</guid>
     </item>
     <item>
+      <title>小宝宝的松弛与安静</title>
+      <link>https://wangrufei.com/archives/401</link>
+      <description>最近在尝试做母婴、育儿类自媒体，主要是想练练家庭纪实摄影，能成与否无所谓，按照自己的心得体会持续更新就行了。</description>
+      <guid>https://wangrufei.com/archives/401</guid>
+    </item>
+    <item>
       <title>9月龄宝宝，还是那么爱睡觉</title>
       <link>https://wangrufei.com/archives/400</link>
       <description>最近在尝试做母婴、育儿类自媒体，主要是想练练家庭纪实摄影，能成与否无所谓，按照自己的心得体会持续更新就行了。</description>
@@ -426,27 +432,21 @@
       <guid>https://wangrufei.com/archives/399</guid>
     </item>
     <item>
-      <title>给宝宝接种麻腮风疫苗</title>
-      <link>https://wangrufei.com/archives/398</link>
-      <description>最近在尝试做母婴、育儿类自媒体，主要是想练练家庭纪实摄影，能成与否无所谓，按照自己的心得体会持续更新就行了。</description>
-      <guid>https://wangrufei.com/archives/398</guid>
-    </item>
-    <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台之旅，品尝特色小吃，探访国清寺，享受悠闲假期。</description>
+      <description>天台之旅，品尝特色小吃，游览国清寺。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
       <title>舟山骑车游</title>
       <link>https://battlele.com/zhoushan-trip/</link>
-      <description>舟山骑车游，环岛骑行，探寻海天佛国美景。</description>
+      <description>舟山群岛骑行，体验东海云廊美景与波音747大飞机。</description>
       <guid>https://battlele.com/zhoushan-trip/</guid>
     </item>
     <item>
       <title>五月的上海游记</title>
       <link>https://battlele.com/mayday-sh-trip/</link>
-      <description>五一上海游，Fitting回访与博物馆特展之旅。</description>
+      <description>五一假期上海游，Fitting回访与博物馆特展体验。</description>
       <guid>https://battlele.com/mayday-sh-trip/</guid>
     </item>
     <item>
@@ -488,19 +488,19 @@
     <item>
       <title>2026.8.3</title>
       <link>https://www.justzht.com/2026-8-3/</link>
-      <description>夏夜垃圾回收，与PGE小哥偶遇，工作矛盾与肇事逃逸案件交织。</description>
+      <description>2026.8.3</description>
       <guid>https://www.justzht.com/2026-8-3/</guid>
     </item>
     <item>
       <title>2026.7.30</title>
       <link>https://www.justzht.com/2026-7-30/</link>
-      <description>体检一切正常，维生素 B 超标，更新个人主页，工作忙碌，想买房。</description>
+      <description>体检正常，维生素 B 超标，更新个人主页，工作忙碌，有买房想法。</description>
       <guid>https://www.justzht.com/2026-7-30/</guid>
     </item>
     <item>
       <title>2026.7.26</title>
       <link>https://www.justzht.com/2026-7-26/</link>
-      <description>一周六天公司生活，体检、同事离职，忙于回国签证和创业项目。</description>
+      <description>一周六天公司生活，体检、同事离职、回国签证、创业广告牌。</description>
       <guid>https://www.justzht.com/2026-7-26/</guid>
     </item>
     <item>
