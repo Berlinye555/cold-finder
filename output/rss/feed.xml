@@ -78,39 +78,39 @@
       <guid>https://webfem.com/post/mobile-dev</guid>
     </item>
     <item>
+      <title>修改 forkgram/tdesktop 实现 搜索@我的消息 by Hermes 对接 gpt-5.6-sol</title>
+      <link>https://zelikk.blogspot.com/2026/08/forkgram-list-msg-mention.html</link>
+      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
+      <guid>https://zelikk.blogspot.com/2026/08/forkgram-list-msg-mention.html</guid>
+    </item>
+    <item>
+      <title>各模型的搜索(和胡说)实力对比 - &quot;为什么telegram群组中搜索 #m 就能找到 提及自己的消息&quot;</title>
+      <link>https://zelikk.blogspot.com/2026/08/telegram-m.html</link>
+      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
+      <guid>https://zelikk.blogspot.com/2026/08/telegram-m.html</guid>
+    </item>
+    <item>
       <title>设置CPA cliproxyapi 的User-Agent 白嫖公益站agentrouter 的gpt-5.6-sol 提供给Hermes</title>
       <link>https://zelikk.blogspot.com/2026/08/cpa-cliproxyapi-user-agent-agentrouter.html</link>
       <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
       <guid>https://zelikk.blogspot.com/2026/08/cpa-cliproxyapi-user-agent-agentrouter.html</guid>
     </item>
     <item>
-      <title>修改 forkgram/tdesktop 实现 跳转到前一条后一条@我的消息</title>
-      <link>https://zelikk.blogspot.com/2026/08/forkgram-goto-pre-next-mention.html</link>
-      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
-      <guid>https://zelikk.blogspot.com/2026/08/forkgram-goto-pre-next-mention.html</guid>
-    </item>
-    <item>
-      <title>修改 forkgram/tdesktop 实现 跳转到最后一条@我的消息</title>
-      <link>https://zelikk.blogspot.com/2026/08/forkgram-goto-last-mention.html</link>
-      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
-      <guid>https://zelikk.blogspot.com/2026/08/forkgram-goto-last-mention.html</guid>
-    </item>
-    <item>
       <title>后疫情时代下美国 CS Master 申请纪实</title>
       <link>https://halfrost.com/halfrost_2021/</link>
-      <description>后疫情时代，美国CS硕士申请困难重重，本文分享申请经验。</description>
+      <description>后疫情时代，美国CS Master申请纪实，分享申请心得与经验。</description>
       <guid>https://halfrost.com/halfrost_2021/</guid>
     </item>
     <item>
       <title>下一个五年计划起航 ！</title>
       <link>https://halfrost.com/halfrost_2020/</link>
-      <description>回顾2020，展望未来五年，共抗疫情，建设火神山，共筑中国梦。</description>
+      <description>回顾2020，展望未来五年，共筑辉煌。</description>
       <guid>https://halfrost.com/halfrost_2020/</guid>
     </item>
     <item>
       <title>面试中 LRU / LFU 的青铜与王者</title>
       <link>https://halfrost.com/lru_lfu_interview/</link>
-      <description>面试LRU/LFU算法，掌握基础与进阶技巧。</description>
+      <description>解析LRU/LFU缓存算法，面试必备！</description>
       <guid>https://halfrost.com/lru_lfu_interview/</guid>
     </item>
     <item>
@@ -132,6 +132,12 @@
       <guid>http://www.ruanyifeng.com/blog/2026/07/weekly-issue-405.html</guid>
     </item>
     <item>
+      <title>不建群的人</title>
+      <link>https://www.hecaitou.com/2026/08/The-Non-Group-Person.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/08/The-Non-Group-Person.html</guid>
+    </item>
+    <item>
       <title>中文正典</title>
       <link>https://www.hecaitou.com/2026/08/On-the-Chinese-Canon.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
@@ -142,12 +148,6 @@
       <link>https://www.hecaitou.com/2026/08/Reading-the-Canon.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/08/Reading-the-Canon.html</guid>
-    </item>
-    <item>
-      <title>荷马史诗和职场规则</title>
-      <link>https://www.hecaitou.com/2026/08/homeric-epics-and-workplace-rules.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/08/homeric-epics-and-workplace-rules.html</guid>
     </item>
     <item>
       <title>是微服务架构不香还是云不香？</title>
@@ -186,7 +186,7 @@
       <guid>http://blog.youxu.info/2021/11/01/after-fire/</guid>
     </item>
     <item>
-      <title>最新微博：2026 年 8 月 10 日</title>
+      <title>最新微博：2026 年 8 月 11 日</title>
       <link>https://www.changhai.org/articles/miscellaneous/blog/202607.php#latest</link>
       <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
       <guid>https://www.changhai.org/articles/miscellaneous/blog/202607.php#latest</guid>
@@ -204,16 +204,16 @@
       <guid>https://www.changhai.org/articles/retrospection/academician.php</guid>
     </item>
     <item>
+      <title>普通話版《Order of the Sinking Star》</title>
+      <link>https://blog.yitianshijie.net/2026/08/11/order-of-the-sinking-star-to-be-dubbed-in-mandarin/</link>
+      <description>代表文章：《[李如一 | 论推荐之难](</description>
+      <guid>https://blog.yitianshijie.net/2026/08/11/order-of-the-sinking-star-to-be-dubbed-in-mandarin/</guid>
+    </item>
+    <item>
       <title>SuperDuper 4 和 Pastebot 3</title>
       <link>https://blog.yitianshijie.net/2026/08/10/superduper4-and-pastebot3/</link>
       <description>代表文章：《[李如一 | 论推荐之难](</description>
       <guid>https://blog.yitianshijie.net/2026/08/10/superduper4-and-pastebot3/</guid>
-    </item>
-    <item>
-      <title>《玩具總動員 5》中國票房爲何不濟？</title>
-      <link>https://blog.yitianshijie.net/2026/07/24/why-toy-story-5-fails-in-china/</link>
-      <description>代表文章：《[李如一 | 论推荐之难](</description>
-      <guid>https://blog.yitianshijie.net/2026/07/24/why-toy-story-5-fails-in-china/</guid>
     </item>
     <item>
       <title>人肉味 机油味 您好哪一口？</title>
@@ -236,19 +236,19 @@
     <item>
       <title>除了交叉熵，LM Loss还有什么选择？</title>
       <link>https://spaces.ac.cn/archives/11854</link>
-      <description>探讨LLM预训练和微调中，除交叉熵外的其他损失函数选择及其影响。</description>
+      <description>探讨LLM预训练中除交叉熵外的其他损失函数选择及其影响。</description>
       <guid>https://spaces.ac.cn/archives/11854</guid>
     </item>
     <item>
       <title>简单谈谈K3的MoE和Attention</title>
       <link>https://spaces.ac.cn/archives/11848</link>
-      <description>K3模型发布，融合最新MoE和Attention技术。</description>
+      <description>K3模型融合创新，架构升级，关注MoE与Attention优化。</description>
       <guid>https://spaces.ac.cn/archives/11848</guid>
     </item>
     <item>
       <title>解构Scaling Law：优化、架构、数据的三重奏</title>
       <link>https://spaces.ac.cn/archives/11833</link>
-      <description>探索Scaling Law，揭示优化、架构、数据三者关系。</description>
+      <description>探索Scaling Law，揭秘优化、架构、数据三要素如何影响大型神经网络训练。</description>
       <guid>https://spaces.ac.cn/archives/11833</guid>
     </item>
     <item>
@@ -326,7 +326,7 @@
     <item>
       <title>苹果的电源</title>
       <link>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</link>
-      <description>Rod Holt因苹果电源设计而闻名，却未获乔布斯应有的赞誉。</description>
+      <description>Rod Holt，苹果电源设计工程师，因乔布斯传记而闻名。</description>
       <guid>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</guid>
     </item>
     <item>
@@ -338,7 +338,7 @@
     <item>
       <title>马代(2)</title>
       <link>https://lenciel.com/2026/06/maldives-2/</link>
-      <description>马代海面无差别，蓝洞与海岛标定区域，度假房沉默装下人生百态。</description>
+      <description>马代海面简单复制，蓝洞海岛标定路线，度假房沉默宣誓包容。</description>
       <guid>https://lenciel.com/2026/06/maldives-2/</guid>
     </item>
     <item>
@@ -414,6 +414,12 @@
       <guid>https://liuyandong.com/archives/23787</guid>
     </item>
     <item>
+      <title>第9个月，不爱喝奶粉，但爱吃米粉</title>
+      <link>https://wangrufei.com/archives/403</link>
+      <description>最近在尝试做母婴、育儿类自媒体，主要是想练练家庭纪实摄影，能成与否无所谓，按照自己的心得体会持续更新就行了。</description>
+      <guid>https://wangrufei.com/archives/403</guid>
+    </item>
+    <item>
       <title>小宝宝喜欢大玩具</title>
       <link>https://wangrufei.com/archives/402</link>
       <description>最近在尝试做母婴、育儿类自媒体，主要是想练练家庭纪实摄影，能成与否无所谓，按照自己的心得体会持续更新就行了。</description>
@@ -426,27 +432,21 @@
       <guid>https://wangrufei.com/archives/401</guid>
     </item>
     <item>
-      <title>9月龄宝宝，还是那么爱睡觉</title>
-      <link>https://wangrufei.com/archives/400</link>
-      <description>最近在尝试做母婴、育儿类自媒体，主要是想练练家庭纪实摄影，能成与否无所谓，按照自己的心得体会持续更新就行了。</description>
-      <guid>https://wangrufei.com/archives/400</guid>
-    </item>
-    <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台游记：体验台州天台，品尝特色小吃，游览国清寺。</description>
+      <description>天台游记：体验当地美食与古迹，享受悠闲假期。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
       <title>舟山骑车游</title>
       <link>https://battlele.com/zhoushan-trip/</link>
-      <description>舟山群岛骑车游，体验东海云廊美景与波音747大飞机。</description>
+      <description>舟山群岛骑行，体验东海云廊与波音747大飞机的奇妙之旅。</description>
       <guid>https://battlele.com/zhoushan-trip/</guid>
     </item>
     <item>
       <title>五月的上海游记</title>
       <link>https://battlele.com/mayday-sh-trip/</link>
-      <description>五一假期上海游，Fitting回访与博物馆特展之旅。</description>
+      <description>五一假期上海游，体验博物馆特展与城市风光。</description>
       <guid>https://battlele.com/mayday-sh-trip/</guid>
     </item>
     <item>
@@ -488,38 +488,38 @@
     <item>
       <title>上庭（一）</title>
       <link>https://www.justzht.com/go-to-court-one/</link>
-      <description>J 准备上庭，整理大量资料，生活工作两不误。</description>
+      <description>J为车损案准备上庭，整理大量资料，生活工作两不误。</description>
       <guid>https://www.justzht.com/go-to-court-one/</guid>
     </item>
     <item>
       <title>2026.8.3</title>
       <link>https://www.justzht.com/2026-8-3/</link>
-      <description>夏夜停电，与设计师矛盾升级，肇事逃逸案件开庭在即。</description>
+      <description>夏夜停电，与设计师冲突，肇事逃逸案件开庭。</description>
       <guid>https://www.justzht.com/2026-8-3/</guid>
     </item>
     <item>
       <title>2026.7.30</title>
       <link>https://www.justzht.com/2026-7-30/</link>
-      <description>体检正常，维生素 B 超标，更新个人主页，工作忙碌，有买房想法。</description>
+      <description>体检正常，维生素 B 超标，更新主页，工作忙碌，生活小感。</description>
       <guid>https://www.justzht.com/2026-7-30/</guid>
     </item>
     <item>
-      <title>在 K8s 里搭建 WireGuard VPN 并访问集群网络</title>
-      <link>https://www.bboy.app/2026/08/04/%E5%9C%A8-k8s-%E9%87%8C%E6%90%AD%E5%BB%BA-wireguard-vpn-%E5%B9%B6%E8%AE%BF%E9%97%AE%E9%9B%86%E7%BE%A4%E7%BD%91%E7%BB%9C/</link>
+      <title>How I Use Hermes</title>
+      <link>https://www.bboy.app/2026/08/11/how-i-use-hermes/</link>
       <description>描述：一个分享个人见解、关注项目更新和技术文章的博客。</description>
-      <guid>https://www.bboy.app/2026/08/04/%E5%9C%A8-k8s-%E9%87%8C%E6%90%AD%E5%BB%BA-wireguard-vpn-%E5%B9%B6%E8%AE%BF%E9%97%AE%E9%9B%86%E7%BE%A4%E7%BD%91%E7%BB%9C/</guid>
+      <guid>https://www.bboy.app/2026/08/11/how-i-use-hermes/</guid>
     </item>
     <item>
-      <title>20260728的胡言乱语</title>
-      <link>https://www.bboy.app/2026/07/28/20260728%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/</link>
+      <title>我是怎么用 Hermes 的</title>
+      <link>https://www.bboy.app/2026/08/11/%E6%88%91%E6%98%AF%E6%80%8E%E4%B9%88%E7%94%A8-hermes-%E7%9A%84/</link>
       <description>描述：一个分享个人见解、关注项目更新和技术文章的博客。</description>
-      <guid>https://www.bboy.app/2026/07/28/20260728%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/</guid>
+      <guid>https://www.bboy.app/2026/08/11/%E6%88%91%E6%98%AF%E6%80%8E%E4%B9%88%E7%94%A8-hermes-%E7%9A%84/</guid>
     </item>
     <item>
-      <title>Random Thoughts - 20260728</title>
-      <link>https://www.bboy.app/2026/07/28/random-thoughts-20260728/</link>
+      <title>Whey Protein and Creatine</title>
+      <link>https://www.bboy.app/2026/08/11/whey-protein-and-creatine/</link>
       <description>描述：一个分享个人见解、关注项目更新和技术文章的博客。</description>
-      <guid>https://www.bboy.app/2026/07/28/random-thoughts-20260728/</guid>
+      <guid>https://www.bboy.app/2026/08/11/whey-protein-and-creatine/</guid>
     </item>
     <item>
       <title>从 Prompt 开始的 AI 之旅</title>
