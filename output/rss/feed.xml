@@ -42,6 +42,12 @@
       <guid>https://www.xiaoyuzhoufm.com/episode/68c6d2e22c82c9dcca527114?utm_source=rss</guid>
     </item>
     <item>
+      <title>ContentBuilder 解析：SwiftUI 类型检查性能提升的秘密</title>
+      <link>https://fatbobman.com/zh/posts/contentbuilder-explained/</link>
+      <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
+      <guid>https://fatbobman.com/zh/posts/contentbuilder-explained/</guid>
+    </item>
+    <item>
       <title>Apple Intelligence 已通过中国政府审核，即将在中国提供服务 - 肘子的 Swift 周报 #148</title>
       <link>https://fatbobman.com/zh/weekly/issue-148/</link>
       <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
@@ -52,12 +58,6 @@
       <link>https://fatbobman.com/zh/posts/controlling-orphans-in-swiftui-text/</link>
       <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
       <guid>https://fatbobman.com/zh/posts/controlling-orphans-in-swiftui-text/</guid>
-    </item>
-    <item>
-      <title>热茶还是冰咖啡 - 肘子的 Swift 周报 #147</title>
-      <link>https://fatbobman.com/zh/weekly/issue-147/</link>
-      <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
-      <guid>https://fatbobman.com/zh/weekly/issue-147/</guid>
     </item>
     <item>
       <title>react-virtualized AutoSizer 实现原理详解</title>
@@ -98,19 +98,19 @@
     <item>
       <title>后疫情时代下美国 CS Master 申请纪实</title>
       <link>https://halfrost.com/halfrost_2021/</link>
-      <description>后疫情时代，美国CS Master申请纪实，分享申请心得与经验。</description>
+      <description>后疫情时代美国CS硕士申请，留学生面临多重挑战。</description>
       <guid>https://halfrost.com/halfrost_2021/</guid>
     </item>
     <item>
       <title>下一个五年计划起航 ！</title>
       <link>https://halfrost.com/halfrost_2020/</link>
-      <description>回顾2020，展望未来五年，共筑辉煌。</description>
+      <description>回顾2020，武汉抗疫，火神山雷神山奇迹诞生。</description>
       <guid>https://halfrost.com/halfrost_2020/</guid>
     </item>
     <item>
       <title>面试中 LRU / LFU 的青铜与王者</title>
       <link>https://halfrost.com/lru_lfu_interview/</link>
-      <description>解析LRU/LFU缓存算法，面试必备！</description>
+      <description>解析LRU和LFU缓存算法，探讨面试中的关键点。</description>
       <guid>https://halfrost.com/lru_lfu_interview/</guid>
     </item>
     <item>
@@ -132,6 +132,12 @@
       <guid>http://www.ruanyifeng.com/blog/2026/07/weekly-issue-405.html</guid>
     </item>
     <item>
+      <title>更换驾驶证</title>
+      <link>https://www.hecaitou.com/2026/08/renewing-my-drivers-license.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/08/renewing-my-drivers-license.html</guid>
+    </item>
+    <item>
       <title>不建群的人</title>
       <link>https://www.hecaitou.com/2026/08/The-Non-Group-Person.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
@@ -142,12 +148,6 @@
       <link>https://www.hecaitou.com/2026/08/On-the-Chinese-Canon.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/08/On-the-Chinese-Canon.html</guid>
-    </item>
-    <item>
-      <title>读正典</title>
-      <link>https://www.hecaitou.com/2026/08/Reading-the-Canon.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/08/Reading-the-Canon.html</guid>
     </item>
     <item>
       <title>是微服务架构不香还是云不香？</title>
@@ -216,6 +216,12 @@
       <guid>https://blog.yitianshijie.net/2026/08/10/superduper4-and-pastebot3/</guid>
     </item>
     <item>
+      <title>游戏、DEI与玩家的愤怒</title>
+      <link>http://weiwuhui.com/11063.html</link>
+      <description>魏老师执教于上海交通大学媒体与传播学院，天奇创投基金管理合伙人。媒体行业的思考和见解，尽在魏老师。</description>
+      <guid>http://weiwuhui.com/11063.html</guid>
+    </item>
+    <item>
       <title>人肉味 机油味 您好哪一口？</title>
       <link>http://weiwuhui.com/11059.html</link>
       <description>魏老师执教于上海交通大学媒体与传播学院，天奇创投基金管理合伙人。媒体行业的思考和见解，尽在魏老师。</description>
@@ -228,28 +234,28 @@
       <guid>http://weiwuhui.com/11053.html</guid>
     </item>
     <item>
-      <title>携程看上去很便宜，问题出在哪里</title>
-      <link>http://weiwuhui.com/11045.html</link>
-      <description>魏老师执教于上海交通大学媒体与传播学院，天奇创投基金管理合伙人。媒体行业的思考和见解，尽在魏老师。</description>
-      <guid>http://weiwuhui.com/11045.html</guid>
-    </item>
-    <item>
       <title>除了交叉熵，LM Loss还有什么选择？</title>
       <link>https://spaces.ac.cn/archives/11854</link>
-      <description>探讨LLM预训练中除交叉熵外的其他损失函数选择及其影响。</description>
+      <description>探讨LLM预训练和微调中，除交叉熵外可选的损失函数及其影响。</description>
       <guid>https://spaces.ac.cn/archives/11854</guid>
     </item>
     <item>
       <title>简单谈谈K3的MoE和Attention</title>
       <link>https://spaces.ac.cn/archives/11848</link>
-      <description>K3模型融合创新，架构升级，关注MoE与Attention优化。</description>
+      <description>K3模型融合最新改进，架构设计解析。</description>
       <guid>https://spaces.ac.cn/archives/11848</guid>
     </item>
     <item>
       <title>解构Scaling Law：优化、架构、数据的三重奏</title>
       <link>https://spaces.ac.cn/archives/11833</link>
-      <description>探索Scaling Law，揭秘优化、架构、数据三要素如何影响大型神经网络训练。</description>
+      <description>深度学习Scaling Law揭秘：优化、架构、数据如何影响模型性能。</description>
       <guid>https://spaces.ac.cn/archives/11833</guid>
+    </item>
+    <item>
+      <title>捷径</title>
+      <link>https://limboy.me/posts/shortcut</link>
+      <description>[**Make good new things**]( 非常认同 Paul Graham 的这个观点，我认为它捕捉到了有意义工作的本质：创造真正好的新颖的事物。不仅仅是重复旧事物，不仅仅是追逐潮流，而是为世界贡献真正有价值的东西。跟 Steve Jobs 的 [Make Something Wonderful]( 有异曲同工之妙。</description>
+      <guid>https://limboy.me/posts/shortcut</guid>
     </item>
     <item>
       <title>注意力</title>
@@ -262,12 +268,6 @@
       <link>https://limboy.me/posts/values</link>
       <description>[**Make good new things**]( 非常认同 Paul Graham 的这个观点，我认为它捕捉到了有意义工作的本质：创造真正好的新颖的事物。不仅仅是重复旧事物，不仅仅是追逐潮流，而是为世界贡献真正有价值的东西。跟 Steve Jobs 的 [Make Something Wonderful]( 有异曲同工之妙。</description>
       <guid>https://limboy.me/posts/values</guid>
-    </item>
-    <item>
-      <title>社交媒体、香烟、科技与个人</title>
-      <link>https://limboy.me/posts/social-media-and-cigarettes-technology</link>
-      <description>[**Make good new things**]( 非常认同 Paul Graham 的这个观点，我认为它捕捉到了有意义工作的本质：创造真正好的新颖的事物。不仅仅是重复旧事物，不仅仅是追逐潮流，而是为世界贡献真正有价值的东西。跟 Steve Jobs 的 [Make Something Wonderful]( 有异曲同工之妙。</description>
-      <guid>https://limboy.me/posts/social-media-and-cigarettes-technology</guid>
     </item>
     <item>
       <title>在香港骑共享单车：访客视角的经验</title>
@@ -326,7 +326,7 @@
     <item>
       <title>苹果的电源</title>
       <link>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</link>
-      <description>Rod Holt，苹果电源设计工程师，因乔布斯传记而闻名。</description>
+      <description>Rod Holt因苹果电源设计闻名，被乔布斯传记多次提及。</description>
       <guid>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</guid>
     </item>
     <item>
@@ -338,7 +338,7 @@
     <item>
       <title>马代(2)</title>
       <link>https://lenciel.com/2026/06/maldives-2/</link>
-      <description>马代海面简单复制，蓝洞海岛标定路线，度假房沉默宣誓包容。</description>
+      <description>马代海面无差别，蓝洞海岛标定区域，度假房散布沉默。</description>
       <guid>https://lenciel.com/2026/06/maldives-2/</guid>
     </item>
     <item>
@@ -434,19 +434,19 @@
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台游记：体验当地美食与古迹，享受悠闲假期。</description>
+      <description>天台游记：体验台州美食与文化，畅游国清寺。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
       <title>舟山骑车游</title>
       <link>https://battlele.com/zhoushan-trip/</link>
-      <description>舟山群岛骑行，体验东海云廊与波音747大飞机的奇妙之旅。</description>
+      <description>舟山群岛骑车游，体验东海云廊美景与波音747大飞机。</description>
       <guid>https://battlele.com/zhoushan-trip/</guid>
     </item>
     <item>
       <title>五月的上海游记</title>
       <link>https://battlele.com/mayday-sh-trip/</link>
-      <description>五一假期上海游，体验博物馆特展与城市风光。</description>
+      <description>五月的上海游记</description>
       <guid>https://battlele.com/mayday-sh-trip/</guid>
     </item>
     <item>
@@ -456,16 +456,16 @@
       <guid>https://jdhao.github.io/about/</guid>
     </item>
     <item>
-      <title>OpenTelemetry Tracing for Your FastAPI application (1)</title>
+      <title>Guide on Exporting Opentelemetry Traces to GCP</title>
+      <link>https://jdhao.github.io/2026/08/12/opentelemetry-tracing-part2/</link>
+      <description>编程; Nvim; 生活; 读书; 思考。</description>
+      <guid>https://jdhao.github.io/2026/08/12/opentelemetry-tracing-part2/</guid>
+    </item>
+    <item>
+      <title>OpenTelemetry Tracing for Your FastAPI application</title>
       <link>https://jdhao.github.io/2026/08/07/opentelemetry-tracing-part1/</link>
       <description>编程; Nvim; 生活; 读书; 思考。</description>
       <guid>https://jdhao.github.io/2026/08/07/opentelemetry-tracing-part1/</guid>
-    </item>
-    <item>
-      <title>Vector Field Not Shown in Source in Elasticsearch?</title>
-      <link>https://jdhao.github.io/2026/07/07/elastic_vector_not_shown_in_source/</link>
-      <description>编程; Nvim; 生活; 读书; 思考。</description>
-      <guid>https://jdhao.github.io/2026/07/07/elastic_vector_not_shown_in_source/</guid>
     </item>
     <item>
       <title>我的 Blog 改版了, 重回网页设计的黄金时代, 像素化!</title>
@@ -488,19 +488,19 @@
     <item>
       <title>上庭（一）</title>
       <link>https://www.justzht.com/go-to-court-one/</link>
-      <description>J为车损案准备上庭，整理大量资料，生活工作两不误。</description>
+      <description>J 准备上庭，整理大量资料，生活与工作交织。</description>
       <guid>https://www.justzht.com/go-to-court-one/</guid>
     </item>
     <item>
       <title>2026.8.3</title>
       <link>https://www.justzht.com/2026-8-3/</link>
-      <description>夏夜停电，与设计师冲突，肇事逃逸案件开庭。</description>
+      <description>夏日闲适中，生活琐事与工作矛盾交织。</description>
       <guid>https://www.justzht.com/2026-8-3/</guid>
     </item>
     <item>
       <title>2026.7.30</title>
       <link>https://www.justzht.com/2026-7-30/</link>
-      <description>体检正常，维生素 B 超标，更新主页，工作忙碌，生活小感。</description>
+      <description>体检指标正常，维生素 B 超标，更新个人主页，工作忙碌，有买房想法。</description>
       <guid>https://www.justzht.com/2026-7-30/</guid>
     </item>
     <item>
