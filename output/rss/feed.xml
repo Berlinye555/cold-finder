@@ -60,22 +60,22 @@
       <guid>https://fatbobman.com/zh/posts/controlling-orphans-in-swiftui-text/</guid>
     </item>
     <item>
-      <title>react-virtualized AutoSizer 实现原理详解</title>
-      <link>https://webfem.com/post/react-virtualized-AutoSizer</link>
+      <title>写作平台字数怎么算？公众号、论文和网文的统计口径</title>
+      <link>https://webfem.com/post/writing-platform-word-count-rules</link>
       <description>一个专注前端技术的博客，主要写系列文章，偶尔写一写采坑记录。</description>
-      <guid>https://webfem.com/post/react-virtualized-AutoSizer</guid>
+      <guid>https://webfem.com/post/writing-platform-word-count-rules</guid>
     </item>
     <item>
-      <title>JWT技术详解：从入门到精通</title>
-      <link>https://webfem.com/post/jwt</link>
+      <title>字数、字符数和英文单词数有什么区别？一次说清统计口径</title>
+      <link>https://webfem.com/post/word-count-character-count-difference</link>
       <description>一个专注前端技术的博客，主要写系列文章，偶尔写一写采坑记录。</description>
-      <guid>https://webfem.com/post/jwt</guid>
+      <guid>https://webfem.com/post/word-count-character-count-difference</guid>
     </item>
     <item>
-      <title>如何在电脑上调试手机网页</title>
-      <link>https://webfem.com/post/mobile-dev</link>
+      <title>中文字数统计是否包括标点？不同场景的计算口径说明</title>
+      <link>https://webfem.com/post/chinese-word-count-punctuation</link>
       <description>一个专注前端技术的博客，主要写系列文章，偶尔写一写采坑记录。</description>
-      <guid>https://webfem.com/post/mobile-dev</guid>
+      <guid>https://webfem.com/post/chinese-word-count-punctuation</guid>
     </item>
     <item>
       <title>修改 forkgram/tdesktop 实现 搜索@我的消息 by Hermes 对接 gpt-5.6-sol</title>
@@ -98,20 +98,26 @@
     <item>
       <title>后疫情时代下美国 CS Master 申请纪实</title>
       <link>https://halfrost.com/halfrost_2021/</link>
-      <description>后疫情时代美国CS硕士申请，留学生面临多重挑战。</description>
+      <description>后疫情时代，美国CS Master申请路漫漫，本文分享申请纪实与心得。</description>
       <guid>https://halfrost.com/halfrost_2021/</guid>
     </item>
     <item>
       <title>下一个五年计划起航 ！</title>
       <link>https://halfrost.com/halfrost_2020/</link>
-      <description>回顾2020，武汉抗疫，火神山雷神山奇迹诞生。</description>
+      <description>回顾2020，武汉抗疫，火神山雷神山建设，见证中国力量。</description>
       <guid>https://halfrost.com/halfrost_2020/</guid>
     </item>
     <item>
       <title>面试中 LRU / LFU 的青铜与王者</title>
       <link>https://halfrost.com/lru_lfu_interview/</link>
-      <description>解析LRU和LFU缓存算法，探讨面试中的关键点。</description>
+      <description>面试LRU/LFU算法，掌握基础与进阶技巧。</description>
       <guid>https://halfrost.com/lru_lfu_interview/</guid>
+    </item>
+    <item>
+      <title>科技爱好者周刊（第 408 期）：你需要知道的 AI 缓存知识</title>
+      <link>http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html</link>
+      <description>对我来说，博客首先是一种知识管理工具，其次才是传播工具。我的技术文章，主要用来整理我还不懂的知识。我只写那些我还没有完全掌握的东西，那些我精通的东西，往往没有动力写。炫耀从来不是我的动机，好奇才是。</description>
+      <guid>http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html</guid>
     </item>
     <item>
       <title>科技爱好者周刊（第 407 期）：国家为什么需要开源软件？</title>
@@ -126,10 +132,10 @@
       <guid>http://www.ruanyifeng.com/blog/2026/07/weekly-issue-406.html</guid>
     </item>
     <item>
-      <title>科技爱好者周刊（第 405 期）：资源，社会公平与算力</title>
-      <link>http://www.ruanyifeng.com/blog/2026/07/weekly-issue-405.html</link>
-      <description>对我来说，博客首先是一种知识管理工具，其次才是传播工具。我的技术文章，主要用来整理我还不懂的知识。我只写那些我还没有完全掌握的东西，那些我精通的东西，往往没有动力写。炫耀从来不是我的动机，好奇才是。</description>
-      <guid>http://www.ruanyifeng.com/blog/2026/07/weekly-issue-405.html</guid>
+      <title>怎样想决定了是个怎样的人</title>
+      <link>https://www.hecaitou.com/2026/08/Your-Thought-Is-Your-Mindset.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/08/Your-Thought-Is-Your-Mindset.html</guid>
     </item>
     <item>
       <title>更换驾驶证</title>
@@ -142,12 +148,6 @@
       <link>https://www.hecaitou.com/2026/08/The-Non-Group-Person.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/08/The-Non-Group-Person.html</guid>
-    </item>
-    <item>
-      <title>中文正典</title>
-      <link>https://www.hecaitou.com/2026/08/On-the-Chinese-Canon.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/08/On-the-Chinese-Canon.html</guid>
     </item>
     <item>
       <title>是微服务架构不香还是云不香？</title>
@@ -216,6 +216,12 @@
       <guid>https://blog.yitianshijie.net/2026/08/10/superduper4-and-pastebot3/</guid>
     </item>
     <item>
+      <title>700什么时候能到700</title>
+      <link>http://weiwuhui.com/11065.html</link>
+      <description>魏老师执教于上海交通大学媒体与传播学院，天奇创投基金管理合伙人。媒体行业的思考和见解，尽在魏老师。</description>
+      <guid>http://weiwuhui.com/11065.html</guid>
+    </item>
+    <item>
       <title>游戏、DEI与玩家的愤怒</title>
       <link>http://weiwuhui.com/11063.html</link>
       <description>魏老师执教于上海交通大学媒体与传播学院，天奇创投基金管理合伙人。媒体行业的思考和见解，尽在魏老师。</description>
@@ -228,27 +234,21 @@
       <guid>http://weiwuhui.com/11059.html</guid>
     </item>
     <item>
-      <title>华尔街开始查账 AI泡沫破灭了吗</title>
-      <link>http://weiwuhui.com/11053.html</link>
-      <description>魏老师执教于上海交通大学媒体与传播学院，天奇创投基金管理合伙人。媒体行业的思考和见解，尽在魏老师。</description>
-      <guid>http://weiwuhui.com/11053.html</guid>
-    </item>
-    <item>
       <title>除了交叉熵，LM Loss还有什么选择？</title>
       <link>https://spaces.ac.cn/archives/11854</link>
-      <description>探讨LLM预训练和微调中，除交叉熵外可选的损失函数及其影响。</description>
+      <description>探讨LLM预训练和微调中，除交叉熵外，可选的其他损失函数及其影响。</description>
       <guid>https://spaces.ac.cn/archives/11854</guid>
     </item>
     <item>
       <title>简单谈谈K3的MoE和Attention</title>
       <link>https://spaces.ac.cn/archives/11848</link>
-      <description>K3模型融合最新改进，架构设计解析。</description>
+      <description>K3模型融合最新改进，架构创新显著。</description>
       <guid>https://spaces.ac.cn/archives/11848</guid>
     </item>
     <item>
       <title>解构Scaling Law：优化、架构、数据的三重奏</title>
       <link>https://spaces.ac.cn/archives/11833</link>
-      <description>深度学习Scaling Law揭秘：优化、架构、数据如何影响模型性能。</description>
+      <description>解析Scaling Law，探讨优化、架构、数据对大型神经网络训练效果的影响。</description>
       <guid>https://spaces.ac.cn/archives/11833</guid>
     </item>
     <item>
@@ -326,7 +326,7 @@
     <item>
       <title>苹果的电源</title>
       <link>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</link>
-      <description>Rod Holt因苹果电源设计闻名，被乔布斯传记多次提及。</description>
+      <description>Rod Holt因苹果电源设计闻名，被多部作品提及。</description>
       <guid>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</guid>
     </item>
     <item>
@@ -338,7 +338,7 @@
     <item>
       <title>马代(2)</title>
       <link>https://lenciel.com/2026/06/maldives-2/</link>
-      <description>马代海面无差别，蓝洞海岛标定区域，度假房散布沉默。</description>
+      <description>马代海面广阔，蓝洞和海岛标定区域，度假房散布其中，静默见证潮起潮落。</description>
       <guid>https://lenciel.com/2026/06/maldives-2/</guid>
     </item>
     <item>
@@ -414,6 +414,12 @@
       <guid>https://liuyandong.com/archives/23787</guid>
     </item>
     <item>
+      <title>不安分的小宝宝</title>
+      <link>https://wangrufei.com/archives/404</link>
+      <description>最近在尝试做母婴、育儿类自媒体，主要是想练练家庭纪实摄影，能成与否无所谓，按照自己的心得体会持续更新就行了。</description>
+      <guid>https://wangrufei.com/archives/404</guid>
+    </item>
+    <item>
       <title>第9个月，不爱喝奶粉，但爱吃米粉</title>
       <link>https://wangrufei.com/archives/403</link>
       <description>最近在尝试做母婴、育儿类自媒体，主要是想练练家庭纪实摄影，能成与否无所谓，按照自己的心得体会持续更新就行了。</description>
@@ -426,27 +432,21 @@
       <guid>https://wangrufei.com/archives/402</guid>
     </item>
     <item>
-      <title>小宝宝的松弛与安静</title>
-      <link>https://wangrufei.com/archives/401</link>
-      <description>最近在尝试做母婴、育儿类自媒体，主要是想练练家庭纪实摄影，能成与否无所谓，按照自己的心得体会持续更新就行了。</description>
-      <guid>https://wangrufei.com/archives/401</guid>
-    </item>
-    <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台游记：体验台州美食与文化，畅游国清寺。</description>
+      <description>天台之旅，品美食，赏美景，感受文化底蕴。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
       <title>舟山骑车游</title>
       <link>https://battlele.com/zhoushan-trip/</link>
-      <description>舟山群岛骑车游，体验东海云廊美景与波音747大飞机。</description>
+      <description>舟山骑行，体验海天佛国美景。</description>
       <guid>https://battlele.com/zhoushan-trip/</guid>
     </item>
     <item>
       <title>五月的上海游记</title>
       <link>https://battlele.com/mayday-sh-trip/</link>
-      <description>五月的上海游记</description>
+      <description>五一假期上海行，体验Fitting与博物馆特展。</description>
       <guid>https://battlele.com/mayday-sh-trip/</guid>
     </item>
     <item>
@@ -488,19 +488,19 @@
     <item>
       <title>上庭（一）</title>
       <link>https://www.justzht.com/go-to-court-one/</link>
-      <description>J 准备上庭，整理大量资料，生活与工作交织。</description>
+      <description>J精心准备上庭资料，生活与工作交织，意外发现被告推迟开庭。</description>
       <guid>https://www.justzht.com/go-to-court-one/</guid>
     </item>
     <item>
       <title>2026.8.3</title>
       <link>https://www.justzht.com/2026-8-3/</link>
-      <description>夏日闲适中，生活琐事与工作矛盾交织。</description>
+      <description>夏日午后，垃圾清理与工作矛盾交织。</description>
       <guid>https://www.justzht.com/2026-8-3/</guid>
     </item>
     <item>
       <title>2026.7.30</title>
       <link>https://www.justzht.com/2026-7-30/</link>
-      <description>体检指标正常，维生素 B 超标，更新个人主页，工作忙碌，有买房想法。</description>
+      <description>体检正常，维生素 B 超标，更新个人主页，工作忙碌，有买房想法。</description>
       <guid>https://www.justzht.com/2026-7-30/</guid>
     </item>
     <item>
