@@ -6,6 +6,12 @@
     <description>精选自 605 个中文博客 + GitHub 日榜</description>
     <language>zh-CN</language>
     <item>
+      <title>还在reduce求和吗？该使用Math.sumPrecise()方法啦</title>
+      <link>https://www.zhangxinxu.com/wordpress/2026/08/js-math-sumprecise/</link>
+      <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
+      <guid>https://www.zhangxinxu.com/wordpress/2026/08/js-math-sumprecise/</guid>
+    </item>
+    <item>
       <title>background-clip升级，支持边框或文字应用背景</title>
       <link>https://www.zhangxinxu.com/wordpress/2026/08/background-clip-border-area-text/</link>
       <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
@@ -16,12 +22,6 @@
       <link>https://www.zhangxinxu.com/wordpress/2026/08/css-flex-grid-column-row-rule/</link>
       <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
       <guid>https://www.zhangxinxu.com/wordpress/2026/08/css-flex-grid-column-row-rule/</guid>
-    </item>
-    <item>
-      <title>Screen.isExtended、getScreenDetails与多显示器开发</title>
-      <link>https://www.zhangxinxu.com/wordpress/2026/07/windows-getscreendetails-isextended/</link>
-      <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
-      <guid>https://www.zhangxinxu.com/wordpress/2026/07/windows-getscreendetails-isextended/</guid>
     </item>
     <item>
       <title>看完凡人真人版！韩立的性格狠点+师傅阵容，越聊越燃</title>
@@ -98,19 +98,19 @@
     <item>
       <title>后疫情时代下美国 CS Master 申请纪实</title>
       <link>https://halfrost.com/halfrost_2021/</link>
-      <description>后疫情时代，美国CS Master申请路漫漫，本文分享申请纪实与心得。</description>
+      <description>后疫情时代美国CS硕士申请，留学生面临多重挑战。</description>
       <guid>https://halfrost.com/halfrost_2021/</guid>
     </item>
     <item>
       <title>下一个五年计划起航 ！</title>
       <link>https://halfrost.com/halfrost_2020/</link>
-      <description>回顾2020，武汉抗疫，火神山雷神山建设，见证中国力量。</description>
+      <description>下一个五年计划起航，回顾2020年疫情与建设奇迹。</description>
       <guid>https://halfrost.com/halfrost_2020/</guid>
     </item>
     <item>
       <title>面试中 LRU / LFU 的青铜与王者</title>
       <link>https://halfrost.com/lru_lfu_interview/</link>
-      <description>面试LRU/LFU算法，掌握基础与进阶技巧。</description>
+      <description>解析LRU和LFU缓存算法，揭秘面试难题。</description>
       <guid>https://halfrost.com/lru_lfu_interview/</guid>
     </item>
     <item>
@@ -132,6 +132,12 @@
       <guid>http://www.ruanyifeng.com/blog/2026/07/weekly-issue-406.html</guid>
     </item>
     <item>
+      <title>什么都不想做的时候</title>
+      <link>https://www.hecaitou.com/2026/08/when-you-feel-like-doing-nothing.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/08/when-you-feel-like-doing-nothing.html</guid>
+    </item>
+    <item>
       <title>怎样想决定了是个怎样的人</title>
       <link>https://www.hecaitou.com/2026/08/Your-Thought-Is-Your-Mindset.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
@@ -142,12 +148,6 @@
       <link>https://www.hecaitou.com/2026/08/renewing-my-drivers-license.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/08/renewing-my-drivers-license.html</guid>
-    </item>
-    <item>
-      <title>不建群的人</title>
-      <link>https://www.hecaitou.com/2026/08/The-Non-Group-Person.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/08/The-Non-Group-Person.html</guid>
     </item>
     <item>
       <title>是微服务架构不香还是云不香？</title>
@@ -236,19 +236,19 @@
     <item>
       <title>除了交叉熵，LM Loss还有什么选择？</title>
       <link>https://spaces.ac.cn/archives/11854</link>
-      <description>探讨LLM预训练和微调中，除交叉熵外，可选的其他损失函数及其影响。</description>
+      <description>探讨LLM预训练中，除交叉熵外，其他可能的损失函数及其影响。</description>
       <guid>https://spaces.ac.cn/archives/11854</guid>
     </item>
     <item>
       <title>简单谈谈K3的MoE和Attention</title>
       <link>https://spaces.ac.cn/archives/11848</link>
-      <description>K3模型融合最新改进，架构创新显著。</description>
+      <description>K3模型融合多项改进，架构创新显著。</description>
       <guid>https://spaces.ac.cn/archives/11848</guid>
     </item>
     <item>
       <title>解构Scaling Law：优化、架构、数据的三重奏</title>
       <link>https://spaces.ac.cn/archives/11833</link>
-      <description>解析Scaling Law，探讨优化、架构、数据对大型神经网络训练效果的影响。</description>
+      <description>深度学习Scaling Law：解码优化、架构、数据三者关系。</description>
       <guid>https://spaces.ac.cn/archives/11833</guid>
     </item>
     <item>
@@ -326,7 +326,7 @@
     <item>
       <title>苹果的电源</title>
       <link>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</link>
-      <description>Rod Holt因苹果电源设计闻名，被多部作品提及。</description>
+      <description>Rod Holt，苹果电源设计工程师，因乔布斯传记而闻名。</description>
       <guid>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</guid>
     </item>
     <item>
@@ -338,7 +338,7 @@
     <item>
       <title>马代(2)</title>
       <link>https://lenciel.com/2026/06/maldives-2/</link>
-      <description>马代海面广阔，蓝洞和海岛标定区域，度假房散布其中，静默见证潮起潮落。</description>
+      <description>马代海面简单复制，蓝洞与海岛标定区域，度假房沉默宣誓包容。</description>
       <guid>https://lenciel.com/2026/06/maldives-2/</guid>
     </item>
     <item>
@@ -434,19 +434,19 @@
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台之旅，品美食，赏美景，感受文化底蕴。</description>
+      <description>天台之旅，体验地道的台州美食与国清寺的宁静。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
       <title>舟山骑车游</title>
       <link>https://battlele.com/zhoushan-trip/</link>
-      <description>舟山骑行，体验海天佛国美景。</description>
+      <description>舟山骑行，环岛半程百公里，海天佛国，波音747等你来探索。</description>
       <guid>https://battlele.com/zhoushan-trip/</guid>
     </item>
     <item>
       <title>五月的上海游记</title>
       <link>https://battlele.com/mayday-sh-trip/</link>
-      <description>五一假期上海行，体验Fitting与博物馆特展。</description>
+      <description>五一上海行，Fitting回访与博物馆特展之旅。</description>
       <guid>https://battlele.com/mayday-sh-trip/</guid>
     </item>
     <item>
@@ -488,13 +488,13 @@
     <item>
       <title>上庭（一）</title>
       <link>https://www.justzht.com/go-to-court-one/</link>
-      <description>J精心准备上庭资料，生活与工作交织，意外发现被告推迟开庭。</description>
+      <description>J 准备上庭，整理了大量与车祸相关的资料，生活工作两不误。</description>
       <guid>https://www.justzht.com/go-to-court-one/</guid>
     </item>
     <item>
       <title>2026.8.3</title>
       <link>https://www.justzht.com/2026-8-3/</link>
-      <description>夏日午后，垃圾清理与工作矛盾交织。</description>
+      <description>夏夜垃圾回收，与PGE小哥偶遇，工作矛盾与肇事逃逸案件并行。</description>
       <guid>https://www.justzht.com/2026-8-3/</guid>
     </item>
     <item>
