@@ -98,19 +98,19 @@
     <item>
       <title>后疫情时代下美国 CS Master 申请纪实</title>
       <link>https://halfrost.com/halfrost_2021/</link>
-      <description>后疫情时代美国CS硕士申请，留学生面临多重挑战。</description>
+      <description>后疫情时代美国CS Master申请挑战多，留学生经历分享。</description>
       <guid>https://halfrost.com/halfrost_2021/</guid>
     </item>
     <item>
       <title>下一个五年计划起航 ！</title>
       <link>https://halfrost.com/halfrost_2020/</link>
-      <description>下一个五年计划起航，回顾2020年疫情与建设奇迹。</description>
+      <description>回顾2020，共抗疫情，见证火神山、雷神山奇迹。</description>
       <guid>https://halfrost.com/halfrost_2020/</guid>
     </item>
     <item>
       <title>面试中 LRU / LFU 的青铜与王者</title>
       <link>https://halfrost.com/lru_lfu_interview/</link>
-      <description>解析LRU和LFU缓存算法，揭秘面试难题。</description>
+      <description>解析LRU和LFU缓存算法，探讨面试中的关键点。</description>
       <guid>https://halfrost.com/lru_lfu_interview/</guid>
     </item>
     <item>
@@ -132,22 +132,22 @@
       <guid>http://www.ruanyifeng.com/blog/2026/07/weekly-issue-406.html</guid>
     </item>
     <item>
+      <title>《奥德赛》观后</title>
+      <link>https://www.hecaitou.com/2026/08/On-Watching-The-Odyssey.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/08/On-Watching-The-Odyssey.html</guid>
+    </item>
+    <item>
+      <title>克而不服</title>
+      <link>https://www.hecaitou.com/2026/08/Conquered-Yet-Unsubdued.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/08/Conquered-Yet-Unsubdued.html</guid>
+    </item>
+    <item>
       <title>什么都不想做的时候</title>
       <link>https://www.hecaitou.com/2026/08/when-you-feel-like-doing-nothing.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/08/when-you-feel-like-doing-nothing.html</guid>
-    </item>
-    <item>
-      <title>怎样想决定了是个怎样的人</title>
-      <link>https://www.hecaitou.com/2026/08/Your-Thought-Is-Your-Mindset.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/08/Your-Thought-Is-Your-Mindset.html</guid>
-    </item>
-    <item>
-      <title>更换驾驶证</title>
-      <link>https://www.hecaitou.com/2026/08/renewing-my-drivers-license.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/08/renewing-my-drivers-license.html</guid>
     </item>
     <item>
       <title>是微服务架构不香还是云不香？</title>
@@ -236,19 +236,19 @@
     <item>
       <title>除了交叉熵，LM Loss还有什么选择？</title>
       <link>https://spaces.ac.cn/archives/11854</link>
-      <description>探讨LLM预训练中，除交叉熵外，其他可能的损失函数及其影响。</description>
+      <description>探讨LLM预训练中除交叉熵外的其他损失函数选择及其影响。</description>
       <guid>https://spaces.ac.cn/archives/11854</guid>
     </item>
     <item>
       <title>简单谈谈K3的MoE和Attention</title>
       <link>https://spaces.ac.cn/archives/11848</link>
-      <description>K3模型融合多项改进，架构创新显著。</description>
+      <description>K3模型融合最新技术，架构创新显著。</description>
       <guid>https://spaces.ac.cn/archives/11848</guid>
     </item>
     <item>
       <title>解构Scaling Law：优化、架构、数据的三重奏</title>
       <link>https://spaces.ac.cn/archives/11833</link>
-      <description>深度学习Scaling Law：解码优化、架构、数据三者关系。</description>
+      <description>揭秘Scaling Law，探寻优化、架构、数据三者关系。</description>
       <guid>https://spaces.ac.cn/archives/11833</guid>
     </item>
     <item>
@@ -326,7 +326,7 @@
     <item>
       <title>苹果的电源</title>
       <link>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</link>
-      <description>Rod Holt，苹果电源设计工程师，因乔布斯传记而闻名。</description>
+      <description>Rod Holt因苹果电源设计闻名，被多部作品提及。</description>
       <guid>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</guid>
     </item>
     <item>
@@ -338,7 +338,7 @@
     <item>
       <title>马代(2)</title>
       <link>https://lenciel.com/2026/06/maldives-2/</link>
-      <description>马代海面简单复制，蓝洞与海岛标定区域，度假房沉默宣誓包容。</description>
+      <description>马代海面广阔，蓝洞和海岛标定区域，度假房散布其中，静默承载着各种情感。</description>
       <guid>https://lenciel.com/2026/06/maldives-2/</guid>
     </item>
     <item>
@@ -434,19 +434,19 @@
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台之旅，体验地道的台州美食与国清寺的宁静。</description>
+      <description>天台之旅，品美食，游国清寺，感受台州风情。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
       <title>舟山骑车游</title>
       <link>https://battlele.com/zhoushan-trip/</link>
-      <description>舟山骑行，环岛半程百公里，海天佛国，波音747等你来探索。</description>
+      <description>舟山骑车游，环岛骑行，体验海天佛国风光。</description>
       <guid>https://battlele.com/zhoushan-trip/</guid>
     </item>
     <item>
       <title>五月的上海游记</title>
       <link>https://battlele.com/mayday-sh-trip/</link>
-      <description>五一上海行，Fitting回访与博物馆特展之旅。</description>
+      <description>五一假期上海游，体验Fitting回访与博物馆特展。</description>
       <guid>https://battlele.com/mayday-sh-trip/</guid>
     </item>
     <item>
@@ -488,19 +488,19 @@
     <item>
       <title>上庭（一）</title>
       <link>https://www.justzht.com/go-to-court-one/</link>
-      <description>J 准备上庭，整理了大量与车祸相关的资料，生活工作两不误。</description>
+      <description>J 备战上庭，整理大量证据，生活工作两不误。</description>
       <guid>https://www.justzht.com/go-to-court-one/</guid>
     </item>
     <item>
       <title>2026.8.3</title>
       <link>https://www.justzht.com/2026-8-3/</link>
-      <description>夏夜垃圾回收，与PGE小哥偶遇，工作矛盾与肇事逃逸案件并行。</description>
+      <description>夏夜扔垃圾，与PGE小哥偶遇，反思工作与生活。</description>
       <guid>https://www.justzht.com/2026-8-3/</guid>
     </item>
     <item>
       <title>2026.7.30</title>
       <link>https://www.justzht.com/2026-7-30/</link>
-      <description>体检正常，维生素 B 超标，更新个人主页，工作忙碌，有买房想法。</description>
+      <description>体检指标正常，维生素 B 超标，更新个人主页，工作忙碌，有买房想法。</description>
       <guid>https://www.justzht.com/2026-7-30/</guid>
     </item>
     <item>
