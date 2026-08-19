@@ -78,6 +78,12 @@
       <guid>https://webfem.com/post/chinese-word-count-punctuation</guid>
     </item>
     <item>
+      <title>修改 forkgram/tdesktop 实现 屏蔽音频/视频按钮功能 by Hermes 对接 opencode/deepseek-v4-flash-free</title>
+      <link>https://zelikk.blogspot.com/2026/08/forkgramtdesktop-by-hermes.html</link>
+      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
+      <guid>https://zelikk.blogspot.com/2026/08/forkgramtdesktop-by-hermes.html</guid>
+    </item>
+    <item>
       <title>修改 forkgram/tdesktop 实现 搜索@我的消息 by Hermes 对接 gpt-5.6-sol</title>
       <link>https://zelikk.blogspot.com/2026/08/forkgram-list-msg-mention.html</link>
       <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
@@ -90,12 +96,6 @@
       <guid>https://zelikk.blogspot.com/2026/08/telegram-m.html</guid>
     </item>
     <item>
-      <title>设置CPA cliproxyapi 的User-Agent 白嫖公益站agentrouter 的gpt-5.6-sol 提供给Hermes</title>
-      <link>https://zelikk.blogspot.com/2026/08/cpa-cliproxyapi-user-agent-agentrouter.html</link>
-      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
-      <guid>https://zelikk.blogspot.com/2026/08/cpa-cliproxyapi-user-agent-agentrouter.html</guid>
-    </item>
-    <item>
       <title>后疫情时代下美国 CS Master 申请纪实</title>
       <link>https://halfrost.com/halfrost_2021/</link>
       <description>后疫情时代美国CS硕士申请，留学生面临多重挑战。</description>
@@ -104,13 +104,13 @@
     <item>
       <title>下一个五年计划起航 ！</title>
       <link>https://halfrost.com/halfrost_2020/</link>
-      <description>下一个五年计划起航 ！</description>
+      <description>下一个五年计划起航，回顾2020年疫情与基建奇迹。</description>
       <guid>https://halfrost.com/halfrost_2020/</guid>
     </item>
     <item>
       <title>面试中 LRU / LFU 的青铜与王者</title>
       <link>https://halfrost.com/lru_lfu_interview/</link>
-      <description>解析LRU和LFU缓存算法，探讨面试技巧。</description>
+      <description>深入剖析LRU/LFU缓存算法，揭秘面试中的关键技巧。</description>
       <guid>https://halfrost.com/lru_lfu_interview/</guid>
     </item>
     <item>
@@ -132,6 +132,12 @@
       <guid>http://www.ruanyifeng.com/blog/2026/07/weekly-issue-406.html</guid>
     </item>
     <item>
+      <title>人生第一次：站着干活</title>
+      <link>https://www.hecaitou.com/2026/08/first-time-ever-standing-on-the-job.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/08/first-time-ever-standing-on-the-job.html</guid>
+    </item>
+    <item>
       <title>牛来了坐在爱因斯坦的小板凳上</title>
       <link>https://www.hecaitou.com/2026/08/the-cow-on-einsteins-little-bench.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
@@ -142,12 +148,6 @@
       <link>https://www.hecaitou.com/2026/08/Odysseus-the-Man.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/08/Odysseus-the-Man.html</guid>
-    </item>
-    <item>
-      <title>《奥德赛》观后</title>
-      <link>https://www.hecaitou.com/2026/08/On-Watching-The-Odyssey.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/08/On-Watching-The-Odyssey.html</guid>
     </item>
     <item>
       <title>是微服务架构不香还是云不香？</title>
@@ -236,19 +236,19 @@
     <item>
       <title>流形上的最速下降：7. Stiefel的解析解</title>
       <link>https://spaces.ac.cn/archives/11864</link>
-      <description>Stiefel流形最速下降解析解突破，显式解无需方程组。</description>
+      <description>Stiefel流形最速下降问题解析解新突破，无需求解非线性方程组。</description>
       <guid>https://spaces.ac.cn/archives/11864</guid>
     </item>
     <item>
       <title>除了交叉熵，LM Loss还有什么选择？</title>
       <link>https://spaces.ac.cn/archives/11854</link>
-      <description>探讨LLM训练中除交叉熵外，其他可能的损失函数选择及其影响。</description>
+      <description>探讨LLM预训练和微调中，除交叉熵外可选的损失函数及其影响。</description>
       <guid>https://spaces.ac.cn/archives/11854</guid>
     </item>
     <item>
       <title>简单谈谈K3的MoE和Attention</title>
       <link>https://spaces.ac.cn/archives/11848</link>
-      <description>K3模型融合多项改进，架构创新显著。</description>
+      <description>K3模型融合最新改进，架构设计解析。</description>
       <guid>https://spaces.ac.cn/archives/11848</guid>
     </item>
     <item>
@@ -326,7 +326,7 @@
     <item>
       <title>苹果的电源</title>
       <link>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</link>
-      <description>乔布斯赞颂电源设计工程师Rod Holt，其贡献被广泛认可。</description>
+      <description>乔布斯传记中，电源设计工程师Rod Holt因苹果电源设计闻名。</description>
       <guid>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</guid>
     </item>
     <item>
@@ -338,7 +338,7 @@
     <item>
       <title>马代(2)</title>
       <link>https://lenciel.com/2026/06/maldives-2/</link>
-      <description>马代海面如镜，蓝洞与海岛定区域，度假屋沉默见证潮起潮落。</description>
+      <description>马代海面无差别，蓝洞海岛定区域，度假房沉默宣誓包容。</description>
       <guid>https://lenciel.com/2026/06/maldives-2/</guid>
     </item>
     <item>
@@ -434,19 +434,19 @@
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台游记：体验台州天台，品尝特色小吃，游览国清寺。</description>
+      <description>天台游记：体验台州美食与文化，畅游国清寺。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
       <title>舟山骑车游</title>
       <link>https://battlele.com/zhoushan-trip/</link>
-      <description>舟山群岛骑行，体验东海云廊美景与波音747大飞机。</description>
+      <description>舟山群岛骑车游，体验东海云廊美景与波音747大飞机。</description>
       <guid>https://battlele.com/zhoushan-trip/</guid>
     </item>
     <item>
       <title>五月的上海游记</title>
       <link>https://battlele.com/mayday-sh-trip/</link>
-      <description>五一假期上海行，体验Fitting回访与博物馆特展。</description>
+      <description>五一假期上海游，Fitting回访与博物馆特展之旅。</description>
       <guid>https://battlele.com/mayday-sh-trip/</guid>
     </item>
     <item>
@@ -456,16 +456,16 @@
       <guid>https://jdhao.github.io/about/</guid>
     </item>
     <item>
+      <title>Spell Checking for Your Projects</title>
+      <link>https://jdhao.github.io/2026/08/18/spell_check_tools_for_your_project/</link>
+      <description>编程; Nvim; 生活; 读书; 思考。</description>
+      <guid>https://jdhao.github.io/2026/08/18/spell_check_tools_for_your_project/</guid>
+    </item>
+    <item>
       <title>Guide on Exporting Opentelemetry Traces to GCP</title>
       <link>https://jdhao.github.io/2026/08/12/opentelemetry-tracing-part2/</link>
       <description>编程; Nvim; 生活; 读书; 思考。</description>
       <guid>https://jdhao.github.io/2026/08/12/opentelemetry-tracing-part2/</guid>
-    </item>
-    <item>
-      <title>OpenTelemetry Tracing for Your FastAPI application</title>
-      <link>https://jdhao.github.io/2026/08/07/opentelemetry-tracing-part1/</link>
-      <description>编程; Nvim; 生活; 读书; 思考。</description>
-      <guid>https://jdhao.github.io/2026/08/07/opentelemetry-tracing-part1/</guid>
     </item>
     <item>
       <title>我的 Blog 改版了, 重回网页设计的黄金时代, 像素化!</title>
@@ -486,22 +486,22 @@
       <guid>https://s5s5.me/4292</guid>
     </item>
     <item>
+      <title>2026.8.18</title>
+      <link>https://www.justzht.com/2026-8-18/</link>
+      <description>小额法庭胜诉，催收赔偿金，寄出全球邮票。</description>
+      <guid>https://www.justzht.com/2026-8-18/</guid>
+    </item>
+    <item>
       <title>上庭（一）</title>
       <link>https://www.justzht.com/go-to-court-one/</link>
-      <description>J 准备上庭，整理案件材料，生活工作两不误。</description>
+      <description>J 准备上庭，整理大量资料，生活与工作交织。</description>
       <guid>https://www.justzht.com/go-to-court-one/</guid>
     </item>
     <item>
       <title>2026.8.3</title>
       <link>https://www.justzht.com/2026-8-3/</link>
-      <description>夏日里的日常琐事与烦恼。</description>
+      <description>2026.8.3</description>
       <guid>https://www.justzht.com/2026-8-3/</guid>
-    </item>
-    <item>
-      <title>2026.7.30</title>
-      <link>https://www.justzht.com/2026-7-30/</link>
-      <description>体检正常，维生素 B 超标，更新个人主页，工作忙碌，有买房想法。</description>
-      <guid>https://www.justzht.com/2026-7-30/</guid>
     </item>
     <item>
       <title>How I Use Hermes</title>
