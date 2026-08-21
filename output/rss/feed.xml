@@ -78,6 +78,12 @@
       <guid>https://webfem.com/post/chinese-word-count-punctuation</guid>
     </item>
     <item>
+      <title>修改 Blogger 编辑器 增加 代码片段code 和 代码块pre 按钮</title>
+      <link>https://zelikk.blogspot.com/2026/08/blogspot-editor-pre-code.html</link>
+      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
+      <guid>https://zelikk.blogspot.com/2026/08/blogspot-editor-pre-code.html</guid>
+    </item>
+    <item>
       <title>修改 forkgram/tdesktop 实现 屏蔽音频/视频按钮功能</title>
       <link>https://zelikk.blogspot.com/2026/08/forkgramtdesktop-by-hermes.html</link>
       <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
@@ -90,28 +96,28 @@
       <guid>https://zelikk.blogspot.com/2026/08/forkgram-list-msg-mention.html</guid>
     </item>
     <item>
-      <title>各模型的搜索(和胡说)实力对比 - &quot;为什么telegram群组中搜索 #m 就能找到 提及自己的消息&quot;</title>
-      <link>https://zelikk.blogspot.com/2026/08/telegram-m.html</link>
-      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
-      <guid>https://zelikk.blogspot.com/2026/08/telegram-m.html</guid>
-    </item>
-    <item>
       <title>后疫情时代下美国 CS Master 申请纪实</title>
       <link>https://halfrost.com/halfrost_2021/</link>
-      <description>后疫情时代美国CS硕士申请困难重重，本文详细记录申请经历。</description>
+      <description>后疫情时代，美国CS硕士申请路漫漫，本文揭秘申请难点及心得。</description>
       <guid>https://halfrost.com/halfrost_2021/</guid>
     </item>
     <item>
       <title>下一个五年计划起航 ！</title>
       <link>https://halfrost.com/halfrost_2020/</link>
-      <description>下一个五年计划起航，回顾2020年疫情下的武汉与全国抗疫历程。</description>
+      <description>回顾2020疫情挑战，展望下一个五年计划征程。</description>
       <guid>https://halfrost.com/halfrost_2020/</guid>
     </item>
     <item>
       <title>面试中 LRU / LFU 的青铜与王者</title>
       <link>https://halfrost.com/lru_lfu_interview/</link>
-      <description>LRU与LFU缓存淘汰算法解析及实现技巧。</description>
+      <description>解析LRU和LFU缓存算法，面试必备！</description>
       <guid>https://halfrost.com/lru_lfu_interview/</guid>
+    </item>
+    <item>
+      <title>科技爱好者周刊（第 409 期）：程序员的职业未来</title>
+      <link>http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html</link>
+      <description>对我来说，博客首先是一种知识管理工具，其次才是传播工具。我的技术文章，主要用来整理我还不懂的知识。我只写那些我还没有完全掌握的东西，那些我精通的东西，往往没有动力写。炫耀从来不是我的动机，好奇才是。</description>
+      <guid>http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html</guid>
     </item>
     <item>
       <title>科技爱好者周刊（第 408 期）：你需要知道的 AI 缓存知识</title>
@@ -126,10 +132,10 @@
       <guid>http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html</guid>
     </item>
     <item>
-      <title>科技爱好者周刊（第 406 期）：道可，道非，常道</title>
-      <link>http://www.ruanyifeng.com/blog/2026/07/weekly-issue-406.html</link>
-      <description>对我来说，博客首先是一种知识管理工具，其次才是传播工具。我的技术文章，主要用来整理我还不懂的知识。我只写那些我还没有完全掌握的东西，那些我精通的东西，往往没有动力写。炫耀从来不是我的动机，好奇才是。</description>
-      <guid>http://www.ruanyifeng.com/blog/2026/07/weekly-issue-406.html</guid>
+      <title>过七夕</title>
+      <link>https://www.hecaitou.com/2026/08/spending-chinese-valentines-day.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/08/spending-chinese-valentines-day.html</guid>
     </item>
     <item>
       <title>有趣去了哪里</title>
@@ -142,12 +148,6 @@
       <link>https://www.hecaitou.com/2026/08/first-time-ever-standing-on-the-job.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/08/first-time-ever-standing-on-the-job.html</guid>
-    </item>
-    <item>
-      <title>牛来了坐在爱因斯坦的小板凳上</title>
-      <link>https://www.hecaitou.com/2026/08/the-cow-on-einsteins-little-bench.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/08/the-cow-on-einsteins-little-bench.html</guid>
     </item>
     <item>
       <title>是微服务架构不香还是云不香？</title>
@@ -216,39 +216,39 @@
       <guid>https://blog.yitianshijie.net/2026/08/10/superduper4-and-pastebot3/</guid>
     </item>
     <item>
+      <title>真正在AI上All In的，是这个八十岁老头</title>
+      <link>http://weiwuhui.com/11077.html</link>
+      <description>魏老师执教于上海交通大学媒体与传播学院，天奇创投基金管理合伙人。媒体行业的思考和见解，尽在魏老师。</description>
+      <guid>http://weiwuhui.com/11077.html</guid>
+    </item>
+    <item>
+      <title>平台市场权力三问：有没有 管不管 怎么管</title>
+      <link>http://weiwuhui.com/11072.html</link>
+      <description>魏老师执教于上海交通大学媒体与传播学院，天奇创投基金管理合伙人。媒体行业的思考和见解，尽在魏老师。</description>
+      <guid>http://weiwuhui.com/11072.html</guid>
+    </item>
+    <item>
       <title>公共游戏的典范：纪念贾君鹏君</title>
       <link>http://weiwuhui.com/11070.html</link>
       <description>魏老师执教于上海交通大学媒体与传播学院，天奇创投基金管理合伙人。媒体行业的思考和见解，尽在魏老师。</description>
       <guid>http://weiwuhui.com/11070.html</guid>
     </item>
     <item>
-      <title>700什么时候能到700</title>
-      <link>http://weiwuhui.com/11065.html</link>
-      <description>魏老师执教于上海交通大学媒体与传播学院，天奇创投基金管理合伙人。媒体行业的思考和见解，尽在魏老师。</description>
-      <guid>http://weiwuhui.com/11065.html</guid>
-    </item>
-    <item>
-      <title>游戏、DEI与玩家的愤怒</title>
-      <link>http://weiwuhui.com/11063.html</link>
-      <description>魏老师执教于上海交通大学媒体与传播学院，天奇创投基金管理合伙人。媒体行业的思考和见解，尽在魏老师。</description>
-      <guid>http://weiwuhui.com/11063.html</guid>
-    </item>
-    <item>
       <title>流形上的最速下降：7. Stiefel的解析解</title>
       <link>https://spaces.ac.cn/archives/11864</link>
-      <description>Stiefel流形上最速下降问题解析解新突破，无需求解非线性方程组。</description>
+      <description>流形上的最速下降：7. Stiefel的解析解</description>
       <guid>https://spaces.ac.cn/archives/11864</guid>
     </item>
     <item>
       <title>除了交叉熵，LM Loss还有什么选择？</title>
       <link>https://spaces.ac.cn/archives/11854</link>
-      <description>探讨LLM预训练中除交叉熵外的其他损失函数选择及其影响。</description>
+      <description>探讨LLM预训练中，除交叉熵外，还有哪些损失函数选择及其影响。</description>
       <guid>https://spaces.ac.cn/archives/11854</guid>
     </item>
     <item>
       <title>简单谈谈K3的MoE和Attention</title>
       <link>https://spaces.ac.cn/archives/11848</link>
-      <description>K3模型融合创新，MoE与Attention优化显著。</description>
+      <description>K3模型融合最新理解，架构创新显著。</description>
       <guid>https://spaces.ac.cn/archives/11848</guid>
     </item>
     <item>
@@ -326,7 +326,7 @@
     <item>
       <title>苹果的电源</title>
       <link>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</link>
-      <description>乔布斯赞颂电源设计工程师Rod Holt，其成就被广泛认可。</description>
+      <description>乔布斯赞不绝口的电源设计工程师Rod Holt，被多次提及，享誉全球。</description>
       <guid>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</guid>
     </item>
     <item>
@@ -338,7 +338,7 @@
     <item>
       <title>马代(2)</title>
       <link>https://lenciel.com/2026/06/maldives-2/</link>
-      <description>马代海面无差别，蓝洞海岛标定区域，度假房沉默宣誓包容。</description>
+      <description>马代海面广阔，蓝洞和海岛是区域标识，度假房沉默见证潮起潮落。</description>
       <guid>https://lenciel.com/2026/06/maldives-2/</guid>
     </item>
     <item>
@@ -434,19 +434,19 @@
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台游记：体验当地美食，探访国清寺，享受悠闲假期。</description>
+      <description>天台游记：体验台州美食与古迹，享受悠闲假期。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
       <title>舟山骑车游</title>
       <link>https://battlele.com/zhoushan-trip/</link>
-      <description>舟山群岛骑行，环岛半程百公里，体验东海云廊与波音747。</description>
+      <description>舟山群岛骑车游，体验海天佛国美景与波音747大飞机。</description>
       <guid>https://battlele.com/zhoushan-trip/</guid>
     </item>
     <item>
       <title>五月的上海游记</title>
       <link>https://battlele.com/mayday-sh-trip/</link>
-      <description>五一假期上海行，体验Fitting与博物馆特展。</description>
+      <description>五一假期上海行，Fitting回访与博物馆特展之旅。</description>
       <guid>https://battlele.com/mayday-sh-trip/</guid>
     </item>
     <item>
@@ -486,40 +486,40 @@
       <guid>https://s5s5.me/4292</guid>
     </item>
     <item>
+      <title>2026.8.20</title>
+      <link>https://www.justzht.com/2026-8-20/</link>
+      <description>个人知识图谱实验，追踪兴趣事件，预测与回测系统。</description>
+      <guid>https://www.justzht.com/2026-8-20/</guid>
+    </item>
+    <item>
       <title>2026.8.18</title>
       <link>https://www.justzht.com/2026-8-18/</link>
-      <description>小额法庭胜诉，追讨肇事逃逸赔偿，寄出全球邮票。</description>
+      <description>小额法庭判决赔偿，催收阶段，寄出全球邮票。</description>
       <guid>https://www.justzht.com/2026-8-18/</guid>
     </item>
     <item>
       <title>上庭（一）</title>
       <link>https://www.justzht.com/go-to-court-one/</link>
-      <description>J 准备上庭，整理大量资料，生活与工作交织。</description>
+      <description>J为车损案准备诉讼材料，生活工作两不误。</description>
       <guid>https://www.justzht.com/go-to-court-one/</guid>
     </item>
     <item>
-      <title>2026.8.3</title>
-      <link>https://www.justzht.com/2026-8-3/</link>
-      <description>夏夜垃圾回收，与PGE小哥偶遇，反思工作与生活。</description>
-      <guid>https://www.justzht.com/2026-8-3/</guid>
+      <title>Introduction Finger</title>
+      <link>https://www.bboy.app/2026/08/20/introduction-finger/</link>
+      <description>描述：一个分享个人见解、关注项目更新和技术文章的博客。</description>
+      <guid>https://www.bboy.app/2026/08/20/introduction-finger/</guid>
+    </item>
+    <item>
+      <title>介绍下Finger</title>
+      <link>https://www.bboy.app/2026/08/20/%E4%BB%8B%E7%BB%8D%E4%B8%8Bfinger/</link>
+      <description>描述：一个分享个人见解、关注项目更新和技术文章的博客。</description>
+      <guid>https://www.bboy.app/2026/08/20/%E4%BB%8B%E7%BB%8D%E4%B8%8Bfinger/</guid>
     </item>
     <item>
       <title>How I Use Hermes</title>
       <link>https://www.bboy.app/2026/08/11/how-i-use-hermes/</link>
       <description>描述：一个分享个人见解、关注项目更新和技术文章的博客。</description>
       <guid>https://www.bboy.app/2026/08/11/how-i-use-hermes/</guid>
-    </item>
-    <item>
-      <title>我是怎么用 Hermes 的</title>
-      <link>https://www.bboy.app/2026/08/11/%E6%88%91%E6%98%AF%E6%80%8E%E4%B9%88%E7%94%A8-hermes-%E7%9A%84/</link>
-      <description>描述：一个分享个人见解、关注项目更新和技术文章的博客。</description>
-      <guid>https://www.bboy.app/2026/08/11/%E6%88%91%E6%98%AF%E6%80%8E%E4%B9%88%E7%94%A8-hermes-%E7%9A%84/</guid>
-    </item>
-    <item>
-      <title>Whey Protein and Creatine</title>
-      <link>https://www.bboy.app/2026/08/11/whey-protein-and-creatine/</link>
-      <description>描述：一个分享个人见解、关注项目更新和技术文章的博客。</description>
-      <guid>https://www.bboy.app/2026/08/11/whey-protein-and-creatine/</guid>
     </item>
     <item>
       <title>从 Prompt 开始的 AI 之旅</title>
