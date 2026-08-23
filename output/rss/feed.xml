@@ -78,6 +78,12 @@
       <guid>https://webfem.com/post/chinese-word-count-punctuation</guid>
     </item>
     <item>
+      <title>Blogger/blogspot 导入模板文件时, 系统会强行将 Followers widget 里面的 title 设置为 h2</title>
+      <link>https://zelikk.blogspot.com/2026/08/blogger-blogspot-followers-widget-title-auto-h2.html</link>
+      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
+      <guid>https://zelikk.blogspot.com/2026/08/blogger-blogspot-followers-widget-title-auto-h2.html</guid>
+    </item>
+    <item>
       <title>修改 Blogger 编辑器 增加 代码片段code 和 代码块pre 按钮</title>
       <link>https://zelikk.blogspot.com/2026/08/blogspot-editor-pre-code.html</link>
       <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
@@ -90,27 +96,21 @@
       <guid>https://zelikk.blogspot.com/2026/08/forkgramtdesktop-by-hermes.html</guid>
     </item>
     <item>
-      <title>修改 forkgram/tdesktop 实现 搜索@我的消息</title>
-      <link>https://zelikk.blogspot.com/2026/08/forkgram-list-msg-mention.html</link>
-      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
-      <guid>https://zelikk.blogspot.com/2026/08/forkgram-list-msg-mention.html</guid>
-    </item>
-    <item>
       <title>后疫情时代下美国 CS Master 申请纪实</title>
       <link>https://halfrost.com/halfrost_2021/</link>
-      <description>后疫情时代美国CS硕士申请难上加难，本文揭秘申请全攻略。</description>
+      <description>后疫情时代，美国CS Master申请困难重重，本文分享申请纪实与心得。</description>
       <guid>https://halfrost.com/halfrost_2021/</guid>
     </item>
     <item>
       <title>下一个五年计划起航 ！</title>
       <link>https://halfrost.com/halfrost_2020/</link>
-      <description>回顾2020，武汉抗疫，火神雷神山医院见证中国速度。</description>
+      <description>回顾2020，展望新五年，共抗疫情，共建家园。</description>
       <guid>https://halfrost.com/halfrost_2020/</guid>
     </item>
     <item>
       <title>面试中 LRU / LFU 的青铜与王者</title>
       <link>https://halfrost.com/lru_lfu_interview/</link>
-      <description>揭秘面试LRU/LFU缓存淘汰算法，深度解析其实现与优化。</description>
+      <description>深入解析LRU和LFU缓存算法，面试必备！</description>
       <guid>https://halfrost.com/lru_lfu_interview/</guid>
     </item>
     <item>
@@ -132,6 +132,12 @@
       <guid>http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html</guid>
     </item>
     <item>
+      <title>我个人最欣赏的 AI 用法</title>
+      <link>https://www.hecaitou.com/2026/08/my-favorite-way-to-use-ai.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/08/my-favorite-way-to-use-ai.html</guid>
+    </item>
+    <item>
       <title>破圈的风险</title>
       <link>https://www.hecaitou.com/2026/08/perils-breaking-bubble.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
@@ -142,12 +148,6 @@
       <link>https://www.hecaitou.com/2026/08/spending-chinese-valentines-day.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/08/spending-chinese-valentines-day.html</guid>
-    </item>
-    <item>
-      <title>有趣去了哪里</title>
-      <link>https://www.hecaitou.com/2026/08/where-did-all-the-fun-go.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/08/where-did-all-the-fun-go.html</guid>
     </item>
     <item>
       <title>是微服务架构不香还是云不香？</title>
@@ -210,12 +210,6 @@
       <guid>https://blog.yitianshijie.net/2026/08/11/order-of-the-sinking-star-to-be-dubbed-in-mandarin/</guid>
     </item>
     <item>
-      <title>SuperDuper 4 和 Pastebot 3</title>
-      <link>https://blog.yitianshijie.net/2026/08/10/superduper4-and-pastebot3/</link>
-      <description>代表文章：《[李如一 | 论推荐之难](</description>
-      <guid>https://blog.yitianshijie.net/2026/08/10/superduper4-and-pastebot3/</guid>
-    </item>
-    <item>
       <title>阿里赌AI 赌得比腾讯大</title>
       <link>http://weiwuhui.com/11079.html</link>
       <description>魏老师执教于上海交通大学媒体与传播学院，天奇创投基金管理合伙人。媒体行业的思考和见解，尽在魏老师。</description>
@@ -236,19 +230,19 @@
     <item>
       <title>流形上的最速下降：7. Stiefel的解析解</title>
       <link>https://spaces.ac.cn/archives/11864</link>
-      <description>Stiefel流形最速下降问题解析解突破，无需求解非线性方程组。</description>
+      <description>Stiefel流形最速下降问题解析解首次出现，无需求解非线性方程组。</description>
       <guid>https://spaces.ac.cn/archives/11864</guid>
     </item>
     <item>
       <title>除了交叉熵，LM Loss还有什么选择？</title>
       <link>https://spaces.ac.cn/archives/11854</link>
-      <description>探讨LLM预训练和微调中，除交叉熵外，其他可能的损失函数选择及其影响。</description>
+      <description>探索LLM预训练和微调中，除交叉熵外的损失函数选择及其影响。</description>
       <guid>https://spaces.ac.cn/archives/11854</guid>
     </item>
     <item>
       <title>简单谈谈K3的MoE和Attention</title>
       <link>https://spaces.ac.cn/archives/11848</link>
-      <description>K3模型发布，融合多项技术优化，架构创新显著。</description>
+      <description>K3模型架构融合创新，优化效率与稳定性。</description>
       <guid>https://spaces.ac.cn/archives/11848</guid>
     </item>
     <item>
@@ -326,7 +320,7 @@
     <item>
       <title>苹果的电源</title>
       <link>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</link>
-      <description>乔布斯传记中提及的电源设计工程师Rod Holt，因苹果电源设计而闻名。</description>
+      <description>乔布斯未获赞誉的电源设计工程师Rod Holt，因与苹果相关书籍和文章提及而闻名。</description>
       <guid>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</guid>
     </item>
     <item>
@@ -338,7 +332,7 @@
     <item>
       <title>马代(2)</title>
       <link>https://lenciel.com/2026/06/maldives-2/</link>
-      <description>马代海面一望无际，蓝洞与海岛标定独特路线。</description>
+      <description>马代海面广阔，蓝洞和海岛标定区域，度假房散布其中，静默承载生活起伏。</description>
       <guid>https://lenciel.com/2026/06/maldives-2/</guid>
     </item>
     <item>
@@ -434,7 +428,7 @@
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台游记：体验地道的台州美食，游览国清寺古寺。</description>
+      <description>天台游记：体验当地美食，探访国清寺，享受悠闲假期。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
@@ -446,7 +440,7 @@
     <item>
       <title>五月的上海游记</title>
       <link>https://battlele.com/mayday-sh-trip/</link>
-      <description>五一假期上海行，Fitting回访与博物馆特展之旅。</description>
+      <description>五一假期上海游，体验博物馆特展与城市风光。</description>
       <guid>https://battlele.com/mayday-sh-trip/</guid>
     </item>
     <item>
@@ -488,19 +482,19 @@
     <item>
       <title>2026.8.20</title>
       <link>https://www.justzht.com/2026-8-20/</link>
-      <description>个人知识图谱实验，追踪兴趣事件，等待九月决定。</description>
+      <description>2026.8.20</description>
       <guid>https://www.justzht.com/2026-8-20/</guid>
     </item>
     <item>
       <title>2026.8.18</title>
       <link>https://www.justzht.com/2026-8-18/</link>
-      <description>小额法庭判决获赔，催收中，回忆邮票的浪漫。</description>
+      <description>小额法庭赔偿低于预期，肇事逃逸者被判赔偿。</description>
       <guid>https://www.justzht.com/2026-8-18/</guid>
     </item>
     <item>
       <title>上庭（一）</title>
       <link>https://www.justzht.com/go-to-court-one/</link>
-      <description>J 准备上庭，回顾事故后整理的资料，生活与工作交织。</description>
+      <description>J 断断续续整理车损案资料，准备上庭。</description>
       <guid>https://www.justzht.com/go-to-court-one/</guid>
     </item>
     <item>
