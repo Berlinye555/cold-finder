@@ -42,6 +42,12 @@
       <guid>https://www.xiaoyuzhoufm.com/episode/68c6d2e22c82c9dcca527114?utm_source=rss</guid>
     </item>
     <item>
+      <title>AI 想放弃了，人没有 - 肘子的 Swift 周报 #150</title>
+      <link>https://fatbobman.com/zh/weekly/issue-150/</link>
+      <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
+      <guid>https://fatbobman.com/zh/weekly/issue-150/</guid>
+    </item>
+    <item>
       <title>从使用 AI 到委托 AI：我的一些思考</title>
       <link>https://fatbobman.com/zh/posts/from-using-ai-to-delegating-work-to-ai/</link>
       <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
@@ -52,12 +58,6 @@
       <link>https://fatbobman.com/zh/weekly/issue-149/</link>
       <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
       <guid>https://fatbobman.com/zh/weekly/issue-149/</guid>
-    </item>
-    <item>
-      <title>ContentBuilder 解析：SwiftUI 类型检查性能提升的秘密</title>
-      <link>https://fatbobman.com/zh/posts/contentbuilder-explained/</link>
-      <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
-      <guid>https://fatbobman.com/zh/posts/contentbuilder-explained/</guid>
     </item>
     <item>
       <title>写作平台字数怎么算？公众号、论文和网文的统计口径</title>
@@ -78,39 +78,39 @@
       <guid>https://webfem.com/post/chinese-word-count-punctuation</guid>
     </item>
     <item>
+      <title>Blogger/blogspot 的 博客搜索 小工具 BlogSearch widget 不能设置标题为空</title>
+      <link>https://zelikk.blogspot.com/2026/08/blogger-blogspot-blogsearch-widget-title-null.html</link>
+      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
+      <guid>https://zelikk.blogspot.com/2026/08/blogger-blogspot-blogsearch-widget-title-null.html</guid>
+    </item>
+    <item>
       <title>Blogger/blogspot 的 举报滥用情况 小工具 ReportAbuse widget 系统会固定输出 h3 标签</title>
       <link>https://zelikk.blogspot.com/2026/08/blogger-blogspot-reportabuse-widget-h3.html</link>
       <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
       <guid>https://zelikk.blogspot.com/2026/08/blogger-blogspot-reportabuse-widget-h3.html</guid>
     </item>
     <item>
-      <title>Blogger/blogspot 导入模板文件时, 系统会强行将 Followers widget 里面的 title 设置为 h2</title>
+      <title>Blogger/blogspot 导入模板文件时 系统会强行将 Followers widget 里面的 title 设置为 h2</title>
       <link>https://zelikk.blogspot.com/2026/08/blogger-blogspot-followers-widget-title-auto-h2.html</link>
       <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
       <guid>https://zelikk.blogspot.com/2026/08/blogger-blogspot-followers-widget-title-auto-h2.html</guid>
     </item>
     <item>
-      <title>修改 Blogger 编辑器 增加 代码片段code 和 代码块pre 按钮</title>
-      <link>https://zelikk.blogspot.com/2026/08/blogspot-editor-pre-code.html</link>
-      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
-      <guid>https://zelikk.blogspot.com/2026/08/blogspot-editor-pre-code.html</guid>
-    </item>
-    <item>
       <title>后疫情时代下美国 CS Master 申请纪实</title>
       <link>https://halfrost.com/halfrost_2021/</link>
-      <description>后疫情时代，美国CS硕士申请之路波折多，本文揭秘申请全攻略。</description>
+      <description>后疫情时代，美国CS Master申请之路充满挑战，本文分享申请纪实及经验。</description>
       <guid>https://halfrost.com/halfrost_2021/</guid>
     </item>
     <item>
       <title>下一个五年计划起航 ！</title>
       <link>https://halfrost.com/halfrost_2020/</link>
-      <description>回顾2020，展望下一个五年计划，共克时艰，砥砺前行。</description>
+      <description>下一个五年计划启航，回顾2020年疫情与建设奇迹。</description>
       <guid>https://halfrost.com/halfrost_2020/</guid>
     </item>
     <item>
       <title>面试中 LRU / LFU 的青铜与王者</title>
       <link>https://halfrost.com/lru_lfu_interview/</link>
-      <description>解析LRU和LFU缓存算法，探讨面试中的应对策略。</description>
+      <description>深入解析LRU/LFU缓存算法，揭秘面试中的关键技巧。</description>
       <guid>https://halfrost.com/lru_lfu_interview/</guid>
     </item>
     <item>
@@ -132,6 +132,12 @@
       <guid>http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html</guid>
     </item>
     <item>
+      <title>差一分就是差十分</title>
+      <link>https://www.hecaitou.com/2026/08/missing-by-one-means-trailing-by-ten.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/08/missing-by-one-means-trailing-by-ten.html</guid>
+    </item>
+    <item>
       <title>处暑说吃</title>
       <link>https://www.hecaitou.com/2026/08/eating-through-end-of-heat.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
@@ -142,12 +148,6 @@
       <link>https://www.hecaitou.com/2026/08/my-favorite-way-to-use-ai.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/08/my-favorite-way-to-use-ai.html</guid>
-    </item>
-    <item>
-      <title>破圈的风险</title>
-      <link>https://www.hecaitou.com/2026/08/perils-breaking-bubble.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/08/perils-breaking-bubble.html</guid>
     </item>
     <item>
       <title>是微服务架构不香还是云不香？</title>
@@ -210,6 +210,12 @@
       <guid>https://blog.yitianshijie.net/2026/08/11/order-of-the-sinking-star-to-be-dubbed-in-mandarin/</guid>
     </item>
     <item>
+      <title>不分左右，75%的美国人恨上了AI的”肉身”</title>
+      <link>http://weiwuhui.com/11084.html</link>
+      <description>魏老师执教于上海交通大学媒体与传播学院，天奇创投基金管理合伙人。媒体行业的思考和见解，尽在魏老师。</description>
+      <guid>http://weiwuhui.com/11084.html</guid>
+    </item>
+    <item>
       <title>谁在断章取义张丹丹 断了什么章取了什么义</title>
       <link>http://weiwuhui.com/11081.html</link>
       <description>魏老师执教于上海交通大学媒体与传播学院，天奇创投基金管理合伙人。媒体行业的思考和见解，尽在魏老师。</description>
@@ -222,27 +228,21 @@
       <guid>http://weiwuhui.com/11079.html</guid>
     </item>
     <item>
-      <title>真正在AI上All In的，是这个八十岁老头</title>
-      <link>http://weiwuhui.com/11077.html</link>
-      <description>魏老师执教于上海交通大学媒体与传播学院，天奇创投基金管理合伙人。媒体行业的思考和见解，尽在魏老师。</description>
-      <guid>http://weiwuhui.com/11077.html</guid>
-    </item>
-    <item>
       <title>动量的新理解：逼近特征层面的梯度下降</title>
       <link>https://spaces.ac.cn/archives/11875</link>
-      <description>探索动量优化新视角：将其视为在线回归解。</description>
+      <description>新视角解读动量：不仅是梯度平均，也是在线回归解。</description>
       <guid>https://spaces.ac.cn/archives/11875</guid>
     </item>
     <item>
       <title>流形上的最速下降：7. Stiefel的解析解</title>
       <link>https://spaces.ac.cn/archives/11864</link>
-      <description>Stiefel流形上最速下降解析解首次显式，无需求解非线性方程组。</description>
+      <description>Stiefel流形上最速下降解析解首次出现，无需求解非线性方程组。</description>
       <guid>https://spaces.ac.cn/archives/11864</guid>
     </item>
     <item>
       <title>除了交叉熵，LM Loss还有什么选择？</title>
       <link>https://spaces.ac.cn/archives/11854</link>
-      <description>探索LLM预训练中，除交叉熵外，还有哪些损失函数选择。</description>
+      <description>探讨LLM训练中除交叉熵外的其他损失函数选择及其影响。</description>
       <guid>https://spaces.ac.cn/archives/11854</guid>
     </item>
     <item>
@@ -320,7 +320,7 @@
     <item>
       <title>苹果的电源</title>
       <link>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</link>
-      <description>Rod Holt因苹果电源设计闻名，被多部作品提及。</description>
+      <description>Rod Holt因苹果电源设计闻名，却未获乔布斯赞誉。</description>
       <guid>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</guid>
     </item>
     <item>
@@ -332,7 +332,7 @@
     <item>
       <title>马代(2)</title>
       <link>https://lenciel.com/2026/06/maldives-2/</link>
-      <description>马代海面广阔，蓝洞和海岛标定区域，度假房点缀其间，静默见证潮起潮落。</description>
+      <description>马代海面广阔，蓝洞与海岛定区域，度假房静默见证潮起潮落。</description>
       <guid>https://lenciel.com/2026/06/maldives-2/</guid>
     </item>
     <item>
@@ -426,22 +426,22 @@
       <guid>https://wangrufei.com/archives/402</guid>
     </item>
     <item>
+      <title>香港汇丰 Pulse 银联双币钻石信用卡</title>
+      <link>https://battlele.com/hsbc-pulse/</link>
+      <description>香港汇丰Pulse银联双币钻石卡，7月大放水，申请流程详述。</description>
+      <guid>https://battlele.com/hsbc-pulse/</guid>
+    </item>
+    <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台游记：体验当地美食，游览国清寺。</description>
+      <description>天台之旅，品尝特色小吃，探访国清寺，享受悠闲假期。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
       <title>舟山骑车游</title>
       <link>https://battlele.com/zhoushan-trip/</link>
-      <description>舟山群岛骑车游，体验东海云廊美景与波音747大飞机。</description>
+      <description>舟山骑行之旅，环岛半程挑战，海天佛国风光无限。</description>
       <guid>https://battlele.com/zhoushan-trip/</guid>
-    </item>
-    <item>
-      <title>五月的上海游记</title>
-      <link>https://battlele.com/mayday-sh-trip/</link>
-      <description>五一假期上海行，体验Fitting与博物馆特展。</description>
-      <guid>https://battlele.com/mayday-sh-trip/</guid>
     </item>
     <item>
       <title>About</title>
@@ -480,22 +480,22 @@
       <guid>https://s5s5.me/4292</guid>
     </item>
     <item>
+      <title>上庭（二）</title>
+      <link>https://www.justzht.com/go-to-court-two/</link>
+      <description>J与保险公司律师协商小额法庭事宜，探讨庭外和解可能性。</description>
+      <guid>https://www.justzht.com/go-to-court-two/</guid>
+    </item>
+    <item>
       <title>2026.8.20</title>
       <link>https://www.justzht.com/2026-8-20/</link>
-      <description>个人知识图谱实验，追踪兴趣事件，等待九月决定。</description>
+      <description>个人知识图谱实验追踪兴趣事件，催收进展与生活等待交织。</description>
       <guid>https://www.justzht.com/2026-8-20/</guid>
     </item>
     <item>
       <title>2026.8.18</title>
       <link>https://www.justzht.com/2026-8-18/</link>
-      <description>小额法庭胜诉，催收赔偿金，寄出全球邮票。</description>
+      <description>小额法庭判决赔偿，催收阶段，等待强制执行。</description>
       <guid>https://www.justzht.com/2026-8-18/</guid>
-    </item>
-    <item>
-      <title>上庭（一）</title>
-      <link>https://www.justzht.com/go-to-court-one/</link>
-      <description>J为上庭准备厚厚文件夹，生活与工作交织。</description>
-      <guid>https://www.justzht.com/go-to-court-one/</guid>
     </item>
     <item>
       <title>Introduction Finger</title>
