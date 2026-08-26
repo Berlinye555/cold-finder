@@ -78,39 +78,39 @@
       <guid>https://webfem.com/post/chinese-word-count-punctuation</guid>
     </item>
     <item>
+      <title>开发 Blogger/blogspot 模板 模仿月光博客 by Herems 对接 白嫖stealth/ox-alpha</title>
+      <link>https://zelikk.blogspot.com/2026/08/blogger-blogspot-williamlong-like-template-xml.html</link>
+      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
+      <guid>https://zelikk.blogspot.com/2026/08/blogger-blogspot-williamlong-like-template-xml.html</guid>
+    </item>
+    <item>
+      <title>Blogger/blogspot 空白博客模板 不含CSS</title>
+      <link>https://zelikk.blogspot.com/2026/08/blogger-blogspot-blank-css-template-xml.html</link>
+      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
+      <guid>https://zelikk.blogspot.com/2026/08/blogger-blogspot-blank-css-template-xml.html</guid>
+    </item>
+    <item>
       <title>Blogger/blogspot 的 博客搜索 小工具 BlogSearch widget 不能设置标题为空</title>
       <link>https://zelikk.blogspot.com/2026/08/blogger-blogspot-blogsearch-widget-title-null.html</link>
       <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
       <guid>https://zelikk.blogspot.com/2026/08/blogger-blogspot-blogsearch-widget-title-null.html</guid>
     </item>
     <item>
-      <title>Blogger/blogspot 的 举报滥用情况 小工具 ReportAbuse widget 系统会固定输出 h3 标签</title>
-      <link>https://zelikk.blogspot.com/2026/08/blogger-blogspot-reportabuse-widget-h3.html</link>
-      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
-      <guid>https://zelikk.blogspot.com/2026/08/blogger-blogspot-reportabuse-widget-h3.html</guid>
-    </item>
-    <item>
-      <title>Blogger/blogspot 导入模板文件时 系统会强行将 Followers widget 里面的 title 设置为 h2</title>
-      <link>https://zelikk.blogspot.com/2026/08/blogger-blogspot-followers-widget-title-auto-h2.html</link>
-      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
-      <guid>https://zelikk.blogspot.com/2026/08/blogger-blogspot-followers-widget-title-auto-h2.html</guid>
-    </item>
-    <item>
       <title>后疫情时代下美国 CS Master 申请纪实</title>
       <link>https://halfrost.com/halfrost_2021/</link>
-      <description>后疫情时代，美国CS Master申请之路充满挑战，本文分享申请纪实及经验。</description>
+      <description>后疫情时代，美国CS硕士申请路漫漫，本文揭秘申请难点与心得。</description>
       <guid>https://halfrost.com/halfrost_2021/</guid>
     </item>
     <item>
       <title>下一个五年计划起航 ！</title>
       <link>https://halfrost.com/halfrost_2020/</link>
-      <description>下一个五年计划启航，回顾2020年疫情与建设奇迹。</description>
+      <description>回顾2020，共抗疫情，见证火神山、雷神山奇迹。</description>
       <guid>https://halfrost.com/halfrost_2020/</guid>
     </item>
     <item>
       <title>面试中 LRU / LFU 的青铜与王者</title>
       <link>https://halfrost.com/lru_lfu_interview/</link>
-      <description>深入解析LRU/LFU缓存算法，揭秘面试中的关键技巧。</description>
+      <description>深入剖析LRU/LFU缓存算法，揭秘面试中的关键技巧。</description>
       <guid>https://halfrost.com/lru_lfu_interview/</guid>
     </item>
     <item>
@@ -132,22 +132,22 @@
       <guid>http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html</guid>
     </item>
     <item>
+      <title>当第一个Claude被授予了菩萨戒</title>
+      <link>https://www.hecaitou.com/2026/08/when-the-first-claude-was-bestowed-the-bodhisattva-vows.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/08/when-the-first-claude-was-bestowed-the-bodhisattva-vows.html</guid>
+    </item>
+    <item>
+      <title>可能会是播客</title>
+      <link>https://www.hecaitou.com/2026/08/might-be-a-podcast.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/08/might-be-a-podcast.html</guid>
+    </item>
+    <item>
       <title>差一分就是差十分</title>
       <link>https://www.hecaitou.com/2026/08/missing-by-one-means-trailing-by-ten.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/08/missing-by-one-means-trailing-by-ten.html</guid>
-    </item>
-    <item>
-      <title>处暑说吃</title>
-      <link>https://www.hecaitou.com/2026/08/eating-through-end-of-heat.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/08/eating-through-end-of-heat.html</guid>
-    </item>
-    <item>
-      <title>我个人最欣赏的 AI 用法</title>
-      <link>https://www.hecaitou.com/2026/08/my-favorite-way-to-use-ai.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/08/my-favorite-way-to-use-ai.html</guid>
     </item>
     <item>
       <title>是微服务架构不香还是云不香？</title>
@@ -230,19 +230,19 @@
     <item>
       <title>动量的新理解：逼近特征层面的梯度下降</title>
       <link>https://spaces.ac.cn/archives/11875</link>
-      <description>新视角解读动量：不仅是梯度平均，也是在线回归解。</description>
+      <description>动量优化器新视角：不仅是梯度平均，更是在线回归解。</description>
       <guid>https://spaces.ac.cn/archives/11875</guid>
     </item>
     <item>
       <title>流形上的最速下降：7. Stiefel的解析解</title>
       <link>https://spaces.ac.cn/archives/11864</link>
-      <description>Stiefel流形上最速下降解析解首次出现，无需求解非线性方程组。</description>
+      <description>Stiefel流形上最速下降问题解析解新突破。</description>
       <guid>https://spaces.ac.cn/archives/11864</guid>
     </item>
     <item>
       <title>除了交叉熵，LM Loss还有什么选择？</title>
       <link>https://spaces.ac.cn/archives/11854</link>
-      <description>探讨LLM训练中除交叉熵外的其他损失函数选择及其影响。</description>
+      <description>探讨LLM预训练中，除交叉熵外，可选的其他损失函数及其影响。</description>
       <guid>https://spaces.ac.cn/archives/11854</guid>
     </item>
     <item>
@@ -320,7 +320,7 @@
     <item>
       <title>苹果的电源</title>
       <link>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</link>
-      <description>Rod Holt因苹果电源设计闻名，却未获乔布斯赞誉。</description>
+      <description>Rod Holt，苹果电源设计工程师，因乔布斯传记而闻名。</description>
       <guid>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</guid>
     </item>
     <item>
@@ -332,8 +332,26 @@
     <item>
       <title>马代(2)</title>
       <link>https://lenciel.com/2026/06/maldives-2/</link>
-      <description>马代海面广阔，蓝洞与海岛定区域，度假房静默见证潮起潮落。</description>
+      <description>马代海面如镜，蓝洞与海岛标定独特路线，度假村静谧见证潮起潮落。</description>
       <guid>https://lenciel.com/2026/06/maldives-2/</guid>
+    </item>
+    <item>
+      <title>关于饮酒的反思</title>
+      <link>https://kaix.in/2026/0824/</link>
+      <description>因多次更换 blog 程序，2004 年至今存留 548 篇日志，主要涉及咖啡、影音、阅读、生活记录等内容。</description>
+      <guid>https://kaix.in/2026/0824/</guid>
+    </item>
+    <item>
+      <title>什么是真正的痛苦</title>
+      <link>https://kaix.in/2026/0816/</link>
+      <description>因多次更换 blog 程序，2004 年至今存留 548 篇日志，主要涉及咖啡、影音、阅读、生活记录等内容。</description>
+      <guid>https://kaix.in/2026/0816/</guid>
+    </item>
+    <item>
+      <title>灵魂插件 MCP</title>
+      <link>https://kaix.in/2026/0814/</link>
+      <description>因多次更换 blog 程序，2004 年至今存留 548 篇日志，主要涉及咖啡、影音、阅读、生活记录等内容。</description>
+      <guid>https://kaix.in/2026/0814/</guid>
     </item>
     <item>
       <title>2025 重新定义的生活</title>
@@ -428,19 +446,19 @@
     <item>
       <title>香港汇丰 Pulse 银联双币钻石信用卡</title>
       <link>https://battlele.com/hsbc-pulse/</link>
-      <description>香港汇丰Pulse银联双币钻石卡，7月大放水，申请流程详述。</description>
+      <description>香港汇丰Pulse银联卡7月大放水，内地用户申请指南全解析。</description>
       <guid>https://battlele.com/hsbc-pulse/</guid>
     </item>
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台之旅，品尝特色小吃，探访国清寺，享受悠闲假期。</description>
+      <description>天台之旅，品尝特色小吃，游览国清寺，享受悠闲假期。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
       <title>舟山骑车游</title>
       <link>https://battlele.com/zhoushan-trip/</link>
-      <description>舟山骑行之旅，环岛半程挑战，海天佛国风光无限。</description>
+      <description>舟山群岛骑行，体验东海云廊美景与波音747大飞机。</description>
       <guid>https://battlele.com/zhoushan-trip/</guid>
     </item>
     <item>
@@ -482,19 +500,19 @@
     <item>
       <title>上庭（二）</title>
       <link>https://www.justzht.com/go-to-court-two/</link>
-      <description>J与保险公司律师协商小额法庭事宜，探讨庭外和解可能性。</description>
+      <description>J 与保险公司律师协商小额法庭事宜，探讨庭外和解的可能性。</description>
       <guid>https://www.justzht.com/go-to-court-two/</guid>
     </item>
     <item>
       <title>2026.8.20</title>
       <link>https://www.justzht.com/2026-8-20/</link>
-      <description>个人知识图谱实验追踪兴趣事件，催收进展与生活等待交织。</description>
+      <description>个人知识图谱实验，追踪兴趣事件，等待九月决定。</description>
       <guid>https://www.justzht.com/2026-8-20/</guid>
     </item>
     <item>
       <title>2026.8.18</title>
       <link>https://www.justzht.com/2026-8-18/</link>
-      <description>小额法庭判决赔偿，催收阶段，等待强制执行。</description>
+      <description>小额法庭判决获赔，催收中，翻寄Global Forever邮票。</description>
       <guid>https://www.justzht.com/2026-8-18/</guid>
     </item>
     <item>
