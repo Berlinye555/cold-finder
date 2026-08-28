@@ -98,20 +98,26 @@
     <item>
       <title>后疫情时代下美国 CS Master 申请纪实</title>
       <link>https://halfrost.com/halfrost_2021/</link>
-      <description>后疫情时代，美国CS Master申请困难重重，本文分享申请纪实与心得。</description>
+      <description>后疫情时代美国CS硕士申请困难重重，本文揭秘申请全过程。</description>
       <guid>https://halfrost.com/halfrost_2021/</guid>
     </item>
     <item>
       <title>下一个五年计划起航 ！</title>
       <link>https://halfrost.com/halfrost_2020/</link>
-      <description>五年计划启航，回顾2020疫情挑战与国家应对。</description>
+      <description>回顾2020，展望未来五年计划，共克时艰，共建美好未来。</description>
       <guid>https://halfrost.com/halfrost_2020/</guid>
     </item>
     <item>
       <title>面试中 LRU / LFU 的青铜与王者</title>
       <link>https://halfrost.com/lru_lfu_interview/</link>
-      <description>深入解析LRU和LFU缓存算法，面试必备！</description>
+      <description>解析LRU/LFU缓存淘汰算法，揭秘面试中的关键技巧。</description>
       <guid>https://halfrost.com/lru_lfu_interview/</guid>
+    </item>
+    <item>
+      <title>科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制</title>
+      <link>http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html</link>
+      <description>对我来说，博客首先是一种知识管理工具，其次才是传播工具。我的技术文章，主要用来整理我还不懂的知识。我只写那些我还没有完全掌握的东西，那些我精通的东西，往往没有动力写。炫耀从来不是我的动机，好奇才是。</description>
+      <guid>http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html</guid>
     </item>
     <item>
       <title>科技爱好者周刊（第 409 期）：程序员的职业未来</title>
@@ -126,10 +132,10 @@
       <guid>http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html</guid>
     </item>
     <item>
-      <title>科技爱好者周刊（第 407 期）：国家为什么需要开源软件？</title>
-      <link>http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html</link>
-      <description>对我来说，博客首先是一种知识管理工具，其次才是传播工具。我的技术文章，主要用来整理我还不懂的知识。我只写那些我还没有完全掌握的东西，那些我精通的东西，往往没有动力写。炫耀从来不是我的动机，好奇才是。</description>
-      <guid>http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html</guid>
+      <title>下坡路的走法</title>
+      <link>https://www.hecaitou.com/2026/08/the-art-of-walking-downhill.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/08/the-art-of-walking-downhill.html</guid>
     </item>
     <item>
       <title>面对系统</title>
@@ -142,12 +148,6 @@
       <link>https://www.hecaitou.com/2026/08/Cyber-Nostalgia.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/08/Cyber-Nostalgia.html</guid>
-    </item>
-    <item>
-      <title>当第一个Claude被授予了菩萨戒</title>
-      <link>https://www.hecaitou.com/2026/08/when-the-first-claude-was-bestowed-the-bodhisattva-vows.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/08/when-the-first-claude-was-bestowed-the-bodhisattva-vows.html</guid>
     </item>
     <item>
       <title>是微服务架构不香还是云不香？</title>
@@ -186,6 +186,12 @@
       <guid>http://blog.youxu.info/2021/11/01/after-fire/</guid>
     </item>
     <item>
+      <title>Latest post on Threads：2026.08.27</title>
+      <link>https://www.changhai.org/articles/miscellaneous/eblog/202605.php#latest</link>
+      <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
+      <guid>https://www.changhai.org/articles/miscellaneous/eblog/202605.php#latest</guid>
+    </item>
+    <item>
       <title>最新微博：2026 年 8 月 26 日</title>
       <link>https://www.changhai.org/articles/miscellaneous/blog/202607.php#latest</link>
       <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
@@ -196,12 +202,6 @@
       <link>https://www.changhai.org/articles/miscellaneous/misc/2026_Sweden.php</link>
       <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
       <guid>https://www.changhai.org/articles/miscellaneous/misc/2026_Sweden.php</guid>
-    </item>
-    <item>
-      <title>Latest post on Threads：2026.08.07</title>
-      <link>https://www.changhai.org/articles/miscellaneous/eblog/202605.php#latest</link>
-      <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
-      <guid>https://www.changhai.org/articles/miscellaneous/eblog/202605.php#latest</guid>
     </item>
     <item>
       <title>普通話版《Order of the Sinking Star》</title>
@@ -230,7 +230,7 @@
     <item>
       <title>动量的新理解：逼近特征层面的梯度下降</title>
       <link>https://spaces.ac.cn/archives/11875</link>
-      <description>探索动量新视角：不仅是梯度平均，更是在线回归解。</description>
+      <description>动量优化器新视角：不仅是梯度平均，更是在线回归解。</description>
       <guid>https://spaces.ac.cn/archives/11875</guid>
     </item>
     <item>
@@ -242,7 +242,7 @@
     <item>
       <title>除了交叉熵，LM Loss还有什么选择？</title>
       <link>https://spaces.ac.cn/archives/11854</link>
-      <description>探讨LLM预训练和微调中，除了交叉熵，还有哪些损失函数选择及其影响。</description>
+      <description>探讨LLM预训练中，除了交叉熵，还有哪些损失函数选择及其影响。</description>
       <guid>https://spaces.ac.cn/archives/11854</guid>
     </item>
     <item>
@@ -320,7 +320,7 @@
     <item>
       <title>苹果的电源</title>
       <link>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</link>
-      <description>Rod Holt因苹果电源设计闻名，被多次提及于乔布斯传记及相关书籍。</description>
+      <description>乔布斯赞颂电源设计大师Rod Holt，成就世界知名工程师。</description>
       <guid>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</guid>
     </item>
     <item>
@@ -332,7 +332,7 @@
     <item>
       <title>马代(2)</title>
       <link>https://lenciel.com/2026/06/maldives-2/</link>
-      <description>马代海面广阔，蓝洞和海岛划分区域，度假房静默见证潮起潮落。</description>
+      <description>马代海面广阔，蓝洞和海岛标定区域，度假房静默见证潮起潮落。</description>
       <guid>https://lenciel.com/2026/06/maldives-2/</guid>
     </item>
     <item>
@@ -446,19 +446,19 @@
     <item>
       <title>香港汇丰 Pulse 银联双币钻石信用卡</title>
       <link>https://battlele.com/hsbc-pulse/</link>
-      <description>香港汇丰Pulse银联卡7月大放水，内地用户可享多重优惠。</description>
+      <description>香港汇丰Pulse银联卡7月大放水，内地用户可享受多重优惠。</description>
       <guid>https://battlele.com/hsbc-pulse/</guid>
     </item>
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台之旅，品尝特色小吃，游览国清寺，享受悠闲假期。</description>
+      <description>天台游记：体验台州天台，品尝特色小吃，游览国清寺。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
       <title>舟山骑车游</title>
       <link>https://battlele.com/zhoushan-trip/</link>
-      <description>舟山群岛骑行，体验东海云廊美景与波音747大飞机。</description>
+      <description>舟山群岛骑行，环岛半程挑战，东海云廊看波音747。</description>
       <guid>https://battlele.com/zhoushan-trip/</guid>
     </item>
     <item>
@@ -500,19 +500,19 @@
     <item>
       <title>上庭（二）</title>
       <link>https://www.justzht.com/go-to-court-two/</link>
-      <description>律师A协助J处理小额法庭事宜，探讨庭外和解可能性。</description>
+      <description>J与保险公司律师协商小额法庭事宜，探讨庭外和解可能性。</description>
       <guid>https://www.justzht.com/go-to-court-two/</guid>
     </item>
     <item>
       <title>2026.8.20</title>
       <link>https://www.justzht.com/2026-8-20/</link>
-      <description>个人知识图谱实验，追踪兴趣事件，等待九月决定。</description>
+      <description>个人知识图谱实验追踪兴趣，催收进展与生活等待交织。</description>
       <guid>https://www.justzht.com/2026-8-20/</guid>
     </item>
     <item>
       <title>2026.8.18</title>
       <link>https://www.justzht.com/2026-8-18/</link>
-      <description>小额法庭判决对方赔偿，催收中，寄出全球邮票。</description>
+      <description>小额法庭胜诉，但赔偿远低于预期，催收阶段中。</description>
       <guid>https://www.justzht.com/2026-8-18/</guid>
     </item>
     <item>
