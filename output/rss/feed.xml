@@ -6,6 +6,12 @@
     <description>精选自 605 个中文博客 + GitHub 日榜</description>
     <language>zh-CN</language>
     <item>
+      <title>超级Web特性HTML-in-Canvas初体验</title>
+      <link>https://www.zhangxinxu.com/wordpress/2026/08/html-in-canvas/</link>
+      <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
+      <guid>https://www.zhangxinxu.com/wordpress/2026/08/html-in-canvas/</guid>
+    </item>
+    <item>
       <title>卧靠，这是好东西，CSS text-fit属性简介</title>
       <link>https://www.zhangxinxu.com/wordpress/2026/08/css-text-fit/</link>
       <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
@@ -16,12 +22,6 @@
       <link>https://www.zhangxinxu.com/wordpress/2026/08/js-math-sumprecise/</link>
       <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
       <guid>https://www.zhangxinxu.com/wordpress/2026/08/js-math-sumprecise/</guid>
-    </item>
-    <item>
-      <title>background-clip升级，支持边框或文字应用背景</title>
-      <link>https://www.zhangxinxu.com/wordpress/2026/08/background-clip-border-area-text/</link>
-      <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
-      <guid>https://www.zhangxinxu.com/wordpress/2026/08/background-clip-border-area-text/</guid>
     </item>
     <item>
       <title>看完凡人真人版！韩立的性格狠点+师傅阵容，越聊越燃</title>
@@ -98,19 +98,19 @@
     <item>
       <title>后疫情时代下美国 CS Master 申请纪实</title>
       <link>https://halfrost.com/halfrost_2021/</link>
-      <description>后疫情时代美国CS硕士申请困难重重，本文揭秘申请全过程。</description>
+      <description>后疫情时代美国CS硕士申请纪实，解析申请难题及择校策略。</description>
       <guid>https://halfrost.com/halfrost_2021/</guid>
     </item>
     <item>
       <title>下一个五年计划起航 ！</title>
       <link>https://halfrost.com/halfrost_2020/</link>
-      <description>回顾2020，展望未来五年计划，共克时艰，共建美好未来。</description>
+      <description>回顾2020，展望新五年计划，共抗疫情，建设火神山，见证中国力量。</description>
       <guid>https://halfrost.com/halfrost_2020/</guid>
     </item>
     <item>
       <title>面试中 LRU / LFU 的青铜与王者</title>
       <link>https://halfrost.com/lru_lfu_interview/</link>
-      <description>解析LRU/LFU缓存淘汰算法，揭秘面试中的关键技巧。</description>
+      <description>深入解析LRU和LFU缓存算法，揭秘面试中的关键点。</description>
       <guid>https://halfrost.com/lru_lfu_interview/</guid>
     </item>
     <item>
@@ -132,6 +132,12 @@
       <guid>http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html</guid>
     </item>
     <item>
+      <title>洗眼睛</title>
+      <link>https://www.hecaitou.com/2026/08/Washing-My-Eyes.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/08/Washing-My-Eyes.html</guid>
+    </item>
+    <item>
       <title>下坡路的走法</title>
       <link>https://www.hecaitou.com/2026/08/the-art-of-walking-downhill.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
@@ -142,12 +148,6 @@
       <link>https://www.hecaitou.com/2026/08/facing-the-system.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/08/facing-the-system.html</guid>
-    </item>
-    <item>
-      <title>赛博复古</title>
-      <link>https://www.hecaitou.com/2026/08/Cyber-Nostalgia.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/08/Cyber-Nostalgia.html</guid>
     </item>
     <item>
       <title>是微服务架构不香还是云不香？</title>
@@ -236,7 +236,7 @@
     <item>
       <title>流形上的最速下降：7. Stiefel的解析解</title>
       <link>https://spaces.ac.cn/archives/11864</link>
-      <description>Stiefel流形上最速下降问题解析解突破，显式解无需求解方程组。</description>
+      <description>Stiefel流形上最速下降问题解析解新突破。</description>
       <guid>https://spaces.ac.cn/archives/11864</guid>
     </item>
     <item>
@@ -320,7 +320,7 @@
     <item>
       <title>苹果的电源</title>
       <link>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</link>
-      <description>乔布斯赞颂电源设计大师Rod Holt，成就世界知名工程师。</description>
+      <description>Rod Holt因苹果电源设计而闻名，被乔布斯赞誉为电源设计界的传奇。</description>
       <guid>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</guid>
     </item>
     <item>
@@ -332,8 +332,14 @@
     <item>
       <title>马代(2)</title>
       <link>https://lenciel.com/2026/06/maldives-2/</link>
-      <description>马代海面广阔，蓝洞和海岛标定区域，度假房静默见证潮起潮落。</description>
+      <description>马代海面简单复制，蓝洞与海岛标定区域，度假房沉默宣誓包容。</description>
       <guid>https://lenciel.com/2026/06/maldives-2/</guid>
+    </item>
+    <item>
+      <title>那时候，贾母也才十来岁</title>
+      <link>https://kaix.in/2026/0829/</link>
+      <description>因多次更换 blog 程序，2004 年至今存留 548 篇日志，主要涉及咖啡、影音、阅读、生活记录等内容。</description>
+      <guid>https://kaix.in/2026/0829/</guid>
     </item>
     <item>
       <title>人不知而不愠</title>
@@ -346,12 +352,6 @@
       <link>https://kaix.in/2026/0824/</link>
       <description>因多次更换 blog 程序，2004 年至今存留 548 篇日志，主要涉及咖啡、影音、阅读、生活记录等内容。</description>
       <guid>https://kaix.in/2026/0824/</guid>
-    </item>
-    <item>
-      <title>什么是真正的痛苦</title>
-      <link>https://kaix.in/2026/0816/</link>
-      <description>因多次更换 blog 程序，2004 年至今存留 548 篇日志，主要涉及咖啡、影音、阅读、生活记录等内容。</description>
-      <guid>https://kaix.in/2026/0816/</guid>
     </item>
     <item>
       <title>2025 重新定义的生活</title>
@@ -446,19 +446,19 @@
     <item>
       <title>香港汇丰 Pulse 银联双币钻石信用卡</title>
       <link>https://battlele.com/hsbc-pulse/</link>
-      <description>香港汇丰Pulse银联卡7月大放水，内地用户可享受多重优惠。</description>
+      <description>香港汇丰Pulse银联卡7月大放水，内地用户也能轻松申请。</description>
       <guid>https://battlele.com/hsbc-pulse/</guid>
     </item>
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台游记：体验台州天台，品尝特色小吃，游览国清寺。</description>
+      <description>天台游记：品尝特色小吃，探访国清寺，享受悠闲假期。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
       <title>舟山骑车游</title>
       <link>https://battlele.com/zhoushan-trip/</link>
-      <description>舟山群岛骑行，环岛半程挑战，东海云廊看波音747。</description>
+      <description>舟山群岛骑行，环岛半程100多公里，体验海天佛国美景。</description>
       <guid>https://battlele.com/zhoushan-trip/</guid>
     </item>
     <item>
@@ -500,7 +500,7 @@
     <item>
       <title>上庭（二）</title>
       <link>https://www.justzht.com/go-to-court-two/</link>
-      <description>J与保险公司律师协商小额法庭事宜，探讨庭外和解可能性。</description>
+      <description>J收到保险公司律师电话，探讨小额法庭案件庭外和解。</description>
       <guid>https://www.justzht.com/go-to-court-two/</guid>
     </item>
     <item>
@@ -512,7 +512,7 @@
     <item>
       <title>2026.8.18</title>
       <link>https://www.justzht.com/2026-8-18/</link>
-      <description>小额法庭胜诉，但赔偿远低于预期，催收阶段中。</description>
+      <description>小额法庭判决获赔，催收阶段中。</description>
       <guid>https://www.justzht.com/2026-8-18/</guid>
     </item>
     <item>
