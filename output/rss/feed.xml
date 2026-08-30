@@ -98,19 +98,19 @@
     <item>
       <title>后疫情时代下美国 CS Master 申请纪实</title>
       <link>https://halfrost.com/halfrost_2021/</link>
-      <description>后疫情时代美国CS硕士申请纪实，解析申请难题及择校策略。</description>
+      <description>后疫情时代下美国 CS Master 申请纪实</description>
       <guid>https://halfrost.com/halfrost_2021/</guid>
     </item>
     <item>
       <title>下一个五年计划起航 ！</title>
       <link>https://halfrost.com/halfrost_2020/</link>
-      <description>回顾2020，展望新五年计划，共抗疫情，建设火神山，见证中国力量。</description>
+      <description>回顾2020，武汉抗疫，火神山雷神山奇迹诞生。</description>
       <guid>https://halfrost.com/halfrost_2020/</guid>
     </item>
     <item>
       <title>面试中 LRU / LFU 的青铜与王者</title>
       <link>https://halfrost.com/lru_lfu_interview/</link>
-      <description>深入解析LRU和LFU缓存算法，揭秘面试中的关键点。</description>
+      <description>解析LRU/LFU缓存算法，面试必备技巧。</description>
       <guid>https://halfrost.com/lru_lfu_interview/</guid>
     </item>
     <item>
@@ -186,16 +186,16 @@
       <guid>http://blog.youxu.info/2021/11/01/after-fire/</guid>
     </item>
     <item>
+      <title>最新微博：2026 年 8 月 29 日</title>
+      <link>https://www.changhai.org/articles/miscellaneous/blog/202607.php#latest</link>
+      <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
+      <guid>https://www.changhai.org/articles/miscellaneous/blog/202607.php#latest</guid>
+    </item>
+    <item>
       <title>Latest post on Threads：2026.08.27</title>
       <link>https://www.changhai.org/articles/miscellaneous/eblog/202605.php#latest</link>
       <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
       <guid>https://www.changhai.org/articles/miscellaneous/eblog/202605.php#latest</guid>
-    </item>
-    <item>
-      <title>最新微博：2026 年 8 月 26 日</title>
-      <link>https://www.changhai.org/articles/miscellaneous/blog/202607.php#latest</link>
-      <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
-      <guid>https://www.changhai.org/articles/miscellaneous/blog/202607.php#latest</guid>
     </item>
     <item>
       <title>二〇二六年瑞典散记</title>
@@ -230,19 +230,19 @@
     <item>
       <title>动量的新理解：逼近特征层面的梯度下降</title>
       <link>https://spaces.ac.cn/archives/11875</link>
-      <description>动量优化器新视角：不仅是梯度平均，更是在线回归解。</description>
+      <description>动量优化新视角：不仅是梯度平均，更是在线回归解。</description>
       <guid>https://spaces.ac.cn/archives/11875</guid>
     </item>
     <item>
       <title>流形上的最速下降：7. Stiefel的解析解</title>
       <link>https://spaces.ac.cn/archives/11864</link>
-      <description>Stiefel流形上最速下降问题解析解新突破。</description>
+      <description>Stiefel流形最速下降问题解析解突破，显式解无需求解方程组。</description>
       <guid>https://spaces.ac.cn/archives/11864</guid>
     </item>
     <item>
       <title>除了交叉熵，LM Loss还有什么选择？</title>
       <link>https://spaces.ac.cn/archives/11854</link>
-      <description>探讨LLM预训练中，除了交叉熵，还有哪些损失函数选择及其影响。</description>
+      <description>探讨LLM预训练和微调中，除交叉熵外，其他可能的损失函数选择及其影响。</description>
       <guid>https://spaces.ac.cn/archives/11854</guid>
     </item>
     <item>
@@ -320,7 +320,7 @@
     <item>
       <title>苹果的电源</title>
       <link>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</link>
-      <description>Rod Holt因苹果电源设计而闻名，被乔布斯赞誉为电源设计界的传奇。</description>
+      <description>Rod Holt，苹果电源设计工程师，因乔布斯传记而闻名。</description>
       <guid>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</guid>
     </item>
     <item>
@@ -332,7 +332,7 @@
     <item>
       <title>马代(2)</title>
       <link>https://lenciel.com/2026/06/maldives-2/</link>
-      <description>马代海面简单复制，蓝洞与海岛标定区域，度假房沉默宣誓包容。</description>
+      <description>马代海面广阔，蓝洞和海岛标定区域，度假房散布其间，静默见证潮起潮落。</description>
       <guid>https://lenciel.com/2026/06/maldives-2/</guid>
     </item>
     <item>
@@ -446,19 +446,19 @@
     <item>
       <title>香港汇丰 Pulse 银联双币钻石信用卡</title>
       <link>https://battlele.com/hsbc-pulse/</link>
-      <description>香港汇丰Pulse银联卡7月大放水，内地用户也能轻松申请。</description>
+      <description>香港汇丰Pulse银联卡7月大放水，内地用户可享优惠。</description>
       <guid>https://battlele.com/hsbc-pulse/</guid>
     </item>
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台游记：品尝特色小吃，探访国清寺，享受悠闲假期。</description>
+      <description>天台（tāi）游记</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
       <title>舟山骑车游</title>
       <link>https://battlele.com/zhoushan-trip/</link>
-      <description>舟山群岛骑行，环岛半程100多公里，体验海天佛国美景。</description>
+      <description>舟山群岛骑车游，体验东海云廊美景与波音747大飞机。</description>
       <guid>https://battlele.com/zhoushan-trip/</guid>
     </item>
     <item>
@@ -498,22 +498,22 @@
       <guid>https://s5s5.me/4292</guid>
     </item>
     <item>
+      <title>2026.8.29</title>
+      <link>https://www.justzht.com/2026-8-29/</link>
+      <description>一周平淡，重看电影，修相机，计划旅行。</description>
+      <guid>https://www.justzht.com/2026-8-29/</guid>
+    </item>
+    <item>
       <title>上庭（二）</title>
       <link>https://www.justzht.com/go-to-court-two/</link>
-      <description>J收到保险公司律师电话，探讨小额法庭案件庭外和解。</description>
+      <description>J与保险公司律师协商小额法庭事宜，探讨庭外和解的可能性。</description>
       <guid>https://www.justzht.com/go-to-court-two/</guid>
     </item>
     <item>
       <title>2026.8.20</title>
       <link>https://www.justzht.com/2026-8-20/</link>
-      <description>个人知识图谱实验追踪兴趣，催收进展与生活等待交织。</description>
+      <description>构建个人知识图谱，追踪兴趣事件，等待九月决策。</description>
       <guid>https://www.justzht.com/2026-8-20/</guid>
-    </item>
-    <item>
-      <title>2026.8.18</title>
-      <link>https://www.justzht.com/2026-8-18/</link>
-      <description>小额法庭判决获赔，催收阶段中。</description>
-      <guid>https://www.justzht.com/2026-8-18/</guid>
     </item>
     <item>
       <title>Introduction Finger</title>
