@@ -98,19 +98,19 @@
     <item>
       <title>后疫情时代下美国 CS Master 申请纪实</title>
       <link>https://halfrost.com/halfrost_2021/</link>
-      <description>后疫情时代下美国 CS Master 申请纪实</description>
+      <description>后疫情时代，美国CS Master申请困难重重，本文揭秘申请全过程。</description>
       <guid>https://halfrost.com/halfrost_2021/</guid>
     </item>
     <item>
       <title>下一个五年计划起航 ！</title>
       <link>https://halfrost.com/halfrost_2020/</link>
-      <description>回顾2020，武汉抗疫，火神山雷神山奇迹诞生。</description>
+      <description>五年计划新征程，共抗疫情，武汉火神山与雷神山见证中国速度。</description>
       <guid>https://halfrost.com/halfrost_2020/</guid>
     </item>
     <item>
       <title>面试中 LRU / LFU 的青铜与王者</title>
       <link>https://halfrost.com/lru_lfu_interview/</link>
-      <description>解析LRU/LFU缓存算法，面试必备技巧。</description>
+      <description>解析LRU和LFU缓存算法，揭秘面试难题。</description>
       <guid>https://halfrost.com/lru_lfu_interview/</guid>
     </item>
     <item>
@@ -132,6 +132,12 @@
       <guid>http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html</guid>
     </item>
     <item>
+      <title>老狗不跳崖</title>
+      <link>https://www.hecaitou.com/2026/08/old-dog-wont-leap-cliffs.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/08/old-dog-wont-leap-cliffs.html</guid>
+    </item>
+    <item>
       <title>洗眼睛</title>
       <link>https://www.hecaitou.com/2026/08/Washing-My-Eyes.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
@@ -142,12 +148,6 @@
       <link>https://www.hecaitou.com/2026/08/the-art-of-walking-downhill.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/08/the-art-of-walking-downhill.html</guid>
-    </item>
-    <item>
-      <title>面对系统</title>
-      <link>https://www.hecaitou.com/2026/08/facing-the-system.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/08/facing-the-system.html</guid>
     </item>
     <item>
       <title>是微服务架构不香还是云不香？</title>
@@ -186,16 +186,16 @@
       <guid>http://blog.youxu.info/2021/11/01/after-fire/</guid>
     </item>
     <item>
+      <title>Latest post on Threads：2026.08.30</title>
+      <link>https://www.changhai.org/articles/miscellaneous/eblog/202605.php#latest</link>
+      <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
+      <guid>https://www.changhai.org/articles/miscellaneous/eblog/202605.php#latest</guid>
+    </item>
+    <item>
       <title>最新微博：2026 年 8 月 29 日</title>
       <link>https://www.changhai.org/articles/miscellaneous/blog/202607.php#latest</link>
       <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
       <guid>https://www.changhai.org/articles/miscellaneous/blog/202607.php#latest</guid>
-    </item>
-    <item>
-      <title>Latest post on Threads：2026.08.27</title>
-      <link>https://www.changhai.org/articles/miscellaneous/eblog/202605.php#latest</link>
-      <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
-      <guid>https://www.changhai.org/articles/miscellaneous/eblog/202605.php#latest</guid>
     </item>
     <item>
       <title>二〇二六年瑞典散记</title>
@@ -210,6 +210,12 @@
       <guid>https://blog.yitianshijie.net/2026/08/11/order-of-the-sinking-star-to-be-dubbed-in-mandarin/</guid>
     </item>
     <item>
+      <title>用豆包搭一个写稿工作流</title>
+      <link>http://weiwuhui.com/11088.html</link>
+      <description>魏老师执教于上海交通大学媒体与传播学院，天奇创投基金管理合伙人。媒体行业的思考和见解，尽在魏老师。</description>
+      <guid>http://weiwuhui.com/11088.html</guid>
+    </item>
+    <item>
       <title>不分左右，75%的美国人恨上了AI的”肉身”</title>
       <link>http://weiwuhui.com/11084.html</link>
       <description>魏老师执教于上海交通大学媒体与传播学院，天奇创投基金管理合伙人。媒体行业的思考和见解，尽在魏老师。</description>
@@ -222,28 +228,22 @@
       <guid>http://weiwuhui.com/11081.html</guid>
     </item>
     <item>
-      <title>阿里赌AI 赌得比腾讯大</title>
-      <link>http://weiwuhui.com/11079.html</link>
-      <description>魏老师执教于上海交通大学媒体与传播学院，天奇创投基金管理合伙人。媒体行业的思考和见解，尽在魏老师。</description>
-      <guid>http://weiwuhui.com/11079.html</guid>
+      <title>让炼丹更科学一些（八）：多阶段训练的学习率</title>
+      <link>https://spaces.ac.cn/archives/11879</link>
+      <description>探讨多阶段训练学习率，优化调度目标，实现更科学炼丹。</description>
+      <guid>https://spaces.ac.cn/archives/11879</guid>
     </item>
     <item>
       <title>动量的新理解：逼近特征层面的梯度下降</title>
       <link>https://spaces.ac.cn/archives/11875</link>
-      <description>动量优化新视角：不仅是梯度平均，更是在线回归解。</description>
+      <description>动量优化器新视角：不仅是梯度平均，还是在线回归解。</description>
       <guid>https://spaces.ac.cn/archives/11875</guid>
     </item>
     <item>
       <title>流形上的最速下降：7. Stiefel的解析解</title>
       <link>https://spaces.ac.cn/archives/11864</link>
-      <description>Stiefel流形最速下降问题解析解突破，显式解无需求解方程组。</description>
+      <description>Stiefel流形上最速下降问题解析解突破，无需求解非线性方程组。</description>
       <guid>https://spaces.ac.cn/archives/11864</guid>
-    </item>
-    <item>
-      <title>除了交叉熵，LM Loss还有什么选择？</title>
-      <link>https://spaces.ac.cn/archives/11854</link>
-      <description>探讨LLM预训练和微调中，除交叉熵外，其他可能的损失函数选择及其影响。</description>
-      <guid>https://spaces.ac.cn/archives/11854</guid>
     </item>
     <item>
       <title>捷径</title>
@@ -318,9 +318,15 @@
       <guid>https://www.gtdstudy.com/posts/2026-07-27/</guid>
     </item>
     <item>
+      <title>徒然歌</title>
+      <link>https://lenciel.com/2026/08/useless-songs/</link>
+      <description>以《徒然草》为灵感，探讨歌的徒然之美。</description>
+      <guid>https://lenciel.com/2026/08/useless-songs/</guid>
+    </item>
+    <item>
       <title>苹果的电源</title>
       <link>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</link>
-      <description>Rod Holt，苹果电源设计工程师，因乔布斯传记而闻名。</description>
+      <description>乔布斯眼中的电源设计工程师Rod Holt，因苹果电源设计闻名。</description>
       <guid>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</guid>
     </item>
     <item>
@@ -328,12 +334,6 @@
       <link>https://lenciel.com/2026/07/nothing-gold-can-stay/</link>
       <description/>
       <guid>https://lenciel.com/2026/07/nothing-gold-can-stay/</guid>
-    </item>
-    <item>
-      <title>马代(2)</title>
-      <link>https://lenciel.com/2026/06/maldives-2/</link>
-      <description>马代海面广阔，蓝洞和海岛标定区域，度假房散布其间，静默见证潮起潮落。</description>
-      <guid>https://lenciel.com/2026/06/maldives-2/</guid>
     </item>
     <item>
       <title>那时候，贾母也才十来岁</title>
@@ -446,19 +446,19 @@
     <item>
       <title>香港汇丰 Pulse 银联双币钻石信用卡</title>
       <link>https://battlele.com/hsbc-pulse/</link>
-      <description>香港汇丰Pulse银联卡7月大放水，内地用户可享优惠。</description>
+      <description>香港汇丰Pulse银联卡7月大放水，申请流程及绑定技巧详解。</description>
       <guid>https://battlele.com/hsbc-pulse/</guid>
     </item>
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台（tāi）游记</description>
+      <description>天台游记：体验台州天台的美食与文化。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
       <title>舟山骑车游</title>
       <link>https://battlele.com/zhoushan-trip/</link>
-      <description>舟山群岛骑车游，体验东海云廊美景与波音747大飞机。</description>
+      <description>舟山骑车游</description>
       <guid>https://battlele.com/zhoushan-trip/</guid>
     </item>
     <item>
@@ -506,13 +506,13 @@
     <item>
       <title>上庭（二）</title>
       <link>https://www.justzht.com/go-to-court-two/</link>
-      <description>J与保险公司律师协商小额法庭事宜，探讨庭外和解的可能性。</description>
+      <description>J 与保险公司律师协商小额法庭事宜，探讨庭外和解可能性。</description>
       <guid>https://www.justzht.com/go-to-court-two/</guid>
     </item>
     <item>
       <title>2026.8.20</title>
       <link>https://www.justzht.com/2026-8-20/</link>
-      <description>构建个人知识图谱，追踪兴趣事件，等待九月决策。</description>
+      <description>个人知识图谱实验追踪兴趣，催收进展与生活等待交织。</description>
       <guid>https://www.justzht.com/2026-8-20/</guid>
     </item>
     <item>
