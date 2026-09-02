@@ -98,19 +98,19 @@
     <item>
       <title>后疫情时代下美国 CS Master 申请纪实</title>
       <link>https://halfrost.com/halfrost_2021/</link>
-      <description>后疫情时代，美国CS Master申请困难重重，本文分享申请心得。</description>
+      <description>后疫情时代，美国CS Master申请纪实，留学生面临重重困难。</description>
       <guid>https://halfrost.com/halfrost_2021/</guid>
     </item>
     <item>
       <title>下一个五年计划起航 ！</title>
       <link>https://halfrost.com/halfrost_2020/</link>
-      <description>下一个五年计划启航，回顾2020年疫情与基建奇迹。</description>
+      <description>回顾2020年疫情挑战，展望下一个五年计划征程。</description>
       <guid>https://halfrost.com/halfrost_2020/</guid>
     </item>
     <item>
       <title>面试中 LRU / LFU 的青铜与王者</title>
       <link>https://halfrost.com/lru_lfu_interview/</link>
-      <description>深入解析LRU/LFU缓存淘汰算法，面试必备！</description>
+      <description>解析LRU和LFU缓存算法，揭秘面试难题。</description>
       <guid>https://halfrost.com/lru_lfu_interview/</guid>
     </item>
     <item>
@@ -150,6 +150,24 @@
       <guid>https://www.hecaitou.com/2026/08/Washing-My-Eyes.html</guid>
     </item>
     <item>
+      <title>是微服务架构不香还是云不香？</title>
+      <link>https://coolshell.cn/articles/22422.html</link>
+      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
+      <guid>https://coolshell.cn/articles/22422.html</guid>
+    </item>
+    <item>
+      <title>我看ChatGPT: 为啥谷歌掉了千亿美金</title>
+      <link>https://coolshell.cn/articles/22398.html</link>
+      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
+      <guid>https://coolshell.cn/articles/22398.html</guid>
+    </item>
+    <item>
+      <title>聊聊 nostr 和 审查</title>
+      <link>https://coolshell.cn/articles/22367.html</link>
+      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
+      <guid>https://coolshell.cn/articles/22367.html</guid>
+    </item>
+    <item>
       <title>2016 年，我做过一次 AI 写代码创业</title>
       <link>http://blog.youxu.info/2026/01/14/ai-codes-retrospective/</link>
       <description>这个中文博客是我的思考记录，主要用来帮助我 debug/refactor 我的思想，但本人不对任何因为阅读造成的后果负责。</description>
@@ -168,16 +186,16 @@
       <guid>http://blog.youxu.info/2021/11/01/after-fire/</guid>
     </item>
     <item>
+      <title>最新微博：2026 年 9 月 1 日</title>
+      <link>https://www.changhai.org/articles/miscellaneous/blog/202609.php#latest</link>
+      <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
+      <guid>https://www.changhai.org/articles/miscellaneous/blog/202609.php#latest</guid>
+    </item>
+    <item>
       <title>Latest post on Threads：2026.08.30</title>
       <link>https://www.changhai.org/articles/miscellaneous/eblog/202605.php#latest</link>
       <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
       <guid>https://www.changhai.org/articles/miscellaneous/eblog/202605.php#latest</guid>
-    </item>
-    <item>
-      <title>最新微博：2026 年 8 月 29 日</title>
-      <link>https://www.changhai.org/articles/miscellaneous/blog/202607.php#latest</link>
-      <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
-      <guid>https://www.changhai.org/articles/miscellaneous/blog/202607.php#latest</guid>
     </item>
     <item>
       <title>二〇二六年瑞典散记</title>
@@ -212,19 +230,19 @@
     <item>
       <title>让炼丹更科学一些（八）：多阶段训练的学习率</title>
       <link>https://spaces.ac.cn/archives/11879</link>
-      <description>探讨多阶段训练中学习率调整，实现每个阶段接近最优。</description>
+      <description>探讨多阶段训练学习率，实现每个阶段接近最优。</description>
       <guid>https://spaces.ac.cn/archives/11879</guid>
     </item>
     <item>
       <title>动量的新理解：逼近特征层面的梯度下降</title>
       <link>https://spaces.ac.cn/archives/11875</link>
-      <description>动量优化器新视角：不仅是梯度平均，更是在线回归解。</description>
+      <description>探索动量优化器新视角，将其视为在线回归问题解。</description>
       <guid>https://spaces.ac.cn/archives/11875</guid>
     </item>
     <item>
       <title>流形上的最速下降：7. Stiefel的解析解</title>
       <link>https://spaces.ac.cn/archives/11864</link>
-      <description>Stiefel流形上最速下降问题解析解新突破。</description>
+      <description>Stiefel流形上最速下降解析解首次实现，无需求解非线性方程组。</description>
       <guid>https://spaces.ac.cn/archives/11864</guid>
     </item>
     <item>
@@ -300,22 +318,22 @@
       <guid>https://www.gtdstudy.com/posts/2026-07-27/</guid>
     </item>
     <item>
+      <title>Fragments 0x0001</title>
+      <link>https://lenciel.com/2026/09/fragments-0x0001/</link>
+      <description/>
+      <guid>https://lenciel.com/2026/09/fragments-0x0001/</guid>
+    </item>
+    <item>
       <title>徒然歌</title>
       <link>https://lenciel.com/2026/08/useless-songs/</link>
-      <description>《徒然歌》：探讨徒然之美，生活如歌。</description>
+      <description>以《徒然草》为灵感，探讨徒然之美。</description>
       <guid>https://lenciel.com/2026/08/useless-songs/</guid>
     </item>
     <item>
       <title>苹果的电源</title>
       <link>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</link>
-      <description>Rod Holt，苹果电源设计工程师，因乔布斯传记而闻名。</description>
+      <description>Rod Holt因苹果电源设计闻名，乔布斯传记中多次提及。</description>
       <guid>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</guid>
-    </item>
-    <item>
-      <title>彩云易散</title>
-      <link>https://lenciel.com/2026/07/nothing-gold-can-stay/</link>
-      <description/>
-      <guid>https://lenciel.com/2026/07/nothing-gold-can-stay/</guid>
     </item>
     <item>
       <title>那时候，贾母也才十来岁</title>
@@ -390,6 +408,12 @@
       <guid>https://www.edony.ink/why-does-left-come-before-right/</guid>
     </item>
     <item>
+      <title>No.604 虚拟货币简史（上）：坎坷来时路</title>
+      <link>https://liuyandong.com/archives/23946</link>
+      <description>这本是反抗美国政府通过的电信法的宣言。只是现在，有了更深的涵义，全球的政府几乎都已经把互联网管起来了。但是，我坚信，自由与民主终究会胜利，就像雅典那微如荧光的自由之火，历尽坎坷，终将照耀人类。我相信暴政终将灭亡，即使坎坷，即使曲折。</description>
+      <guid>https://liuyandong.com/archives/23946</guid>
+    </item>
+    <item>
       <title>我跟给我传教的基督徒的一些故事</title>
       <link>https://liuyandong.com/archives/23852</link>
       <description>这本是反抗美国政府通过的电信法的宣言。只是现在，有了更深的涵义，全球的政府几乎都已经把互联网管起来了。但是，我坚信，自由与民主终究会胜利，就像雅典那微如荧光的自由之火，历尽坎坷，终将照耀人类。我相信暴政终将灭亡，即使坎坷，即使曲折。</description>
@@ -400,12 +424,6 @@
       <link>https://liuyandong.com/archives/23800</link>
       <description>这本是反抗美国政府通过的电信法的宣言。只是现在，有了更深的涵义，全球的政府几乎都已经把互联网管起来了。但是，我坚信，自由与民主终究会胜利，就像雅典那微如荧光的自由之火，历尽坎坷，终将照耀人类。我相信暴政终将灭亡，即使坎坷，即使曲折。</description>
       <guid>https://liuyandong.com/archives/23800</guid>
-    </item>
-    <item>
-      <title>八十年代的六一儿童节</title>
-      <link>https://liuyandong.com/archives/23787</link>
-      <description>这本是反抗美国政府通过的电信法的宣言。只是现在，有了更深的涵义，全球的政府几乎都已经把互联网管起来了。但是，我坚信，自由与民主终究会胜利，就像雅典那微如荧光的自由之火，历尽坎坷，终将照耀人类。我相信暴政终将灭亡，即使坎坷，即使曲折。</description>
-      <guid>https://liuyandong.com/archives/23787</guid>
     </item>
     <item>
       <title>不安分的小宝宝</title>
@@ -428,19 +446,19 @@
     <item>
       <title>香港汇丰 Pulse 银联双币钻石信用卡</title>
       <link>https://battlele.com/hsbc-pulse/</link>
-      <description>香港汇丰Pulse银联卡七月大放水，申请流程及使用攻略详解。</description>
+      <description>香港汇丰Pulse银联卡7月大放水，内地用户可享Apple Pay绑定及多重礼遇。</description>
       <guid>https://battlele.com/hsbc-pulse/</guid>
     </item>
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台游记：体验当地美食，探访国清寺，享受悠闲假期。</description>
+      <description>天台游记：体验台州天台，品尝特色小吃，游览国清寺。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
       <title>舟山骑车游</title>
       <link>https://battlele.com/zhoushan-trip/</link>
-      <description>舟山群岛骑车游，体验海天佛国美景与波音747大飞机。</description>
+      <description>舟山群岛骑车游，体验海天佛国美景。</description>
       <guid>https://battlele.com/zhoushan-trip/</guid>
     </item>
     <item>
@@ -480,6 +498,12 @@
       <guid>https://s5s5.me/4292</guid>
     </item>
     <item>
+      <title>2026.8.31</title>
+      <link>https://www.justzht.com/2026-8-31/</link>
+      <description>周末开大车陪朋友收二手家具，意外发现车空调奇特的启动方式。</description>
+      <guid>https://www.justzht.com/2026-8-31/</guid>
+    </item>
+    <item>
       <title>2026.8.29</title>
       <link>https://www.justzht.com/2026-8-29/</link>
       <description>重看经典电影，修旧相机，计划长途自驾。</description>
@@ -488,14 +512,8 @@
     <item>
       <title>上庭（二）</title>
       <link>https://www.justzht.com/go-to-court-two/</link>
-      <description>J 与保险公司律师协商小额法庭案件，探讨庭外和解的可能性。</description>
+      <description>律师A受保险公司委托联系J协商小额法庭事宜，J对律师出庭表示疑惑。</description>
       <guid>https://www.justzht.com/go-to-court-two/</guid>
-    </item>
-    <item>
-      <title>2026.8.20</title>
-      <link>https://www.justzht.com/2026-8-20/</link>
-      <description>个人知识图谱实验追踪兴趣，催收进展与生活等待交织。</description>
-      <guid>https://www.justzht.com/2026-8-20/</guid>
     </item>
     <item>
       <title>Introduction Finger</title>
