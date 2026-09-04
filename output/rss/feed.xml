@@ -6,6 +6,12 @@
     <description>精选自 605 个中文博客 + GitHub 日榜</description>
     <language>zh-CN</language>
     <item>
+      <title>别再使用IndexedDB，大文件读写就用OPFS</title>
+      <link>https://www.zhangxinxu.com/wordpress/2026/09/indexdb-navigator-storage-getdirectory/</link>
+      <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
+      <guid>https://www.zhangxinxu.com/wordpress/2026/09/indexdb-navigator-storage-getdirectory/</guid>
+    </item>
+    <item>
       <title>超级Web特性HTML-in-Canvas初体验</title>
       <link>https://www.zhangxinxu.com/wordpress/2026/08/html-in-canvas/</link>
       <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
@@ -16,12 +22,6 @@
       <link>https://www.zhangxinxu.com/wordpress/2026/08/css-text-fit/</link>
       <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
       <guid>https://www.zhangxinxu.com/wordpress/2026/08/css-text-fit/</guid>
-    </item>
-    <item>
-      <title>还在reduce求和吗？该使用Math.sumPrecise()方法啦</title>
-      <link>https://www.zhangxinxu.com/wordpress/2026/08/js-math-sumprecise/</link>
-      <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
-      <guid>https://www.zhangxinxu.com/wordpress/2026/08/js-math-sumprecise/</guid>
     </item>
     <item>
       <title>看完凡人真人版！韩立的性格狠点+师傅阵容，越聊越燃</title>
@@ -98,20 +98,26 @@
     <item>
       <title>后疫情时代下美国 CS Master 申请纪实</title>
       <link>https://halfrost.com/halfrost_2021/</link>
-      <description>后疫情时代美国CS硕士申请困难重重，本文详细分享申请心得与经验。</description>
+      <description>后疫情时代美国CS硕士申请挑战与心得分享。</description>
       <guid>https://halfrost.com/halfrost_2021/</guid>
     </item>
     <item>
       <title>下一个五年计划起航 ！</title>
       <link>https://halfrost.com/halfrost_2020/</link>
-      <description>下一个五年计划启航，回顾2020年疫情与建设奇迹。</description>
+      <description>下一个五年计划启航，回顾2020疫情与基建奇迹。</description>
       <guid>https://halfrost.com/halfrost_2020/</guid>
     </item>
     <item>
       <title>面试中 LRU / LFU 的青铜与王者</title>
       <link>https://halfrost.com/lru_lfu_interview/</link>
-      <description>LRU与LFU缓存淘汰算法在面试中的重要性及实现细节。</description>
+      <description>剖析面试中LRU与LFU缓存算法的原理与实现。</description>
       <guid>https://halfrost.com/lru_lfu_interview/</guid>
+    </item>
+    <item>
+      <title>科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影</title>
+      <link>http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html</link>
+      <description>对我来说，博客首先是一种知识管理工具，其次才是传播工具。我的技术文章，主要用来整理我还不懂的知识。我只写那些我还没有完全掌握的东西，那些我精通的东西，往往没有动力写。炫耀从来不是我的动机，好奇才是。</description>
+      <guid>http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html</guid>
     </item>
     <item>
       <title>科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制</title>
@@ -124,12 +130,6 @@
       <link>http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html</link>
       <description>对我来说，博客首先是一种知识管理工具，其次才是传播工具。我的技术文章，主要用来整理我还不懂的知识。我只写那些我还没有完全掌握的东西，那些我精通的东西，往往没有动力写。炫耀从来不是我的动机，好奇才是。</description>
       <guid>http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html</guid>
-    </item>
-    <item>
-      <title>科技爱好者周刊（第 408 期）：你需要知道的 AI 缓存知识</title>
-      <link>http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html</link>
-      <description>对我来说，博客首先是一种知识管理工具，其次才是传播工具。我的技术文章，主要用来整理我还不懂的知识。我只写那些我还没有完全掌握的东西，那些我精通的东西，往往没有动力写。炫耀从来不是我的动机，好奇才是。</description>
-      <guid>http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html</guid>
     </item>
     <item>
       <title>一次优质离婚</title>
@@ -148,24 +148,6 @@
       <link>https://www.hecaitou.com/2026/08/the-tree-speaks.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/08/the-tree-speaks.html</guid>
-    </item>
-    <item>
-      <title>是微服务架构不香还是云不香？</title>
-      <link>https://coolshell.cn/articles/22422.html</link>
-      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
-      <guid>https://coolshell.cn/articles/22422.html</guid>
-    </item>
-    <item>
-      <title>我看ChatGPT: 为啥谷歌掉了千亿美金</title>
-      <link>https://coolshell.cn/articles/22398.html</link>
-      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
-      <guid>https://coolshell.cn/articles/22398.html</guid>
-    </item>
-    <item>
-      <title>聊聊 nostr 和 审查</title>
-      <link>https://coolshell.cn/articles/22367.html</link>
-      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
-      <guid>https://coolshell.cn/articles/22367.html</guid>
     </item>
     <item>
       <title>2016 年，我做过一次 AI 写代码创业</title>
@@ -204,12 +186,6 @@
       <guid>https://www.changhai.org/articles/miscellaneous/eblog/202605.php#latest</guid>
     </item>
     <item>
-      <title>普通話版《Order of the Sinking Star》</title>
-      <link>https://blog.yitianshijie.net/2026/08/11/order-of-the-sinking-star-to-be-dubbed-in-mandarin/</link>
-      <description>代表文章：《[李如一 | 论推荐之难](</description>
-      <guid>https://blog.yitianshijie.net/2026/08/11/order-of-the-sinking-star-to-be-dubbed-in-mandarin/</guid>
-    </item>
-    <item>
       <title>用豆包搭一个写稿工作流</title>
       <link>http://weiwuhui.com/11088.html</link>
       <description>魏老师执教于上海交通大学媒体与传播学院，天奇创投基金管理合伙人。媒体行业的思考和见解，尽在魏老师。</description>
@@ -230,19 +206,19 @@
     <item>
       <title>让炼丹更科学一些（八）：多阶段训练的学习率</title>
       <link>https://spaces.ac.cn/archives/11879</link>
-      <description>探讨多阶段训练中学习率优化策略，实现更科学的炼丹过程。</description>
+      <description>探讨多阶段训练中学习率调整，追求各阶段最优模型。</description>
       <guid>https://spaces.ac.cn/archives/11879</guid>
     </item>
     <item>
       <title>动量的新理解：逼近特征层面的梯度下降</title>
       <link>https://spaces.ac.cn/archives/11875</link>
-      <description>动量优化新视角：回归问题解的梯度下降。</description>
+      <description>探索动量新视角：动量不仅是梯度平均，更是在线回归解。</description>
       <guid>https://spaces.ac.cn/archives/11875</guid>
     </item>
     <item>
       <title>流形上的最速下降：7. Stiefel的解析解</title>
       <link>https://spaces.ac.cn/archives/11864</link>
-      <description>流形上的最速下降：7. Stiefel的解析解</description>
+      <description>Stiefel流形上最速下降解析解首次出现，突破传统求解难题。</description>
       <guid>https://spaces.ac.cn/archives/11864</guid>
     </item>
     <item>
@@ -318,6 +294,12 @@
       <guid>https://www.gtdstudy.com/posts/2026-07-27/</guid>
     </item>
     <item>
+      <title>fragments 0x0002</title>
+      <link>https://lenciel.com/2026/09/fragments-0x0002/</link>
+      <description/>
+      <guid>https://lenciel.com/2026/09/fragments-0x0002/</guid>
+    </item>
+    <item>
       <title>Fragments 0x0001</title>
       <link>https://lenciel.com/2026/09/fragments-0x0001/</link>
       <description/>
@@ -326,14 +308,8 @@
     <item>
       <title>徒然歌</title>
       <link>https://lenciel.com/2026/08/useless-songs/</link>
-      <description>《徒然歌》：从吉田兼好的《徒然草》中汲取灵感，探讨徒然之美。</description>
+      <description>《徒然歌》：探讨徒然之美，人生如歌。</description>
       <guid>https://lenciel.com/2026/08/useless-songs/</guid>
-    </item>
-    <item>
-      <title>苹果的电源</title>
-      <link>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</link>
-      <description>Rod Holt因苹果电源设计闻名，却未获乔布斯认可。</description>
-      <guid>https://lenciel.com/2026/07/the-power-supply-apple-did-not-invent/</guid>
     </item>
     <item>
       <title>那时候，贾母也才十来岁</title>
@@ -446,19 +422,19 @@
     <item>
       <title>折腾半天终于办下来了：0 元与免实体地址申请个体工商户营业执照</title>
       <link>https://battlele.com/individual-business-guide/</link>
-      <description>零成本免地址申请个体户营业执照，轻松解决管理费减免问题。</description>
+      <description>折腾半天终于办下来了：0 元与免实体地址申请个体工商户营业执照</description>
       <guid>https://battlele.com/individual-business-guide/</guid>
     </item>
     <item>
       <title>香港汇丰 Pulse 银联双币钻石信用卡</title>
       <link>https://battlele.com/hsbc-pulse/</link>
-      <description>香港汇丰Pulse银联卡7月大放水，申请流程及使用攻略全解析。</description>
+      <description>香港汇丰Pulse银联卡七月份大放水，快速申请流程解析。</description>
       <guid>https://battlele.com/hsbc-pulse/</guid>
     </item>
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台游记：体验台州美食与国清寺古韵。</description>
+      <description>天台之旅，品尝特色小吃，游览国清寺，享受悠闲假期。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
@@ -500,38 +476,38 @@
     <item>
       <title>2026.8.31</title>
       <link>https://www.justzht.com/2026-8-31/</link>
-      <description>周末开大车陪朋友收二手家具，意外发现车空调奇特的启动方式。</description>
+      <description>周六开车带朋友收二手家具，意外发现车空调故障的奇趣经历。</description>
       <guid>https://www.justzht.com/2026-8-31/</guid>
     </item>
     <item>
       <title>2026.8.29</title>
       <link>https://www.justzht.com/2026-8-29/</link>
-      <description>一周平淡，重看电影，修相机，计划旅行。</description>
+      <description>重看经典电影，修旧相机，计划长途自驾。</description>
       <guid>https://www.justzht.com/2026-8-29/</guid>
     </item>
     <item>
       <title>上庭（二）</title>
       <link>https://www.justzht.com/go-to-court-two/</link>
-      <description>J与保险公司律师协商小额法庭事宜，探讨庭外和解的可能性。</description>
+      <description>律师A受保险公司指派协助J处理小额法庭事宜，探讨庭外和解可能性。</description>
       <guid>https://www.justzht.com/go-to-court-two/</guid>
     </item>
     <item>
-      <title>Deploying LiteLLM on Kubernetes</title>
-      <link>https://www.bboy.app/2026/09/02/deploying-litellm-on-kubernetes/</link>
+      <title>Blog Theme Update Easier-to-Read Articles and Code Blocks</title>
+      <link>https://www.bboy.app/2026/09/03/blog-theme-update-easier-to-read-articles-and-code-blocks/</link>
       <description>描述：一个分享个人见解、关注项目更新和技术文章的博客。</description>
-      <guid>https://www.bboy.app/2026/09/02/deploying-litellm-on-kubernetes/</guid>
+      <guid>https://www.bboy.app/2026/09/03/blog-theme-update-easier-to-read-articles-and-code-blocks/</guid>
     </item>
     <item>
-      <title>在Kubernetes中部署LiteLLM</title>
-      <link>https://www.bboy.app/2026/09/02/%E5%9C%A8kubernetes%E4%B8%AD%E9%83%A8%E7%BD%B2litellm/</link>
+      <title>博客主题更新：更好读的文章页和代码块</title>
+      <link>https://www.bboy.app/2026/09/03/%E5%8D%9A%E5%AE%A2%E4%B8%BB%E9%A2%98%E6%9B%B4%E6%96%B0%E6%9B%B4%E5%A5%BD%E8%AF%BB%E7%9A%84%E6%96%87%E7%AB%A0%E9%A1%B5%E5%92%8C%E4%BB%A3%E7%A0%81%E5%9D%97/</link>
       <description>描述：一个分享个人见解、关注项目更新和技术文章的博客。</description>
-      <guid>https://www.bboy.app/2026/09/02/%E5%9C%A8kubernetes%E4%B8%AD%E9%83%A8%E7%BD%B2litellm/</guid>
+      <guid>https://www.bboy.app/2026/09/03/%E5%8D%9A%E5%AE%A2%E4%B8%BB%E9%A2%98%E6%9B%B4%E6%96%B0%E6%9B%B4%E5%A5%BD%E8%AF%BB%E7%9A%84%E6%96%87%E7%AB%A0%E9%A1%B5%E5%92%8C%E4%BB%A3%E7%A0%81%E5%9D%97/</guid>
     </item>
     <item>
-      <title>20260902的胡言乱语</title>
-      <link>https://www.bboy.app/2026/09/02/20260902%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/</link>
+      <title>Building a Personal Manga Library with Komga</title>
+      <link>https://www.bboy.app/2026/09/03/building-a-personal-manga-library-with-komga/</link>
       <description>描述：一个分享个人见解、关注项目更新和技术文章的博客。</description>
-      <guid>https://www.bboy.app/2026/09/02/20260902%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/</guid>
+      <guid>https://www.bboy.app/2026/09/03/building-a-personal-manga-library-with-komga/</guid>
     </item>
     <item>
       <title>SSG 预渲染工具站 SEO 优化实践：从零收录到全面修复的 7 个问题</title>
