@@ -98,19 +98,19 @@
     <item>
       <title>后疫情时代下美国 CS Master 申请纪实</title>
       <link>https://halfrost.com/halfrost_2021/</link>
-      <description>后疫情时代美国CS硕士申请挑战与心得分享。</description>
+      <description>后疫情时代，美国CS Master申请路漫漫，本文分享申请全攻略。</description>
       <guid>https://halfrost.com/halfrost_2021/</guid>
     </item>
     <item>
       <title>下一个五年计划起航 ！</title>
       <link>https://halfrost.com/halfrost_2020/</link>
-      <description>下一个五年计划启航，回顾2020疫情与基建奇迹。</description>
+      <description>五年计划启航，回顾2020疫情挑战与基建奇迹。</description>
       <guid>https://halfrost.com/halfrost_2020/</guid>
     </item>
     <item>
       <title>面试中 LRU / LFU 的青铜与王者</title>
       <link>https://halfrost.com/lru_lfu_interview/</link>
-      <description>剖析面试中LRU与LFU缓存算法的原理与实现。</description>
+      <description>解析LRU/LFU缓存淘汰算法，面试必备。</description>
       <guid>https://halfrost.com/lru_lfu_interview/</guid>
     </item>
     <item>
@@ -132,6 +132,12 @@
       <guid>http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html</guid>
     </item>
     <item>
+      <title>记一次疯狂的盲狙</title>
+      <link>https://www.hecaitou.com/2026/09/one-crazy-blind-buy.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/09/one-crazy-blind-buy.html</guid>
+    </item>
+    <item>
       <title>一次优质离婚</title>
       <link>https://www.hecaitou.com/2026/09/a-meaningful-divorce.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
@@ -144,10 +150,22 @@
       <guid>https://www.hecaitou.com/2026/09/life-through-the-lens-of-grade-school-arithmetic.html</guid>
     </item>
     <item>
-      <title>树说话</title>
-      <link>https://www.hecaitou.com/2026/08/the-tree-speaks.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/08/the-tree-speaks.html</guid>
+      <title>是微服务架构不香还是云不香？</title>
+      <link>https://coolshell.cn/articles/22422.html</link>
+      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
+      <guid>https://coolshell.cn/articles/22422.html</guid>
+    </item>
+    <item>
+      <title>我看ChatGPT: 为啥谷歌掉了千亿美金</title>
+      <link>https://coolshell.cn/articles/22398.html</link>
+      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
+      <guid>https://coolshell.cn/articles/22398.html</guid>
+    </item>
+    <item>
+      <title>聊聊 nostr 和 审查</title>
+      <link>https://coolshell.cn/articles/22367.html</link>
+      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
+      <guid>https://coolshell.cn/articles/22367.html</guid>
     </item>
     <item>
       <title>2016 年，我做过一次 AI 写代码创业</title>
@@ -168,57 +186,57 @@
       <guid>http://blog.youxu.info/2021/11/01/after-fire/</guid>
     </item>
     <item>
+      <title>Latest post on Threads：2026.09.04</title>
+      <link>https://www.changhai.org/articles/miscellaneous/eblog/202609.php#latest</link>
+      <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
+      <guid>https://www.changhai.org/articles/miscellaneous/eblog/202609.php#latest</guid>
+    </item>
+    <item>
+      <title>最新微博：2026 年 9 月 4 日</title>
+      <link>https://www.changhai.org/articles/miscellaneous/blog/202609.php#latest</link>
+      <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
+      <guid>https://www.changhai.org/articles/miscellaneous/blog/202609.php#latest</guid>
+    </item>
+    <item>
       <title>Posts on Threads (2026.05 - 2026.08)</title>
       <link>https://www.changhai.org/articles/miscellaneous/eblog/202605.php</link>
       <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
       <guid>https://www.changhai.org/articles/miscellaneous/eblog/202605.php</guid>
     </item>
     <item>
-      <title>最新微博：2026 年 9 月 1 日</title>
-      <link>https://www.changhai.org/articles/miscellaneous/blog/202609.php#latest</link>
-      <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
-      <guid>https://www.changhai.org/articles/miscellaneous/blog/202609.php#latest</guid>
-    </item>
-    <item>
-      <title>Latest post on Threads：2026.08.30</title>
-      <link>https://www.changhai.org/articles/miscellaneous/eblog/202605.php#latest</link>
-      <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
-      <guid>https://www.changhai.org/articles/miscellaneous/eblog/202605.php#latest</guid>
-    </item>
-    <item>
-      <title>用豆包搭一个写稿工作流</title>
-      <link>http://weiwuhui.com/11088.html</link>
+      <title>联邦制公司的黄昏</title>
+      <link>http://weiwuhui.com/11090.html</link>
       <description>魏老师执教于上海交通大学媒体与传播学院，天奇创投基金管理合伙人。媒体行业的思考和见解，尽在魏老师。</description>
-      <guid>http://weiwuhui.com/11088.html</guid>
+      <guid>http://weiwuhui.com/11090.html</guid>
     </item>
     <item>
-      <title>不分左右，75%的美国人恨上了AI的”肉身”</title>
-      <link>http://weiwuhui.com/11084.html</link>
+      <title>搞了个牛来模型的智谱 营收大涨400% 真牛来了？</title>
+      <link>http://weiwuhui.com/11092.html</link>
       <description>魏老师执教于上海交通大学媒体与传播学院，天奇创投基金管理合伙人。媒体行业的思考和见解，尽在魏老师。</description>
-      <guid>http://weiwuhui.com/11084.html</guid>
+      <guid>http://weiwuhui.com/11092.html</guid>
     </item>
     <item>
-      <title>谁在断章取义张丹丹 断了什么章取了什么义</title>
-      <link>http://weiwuhui.com/11081.html</link>
+      <title>艺术家与创新者乔布斯 工程师与制度者库克</title>
+      <link>http://weiwuhui.com/11094.html</link>
       <description>魏老师执教于上海交通大学媒体与传播学院，天奇创投基金管理合伙人。媒体行业的思考和见解，尽在魏老师。</description>
-      <guid>http://weiwuhui.com/11081.html</guid>
+      <guid>http://weiwuhui.com/11094.html</guid>
     </item>
     <item>
       <title>让炼丹更科学一些（八）：多阶段训练的学习率</title>
       <link>https://spaces.ac.cn/archives/11879</link>
-      <description>探讨多阶段训练中学习率调整，追求各阶段最优模型。</description>
+      <description>探讨多阶段训练学习率，优化调度目标，实现更科学炼丹。</description>
       <guid>https://spaces.ac.cn/archives/11879</guid>
     </item>
     <item>
       <title>动量的新理解：逼近特征层面的梯度下降</title>
       <link>https://spaces.ac.cn/archives/11875</link>
-      <description>探索动量新视角：动量不仅是梯度平均，更是在线回归解。</description>
+      <description>动量优化器新视角：不仅是梯度平均，更是在线回归解。</description>
       <guid>https://spaces.ac.cn/archives/11875</guid>
     </item>
     <item>
       <title>流形上的最速下降：7. Stiefel的解析解</title>
       <link>https://spaces.ac.cn/archives/11864</link>
-      <description>Stiefel流形上最速下降解析解首次出现，突破传统求解难题。</description>
+      <description>Stiefel流形最速下降问题解析解突破，显式解无需求解非线性方程组。</description>
       <guid>https://spaces.ac.cn/archives/11864</guid>
     </item>
     <item>
@@ -308,7 +326,7 @@
     <item>
       <title>徒然歌</title>
       <link>https://lenciel.com/2026/08/useless-songs/</link>
-      <description>《徒然歌》：探讨徒然之美，人生如歌。</description>
+      <description>《徒然歌》：吉田兼好《徒然草》启发，探讨徒然之美。</description>
       <guid>https://lenciel.com/2026/08/useless-songs/</guid>
     </item>
     <item>
@@ -422,19 +440,19 @@
     <item>
       <title>折腾半天终于办下来了：0 元与免实体地址申请个体工商户营业执照</title>
       <link>https://battlele.com/individual-business-guide/</link>
-      <description>折腾半天终于办下来了：0 元与免实体地址申请个体工商户营业执照</description>
+      <description>零成本免地址，轻松申请个体户营业执照。</description>
       <guid>https://battlele.com/individual-business-guide/</guid>
     </item>
     <item>
       <title>香港汇丰 Pulse 银联双币钻石信用卡</title>
       <link>https://battlele.com/hsbc-pulse/</link>
-      <description>香港汇丰Pulse银联卡七月份大放水，快速申请流程解析。</description>
+      <description>香港汇丰Pulse银联卡7月大放水，内地用户可享优惠。</description>
       <guid>https://battlele.com/hsbc-pulse/</guid>
     </item>
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台之旅，品尝特色小吃，游览国清寺，享受悠闲假期。</description>
+      <description>天台游记：体验当地美食与国清寺文化。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
@@ -476,19 +494,19 @@
     <item>
       <title>2026.8.31</title>
       <link>https://www.justzht.com/2026-8-31/</link>
-      <description>周六开车带朋友收二手家具，意外发现车空调故障的奇趣经历。</description>
+      <description>周末开大车帮朋友收二手家具，意外发现车空调的奇怪问题。</description>
       <guid>https://www.justzht.com/2026-8-31/</guid>
     </item>
     <item>
       <title>2026.8.29</title>
       <link>https://www.justzht.com/2026-8-29/</link>
-      <description>重看经典电影，修旧相机，计划长途自驾。</description>
+      <description>一周平淡，重看电影，修相机，计划旅行。</description>
       <guid>https://www.justzht.com/2026-8-29/</guid>
     </item>
     <item>
       <title>上庭（二）</title>
       <link>https://www.justzht.com/go-to-court-two/</link>
-      <description>律师A受保险公司指派协助J处理小额法庭事宜，探讨庭外和解可能性。</description>
+      <description>律师与J协商小额法庭案件，探讨庭外和解的可能性。</description>
       <guid>https://www.justzht.com/go-to-court-two/</guid>
     </item>
     <item>
@@ -510,22 +528,22 @@
       <guid>https://www.bboy.app/2026/09/03/building-a-personal-manga-library-with-komga/</guid>
     </item>
     <item>
+      <title>【每日一面】浏览器渲染机制：重绘与回流</title>
+      <link>https://iachieveall.com/archives/mei-ri-yi-mian-liu-lan-qi-xuan-ran-ji-zhi-chong-hui-yu-hui-liu</link>
+      <description>创作初衷：交流高质量技术，分享实战经验、面试指南，帮助阅读我的博客的人少走弯路，和技术同好共同探索。</description>
+      <guid>https://iachieveall.com/archives/mei-ri-yi-mian-liu-lan-qi-xuan-ran-ji-zhi-chong-hui-yu-hui-liu</guid>
+    </item>
+    <item>
+      <title>【每日一面】事件循环机制</title>
+      <link>https://iachieveall.com/archives/mei-ri-yi-mian-shi-jian-xun-huan-ji-zhi</link>
+      <description>创作初衷：交流高质量技术，分享实战经验、面试指南，帮助阅读我的博客的人少走弯路，和技术同好共同探索。</description>
+      <guid>https://iachieveall.com/archives/mei-ri-yi-mian-shi-jian-xun-huan-ji-zhi</guid>
+    </item>
+    <item>
       <title>SSG 预渲染工具站 SEO 优化实践：从零收录到全面修复的 7 个问题</title>
       <link>https://iachieveall.com/archives/ssg-yu-xuan-ran-gong-ju-zhan-seo-you-hua-shi-jian-cong-ling-shou-lu-dao-quan-mian-xiu-fu-de-7-ge-wen-ti</link>
       <description>创作初衷：交流高质量技术，分享实战经验、面试指南，帮助阅读我的博客的人少走弯路，和技术同好共同探索。</description>
       <guid>https://iachieveall.com/archives/ssg-yu-xuan-ran-gong-ju-zhan-seo-you-hua-shi-jian-cong-ling-shou-lu-dao-quan-mian-xiu-fu-de-7-ge-wen-ti</guid>
-    </item>
-    <item>
-      <title>从 Prompt 开始的 AI 之旅</title>
-      <link>https://iachieveall.com/archives/cong-prompt-kai-shi-de-ai-zhi-lu</link>
-      <description>创作初衷：交流高质量技术，分享实战经验、面试指南，帮助阅读我的博客的人少走弯路，和技术同好共同探索。</description>
-      <guid>https://iachieveall.com/archives/cong-prompt-kai-shi-de-ai-zhi-lu</guid>
-    </item>
-    <item>
-      <title>AI 时代，我为什么还要写一个自己的工具箱</title>
-      <link>https://iachieveall.com/archives/ai-shi-dai-wo-wei-shi-me-huan-yao-xie-yi-ge-zi-ji-de-gong-ju-xiang</link>
-      <description>创作初衷：交流高质量技术，分享实战经验、面试指南，帮助阅读我的博客的人少走弯路，和技术同好共同探索。</description>
-      <guid>https://iachieveall.com/archives/ai-shi-dai-wo-wei-shi-me-huan-yao-xie-yi-ge-zi-ji-de-gong-ju-xiang</guid>
     </item>
   </channel>
 </rss>
