@@ -96,24 +96,6 @@
       <guid>https://zelikk.blogspot.com/2026/08/blogger-blogspot-blogsearch-widget-title-null.html</guid>
     </item>
     <item>
-      <title>后疫情时代下美国 CS Master 申请纪实</title>
-      <link>https://halfrost.com/halfrost_2021/</link>
-      <description>后疫情时代美国CS硕士申请挑战与心得分享。</description>
-      <guid>https://halfrost.com/halfrost_2021/</guid>
-    </item>
-    <item>
-      <title>下一个五年计划起航 ！</title>
-      <link>https://halfrost.com/halfrost_2020/</link>
-      <description>回顾2020，武汉抗疫，火神雷神山，共克时艰。</description>
-      <guid>https://halfrost.com/halfrost_2020/</guid>
-    </item>
-    <item>
-      <title>面试中 LRU / LFU 的青铜与王者</title>
-      <link>https://halfrost.com/lru_lfu_interview/</link>
-      <description>解析LRU和LFU缓存算法，揭秘面试难题。</description>
-      <guid>https://halfrost.com/lru_lfu_interview/</guid>
-    </item>
-    <item>
       <title>科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影</title>
       <link>http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html</link>
       <description>对我来说，博客首先是一种知识管理工具，其次才是传播工具。我的技术文章，主要用来整理我还不懂的知识。我只写那些我还没有完全掌握的东西，那些我精通的东西，往往没有动力写。炫耀从来不是我的动机，好奇才是。</description>
@@ -186,22 +168,22 @@
       <guid>http://blog.youxu.info/2021/11/01/after-fire/</guid>
     </item>
     <item>
-      <title>Latest post on Threads：2026.09.04</title>
-      <link>https://www.changhai.org/articles/miscellaneous/eblog/202609.php#latest</link>
+      <title>微言小义 (2026.07 - 2026.08)</title>
+      <link>https://www.changhai.org/articles/miscellaneous/blog/202607.php</link>
       <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
-      <guid>https://www.changhai.org/articles/miscellaneous/eblog/202609.php#latest</guid>
+      <guid>https://www.changhai.org/articles/miscellaneous/blog/202607.php</guid>
     </item>
     <item>
-      <title>最新微博：2026 年 9 月 4 日</title>
+      <title>最新微博：2026 年 9 月 6 日</title>
       <link>https://www.changhai.org/articles/miscellaneous/blog/202609.php#latest</link>
       <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
       <guid>https://www.changhai.org/articles/miscellaneous/blog/202609.php#latest</guid>
     </item>
     <item>
-      <title>Posts on Threads (2026.05 - 2026.08)</title>
-      <link>https://www.changhai.org/articles/miscellaneous/eblog/202605.php</link>
+      <title>Latest post on Threads：2026.09.04</title>
+      <link>https://www.changhai.org/articles/miscellaneous/eblog/202609.php#latest</link>
       <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
-      <guid>https://www.changhai.org/articles/miscellaneous/eblog/202605.php</guid>
+      <guid>https://www.changhai.org/articles/miscellaneous/eblog/202609.php#latest</guid>
     </item>
     <item>
       <title>联邦制公司的黄昏</title>
@@ -224,7 +206,7 @@
     <item>
       <title>让炼丹更科学一些（九）：经典自适应梯度算法</title>
       <link>https://spaces.ac.cn/archives/11882</link>
-      <description>回顾经典AdaGrad论文，探讨自适应梯度算法发展。</description>
+      <description>回顾经典AdaGrad论文，深入探讨自适应梯度算法发展。</description>
       <guid>https://spaces.ac.cn/archives/11882</guid>
     </item>
     <item>
@@ -236,7 +218,7 @@
     <item>
       <title>动量的新理解：逼近特征层面的梯度下降</title>
       <link>https://spaces.ac.cn/archives/11875</link>
-      <description>动量优化器新视角：不仅是梯度平均，更是在线回归解。</description>
+      <description>探索动量作为在线回归问题解的新视角。</description>
       <guid>https://spaces.ac.cn/archives/11875</guid>
     </item>
     <item>
@@ -314,7 +296,7 @@
     <item>
       <title>Fragments 0x0003</title>
       <link>https://lenciel.com/2026/09/fragments-0x0003/</link>
-      <description>组织为发展不择手段，AI时代战争与权力交织。</description>
+      <description>组织为发展不择手段，AI发展引发焦虑，谁在背后获益？</description>
       <guid>https://lenciel.com/2026/09/fragments-0x0003/</guid>
     </item>
     <item>
@@ -440,19 +422,19 @@
     <item>
       <title>折腾半天终于办下来了：0 元与免实体地址申请个体工商户营业执照</title>
       <link>https://battlele.com/individual-business-guide/</link>
-      <description>零成本免地址，轻松申请个体户营业执照。</description>
+      <description>0元免地址申请个体户执照，轻松搞定流程攻略。</description>
       <guid>https://battlele.com/individual-business-guide/</guid>
     </item>
     <item>
       <title>香港汇丰 Pulse 银联双币钻石信用卡</title>
       <link>https://battlele.com/hsbc-pulse/</link>
-      <description>香港汇丰Pulse银联卡七月大放水，内地用户可通过指定热线绑定Apple Pay。</description>
+      <description>香港汇丰Pulse银联卡7月大放水，内地用户可享优惠。</description>
       <guid>https://battlele.com/hsbc-pulse/</guid>
     </item>
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台之旅，体验地道的台州美食与文化。</description>
+      <description>天台游记：体验台州天台，品尝特色小吃，游览国清寺。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
@@ -462,16 +444,16 @@
       <guid>https://jdhao.github.io/about/</guid>
     </item>
     <item>
-      <title>Spell Checking for Your Projects</title>
-      <link>https://jdhao.github.io/2026/08/18/spell_check_tools_for_your_project/</link>
+      <title>Opentelemetry Trace Sampling in Action</title>
+      <link>https://jdhao.github.io/2026/09/06/opentelemetry-tracing-part4/</link>
       <description>编程; Nvim; 生活; 读书; 思考。</description>
-      <guid>https://jdhao.github.io/2026/08/18/spell_check_tools_for_your_project/</guid>
+      <guid>https://jdhao.github.io/2026/09/06/opentelemetry-tracing-part4/</guid>
     </item>
     <item>
-      <title>Guide on Exporting Opentelemetry Traces to GCP</title>
-      <link>https://jdhao.github.io/2026/08/12/opentelemetry-tracing-part2/</link>
+      <title>Opentelemetry Tracing Integration for GCP Logging</title>
+      <link>https://jdhao.github.io/2026/09/06/opentelemetry-tracing-part3/</link>
       <description>编程; Nvim; 生活; 读书; 思考。</description>
-      <guid>https://jdhao.github.io/2026/08/12/opentelemetry-tracing-part2/</guid>
+      <guid>https://jdhao.github.io/2026/09/06/opentelemetry-tracing-part3/</guid>
     </item>
     <item>
       <title>我的 Blog 改版了, 重回网页设计的黄金时代, 像素化!</title>
@@ -492,22 +474,22 @@
       <guid>https://s5s5.me/4292</guid>
     </item>
     <item>
+      <title>2026.9.6</title>
+      <link>https://www.justzht.com/2026-9-6/</link>
+      <description>Playdate版Epoch游戏优化，探索帝国衰落背景下的太空冒险。</description>
+      <guid>https://www.justzht.com/2026-9-6/</guid>
+    </item>
+    <item>
       <title>2026.8.31</title>
       <link>https://www.justzht.com/2026-8-31/</link>
-      <description>周末开大车陪朋友收二手家具，意外发现车空调需踢动才能工作。</description>
+      <description>周六开大车陪搬家具，意外发现车空调奇特的启动方式。</description>
       <guid>https://www.justzht.com/2026-8-31/</guid>
     </item>
     <item>
       <title>2026.8.29</title>
       <link>https://www.justzht.com/2026-8-29/</link>
-      <description>一周平淡，忙于观影与摄影器材维护。</description>
+      <description>一周平淡，重看电影，修复相机，计划出行。</description>
       <guid>https://www.justzht.com/2026-8-29/</guid>
-    </item>
-    <item>
-      <title>上庭（二）</title>
-      <link>https://www.justzht.com/go-to-court-two/</link>
-      <description>J与保险公司律师协商小额法庭事宜，探讨庭外和解的可能性。</description>
-      <guid>https://www.justzht.com/go-to-court-two/</guid>
     </item>
     <item>
       <title>Blog Theme Update Easier-to-Read Articles and Code Blocks</title>
