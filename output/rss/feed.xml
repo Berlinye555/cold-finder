@@ -42,6 +42,12 @@
       <guid>https://www.xiaoyuzhoufm.com/episode/68c6d2e22c82c9dcca527114?utm_source=rss</guid>
     </item>
     <item>
+      <title>当 Mac mini 的价格不再 mini - 肘子的 Swift 周报 #152</title>
+      <link>https://fatbobman.com/zh/weekly/issue-152/</link>
+      <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
+      <guid>https://fatbobman.com/zh/weekly/issue-152/</guid>
+    </item>
+    <item>
       <title>SwiftData：优化从建模开始</title>
       <link>https://fatbobman.com/zh/posts/swiftdata-optimization-starts-with-modeling/</link>
       <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
@@ -54,10 +60,10 @@
       <guid>https://fatbobman.com/zh/weekly/issue-151/</guid>
     </item>
     <item>
-      <title>从使用 AI 到委托 AI（下）：我想要的可委托性</title>
-      <link>https://fatbobman.com/zh/posts/from-using-ai-to-delegating-work-to-ai-2/</link>
-      <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
-      <guid>https://fatbobman.com/zh/posts/from-using-ai-to-delegating-work-to-ai-2/</guid>
+      <title>Turn Videos into AI Video Prompts：把视频变成可复用创意库</title>
+      <link>https://webfem.com/post/turn-videos</link>
+      <description>一个专注前端技术的博客，主要写系列文章，偶尔写一写采坑记录。</description>
+      <guid>https://webfem.com/post/turn-videos</guid>
     </item>
     <item>
       <title>写作平台字数怎么算？公众号、论文和网文的统计口径</title>
@@ -72,28 +78,22 @@
       <guid>https://webfem.com/post/word-count-character-count-difference</guid>
     </item>
     <item>
-      <title>中文字数统计是否包括标点？不同场景的计算口径说明</title>
-      <link>https://webfem.com/post/chinese-word-count-punctuation</link>
-      <description>一个专注前端技术的博客，主要写系列文章，偶尔写一写采坑记录。</description>
-      <guid>https://webfem.com/post/chinese-word-count-punctuation</guid>
+      <title>Blogger/blogspot应用text-autospace.js给中英文之间 添加空格 结果给全文body添加hanla标签 影响script脚本代码</title>
+      <link>https://zelikk.blogspot.com/2026/09/blogger-blogspot-text-autospace-js.html</link>
+      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
+      <guid>https://zelikk.blogspot.com/2026/09/blogger-blogspot-text-autospace-js.html</guid>
     </item>
     <item>
-      <title>开发 Blogger/blogspot 模板 模仿月光博客 by Herems 对接 白嫖stealth/ox-alpha</title>
+      <title>把 看视频网页全屏 油猴篡改猴tampermonkey脚本 转换为 chrome/edge 浏览器扩展</title>
+      <link>https://zelikk.blogspot.com/2026/09/chrome-edge-extension-maximize-video-button.html</link>
+      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
+      <guid>https://zelikk.blogspot.com/2026/09/chrome-edge-extension-maximize-video-button.html</guid>
+    </item>
+    <item>
+      <title>开发 Blogger/blogspot 模板 模仿月光博客</title>
       <link>https://zelikk.blogspot.com/2026/08/blogger-blogspot-williamlong-like-template-xml.html</link>
       <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
       <guid>https://zelikk.blogspot.com/2026/08/blogger-blogspot-williamlong-like-template-xml.html</guid>
-    </item>
-    <item>
-      <title>Blogger/blogspot 空白博客模板 不含CSS</title>
-      <link>https://zelikk.blogspot.com/2026/08/blogger-blogspot-blank-css-template-xml.html</link>
-      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
-      <guid>https://zelikk.blogspot.com/2026/08/blogger-blogspot-blank-css-template-xml.html</guid>
-    </item>
-    <item>
-      <title>Blogger/blogspot 的 博客搜索 小工具 BlogSearch widget 不能设置标题为空</title>
-      <link>https://zelikk.blogspot.com/2026/08/blogger-blogspot-blogsearch-widget-title-null.html</link>
-      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
-      <guid>https://zelikk.blogspot.com/2026/08/blogger-blogspot-blogsearch-widget-title-null.html</guid>
     </item>
     <item>
       <title>科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影</title>
@@ -114,6 +114,12 @@
       <guid>http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html</guid>
     </item>
     <item>
+      <title>取消英文，取消古文</title>
+      <link>https://www.hecaitou.com/2026/09/cancel-english-cancel-the-classics.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/09/cancel-english-cancel-the-classics.html</guid>
+    </item>
+    <item>
       <title>抒情的基础</title>
       <link>https://www.hecaitou.com/2026/09/the-groundwork-for-romance.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
@@ -124,12 +130,6 @@
       <link>https://www.hecaitou.com/2026/09/one-crazy-blind-buy.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/09/one-crazy-blind-buy.html</guid>
-    </item>
-    <item>
-      <title>一次优质离婚</title>
-      <link>https://www.hecaitou.com/2026/09/a-meaningful-divorce.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/09/a-meaningful-divorce.html</guid>
     </item>
     <item>
       <title>是微服务架构不香还是云不香？</title>
@@ -206,19 +206,19 @@
     <item>
       <title>让炼丹更科学一些（九）：经典自适应梯度算法</title>
       <link>https://spaces.ac.cn/archives/11882</link>
-      <description>回顾经典AdaGrad论文，深入探讨自适应梯度算法发展。</description>
+      <description>探索自适应梯度算法源头，重温经典AdaGrad论文。</description>
       <guid>https://spaces.ac.cn/archives/11882</guid>
     </item>
     <item>
       <title>让炼丹更科学一些（八）：多阶段训练的学习率</title>
       <link>https://spaces.ac.cn/archives/11879</link>
-      <description>探讨多阶段训练学习率，优化炼丹过程。</description>
+      <description>探讨多阶段训练中学习率调整，实现更科学、简化的炼丹过程。</description>
       <guid>https://spaces.ac.cn/archives/11879</guid>
     </item>
     <item>
       <title>动量的新理解：逼近特征层面的梯度下降</title>
       <link>https://spaces.ac.cn/archives/11875</link>
-      <description>探索动量作为在线回归问题解的新视角。</description>
+      <description>动量优化器新视角：不仅是梯度平均，更是在线回归解。</description>
       <guid>https://spaces.ac.cn/archives/11875</guid>
     </item>
     <item>
@@ -296,7 +296,7 @@
     <item>
       <title>Fragments 0x0003</title>
       <link>https://lenciel.com/2026/09/fragments-0x0003/</link>
-      <description>组织为发展不择手段，AI发展引发焦虑，谁在背后获益？</description>
+      <description>组织为发展不择手段，战争成权力定价工具，AI时代谁在获利？</description>
       <guid>https://lenciel.com/2026/09/fragments-0x0003/</guid>
     </item>
     <item>
@@ -384,6 +384,12 @@
       <guid>https://www.edony.ink/why-does-left-come-before-right/</guid>
     </item>
     <item>
+      <title>No.605 虚拟货币简史（中）：中本聪是谁？</title>
+      <link>https://liuyandong.com/archives/23953</link>
+      <description>这本是反抗美国政府通过的电信法的宣言。只是现在，有了更深的涵义，全球的政府几乎都已经把互联网管起来了。但是，我坚信，自由与民主终究会胜利，就像雅典那微如荧光的自由之火，历尽坎坷，终将照耀人类。我相信暴政终将灭亡，即使坎坷，即使曲折。</description>
+      <guid>https://liuyandong.com/archives/23953</guid>
+    </item>
+    <item>
       <title>No.604 虚拟货币简史（上）：坎坷来时路</title>
       <link>https://liuyandong.com/archives/23946</link>
       <description>这本是反抗美国政府通过的电信法的宣言。只是现在，有了更深的涵义，全球的政府几乎都已经把互联网管起来了。但是，我坚信，自由与民主终究会胜利，就像雅典那微如荧光的自由之火，历尽坎坷，终将照耀人类。我相信暴政终将灭亡，即使坎坷，即使曲折。</description>
@@ -394,12 +400,6 @@
       <link>https://liuyandong.com/archives/23852</link>
       <description>这本是反抗美国政府通过的电信法的宣言。只是现在，有了更深的涵义，全球的政府几乎都已经把互联网管起来了。但是，我坚信，自由与民主终究会胜利，就像雅典那微如荧光的自由之火，历尽坎坷，终将照耀人类。我相信暴政终将灭亡，即使坎坷，即使曲折。</description>
       <guid>https://liuyandong.com/archives/23852</guid>
-    </item>
-    <item>
-      <title>封建迷信</title>
-      <link>https://liuyandong.com/archives/23800</link>
-      <description>这本是反抗美国政府通过的电信法的宣言。只是现在，有了更深的涵义，全球的政府几乎都已经把互联网管起来了。但是，我坚信，自由与民主终究会胜利，就像雅典那微如荧光的自由之火，历尽坎坷，终将照耀人类。我相信暴政终将灭亡，即使坎坷，即使曲折。</description>
-      <guid>https://liuyandong.com/archives/23800</guid>
     </item>
     <item>
       <title>不安分的小宝宝</title>
@@ -422,19 +422,19 @@
     <item>
       <title>折腾半天终于办下来了：0 元与免实体地址申请个体工商户营业执照</title>
       <link>https://battlele.com/individual-business-guide/</link>
-      <description>0元免地址申请个体户执照，轻松搞定流程攻略。</description>
+      <description>零成本免地址，轻松申请个体户营业执照。</description>
       <guid>https://battlele.com/individual-business-guide/</guid>
     </item>
     <item>
       <title>香港汇丰 Pulse 银联双币钻石信用卡</title>
       <link>https://battlele.com/hsbc-pulse/</link>
-      <description>香港汇丰Pulse银联卡7月大放水，内地用户可享优惠。</description>
+      <description>香港汇丰Pulse银联卡七月大放水，内地用户注册攻略详解。</description>
       <guid>https://battlele.com/hsbc-pulse/</guid>
     </item>
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台游记：体验台州天台，品尝特色小吃，游览国清寺。</description>
+      <description>天台之旅，品尝特色小吃，游览国清寺，享受悠闲假期。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
@@ -482,13 +482,13 @@
     <item>
       <title>2026.8.31</title>
       <link>https://www.justzht.com/2026-8-31/</link>
-      <description>周六开大车陪搬家具，意外发现车空调奇特的启动方式。</description>
+      <description>周六帮朋友搬家，发现大车空调奇特的启动方式。</description>
       <guid>https://www.justzht.com/2026-8-31/</guid>
     </item>
     <item>
       <title>2026.8.29</title>
       <link>https://www.justzht.com/2026-8-29/</link>
-      <description>一周平淡，重看电影，修复相机，计划出行。</description>
+      <description>一周平淡，重看电影，修相机，计划旅行。</description>
       <guid>https://www.justzht.com/2026-8-29/</guid>
     </item>
     <item>
@@ -510,22 +510,22 @@
       <guid>https://www.bboy.app/2026/09/03/building-a-personal-manga-library-with-komga/</guid>
     </item>
     <item>
-      <title>【每日一面】浏览器渲染机制：重绘与回流</title>
-      <link>https://iachieveall.com/archives/mei-ri-yi-mian-liu-lan-qi-xuan-ran-ji-zhi-chong-hui-yu-hui-liu</link>
+      <title>【每日一面】深入理解闭包</title>
+      <link>https://iachieveall.com/posts/mei-ri-yi-mian-shen-ru-li-jie-bi-bao/</link>
       <description>创作初衷：交流高质量技术，分享实战经验、面试指南，帮助阅读我的博客的人少走弯路，和技术同好共同探索。</description>
-      <guid>https://iachieveall.com/archives/mei-ri-yi-mian-liu-lan-qi-xuan-ran-ji-zhi-chong-hui-yu-hui-liu</guid>
+      <guid>https://iachieveall.com/posts/mei-ri-yi-mian-shen-ru-li-jie-bi-bao/</guid>
+    </item>
+    <item>
+      <title>【每日一面】浏览器渲染机制：重绘与回流</title>
+      <link>https://iachieveall.com/posts/mei-ri-yi-mian-liu-lan-qi-xuan-ran-ji-zhi-chong-hui-yu-hui-liu/</link>
+      <description>创作初衷：交流高质量技术，分享实战经验、面试指南，帮助阅读我的博客的人少走弯路，和技术同好共同探索。</description>
+      <guid>https://iachieveall.com/posts/mei-ri-yi-mian-liu-lan-qi-xuan-ran-ji-zhi-chong-hui-yu-hui-liu/</guid>
     </item>
     <item>
       <title>【每日一面】事件循环机制</title>
-      <link>https://iachieveall.com/archives/mei-ri-yi-mian-shi-jian-xun-huan-ji-zhi</link>
+      <link>https://iachieveall.com/posts/mei-ri-yi-mian-shi-jian-xun-huan-ji-zhi/</link>
       <description>创作初衷：交流高质量技术，分享实战经验、面试指南，帮助阅读我的博客的人少走弯路，和技术同好共同探索。</description>
-      <guid>https://iachieveall.com/archives/mei-ri-yi-mian-shi-jian-xun-huan-ji-zhi</guid>
-    </item>
-    <item>
-      <title>SSG 预渲染工具站 SEO 优化实践：从零收录到全面修复的 7 个问题</title>
-      <link>https://iachieveall.com/archives/ssg-yu-xuan-ran-gong-ju-zhan-seo-you-hua-shi-jian-cong-ling-shou-lu-dao-quan-mian-xiu-fu-de-7-ge-wen-ti</link>
-      <description>创作初衷：交流高质量技术，分享实战经验、面试指南，帮助阅读我的博客的人少走弯路，和技术同好共同探索。</description>
-      <guid>https://iachieveall.com/archives/ssg-yu-xuan-ran-gong-ju-zhan-seo-you-hua-shi-jian-cong-ling-shou-lu-dao-quan-mian-xiu-fu-de-7-ge-wen-ti</guid>
+      <guid>https://iachieveall.com/posts/mei-ri-yi-mian-shi-jian-xun-huan-ji-zhi/</guid>
     </item>
   </channel>
 </rss>
