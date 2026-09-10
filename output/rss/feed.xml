@@ -78,6 +78,12 @@
       <guid>https://webfem.com/post/word-count-character-count-difference</guid>
     </item>
     <item>
+      <title>电报防广告机器人 实现加群验证的功能 tg-join-group-exam-bot-worker 迁移到 cloudflare worker</title>
+      <link>https://zelikk.blogspot.com/2026/09/tg-join-group-exam-bot-worker.html</link>
+      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
+      <guid>https://zelikk.blogspot.com/2026/09/tg-join-group-exam-bot-worker.html</guid>
+    </item>
+    <item>
       <title>Telegram group电报群组设置 欢迎信息Welcome Message 减少加群提醒信息对群组其它成员的干扰</title>
       <link>https://zelikk.blogspot.com/2026/09/telegram-group-welcome-message.html</link>
       <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
@@ -88,12 +94,6 @@
       <link>https://zelikk.blogspot.com/2026/09/blogger-blogspot-text-autospace-js.html</link>
       <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
       <guid>https://zelikk.blogspot.com/2026/09/blogger-blogspot-text-autospace-js.html</guid>
-    </item>
-    <item>
-      <title>把 看视频网页全屏 油猴篡改猴tampermonkey脚本 转换为 chrome/edge 浏览器扩展</title>
-      <link>https://zelikk.blogspot.com/2026/09/chrome-edge-extension-maximize-video-button.html</link>
-      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
-      <guid>https://zelikk.blogspot.com/2026/09/chrome-edge-extension-maximize-video-button.html</guid>
     </item>
     <item>
       <title>科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影</title>
@@ -114,6 +114,12 @@
       <guid>http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html</guid>
     </item>
     <item>
+      <title>欢迎来到薄肌俱乐部</title>
+      <link>https://www.hecaitou.com/2026/09/Welcome-to-Fit-Club.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/09/Welcome-to-Fit-Club.html</guid>
+    </item>
+    <item>
       <title>门外石榴</title>
       <link>https://www.hecaitou.com/2026/09/the-pomegranate-outside.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
@@ -124,30 +130,6 @@
       <link>https://www.hecaitou.com/2026/09/cancel-english-cancel-the-classics.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/09/cancel-english-cancel-the-classics.html</guid>
-    </item>
-    <item>
-      <title>抒情的基础</title>
-      <link>https://www.hecaitou.com/2026/09/the-groundwork-for-romance.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/09/the-groundwork-for-romance.html</guid>
-    </item>
-    <item>
-      <title>是微服务架构不香还是云不香？</title>
-      <link>https://coolshell.cn/articles/22422.html</link>
-      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
-      <guid>https://coolshell.cn/articles/22422.html</guid>
-    </item>
-    <item>
-      <title>我看ChatGPT: 为啥谷歌掉了千亿美金</title>
-      <link>https://coolshell.cn/articles/22398.html</link>
-      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
-      <guid>https://coolshell.cn/articles/22398.html</guid>
-    </item>
-    <item>
-      <title>聊聊 nostr 和 审查</title>
-      <link>https://coolshell.cn/articles/22367.html</link>
-      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
-      <guid>https://coolshell.cn/articles/22367.html</guid>
     </item>
     <item>
       <title>2016 年，我做过一次 AI 写代码创业</title>
@@ -168,6 +150,12 @@
       <guid>http://blog.youxu.info/2021/11/01/after-fire/</guid>
     </item>
     <item>
+      <title>最新微博：2026 年 9 月 9 日</title>
+      <link>https://www.changhai.org/articles/miscellaneous/blog/202609.php#latest</link>
+      <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
+      <guid>https://www.changhai.org/articles/miscellaneous/blog/202609.php#latest</guid>
+    </item>
+    <item>
       <title>Latest post on Threads：2026.09.08</title>
       <link>https://www.changhai.org/articles/miscellaneous/eblog/202609.php#latest</link>
       <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
@@ -180,10 +168,10 @@
       <guid>https://www.changhai.org/articles/miscellaneous/blog/202607.php</guid>
     </item>
     <item>
-      <title>最新微博：2026 年 9 月 6 日</title>
-      <link>https://www.changhai.org/articles/miscellaneous/blog/202609.php#latest</link>
-      <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
-      <guid>https://www.changhai.org/articles/miscellaneous/blog/202609.php#latest</guid>
+      <title>阿里发了100亿刀股票 字节则选择贷300亿刀</title>
+      <link>http://weiwuhui.com/11096.html</link>
+      <description>魏老师执教于上海交通大学媒体与传播学院，天奇创投基金管理合伙人。媒体行业的思考和见解，尽在魏老师。</description>
+      <guid>http://weiwuhui.com/11096.html</guid>
     </item>
     <item>
       <title>联邦制公司的黄昏</title>
@@ -198,27 +186,21 @@
       <guid>http://weiwuhui.com/11092.html</guid>
     </item>
     <item>
-      <title>艺术家与创新者乔布斯 工程师与制度者库克</title>
-      <link>http://weiwuhui.com/11094.html</link>
-      <description>魏老师执教于上海交通大学媒体与传播学院，天奇创投基金管理合伙人。媒体行业的思考和见解，尽在魏老师。</description>
-      <guid>http://weiwuhui.com/11094.html</guid>
-    </item>
-    <item>
       <title>让炼丹更科学一些（九）：经典自适应梯度算法</title>
       <link>https://spaces.ac.cn/archives/11882</link>
-      <description>重温经典AdaGrad，探讨自适应梯度算法的传承与发展。</description>
+      <description>重温经典AdaGrad论文，探索自适应梯度算法之源。</description>
       <guid>https://spaces.ac.cn/archives/11882</guid>
     </item>
     <item>
       <title>让炼丹更科学一些（八）：多阶段训练的学习率</title>
       <link>https://spaces.ac.cn/archives/11879</link>
-      <description>探讨多阶段训练中学习率调整策略，实现更简化的模型训练。</description>
+      <description>探讨多阶段训练学习率，优化炼丹过程。</description>
       <guid>https://spaces.ac.cn/archives/11879</guid>
     </item>
     <item>
       <title>动量的新理解：逼近特征层面的梯度下降</title>
       <link>https://spaces.ac.cn/archives/11875</link>
-      <description>动量优化器新视角：不仅是梯度平均，更是在线回归解。</description>
+      <description>动量优化新视角：不仅是梯度平均，更是在线回归解。</description>
       <guid>https://spaces.ac.cn/archives/11875</guid>
     </item>
     <item>
@@ -294,9 +276,15 @@
       <guid>https://www.gtdstudy.com/posts/2026-07-27/</guid>
     </item>
     <item>
+      <title>fragments 0x0004</title>
+      <link>https://lenciel.com/2026/09/fragments-0x0004/</link>
+      <description/>
+      <guid>https://lenciel.com/2026/09/fragments-0x0004/</guid>
+    </item>
+    <item>
       <title>Fragments 0x0003</title>
       <link>https://lenciel.com/2026/09/fragments-0x0003/</link>
-      <description>组织发展易走极端，战争与AI引发焦虑。</description>
+      <description>组织发展过度，战争成目的，AI发展引发焦虑。</description>
       <guid>https://lenciel.com/2026/09/fragments-0x0003/</guid>
     </item>
     <item>
@@ -304,12 +292,6 @@
       <link>https://lenciel.com/2026/09/fragments-0x0002/</link>
       <description/>
       <guid>https://lenciel.com/2026/09/fragments-0x0002/</guid>
-    </item>
-    <item>
-      <title>Fragments 0x0001</title>
-      <link>https://lenciel.com/2026/09/fragments-0x0001/</link>
-      <description/>
-      <guid>https://lenciel.com/2026/09/fragments-0x0001/</guid>
     </item>
     <item>
       <title>那时候，贾母也才十来岁</title>
@@ -422,13 +404,13 @@
     <item>
       <title>折腾半天终于办下来了：0 元与免实体地址申请个体工商户营业执照</title>
       <link>https://battlele.com/individual-business-guide/</link>
-      <description>0成本免地址申请个体户执照，轻松搞定营业执照。</description>
+      <description>折腾半天终于办下来了：0 元与免实体地址申请个体工商户营业执照</description>
       <guid>https://battlele.com/individual-business-guide/</guid>
     </item>
     <item>
       <title>香港汇丰 Pulse 银联双币钻石信用卡</title>
       <link>https://battlele.com/hsbc-pulse/</link>
-      <description>香港汇丰Pulse银联卡7月大放水，注册条件宽松，绑定Apple Pay需客服授权。</description>
+      <description>香港汇丰Pulse银联卡7月大放水，内地用户可申请，绑定Apple Pay享优惠。</description>
       <guid>https://battlele.com/hsbc-pulse/</guid>
     </item>
     <item>
@@ -476,19 +458,19 @@
     <item>
       <title>2026.9.6</title>
       <link>https://www.justzht.com/2026-9-6/</link>
-      <description>Playdate版epoch游戏优化，打造沉浸式宇宙冒险。</description>
+      <description>Playdate版Epoch游戏优化中，探索全三维渲染挑战。</description>
       <guid>https://www.justzht.com/2026-9-6/</guid>
     </item>
     <item>
       <title>2026.8.31</title>
       <link>https://www.justzht.com/2026-8-31/</link>
-      <description>周六帮朋友搬家，意外发现车辆空调奥秘。</description>
+      <description>周六开大车陪搬家具，意外发现车空调奇特的启动方式。</description>
       <guid>https://www.justzht.com/2026-8-31/</guid>
     </item>
     <item>
       <title>2026.8.29</title>
       <link>https://www.justzht.com/2026-8-29/</link>
-      <description>一周平淡，重看经典电影，修复相机，计划长途自驾。</description>
+      <description>一周平淡，看电影修相机，生活琐碎中寻找乐趣。</description>
       <guid>https://www.justzht.com/2026-8-29/</guid>
     </item>
     <item>
@@ -510,6 +492,12 @@
       <guid>https://www.bboy.app/2026/09/03/blog-theme-update-easier-to-read-articles-and-code-blocks/</guid>
     </item>
     <item>
+      <title>【每日一面】this 指向与绑定规则</title>
+      <link>https://iachieveall.com/posts/mei-ri-yi-mian-this-zhi-xiang-yu-bang-ding-gui-ze/</link>
+      <description>创作初衷：交流高质量技术，分享实战经验、面试指南，帮助阅读我的博客的人少走弯路，和技术同好共同探索。</description>
+      <guid>https://iachieveall.com/posts/mei-ri-yi-mian-this-zhi-xiang-yu-bang-ding-gui-ze/</guid>
+    </item>
+    <item>
       <title>【每日一面】深入理解 JavaScript 原型链</title>
       <link>https://iachieveall.com/posts/mei-ri-yi-mian-shen-ru-li-jie-yuan-xing-lian/</link>
       <description>创作初衷：交流高质量技术，分享实战经验、面试指南，帮助阅读我的博客的人少走弯路，和技术同好共同探索。</description>
@@ -520,12 +508,6 @@
       <link>https://iachieveall.com/posts/shen-ru-qian-chu-wei-qian-duan/</link>
       <description>创作初衷：交流高质量技术，分享实战经验、面试指南，帮助阅读我的博客的人少走弯路，和技术同好共同探索。</description>
       <guid>https://iachieveall.com/posts/shen-ru-qian-chu-wei-qian-duan/</guid>
-    </item>
-    <item>
-      <title>【每日一面】深入理解闭包</title>
-      <link>https://iachieveall.com/posts/mei-ri-yi-mian-shen-ru-li-jie-bi-bao/</link>
-      <description>创作初衷：交流高质量技术，分享实战经验、面试指南，帮助阅读我的博客的人少走弯路，和技术同好共同探索。</description>
-      <guid>https://iachieveall.com/posts/mei-ri-yi-mian-shen-ru-li-jie-bi-bao/</guid>
     </item>
   </channel>
 </rss>
