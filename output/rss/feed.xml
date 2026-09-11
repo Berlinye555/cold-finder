@@ -6,6 +6,12 @@
     <description>精选自 605 个中文博客 + GitHub 日榜</description>
     <language>zh-CN</language>
     <item>
+      <title>关键时刻可以救命的Web Locks API</title>
+      <link>https://www.zhangxinxu.com/wordpress/2026/09/web-locks-api/</link>
+      <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
+      <guid>https://www.zhangxinxu.com/wordpress/2026/09/web-locks-api/</guid>
+    </item>
+    <item>
       <title>别再使用IndexedDB，大文件读写就用OPFS</title>
       <link>https://www.zhangxinxu.com/wordpress/2026/09/indexdb-navigator-storage-getdirectory/</link>
       <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
@@ -16,12 +22,6 @@
       <link>https://www.zhangxinxu.com/wordpress/2026/08/html-in-canvas/</link>
       <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
       <guid>https://www.zhangxinxu.com/wordpress/2026/08/html-in-canvas/</guid>
-    </item>
-    <item>
-      <title>卧靠，这是好东西，CSS text-fit属性简介</title>
-      <link>https://www.zhangxinxu.com/wordpress/2026/08/css-text-fit/</link>
-      <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
-      <guid>https://www.zhangxinxu.com/wordpress/2026/08/css-text-fit/</guid>
     </item>
     <item>
       <title>看完凡人真人版！韩立的性格狠点+师傅阵容，越聊越燃</title>
@@ -78,6 +78,12 @@
       <guid>https://webfem.com/post/word-count-character-count-difference</guid>
     </item>
     <item>
+      <title>电报防广告机器人 实现发言验证的功能 tg-send-msg-exam-bot-worker 迁移到 cloudflare worker</title>
+      <link>https://zelikk.blogspot.com/2026/09/tg-send-msg-exam-bot-worker.html</link>
+      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
+      <guid>https://zelikk.blogspot.com/2026/09/tg-send-msg-exam-bot-worker.html</guid>
+    </item>
+    <item>
       <title>电报防广告机器人 实现加群验证的功能 tg-join-group-exam-bot-worker 迁移到 cloudflare worker</title>
       <link>https://zelikk.blogspot.com/2026/09/tg-join-group-exam-bot-worker.html</link>
       <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
@@ -90,10 +96,10 @@
       <guid>https://zelikk.blogspot.com/2026/09/telegram-group-welcome-message.html</guid>
     </item>
     <item>
-      <title>Blogger/blogspot应用text-autospace.js给中英文之间 添加空格 结果给全文body添加hanla标签 影响script脚本代码</title>
-      <link>https://zelikk.blogspot.com/2026/09/blogger-blogspot-text-autospace-js.html</link>
-      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
-      <guid>https://zelikk.blogspot.com/2026/09/blogger-blogspot-text-autospace-js.html</guid>
+      <title>科技爱好者周刊（第 412 期）：禁止 issue，只用 PR</title>
+      <link>http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html</link>
+      <description>对我来说，博客首先是一种知识管理工具，其次才是传播工具。我的技术文章，主要用来整理我还不懂的知识。我只写那些我还没有完全掌握的东西，那些我精通的东西，往往没有动力写。炫耀从来不是我的动机，好奇才是。</description>
+      <guid>http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html</guid>
     </item>
     <item>
       <title>科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影</title>
@@ -108,10 +114,10 @@
       <guid>http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html</guid>
     </item>
     <item>
-      <title>科技爱好者周刊（第 409 期）：程序员的职业未来</title>
-      <link>http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html</link>
-      <description>对我来说，博客首先是一种知识管理工具，其次才是传播工具。我的技术文章，主要用来整理我还不懂的知识。我只写那些我还没有完全掌握的东西，那些我精通的东西，往往没有动力写。炫耀从来不是我的动机，好奇才是。</description>
-      <guid>http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html</guid>
+      <title>心的教师</title>
+      <link>https://www.hecaitou.com/2026/09/The-Teacher-Within.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/09/The-Teacher-Within.html</guid>
     </item>
     <item>
       <title>欢迎来到薄肌俱乐部</title>
@@ -126,10 +132,22 @@
       <guid>https://www.hecaitou.com/2026/09/the-pomegranate-outside.html</guid>
     </item>
     <item>
-      <title>取消英文，取消古文</title>
-      <link>https://www.hecaitou.com/2026/09/cancel-english-cancel-the-classics.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/09/cancel-english-cancel-the-classics.html</guid>
+      <title>是微服务架构不香还是云不香？</title>
+      <link>https://coolshell.cn/articles/22422.html</link>
+      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
+      <guid>https://coolshell.cn/articles/22422.html</guid>
+    </item>
+    <item>
+      <title>我看ChatGPT: 为啥谷歌掉了千亿美金</title>
+      <link>https://coolshell.cn/articles/22398.html</link>
+      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
+      <guid>https://coolshell.cn/articles/22398.html</guid>
+    </item>
+    <item>
+      <title>聊聊 nostr 和 审查</title>
+      <link>https://coolshell.cn/articles/22367.html</link>
+      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
+      <guid>https://coolshell.cn/articles/22367.html</guid>
     </item>
     <item>
       <title>2016 年，我做过一次 AI 写代码创业</title>
@@ -168,6 +186,18 @@
       <guid>https://www.changhai.org/articles/miscellaneous/blog/202607.php</guid>
     </item>
     <item>
+      <title>iPhone Duo</title>
+      <link>https://blog.yitianshijie.net/2026/09/11/iphone-duo/</link>
+      <description>代表文章：《[李如一 | 论推荐之难](</description>
+      <guid>https://blog.yitianshijie.net/2026/09/11/iphone-duo/</guid>
+    </item>
+    <item>
+      <title>AI的说服 靠的不是懂你 是把你淹没</title>
+      <link>http://weiwuhui.com/11101.html</link>
+      <description>魏老师执教于上海交通大学媒体与传播学院，天奇创投基金管理合伙人。媒体行业的思考和见解，尽在魏老师。</description>
+      <guid>http://weiwuhui.com/11101.html</guid>
+    </item>
+    <item>
       <title>阿里发了100亿刀股票 字节则选择贷300亿刀</title>
       <link>http://weiwuhui.com/11096.html</link>
       <description>魏老师执教于上海交通大学媒体与传播学院，天奇创投基金管理合伙人。媒体行业的思考和见解，尽在魏老师。</description>
@@ -180,27 +210,21 @@
       <guid>http://weiwuhui.com/11090.html</guid>
     </item>
     <item>
-      <title>搞了个牛来模型的智谱 营收大涨400% 真牛来了？</title>
-      <link>http://weiwuhui.com/11092.html</link>
-      <description>魏老师执教于上海交通大学媒体与传播学院，天奇创投基金管理合伙人。媒体行业的思考和见解，尽在魏老师。</description>
-      <guid>http://weiwuhui.com/11092.html</guid>
-    </item>
-    <item>
       <title>让炼丹更科学一些（九）：经典自适应梯度算法</title>
       <link>https://spaces.ac.cn/archives/11882</link>
-      <description>重温经典AdaGrad论文，探索自适应梯度算法之源。</description>
+      <description>探索经典自适应梯度算法，从AdaGrad到RMSProp，揭秘优化器传承之路。</description>
       <guid>https://spaces.ac.cn/archives/11882</guid>
     </item>
     <item>
       <title>让炼丹更科学一些（八）：多阶段训练的学习率</title>
       <link>https://spaces.ac.cn/archives/11879</link>
-      <description>探讨多阶段训练学习率，优化炼丹过程。</description>
+      <description>探讨多阶段训练学习率优化，实现更简化的模型训练。</description>
       <guid>https://spaces.ac.cn/archives/11879</guid>
     </item>
     <item>
       <title>动量的新理解：逼近特征层面的梯度下降</title>
       <link>https://spaces.ac.cn/archives/11875</link>
-      <description>动量优化新视角：不仅是梯度平均，更是在线回归解。</description>
+      <description>动量优化器新视角：不仅是梯度平均，更是在线回归解。</description>
       <guid>https://spaces.ac.cn/archives/11875</guid>
     </item>
     <item>
@@ -284,7 +308,7 @@
     <item>
       <title>Fragments 0x0003</title>
       <link>https://lenciel.com/2026/09/fragments-0x0003/</link>
-      <description>组织发展过度，战争成目的，AI发展引发焦虑。</description>
+      <description>组织为发展不择手段，AI竞争引发焦虑。</description>
       <guid>https://lenciel.com/2026/09/fragments-0x0003/</guid>
     </item>
     <item>
@@ -404,19 +428,19 @@
     <item>
       <title>折腾半天终于办下来了：0 元与免实体地址申请个体工商户营业执照</title>
       <link>https://battlele.com/individual-business-guide/</link>
-      <description>折腾半天终于办下来了：0 元与免实体地址申请个体工商户营业执照</description>
+      <description>轻松0元免地址，个体户营业执照轻松办！</description>
       <guid>https://battlele.com/individual-business-guide/</guid>
     </item>
     <item>
       <title>香港汇丰 Pulse 银联双币钻石信用卡</title>
       <link>https://battlele.com/hsbc-pulse/</link>
-      <description>香港汇丰Pulse银联卡7月大放水，内地用户可申请，绑定Apple Pay享优惠。</description>
+      <description>香港汇丰Pulse银联卡7月大放水，内地用户攻略全解析。</description>
       <guid>https://battlele.com/hsbc-pulse/</guid>
     </item>
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台游记：体验特色小吃，游览国清寺，享受悠闲假期。</description>
+      <description>天台游记：体验当地美食，探访国清寺，享受悠闲假期。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
@@ -456,6 +480,12 @@
       <guid>https://s5s5.me/4292</guid>
     </item>
     <item>
+      <title>2026.9.10</title>
+      <link>https://www.justzht.com/2026-9-10/</link>
+      <description>周末闲散生活，看电影，关注Epoch Playdate开发，考虑购车。</description>
+      <guid>https://www.justzht.com/2026-9-10/</guid>
+    </item>
+    <item>
       <title>2026.9.6</title>
       <link>https://www.justzht.com/2026-9-6/</link>
       <description>Playdate版Epoch游戏优化中，探索全三维渲染挑战。</description>
@@ -464,14 +494,8 @@
     <item>
       <title>2026.8.31</title>
       <link>https://www.justzht.com/2026-8-31/</link>
-      <description>周六开大车陪搬家具，意外发现车空调奇特的启动方式。</description>
+      <description>周末开大车陪朋友收二手家具，意外发现车辆空调的奇怪问题。</description>
       <guid>https://www.justzht.com/2026-8-31/</guid>
-    </item>
-    <item>
-      <title>2026.8.29</title>
-      <link>https://www.justzht.com/2026-8-29/</link>
-      <description>一周平淡，看电影修相机，生活琐碎中寻找乐趣。</description>
-      <guid>https://www.justzht.com/2026-8-29/</guid>
     </item>
     <item>
       <title>I Recreated My Own Version of TickTick with AI</title>
@@ -492,22 +516,22 @@
       <guid>https://www.bboy.app/2026/09/03/blog-theme-update-easier-to-read-articles-and-code-blocks/</guid>
     </item>
     <item>
+      <title>读懂前端工程化体系</title>
+      <link>https://iachieveall.com/posts/du-dong-qian-duan-gong-cheng-hua-ti-xi/</link>
+      <description>创作初衷：交流高质量技术，分享实战经验、面试指南，帮助阅读我的博客的人少走弯路，和技术同好共同探索。</description>
+      <guid>https://iachieveall.com/posts/du-dong-qian-duan-gong-cheng-hua-ti-xi/</guid>
+    </item>
+    <item>
+      <title>【每日一面】深浅拷贝</title>
+      <link>https://iachieveall.com/posts/mei-ri-yi-mian-shen-qian-kao-bei/</link>
+      <description>创作初衷：交流高质量技术，分享实战经验、面试指南，帮助阅读我的博客的人少走弯路，和技术同好共同探索。</description>
+      <guid>https://iachieveall.com/posts/mei-ri-yi-mian-shen-qian-kao-bei/</guid>
+    </item>
+    <item>
       <title>【每日一面】this 指向与绑定规则</title>
       <link>https://iachieveall.com/posts/mei-ri-yi-mian-this-zhi-xiang-yu-bang-ding-gui-ze/</link>
       <description>创作初衷：交流高质量技术，分享实战经验、面试指南，帮助阅读我的博客的人少走弯路，和技术同好共同探索。</description>
       <guid>https://iachieveall.com/posts/mei-ri-yi-mian-this-zhi-xiang-yu-bang-ding-gui-ze/</guid>
-    </item>
-    <item>
-      <title>【每日一面】深入理解 JavaScript 原型链</title>
-      <link>https://iachieveall.com/posts/mei-ri-yi-mian-shen-ru-li-jie-yuan-xing-lian/</link>
-      <description>创作初衷：交流高质量技术，分享实战经验、面试指南，帮助阅读我的博客的人少走弯路，和技术同好共同探索。</description>
-      <guid>https://iachieveall.com/posts/mei-ri-yi-mian-shen-ru-li-jie-yuan-xing-lian/</guid>
-    </item>
-    <item>
-      <title>深入浅出微前端架构</title>
-      <link>https://iachieveall.com/posts/shen-ru-qian-chu-wei-qian-duan/</link>
-      <description>创作初衷：交流高质量技术，分享实战经验、面试指南，帮助阅读我的博客的人少走弯路，和技术同好共同探索。</description>
-      <guid>https://iachieveall.com/posts/shen-ru-qian-chu-wei-qian-duan/</guid>
     </item>
   </channel>
 </rss>
