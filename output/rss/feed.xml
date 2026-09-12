@@ -78,6 +78,12 @@
       <guid>https://webfem.com/post/word-count-character-count-difference</guid>
     </item>
     <item>
+      <title>Blogger/blogspot 引入google的code-prettify实现代码高亮 并保留手动设置的文字颜色</title>
+      <link>https://zelikk.blogspot.com/2026/09/blogger-blogspot-googlec-ode-prettify.html</link>
+      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
+      <guid>https://zelikk.blogspot.com/2026/09/blogger-blogspot-googlec-ode-prettify.html</guid>
+    </item>
+    <item>
       <title>电报防广告机器人 实现发言验证的功能 tg-send-msg-exam-bot-worker 迁移到 cloudflare worker</title>
       <link>https://zelikk.blogspot.com/2026/09/tg-send-msg-exam-bot-worker.html</link>
       <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
@@ -88,12 +94,6 @@
       <link>https://zelikk.blogspot.com/2026/09/tg-join-group-exam-bot-worker.html</link>
       <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
       <guid>https://zelikk.blogspot.com/2026/09/tg-join-group-exam-bot-worker.html</guid>
-    </item>
-    <item>
-      <title>Telegram group电报群组设置 欢迎信息Welcome Message 减少加群提醒信息对群组其它成员的干扰</title>
-      <link>https://zelikk.blogspot.com/2026/09/telegram-group-welcome-message.html</link>
-      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
-      <guid>https://zelikk.blogspot.com/2026/09/telegram-group-welcome-message.html</guid>
     </item>
     <item>
       <title>科技爱好者周刊（第 412 期）：禁止 issue，只用 PR</title>
@@ -114,6 +114,12 @@
       <guid>http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html</guid>
     </item>
     <item>
+      <title>中年翻种子</title>
+      <link>https://www.hecaitou.com/2026/09/dormant-seeds-midlife.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/09/dormant-seeds-midlife.html</guid>
+    </item>
+    <item>
       <title>心的教师</title>
       <link>https://www.hecaitou.com/2026/09/The-Teacher-Within.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
@@ -124,12 +130,6 @@
       <link>https://www.hecaitou.com/2026/09/Welcome-to-Fit-Club.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/09/Welcome-to-Fit-Club.html</guid>
-    </item>
-    <item>
-      <title>门外石榴</title>
-      <link>https://www.hecaitou.com/2026/09/the-pomegranate-outside.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/09/the-pomegranate-outside.html</guid>
     </item>
     <item>
       <title>是微服务架构不香还是云不香？</title>
@@ -168,16 +168,16 @@
       <guid>http://blog.youxu.info/2021/11/01/after-fire/</guid>
     </item>
     <item>
+      <title>Latest post on Threads：2026.09.11</title>
+      <link>https://www.changhai.org/articles/miscellaneous/eblog/202609.php#latest</link>
+      <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
+      <guid>https://www.changhai.org/articles/miscellaneous/eblog/202609.php#latest</guid>
+    </item>
+    <item>
       <title>最新微博：2026 年 9 月 9 日</title>
       <link>https://www.changhai.org/articles/miscellaneous/blog/202609.php#latest</link>
       <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
       <guid>https://www.changhai.org/articles/miscellaneous/blog/202609.php#latest</guid>
-    </item>
-    <item>
-      <title>Latest post on Threads：2026.09.08</title>
-      <link>https://www.changhai.org/articles/miscellaneous/eblog/202609.php#latest</link>
-      <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
-      <guid>https://www.changhai.org/articles/miscellaneous/eblog/202609.php#latest</guid>
     </item>
     <item>
       <title>微言小义 (2026.07 - 2026.08)</title>
@@ -212,19 +212,19 @@
     <item>
       <title>让炼丹更科学一些（九）：经典自适应梯度算法</title>
       <link>https://spaces.ac.cn/archives/11882</link>
-      <description>探索经典自适应梯度算法，从AdaGrad到RMSProp，揭秘优化器传承之路。</description>
+      <description>探索自适应梯度算法起源，重温经典AdaGrad论文。</description>
       <guid>https://spaces.ac.cn/archives/11882</guid>
     </item>
     <item>
       <title>让炼丹更科学一些（八）：多阶段训练的学习率</title>
       <link>https://spaces.ac.cn/archives/11879</link>
-      <description>探讨多阶段训练学习率优化，实现更简化的模型训练。</description>
+      <description>探讨多阶段训练学习率，实现更简化的调度目标。</description>
       <guid>https://spaces.ac.cn/archives/11879</guid>
     </item>
     <item>
       <title>动量的新理解：逼近特征层面的梯度下降</title>
       <link>https://spaces.ac.cn/archives/11875</link>
-      <description>动量优化器新视角：不仅是梯度平均，更是在线回归解。</description>
+      <description>探索动量优化新视角：动量不仅是梯度平均，还是在线回归解。</description>
       <guid>https://spaces.ac.cn/archives/11875</guid>
     </item>
     <item>
@@ -308,7 +308,7 @@
     <item>
       <title>Fragments 0x0003</title>
       <link>https://lenciel.com/2026/09/fragments-0x0003/</link>
-      <description>组织为发展不择手段，AI竞争引发焦虑。</description>
+      <description>组织为发展不择手段，AI革命引发焦虑。</description>
       <guid>https://lenciel.com/2026/09/fragments-0x0003/</guid>
     </item>
     <item>
@@ -428,7 +428,7 @@
     <item>
       <title>折腾半天终于办下来了：0 元与免实体地址申请个体工商户营业执照</title>
       <link>https://battlele.com/individual-business-guide/</link>
-      <description>轻松0元免地址，个体户营业执照轻松办！</description>
+      <description>折腾半天终于办下来了：0 元与免实体地址申请个体工商户营业执照</description>
       <guid>https://battlele.com/individual-business-guide/</guid>
     </item>
     <item>
@@ -482,19 +482,19 @@
     <item>
       <title>2026.9.10</title>
       <link>https://www.justzht.com/2026-9-10/</link>
-      <description>周末闲散生活，看电影，关注Epoch Playdate开发，考虑购车。</description>
+      <description>周末闲散生活，看电影，关注 Epoch Playdate 开发，准备购车。</description>
       <guid>https://www.justzht.com/2026-9-10/</guid>
     </item>
     <item>
       <title>2026.9.6</title>
       <link>https://www.justzht.com/2026-9-6/</link>
-      <description>Playdate版Epoch游戏优化中，探索全三维渲染挑战。</description>
+      <description>Playdate版Epoch游戏优化，探索帝国衰落背景下的太空冒险。</description>
       <guid>https://www.justzht.com/2026-9-6/</guid>
     </item>
     <item>
       <title>2026.8.31</title>
       <link>https://www.justzht.com/2026-8-31/</link>
-      <description>周末开大车陪朋友收二手家具，意外发现车辆空调的奇怪问题。</description>
+      <description>周末开大车陪朋友收二手家具，发现车辆空调奇特的启动方式。</description>
       <guid>https://www.justzht.com/2026-8-31/</guid>
     </item>
     <item>
