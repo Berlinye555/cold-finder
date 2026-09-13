@@ -42,24 +42,6 @@
       <guid>https://www.xiaoyuzhoufm.com/episode/68c6d2e22c82c9dcca527114?utm_source=rss</guid>
     </item>
     <item>
-      <title>当 Mac mini 的价格不再 mini - 肘子的 Swift 周报 #152</title>
-      <link>https://fatbobman.com/zh/weekly/issue-152/</link>
-      <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
-      <guid>https://fatbobman.com/zh/weekly/issue-152/</guid>
-    </item>
-    <item>
-      <title>SwiftData：优化从建模开始</title>
-      <link>https://fatbobman.com/zh/posts/swiftdata-optimization-starts-with-modeling/</link>
-      <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
-      <guid>https://fatbobman.com/zh/posts/swiftdata-optimization-starts-with-modeling/</guid>
-    </item>
-    <item>
-      <title>举手之劳 - 肘子的 Swift 周报 #151</title>
-      <link>https://fatbobman.com/zh/weekly/issue-151/</link>
-      <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
-      <guid>https://fatbobman.com/zh/weekly/issue-151/</guid>
-    </item>
-    <item>
       <title>Turn Videos into AI Video Prompts：把视频变成可复用创意库</title>
       <link>https://webfem.com/post/turn-videos</link>
       <description>一个专注前端技术的博客，主要写系列文章，偶尔写一写采坑记录。</description>
@@ -78,6 +60,12 @@
       <guid>https://webfem.com/post/word-count-character-count-difference</guid>
     </item>
     <item>
+      <title>Blogger/blogspot 编辑器 内部iframe 应用CSS 实现所见即所得WYSIWYG 油猴篡改猴tampermonkey脚本</title>
+      <link>https://zelikk.blogspot.com/2026/09/blogspot-blogger-editor-iframe-css-wysiwyg.html</link>
+      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
+      <guid>https://zelikk.blogspot.com/2026/09/blogspot-blogger-editor-iframe-css-wysiwyg.html</guid>
+    </item>
+    <item>
       <title>Blogger/blogspot 引入google的code-prettify实现代码高亮 并保留手动设置的文字颜色</title>
       <link>https://zelikk.blogspot.com/2026/09/blogger-blogspot-googlec-ode-prettify.html</link>
       <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
@@ -88,12 +76,6 @@
       <link>https://zelikk.blogspot.com/2026/09/tg-send-msg-exam-bot-worker.html</link>
       <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
       <guid>https://zelikk.blogspot.com/2026/09/tg-send-msg-exam-bot-worker.html</guid>
-    </item>
-    <item>
-      <title>电报防广告机器人 实现加群验证的功能 tg-join-group-exam-bot-worker 迁移到 cloudflare worker</title>
-      <link>https://zelikk.blogspot.com/2026/09/tg-join-group-exam-bot-worker.html</link>
-      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
-      <guid>https://zelikk.blogspot.com/2026/09/tg-join-group-exam-bot-worker.html</guid>
     </item>
     <item>
       <title>科技爱好者周刊（第 412 期）：禁止 issue，只用 PR</title>
@@ -114,6 +96,12 @@
       <guid>http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html</guid>
     </item>
     <item>
+      <title>创造一个万人嫌</title>
+      <link>https://www.hecaitou.com/2026/09/engineering-a-public-villain.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/09/engineering-a-public-villain.html</guid>
+    </item>
+    <item>
       <title>中年翻种子</title>
       <link>https://www.hecaitou.com/2026/09/dormant-seeds-midlife.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
@@ -124,12 +112,6 @@
       <link>https://www.hecaitou.com/2026/09/The-Teacher-Within.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/09/The-Teacher-Within.html</guid>
-    </item>
-    <item>
-      <title>欢迎来到薄肌俱乐部</title>
-      <link>https://www.hecaitou.com/2026/09/Welcome-to-Fit-Club.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/09/Welcome-to-Fit-Club.html</guid>
     </item>
     <item>
       <title>是微服务架构不香还是云不香？</title>
@@ -212,19 +194,19 @@
     <item>
       <title>让炼丹更科学一些（九）：经典自适应梯度算法</title>
       <link>https://spaces.ac.cn/archives/11882</link>
-      <description>探索自适应梯度算法起源，重温经典AdaGrad论文。</description>
+      <description>探索经典自适应梯度算法，从AdaGrad到RMSProp，揭秘优化器发展脉络。</description>
       <guid>https://spaces.ac.cn/archives/11882</guid>
     </item>
     <item>
       <title>让炼丹更科学一些（八）：多阶段训练的学习率</title>
       <link>https://spaces.ac.cn/archives/11879</link>
-      <description>探讨多阶段训练学习率，实现更简化的调度目标。</description>
+      <description>探讨多阶段训练学习率，优化调度目标实现更科学炼丹。</description>
       <guid>https://spaces.ac.cn/archives/11879</guid>
     </item>
     <item>
       <title>动量的新理解：逼近特征层面的梯度下降</title>
       <link>https://spaces.ac.cn/archives/11875</link>
-      <description>探索动量优化新视角：动量不仅是梯度平均，还是在线回归解。</description>
+      <description>探索动量新视角，动量不仅是梯度平均，更是在线回归解。</description>
       <guid>https://spaces.ac.cn/archives/11875</guid>
     </item>
     <item>
@@ -300,6 +282,12 @@
       <guid>https://www.gtdstudy.com/posts/2026-07-27/</guid>
     </item>
     <item>
+      <title>Fragments 0x0005</title>
+      <link>https://lenciel.com/2026/09/fragments-0x0005/</link>
+      <description>年轻人应先尝试三大领域，再拓展视野。</description>
+      <guid>https://lenciel.com/2026/09/fragments-0x0005/</guid>
+    </item>
+    <item>
       <title>fragments 0x0004</title>
       <link>https://lenciel.com/2026/09/fragments-0x0004/</link>
       <description/>
@@ -308,14 +296,8 @@
     <item>
       <title>Fragments 0x0003</title>
       <link>https://lenciel.com/2026/09/fragments-0x0003/</link>
-      <description>组织为发展不择手段，AI革命引发焦虑。</description>
+      <description>组织为发展不择手段，AI发展引发焦虑，谁在背后获益？</description>
       <guid>https://lenciel.com/2026/09/fragments-0x0003/</guid>
-    </item>
-    <item>
-      <title>Fragments 0x0002</title>
-      <link>https://lenciel.com/2026/09/fragments-0x0002/</link>
-      <description/>
-      <guid>https://lenciel.com/2026/09/fragments-0x0002/</guid>
     </item>
     <item>
       <title>那时候，贾母也才十来岁</title>
@@ -428,19 +410,19 @@
     <item>
       <title>折腾半天终于办下来了：0 元与免实体地址申请个体工商户营业执照</title>
       <link>https://battlele.com/individual-business-guide/</link>
-      <description>折腾半天终于办下来了：0 元与免实体地址申请个体工商户营业执照</description>
+      <description>零成本申请个体户执照，轻松豁免管理费。</description>
       <guid>https://battlele.com/individual-business-guide/</guid>
     </item>
     <item>
       <title>香港汇丰 Pulse 银联双币钻石信用卡</title>
       <link>https://battlele.com/hsbc-pulse/</link>
-      <description>香港汇丰Pulse银联卡7月大放水，内地用户攻略全解析。</description>
+      <description>香港汇丰Pulse银联卡7月大放水，内地用户可通过400热线绑定Apple Pay。</description>
       <guid>https://battlele.com/hsbc-pulse/</guid>
     </item>
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台游记：体验当地美食，探访国清寺，享受悠闲假期。</description>
+      <description>天台游记：体验特色小吃，游览国清寺，享受悠闲假期。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
@@ -482,19 +464,19 @@
     <item>
       <title>2026.9.10</title>
       <link>https://www.justzht.com/2026-9-10/</link>
-      <description>周末闲散生活，看电影，关注 Epoch Playdate 开发，准备购车。</description>
+      <description>周末闲散生活，看电影，关注Epoch Playdate开发，考虑买二手车。</description>
       <guid>https://www.justzht.com/2026-9-10/</guid>
     </item>
     <item>
       <title>2026.9.6</title>
       <link>https://www.justzht.com/2026-9-6/</link>
-      <description>Playdate版Epoch游戏优化，探索帝国衰落背景下的太空冒险。</description>
+      <description>Playdate版Epoch游戏优化中，探索帝国衰落背景下的太空冒险。</description>
       <guid>https://www.justzht.com/2026-9-6/</guid>
     </item>
     <item>
       <title>2026.8.31</title>
       <link>https://www.justzht.com/2026-8-31/</link>
-      <description>周末开大车陪朋友收二手家具，发现车辆空调奇特的启动方式。</description>
+      <description>周六开大车陪搬家具，意外发现车空调奇特的启动方式。</description>
       <guid>https://www.justzht.com/2026-8-31/</guid>
     </item>
     <item>
