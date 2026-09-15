@@ -6,6 +6,12 @@
     <description>精选自 605 个中文博客 + GitHub 日榜</description>
     <language>zh-CN</language>
     <item>
+      <title>新时代下的tooltip提示效果的最佳实现</title>
+      <link>https://www.zhangxinxu.com/wordpress/2026/09/best-tooltip-effect/</link>
+      <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
+      <guid>https://www.zhangxinxu.com/wordpress/2026/09/best-tooltip-effect/</guid>
+    </item>
+    <item>
       <title>关键时刻可以救命的Web Locks API</title>
       <link>https://www.zhangxinxu.com/wordpress/2026/09/web-locks-api/</link>
       <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
@@ -16,12 +22,6 @@
       <link>https://www.zhangxinxu.com/wordpress/2026/09/indexdb-navigator-storage-getdirectory/</link>
       <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
       <guid>https://www.zhangxinxu.com/wordpress/2026/09/indexdb-navigator-storage-getdirectory/</guid>
-    </item>
-    <item>
-      <title>超级Web特性HTML-in-Canvas初体验</title>
-      <link>https://www.zhangxinxu.com/wordpress/2026/08/html-in-canvas/</link>
-      <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
-      <guid>https://www.zhangxinxu.com/wordpress/2026/08/html-in-canvas/</guid>
     </item>
     <item>
       <title>看完凡人真人版！韩立的性格狠点+师傅阵容，越聊越燃</title>
@@ -42,6 +42,12 @@
       <guid>https://www.xiaoyuzhoufm.com/episode/68c6d2e22c82c9dcca527114?utm_source=rss</guid>
     </item>
     <item>
+      <title>iPhone Duo 带来的机遇与挑战 - 肘子的 Swift 周报 #153</title>
+      <link>https://fatbobman.com/zh/weekly/issue-153/</link>
+      <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
+      <guid>https://fatbobman.com/zh/weekly/issue-153/</guid>
+    </item>
+    <item>
       <title>当 Mac mini 的价格不再 mini - 肘子的 Swift 周报 #152</title>
       <link>https://fatbobman.com/zh/weekly/issue-152/</link>
       <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
@@ -52,12 +58,6 @@
       <link>https://fatbobman.com/zh/posts/swiftdata-optimization-starts-with-modeling/</link>
       <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
       <guid>https://fatbobman.com/zh/posts/swiftdata-optimization-starts-with-modeling/</guid>
-    </item>
-    <item>
-      <title>举手之劳 - 肘子的 Swift 周报 #151</title>
-      <link>https://fatbobman.com/zh/weekly/issue-151/</link>
-      <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
-      <guid>https://fatbobman.com/zh/weekly/issue-151/</guid>
     </item>
     <item>
       <title>Turn Videos into AI Video Prompts：把视频变成可复用创意库</title>
@@ -216,22 +216,22 @@
       <guid>http://weiwuhui.com/11090.html</guid>
     </item>
     <item>
+      <title>让炼丹更科学一些（十）：单调性假设的拆与补</title>
+      <link>https://spaces.ac.cn/archives/11885</link>
+      <description>探索更广泛收敛理论，突破学习率策略限制。</description>
+      <guid>https://spaces.ac.cn/archives/11885</guid>
+    </item>
+    <item>
       <title>让炼丹更科学一些（九）：经典自适应梯度算法</title>
       <link>https://spaces.ac.cn/archives/11882</link>
-      <description>回顾经典AdaGrad算法，开启自适应梯度算法学习之旅。</description>
+      <description>探索自适应梯度算法起源，重温经典AdaGrad论文。</description>
       <guid>https://spaces.ac.cn/archives/11882</guid>
     </item>
     <item>
       <title>让炼丹更科学一些（八）：多阶段训练的学习率</title>
       <link>https://spaces.ac.cn/archives/11879</link>
-      <description>探讨多阶段训练中学习率调度的优化策略。</description>
+      <description>探讨多阶段训练学习率，实现更科学炼丹。</description>
       <guid>https://spaces.ac.cn/archives/11879</guid>
-    </item>
-    <item>
-      <title>动量的新理解：逼近特征层面的梯度下降</title>
-      <link>https://spaces.ac.cn/archives/11875</link>
-      <description>探索动量新视角：动量不仅是梯度平均，还是在线回归解。</description>
-      <guid>https://spaces.ac.cn/archives/11875</guid>
     </item>
     <item>
       <title>捷径</title>
@@ -308,7 +308,7 @@
     <item>
       <title>Fragments 0x0005</title>
       <link>https://lenciel.com/2026/09/fragments-0x0005/</link>
-      <description>年轻人在选择大学志愿或工作时，先尝试三个领域，再拓展视野。</description>
+      <description>年轻人在选择大学志愿或工作时，先尝试三个热门领域，再考虑其他机会。</description>
       <guid>https://lenciel.com/2026/09/fragments-0x0005/</guid>
     </item>
     <item>
@@ -434,19 +434,19 @@
     <item>
       <title>折腾半天终于办下来了：0 元与免实体地址申请个体工商户营业执照</title>
       <link>https://battlele.com/individual-business-guide/</link>
-      <description>零成本办理个体户执照，轻松豁免管理费。</description>
+      <description>0元免地址申请个体户执照，轻松搞定，只需简单几步！</description>
       <guid>https://battlele.com/individual-business-guide/</guid>
     </item>
     <item>
       <title>香港汇丰 Pulse 银联双币钻石信用卡</title>
       <link>https://battlele.com/hsbc-pulse/</link>
-      <description>香港汇丰Pulse银联卡7月大放水，内地用户可享优惠。</description>
+      <description>香港汇丰Pulse银联卡7月大放水，内地用户注册攻略全解析。</description>
       <guid>https://battlele.com/hsbc-pulse/</guid>
     </item>
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台游记：体验台州美食与国清寺的宁静。</description>
+      <description>天台之旅，品尝特色小吃，游览国清寺，体验宁静假期。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
@@ -488,19 +488,19 @@
     <item>
       <title>2026.9.13</title>
       <link>https://www.justzht.com/2026-9-13/</link>
-      <description>Epoch更新，黑洞、飞船、星门加入，作者忙于工作与生活。</description>
+      <description>Epoch更新，黑洞、飞船、星门等新元素加入。</description>
       <guid>https://www.justzht.com/2026-9-13/</guid>
     </item>
     <item>
       <title>2026.9.10</title>
       <link>https://www.justzht.com/2026-9-10/</link>
-      <description>周末闲散生活，看电影，关注Epoch Playdate开发，计划购车。</description>
+      <description>周末闲散生活，看电影，关注手动挡车，忙于Epoch Playdate版本开发。</description>
       <guid>https://www.justzht.com/2026-9-10/</guid>
     </item>
     <item>
       <title>2026.9.6</title>
       <link>https://www.justzht.com/2026-9-6/</link>
-      <description>Playdate版Epoch游戏优化逻辑，探索帝国衰落背景下的太空冒险。</description>
+      <description>Playdate版epoch游戏优化，构建quadtree渲染全三维场景。</description>
       <guid>https://www.justzht.com/2026-9-6/</guid>
     </item>
     <item>
@@ -522,22 +522,22 @@
       <guid>https://www.bboy.app/2026/09/03/blog-theme-update-easier-to-read-articles-and-code-blocks/</guid>
     </item>
     <item>
+      <title>【每日一面】类型系统与类型转换</title>
+      <link>https://iachieveall.com/posts/mei-ri-yi-mian-lei-xing-xi-tong-yu-lei-xing-zhuan-huan/</link>
+      <description>创作初衷：交流高质量技术，分享实战经验、面试指南，帮助阅读我的博客的人少走弯路，和技术同好共同探索。</description>
+      <guid>https://iachieveall.com/posts/mei-ri-yi-mian-lei-xing-xi-tong-yu-lei-xing-zhuan-huan/</guid>
+    </item>
+    <item>
+      <title>【每日一面】内存泄漏与垃圾回收</title>
+      <link>https://iachieveall.com/posts/mei-ri-yi-mian-nei-cun-xie-lou-yu-la-ji-hui-shou/</link>
+      <description>创作初衷：交流高质量技术，分享实战经验、面试指南，帮助阅读我的博客的人少走弯路，和技术同好共同探索。</description>
+      <guid>https://iachieveall.com/posts/mei-ri-yi-mian-nei-cun-xie-lou-yu-la-ji-hui-shou/</guid>
+    </item>
+    <item>
       <title>读懂前端工程化体系</title>
       <link>https://iachieveall.com/posts/du-dong-qian-duan-gong-cheng-hua-ti-xi/</link>
       <description>创作初衷：交流高质量技术，分享实战经验、面试指南，帮助阅读我的博客的人少走弯路，和技术同好共同探索。</description>
       <guid>https://iachieveall.com/posts/du-dong-qian-duan-gong-cheng-hua-ti-xi/</guid>
-    </item>
-    <item>
-      <title>【每日一面】深浅拷贝</title>
-      <link>https://iachieveall.com/posts/mei-ri-yi-mian-shen-qian-kao-bei/</link>
-      <description>创作初衷：交流高质量技术，分享实战经验、面试指南，帮助阅读我的博客的人少走弯路，和技术同好共同探索。</description>
-      <guid>https://iachieveall.com/posts/mei-ri-yi-mian-shen-qian-kao-bei/</guid>
-    </item>
-    <item>
-      <title>【每日一面】this 指向与绑定规则</title>
-      <link>https://iachieveall.com/posts/mei-ri-yi-mian-this-zhi-xiang-yu-bang-ding-gui-ze/</link>
-      <description>创作初衷：交流高质量技术，分享实战经验、面试指南，帮助阅读我的博客的人少走弯路，和技术同好共同探索。</description>
-      <guid>https://iachieveall.com/posts/mei-ri-yi-mian-this-zhi-xiang-yu-bang-ding-gui-ze/</guid>
     </item>
   </channel>
 </rss>
