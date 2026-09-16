@@ -78,6 +78,12 @@
       <guid>https://webfem.com/post/word-count-character-count-difference</guid>
     </item>
     <item>
+      <title>从forkgram/tdesktop github action编译 win10 amd64 二进制文件 v7.2.8</title>
+      <link>https://zelikk.blogspot.com/2026/09/forkgram-tdesktop-github-action-win10-amd64-v728.html</link>
+      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
+      <guid>https://zelikk.blogspot.com/2026/09/forkgram-tdesktop-github-action-win10-amd64-v728.html</guid>
+    </item>
+    <item>
       <title>Blogger/blogspot 编辑器 内部iframe 应用CSS 实现所见即所得WYSIWYG 油猴篡改猴tampermonkey脚本</title>
       <link>https://zelikk.blogspot.com/2026/09/blogspot-blogger-editor-iframe-css-wysiwyg.html</link>
       <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
@@ -88,12 +94,6 @@
       <link>https://zelikk.blogspot.com/2026/09/blogger-blogspot-googlec-ode-prettify.html</link>
       <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
       <guid>https://zelikk.blogspot.com/2026/09/blogger-blogspot-googlec-ode-prettify.html</guid>
-    </item>
-    <item>
-      <title>电报防广告机器人 实现发言验证的功能 tg-send-msg-exam-bot-worker 迁移到 cloudflare worker</title>
-      <link>https://zelikk.blogspot.com/2026/09/tg-send-msg-exam-bot-worker.html</link>
-      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
-      <guid>https://zelikk.blogspot.com/2026/09/tg-send-msg-exam-bot-worker.html</guid>
     </item>
     <item>
       <title>科技爱好者周刊（第 412 期）：禁止 issue，只用 PR</title>
@@ -114,6 +114,12 @@
       <guid>http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html</guid>
     </item>
     <item>
+      <title>给城里人搞点事情</title>
+      <link>https://www.hecaitou.com/2026/09/giving-city-folks-something-to-do.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/09/giving-city-folks-something-to-do.html</guid>
+    </item>
+    <item>
       <title>和折叠屏做个了断</title>
       <link>https://www.hecaitou.com/2026/09/Done-with-Foldables.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
@@ -124,30 +130,6 @@
       <link>https://www.hecaitou.com/2026/09/iPhone-Launch-Morning.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/09/iPhone-Launch-Morning.html</guid>
-    </item>
-    <item>
-      <title>创造一个万人嫌</title>
-      <link>https://www.hecaitou.com/2026/09/engineering-a-public-villain.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/09/engineering-a-public-villain.html</guid>
-    </item>
-    <item>
-      <title>是微服务架构不香还是云不香？</title>
-      <link>https://coolshell.cn/articles/22422.html</link>
-      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
-      <guid>https://coolshell.cn/articles/22422.html</guid>
-    </item>
-    <item>
-      <title>我看ChatGPT: 为啥谷歌掉了千亿美金</title>
-      <link>https://coolshell.cn/articles/22398.html</link>
-      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
-      <guid>https://coolshell.cn/articles/22398.html</guid>
-    </item>
-    <item>
-      <title>聊聊 nostr 和 审查</title>
-      <link>https://coolshell.cn/articles/22367.html</link>
-      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
-      <guid>https://coolshell.cn/articles/22367.html</guid>
     </item>
     <item>
       <title>2016 年，我做过一次 AI 写代码创业</title>
@@ -218,19 +200,19 @@
     <item>
       <title>让炼丹更科学一些（十）：单调性假设的拆与补</title>
       <link>https://spaces.ac.cn/archives/11885</link>
-      <description>探索更广泛收敛理论，突破学习率策略限制。</description>
+      <description>本文探讨如何打破单调性假设，推广自适应梯度算法的收敛理论。</description>
       <guid>https://spaces.ac.cn/archives/11885</guid>
     </item>
     <item>
       <title>让炼丹更科学一些（九）：经典自适应梯度算法</title>
       <link>https://spaces.ac.cn/archives/11882</link>
-      <description>探索自适应梯度算法起源，重温经典AdaGrad论文。</description>
+      <description>本文回顾了AdaGrad算法，及其对现代优化器的影响。</description>
       <guid>https://spaces.ac.cn/archives/11882</guid>
     </item>
     <item>
       <title>让炼丹更科学一些（八）：多阶段训练的学习率</title>
       <link>https://spaces.ac.cn/archives/11879</link>
-      <description>探讨多阶段训练学习率，实现更科学炼丹。</description>
+      <description>探讨多阶段训练中学习率调整策略，追求每个阶段接近最优。</description>
       <guid>https://spaces.ac.cn/archives/11879</guid>
     </item>
     <item>
@@ -289,26 +271,32 @@
     </item>
     <item>
       <title>来信 · 莫良</title>
+      <link>https://www.gtdstudy.com/guestbook/87f68869-3498-4076-94c5-d8537125e557/</link>
+      <description/>
+      <guid>https://www.gtdstudy.com/guestbook/87f68869-3498-4076-94c5-d8537125e557/</guid>
+    </item>
+    <item>
+      <title>动起来，否则你就要费劲思考了</title>
+      <link>https://www.gtdstudy.com/posts/2026-09-15-pascal/</link>
+      <description/>
+      <guid>https://www.gtdstudy.com/posts/2026-09-15-pascal/</guid>
+    </item>
+    <item>
+      <title>来信 · 莫良</title>
       <link>https://www.gtdstudy.com/guestbook/79160fdf-d95f-4270-aa68-fe4c84ab5178/</link>
       <description/>
       <guid>https://www.gtdstudy.com/guestbook/79160fdf-d95f-4270-aa68-fe4c84ab5178/</guid>
     </item>
     <item>
-      <title>来信 · 莫良</title>
-      <link>https://www.gtdstudy.com/guestbook/5c18fc62-248c-4191-8ce9-e99382aeaa21/</link>
+      <title>Fragments 0x0006</title>
+      <link>https://lenciel.com/2026/09/fragments-0x0006/</link>
       <description/>
-      <guid>https://www.gtdstudy.com/guestbook/5c18fc62-248c-4191-8ce9-e99382aeaa21/</guid>
-    </item>
-    <item>
-      <title>质变带来成功，量变则不会</title>
-      <link>https://www.gtdstudy.com/posts/2026-07-27/</link>
-      <description/>
-      <guid>https://www.gtdstudy.com/posts/2026-07-27/</guid>
+      <guid>https://lenciel.com/2026/09/fragments-0x0006/</guid>
     </item>
     <item>
       <title>Fragments 0x0005</title>
       <link>https://lenciel.com/2026/09/fragments-0x0005/</link>
-      <description>年轻人在选择大学志愿或工作时，先尝试三个热门领域，再考虑其他机会。</description>
+      <description>年轻人在选择大学和专业时，建议优先考虑三个热门领域。</description>
       <guid>https://lenciel.com/2026/09/fragments-0x0005/</guid>
     </item>
     <item>
@@ -318,10 +306,10 @@
       <guid>https://lenciel.com/2026/09/fragments-0x0004/</guid>
     </item>
     <item>
-      <title>Fragments 0x0003</title>
-      <link>https://lenciel.com/2026/09/fragments-0x0003/</link>
-      <description>组织为发展不择手段，战争成权力与定价工具，AI发展引发焦虑。</description>
-      <guid>https://lenciel.com/2026/09/fragments-0x0003/</guid>
+      <title>骆驼、狮子、孩子、路飞、大笑</title>
+      <link>https://kaix.in/2026/0915/</link>
+      <description>因多次更换 blog 程序，2004 年至今存留 548 篇日志，主要涉及咖啡、影音、阅读、生活记录等内容。</description>
+      <guid>https://kaix.in/2026/0915/</guid>
     </item>
     <item>
       <title>那时候，贾母也才十来岁</title>
@@ -334,12 +322,6 @@
       <link>https://kaix.in/2026/0827/</link>
       <description>因多次更换 blog 程序，2004 年至今存留 548 篇日志，主要涉及咖啡、影音、阅读、生活记录等内容。</description>
       <guid>https://kaix.in/2026/0827/</guid>
-    </item>
-    <item>
-      <title>关于饮酒的反思</title>
-      <link>https://kaix.in/2026/0824/</link>
-      <description>因多次更换 blog 程序，2004 年至今存留 548 篇日志，主要涉及咖啡、影音、阅读、生活记录等内容。</description>
-      <guid>https://kaix.in/2026/0824/</guid>
     </item>
     <item>
       <title>2025 重新定义的生活</title>
@@ -434,19 +416,19 @@
     <item>
       <title>折腾半天终于办下来了：0 元与免实体地址申请个体工商户营业执照</title>
       <link>https://battlele.com/individual-business-guide/</link>
-      <description>0元免地址申请个体户执照，轻松搞定，只需简单几步！</description>
+      <description>折腾半天终于办下来了：0 元与免实体地址申请个体工商户营业执照</description>
       <guid>https://battlele.com/individual-business-guide/</guid>
     </item>
     <item>
       <title>香港汇丰 Pulse 银联双币钻石信用卡</title>
       <link>https://battlele.com/hsbc-pulse/</link>
-      <description>香港汇丰Pulse银联卡7月大放水，内地用户注册攻略全解析。</description>
+      <description>香港汇丰Pulse银联卡7月大放水，内地用户可享优惠。</description>
       <guid>https://battlele.com/hsbc-pulse/</guid>
     </item>
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台之旅，品尝特色小吃，游览国清寺，体验宁静假期。</description>
+      <description>天台游记：体验当地美食与国清寺的宁静。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
@@ -494,13 +476,13 @@
     <item>
       <title>2026.9.10</title>
       <link>https://www.justzht.com/2026-9-10/</link>
-      <description>周末闲散生活，看电影，关注手动挡车，忙于Epoch Playdate版本开发。</description>
+      <description>周末颓废，看电影、看车、写游戏，生活小记。</description>
       <guid>https://www.justzht.com/2026-9-10/</guid>
     </item>
     <item>
       <title>2026.9.6</title>
       <link>https://www.justzht.com/2026-9-6/</link>
-      <description>Playdate版epoch游戏优化，构建quadtree渲染全三维场景。</description>
+      <description>Playdate版Epoch游戏优化渲染，构思剧情。</description>
       <guid>https://www.justzht.com/2026-9-6/</guid>
     </item>
     <item>
@@ -522,22 +504,22 @@
       <guid>https://www.bboy.app/2026/09/03/blog-theme-update-easier-to-read-articles-and-code-blocks/</guid>
     </item>
     <item>
-      <title>【每日一面】类型系统与类型转换</title>
-      <link>https://iachieveall.com/posts/mei-ri-yi-mian-lei-xing-xi-tong-yu-lei-xing-zhuan-huan/</link>
+      <title>【每日一面】事件模型与事件委托</title>
+      <link>https://iachieveall.com/posts/mei-ri-yi-mian-shi-jian-mo-xing-yu-shi-jian-wei-tuo/</link>
       <description>创作初衷：交流高质量技术，分享实战经验、面试指南，帮助阅读我的博客的人少走弯路，和技术同好共同探索。</description>
-      <guid>https://iachieveall.com/posts/mei-ri-yi-mian-lei-xing-xi-tong-yu-lei-xing-zhuan-huan/</guid>
+      <guid>https://iachieveall.com/posts/mei-ri-yi-mian-shi-jian-mo-xing-yu-shi-jian-wei-tuo/</guid>
     </item>
     <item>
-      <title>【每日一面】内存泄漏与垃圾回收</title>
-      <link>https://iachieveall.com/posts/mei-ri-yi-mian-nei-cun-xie-lou-yu-la-ji-hui-shou/</link>
+      <title>深入浅出前端路由体系：从 URL 到渲染的完整链路</title>
+      <link>https://iachieveall.com/posts/shen-ru-qian-chu-qian-duan-lu-you/</link>
       <description>创作初衷：交流高质量技术，分享实战经验、面试指南，帮助阅读我的博客的人少走弯路，和技术同好共同探索。</description>
-      <guid>https://iachieveall.com/posts/mei-ri-yi-mian-nei-cun-xie-lou-yu-la-ji-hui-shou/</guid>
+      <guid>https://iachieveall.com/posts/shen-ru-qian-chu-qian-duan-lu-you/</guid>
     </item>
     <item>
-      <title>读懂前端工程化体系</title>
-      <link>https://iachieveall.com/posts/du-dong-qian-duan-gong-cheng-hua-ti-xi/</link>
+      <title>数字化转型的价值迷思：从技术指标到业务结果</title>
+      <link>https://iachieveall.com/posts/shu-zi-hua-zhuan-xing-de-jia-zhi-mi-si-cong-ji-shu-zhi-biao-dao-ye-wu-jie-guo/</link>
       <description>创作初衷：交流高质量技术，分享实战经验、面试指南，帮助阅读我的博客的人少走弯路，和技术同好共同探索。</description>
-      <guid>https://iachieveall.com/posts/du-dong-qian-duan-gong-cheng-hua-ti-xi/</guid>
+      <guid>https://iachieveall.com/posts/shu-zi-hua-zhuan-xing-de-jia-zhi-mi-si-cong-ji-shu-zhi-biao-dao-ye-wu-jie-guo/</guid>
     </item>
   </channel>
 </rss>
