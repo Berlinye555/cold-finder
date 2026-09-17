@@ -60,6 +60,12 @@
       <guid>https://fatbobman.com/zh/posts/swiftdata-optimization-starts-with-modeling/</guid>
     </item>
     <item>
+      <title>如何解决 Unexpected token =</title>
+      <link>https://webfem.com/post/webpack-token</link>
+      <description>一个专注前端技术的博客，主要写系列文章，偶尔写一写采坑记录。</description>
+      <guid>https://webfem.com/post/webpack-token</guid>
+    </item>
+    <item>
       <title>Turn Videos into AI Video Prompts：把视频变成可复用创意库</title>
       <link>https://webfem.com/post/turn-videos</link>
       <description>一个专注前端技术的博客，主要写系列文章，偶尔写一写采坑记录。</description>
@@ -72,10 +78,10 @@
       <guid>https://webfem.com/post/writing-platform-word-count-rules</guid>
     </item>
     <item>
-      <title>字数、字符数和英文单词数有什么区别？一次说清统计口径</title>
-      <link>https://webfem.com/post/word-count-character-count-difference</link>
-      <description>一个专注前端技术的博客，主要写系列文章，偶尔写一写采坑记录。</description>
-      <guid>https://webfem.com/post/word-count-character-count-difference</guid>
+      <title>forkgram/tdesktop 记住上次播放的音频, 下次启动后自动加载到顶部</title>
+      <link>https://zelikk.blogspot.com/2026/09/forkgram-tdesktop-restore-playing-audio-file.html</link>
+      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
+      <guid>https://zelikk.blogspot.com/2026/09/forkgram-tdesktop-restore-playing-audio-file.html</guid>
     </item>
     <item>
       <title>从forkgram/tdesktop github action编译 win10 amd64 二进制文件 v7.2.8</title>
@@ -88,12 +94,6 @@
       <link>https://zelikk.blogspot.com/2026/09/blogspot-blogger-editor-iframe-css-wysiwyg.html</link>
       <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
       <guid>https://zelikk.blogspot.com/2026/09/blogspot-blogger-editor-iframe-css-wysiwyg.html</guid>
-    </item>
-    <item>
-      <title>Blogger/blogspot 引入google的code-prettify实现代码高亮 并保留手动设置的文字颜色</title>
-      <link>https://zelikk.blogspot.com/2026/09/blogger-blogspot-googlec-ode-prettify.html</link>
-      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
-      <guid>https://zelikk.blogspot.com/2026/09/blogger-blogspot-googlec-ode-prettify.html</guid>
     </item>
     <item>
       <title>科技爱好者周刊（第 412 期）：禁止 issue，只用 PR</title>
@@ -114,22 +114,22 @@
       <guid>http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html</guid>
     </item>
     <item>
+      <title>从灵感到施工</title>
+      <link>https://www.hecaitou.com/2026/09/From-Spark-to-Breaking-Ground.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/09/From-Spark-to-Breaking-Ground.html</guid>
+    </item>
+    <item>
+      <title>灵感不上门</title>
+      <link>https://www.hecaitou.com/2026/09/inspiration-doesnt-make-house-calls.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/09/inspiration-doesnt-make-house-calls.html</guid>
+    </item>
+    <item>
       <title>给城里人搞点事情</title>
       <link>https://www.hecaitou.com/2026/09/giving-city-folks-something-to-do.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/09/giving-city-folks-something-to-do.html</guid>
-    </item>
-    <item>
-      <title>和折叠屏做个了断</title>
-      <link>https://www.hecaitou.com/2026/09/Done-with-Foldables.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/09/Done-with-Foldables.html</guid>
-    </item>
-    <item>
-      <title>抢 iPhone 的早上</title>
-      <link>https://www.hecaitou.com/2026/09/iPhone-Launch-Morning.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/09/iPhone-Launch-Morning.html</guid>
     </item>
     <item>
       <title>2016 年，我做过一次 AI 写代码创业</title>
@@ -150,16 +150,16 @@
       <guid>http://blog.youxu.info/2021/11/01/after-fire/</guid>
     </item>
     <item>
+      <title>Latest post on Threads：2026.09.16</title>
+      <link>https://www.changhai.org/articles/miscellaneous/eblog/202609.php#latest</link>
+      <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
+      <guid>https://www.changhai.org/articles/miscellaneous/eblog/202609.php#latest</guid>
+    </item>
+    <item>
       <title>最新微博：2026 年 9 月 13 日</title>
       <link>https://www.changhai.org/articles/miscellaneous/blog/202609.php#latest</link>
       <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
       <guid>https://www.changhai.org/articles/miscellaneous/blog/202609.php#latest</guid>
-    </item>
-    <item>
-      <title>Latest post on Threads：2026.09.11</title>
-      <link>https://www.changhai.org/articles/miscellaneous/eblog/202609.php#latest</link>
-      <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
-      <guid>https://www.changhai.org/articles/miscellaneous/eblog/202609.php#latest</guid>
     </item>
     <item>
       <title>微言小义 (2026.07 - 2026.08)</title>
@@ -206,13 +206,13 @@
     <item>
       <title>让炼丹更科学一些（九）：经典自适应梯度算法</title>
       <link>https://spaces.ac.cn/archives/11882</link>
-      <description>本文回顾了AdaGrad算法，及其对现代优化器的影响。</description>
+      <description>探索自适应梯度算法起源，重温经典AdaGrad论文。</description>
       <guid>https://spaces.ac.cn/archives/11882</guid>
     </item>
     <item>
       <title>让炼丹更科学一些（八）：多阶段训练的学习率</title>
       <link>https://spaces.ac.cn/archives/11879</link>
-      <description>探讨多阶段训练中学习率调整策略，追求每个阶段接近最优。</description>
+      <description>探讨多阶段训练学习率，优化炼丹过程。</description>
       <guid>https://spaces.ac.cn/archives/11879</guid>
     </item>
     <item>
@@ -296,7 +296,7 @@
     <item>
       <title>Fragments 0x0005</title>
       <link>https://lenciel.com/2026/09/fragments-0x0005/</link>
-      <description>年轻人在选择大学和专业时，建议优先考虑三个热门领域。</description>
+      <description>年轻人在选择大学志愿和工作时，先尝试三个热门领域，再考虑其他选择。</description>
       <guid>https://lenciel.com/2026/09/fragments-0x0005/</guid>
     </item>
     <item>
@@ -416,19 +416,19 @@
     <item>
       <title>折腾半天终于办下来了：0 元与免实体地址申请个体工商户营业执照</title>
       <link>https://battlele.com/individual-business-guide/</link>
-      <description>折腾半天终于办下来了：0 元与免实体地址申请个体工商户营业执照</description>
+      <description>零成本办理个体户执照，轻松应对管理费减免。</description>
       <guid>https://battlele.com/individual-business-guide/</guid>
     </item>
     <item>
       <title>香港汇丰 Pulse 银联双币钻石信用卡</title>
       <link>https://battlele.com/hsbc-pulse/</link>
-      <description>香港汇丰Pulse银联卡7月大放水，内地用户可享优惠。</description>
+      <description>香港汇丰Pulse银联双币钻石卡七月大放水，申请与激活流程详解。</description>
       <guid>https://battlele.com/hsbc-pulse/</guid>
     </item>
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台游记：体验当地美食与国清寺的宁静。</description>
+      <description>天台游记：体验当地美食，探访国清寺，享受宁静假期。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
@@ -468,22 +468,22 @@
       <guid>https://s5s5.me/4292</guid>
     </item>
     <item>
+      <title>2026.9.16</title>
+      <link>https://www.justzht.com/2026-9-16/</link>
+      <description>移民路途多波折，生活依旧有期待。</description>
+      <guid>https://www.justzht.com/2026-9-16/</guid>
+    </item>
+    <item>
       <title>2026.9.13</title>
       <link>https://www.justzht.com/2026-9-13/</link>
-      <description>Epoch更新，黑洞、飞船、星门等新元素加入。</description>
+      <description>Epoch更新，新元素加入，作者分享生活点滴。</description>
       <guid>https://www.justzht.com/2026-9-13/</guid>
     </item>
     <item>
       <title>2026.9.10</title>
       <link>https://www.justzht.com/2026-9-10/</link>
-      <description>周末颓废，看电影、看车、写游戏，生活小记。</description>
+      <description>周末闲散生活，看电影，关注手动挡车，忙于Epoch Playdate版本开发。</description>
       <guid>https://www.justzht.com/2026-9-10/</guid>
-    </item>
-    <item>
-      <title>2026.9.6</title>
-      <link>https://www.justzht.com/2026-9-6/</link>
-      <description>Playdate版Epoch游戏优化渲染，构思剧情。</description>
-      <guid>https://www.justzht.com/2026-9-6/</guid>
     </item>
     <item>
       <title>I Recreated My Own Version of TickTick with AI</title>
