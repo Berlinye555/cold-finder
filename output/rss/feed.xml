@@ -6,6 +6,12 @@
     <description>精选自 605 个中文博客 + GitHub 日榜</description>
     <language>zh-CN</language>
     <item>
+      <title>CSS rex、rlh、ric等根家族单位简介</title>
+      <link>https://www.zhangxinxu.com/wordpress/2026/09/css-root-units/</link>
+      <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
+      <guid>https://www.zhangxinxu.com/wordpress/2026/09/css-root-units/</guid>
+    </item>
+    <item>
       <title>新时代下的tooltip提示效果的最佳实现</title>
       <link>https://www.zhangxinxu.com/wordpress/2026/09/best-tooltip-effect/</link>
       <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
@@ -16,12 +22,6 @@
       <link>https://www.zhangxinxu.com/wordpress/2026/09/web-locks-api/</link>
       <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
       <guid>https://www.zhangxinxu.com/wordpress/2026/09/web-locks-api/</guid>
-    </item>
-    <item>
-      <title>别再使用IndexedDB，大文件读写就用OPFS</title>
-      <link>https://www.zhangxinxu.com/wordpress/2026/09/indexdb-navigator-storage-getdirectory/</link>
-      <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
-      <guid>https://www.zhangxinxu.com/wordpress/2026/09/indexdb-navigator-storage-getdirectory/</guid>
     </item>
     <item>
       <title>看完凡人真人版！韩立的性格狠点+师傅阵容，越聊越燃</title>
@@ -42,6 +42,12 @@
       <guid>https://www.xiaoyuzhoufm.com/episode/68c6d2e22c82c9dcca527114?utm_source=rss</guid>
     </item>
     <item>
+      <title>从 pbxproj 到 xcproj：Xcode 工程配置迎来 JSON 格式</title>
+      <link>https://fatbobman.com/zh/posts/from-pbxproj-to-xcproj/</link>
+      <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
+      <guid>https://fatbobman.com/zh/posts/from-pbxproj-to-xcproj/</guid>
+    </item>
+    <item>
       <title>iPhone Duo 带来的机遇与挑战 - 肘子的 Swift 周报 #153</title>
       <link>https://fatbobman.com/zh/weekly/issue-153/</link>
       <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
@@ -52,12 +58,6 @@
       <link>https://fatbobman.com/zh/weekly/issue-152/</link>
       <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
       <guid>https://fatbobman.com/zh/weekly/issue-152/</guid>
-    </item>
-    <item>
-      <title>SwiftData：优化从建模开始</title>
-      <link>https://fatbobman.com/zh/posts/swiftdata-optimization-starts-with-modeling/</link>
-      <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
-      <guid>https://fatbobman.com/zh/posts/swiftdata-optimization-starts-with-modeling/</guid>
     </item>
     <item>
       <title>如何解决 Unexpected token =</title>
@@ -96,6 +96,12 @@
       <guid>https://zelikk.blogspot.com/2026/09/blogspot-blogger-editor-iframe-css-wysiwyg.html</guid>
     </item>
     <item>
+      <title>科技爱好者周刊（第 413 期）：再见了，React Native</title>
+      <link>http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html</link>
+      <description>对我来说，博客首先是一种知识管理工具，其次才是传播工具。我的技术文章，主要用来整理我还不懂的知识。我只写那些我还没有完全掌握的东西，那些我精通的东西，往往没有动力写。炫耀从来不是我的动机，好奇才是。</description>
+      <guid>http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html</guid>
+    </item>
+    <item>
       <title>科技爱好者周刊（第 412 期）：禁止 issue，只用 PR</title>
       <link>http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html</link>
       <description>对我来说，博客首先是一种知识管理工具，其次才是传播工具。我的技术文章，主要用来整理我还不懂的知识。我只写那些我还没有完全掌握的东西，那些我精通的东西，往往没有动力写。炫耀从来不是我的动机，好奇才是。</description>
@@ -108,10 +114,10 @@
       <guid>http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html</guid>
     </item>
     <item>
-      <title>科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制</title>
-      <link>http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html</link>
-      <description>对我来说，博客首先是一种知识管理工具，其次才是传播工具。我的技术文章，主要用来整理我还不懂的知识。我只写那些我还没有完全掌握的东西，那些我精通的东西，往往没有动力写。炫耀从来不是我的动机，好奇才是。</description>
-      <guid>http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html</guid>
+      <title>根本看不过来</title>
+      <link>https://www.hecaitou.com/2026/09/Impossible-to-Keep-Up.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/09/Impossible-to-Keep-Up.html</guid>
     </item>
     <item>
       <title>从灵感到施工</title>
@@ -126,10 +132,22 @@
       <guid>https://www.hecaitou.com/2026/09/inspiration-doesnt-make-house-calls.html</guid>
     </item>
     <item>
-      <title>给城里人搞点事情</title>
-      <link>https://www.hecaitou.com/2026/09/giving-city-folks-something-to-do.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/09/giving-city-folks-something-to-do.html</guid>
+      <title>是微服务架构不香还是云不香？</title>
+      <link>https://coolshell.cn/articles/22422.html</link>
+      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
+      <guid>https://coolshell.cn/articles/22422.html</guid>
+    </item>
+    <item>
+      <title>我看ChatGPT: 为啥谷歌掉了千亿美金</title>
+      <link>https://coolshell.cn/articles/22398.html</link>
+      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
+      <guid>https://coolshell.cn/articles/22398.html</guid>
+    </item>
+    <item>
+      <title>聊聊 nostr 和 审查</title>
+      <link>https://coolshell.cn/articles/22367.html</link>
+      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
+      <guid>https://coolshell.cn/articles/22367.html</guid>
     </item>
     <item>
       <title>2016 年，我做过一次 AI 写代码创业</title>
@@ -150,16 +168,16 @@
       <guid>http://blog.youxu.info/2021/11/01/after-fire/</guid>
     </item>
     <item>
+      <title>最新微博：2026 年 9 月 17 日</title>
+      <link>https://www.changhai.org/articles/miscellaneous/blog/202609.php#latest</link>
+      <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
+      <guid>https://www.changhai.org/articles/miscellaneous/blog/202609.php#latest</guid>
+    </item>
+    <item>
       <title>Latest post on Threads：2026.09.16</title>
       <link>https://www.changhai.org/articles/miscellaneous/eblog/202609.php#latest</link>
       <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
       <guid>https://www.changhai.org/articles/miscellaneous/eblog/202609.php#latest</guid>
-    </item>
-    <item>
-      <title>最新微博：2026 年 9 月 13 日</title>
-      <link>https://www.changhai.org/articles/miscellaneous/blog/202609.php#latest</link>
-      <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
-      <guid>https://www.changhai.org/articles/miscellaneous/blog/202609.php#latest</guid>
     </item>
     <item>
       <title>微言小义 (2026.07 - 2026.08)</title>
@@ -206,7 +224,7 @@
     <item>
       <title>让炼丹更科学一些（九）：经典自适应梯度算法</title>
       <link>https://spaces.ac.cn/archives/11882</link>
-      <description>探索自适应梯度算法起源，重温经典AdaGrad论文。</description>
+      <description>本文回顾经典论文《Adaptive Subgradient Methods》，探讨自适应梯度算法的起源与发展。</description>
       <guid>https://spaces.ac.cn/archives/11882</guid>
     </item>
     <item>
@@ -288,6 +306,12 @@
       <guid>https://www.gtdstudy.com/guestbook/79160fdf-d95f-4270-aa68-fe4c84ab5178/</guid>
     </item>
     <item>
+      <title>Fragments 0x0007</title>
+      <link>https://lenciel.com/2026/09/fragments-0x0007/</link>
+      <description>AI反馈回路本质是自我构建的陷阱，布朗运动中寻生活温暖。</description>
+      <guid>https://lenciel.com/2026/09/fragments-0x0007/</guid>
+    </item>
+    <item>
       <title>Fragments 0x0006</title>
       <link>https://lenciel.com/2026/09/fragments-0x0006/</link>
       <description/>
@@ -296,14 +320,8 @@
     <item>
       <title>Fragments 0x0005</title>
       <link>https://lenciel.com/2026/09/fragments-0x0005/</link>
-      <description>年轻人在选择大学志愿和工作时，先尝试三个热门领域，再考虑其他选择。</description>
+      <description>年轻人在选择大学和专业、第一份工作时，建议先尝试热门领域。</description>
       <guid>https://lenciel.com/2026/09/fragments-0x0005/</guid>
-    </item>
-    <item>
-      <title>fragments 0x0004</title>
-      <link>https://lenciel.com/2026/09/fragments-0x0004/</link>
-      <description/>
-      <guid>https://lenciel.com/2026/09/fragments-0x0004/</guid>
     </item>
     <item>
       <title>骆驼、狮子、孩子、路飞、大笑</title>
@@ -416,19 +434,19 @@
     <item>
       <title>折腾半天终于办下来了：0 元与免实体地址申请个体工商户营业执照</title>
       <link>https://battlele.com/individual-business-guide/</link>
-      <description>零成本办理个体户执照，轻松应对管理费减免。</description>
+      <description>零成本免地址，轻松申请个体户营业执照。</description>
       <guid>https://battlele.com/individual-business-guide/</guid>
     </item>
     <item>
       <title>香港汇丰 Pulse 银联双币钻石信用卡</title>
       <link>https://battlele.com/hsbc-pulse/</link>
-      <description>香港汇丰Pulse银联双币钻石卡七月大放水，申请与激活流程详解。</description>
+      <description>香港汇丰Pulse银联卡7月大放水，注册便捷，绑定Apple Pay体验佳。</description>
       <guid>https://battlele.com/hsbc-pulse/</guid>
     </item>
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台游记：体验当地美食，探访国清寺，享受宁静假期。</description>
+      <description>天台之旅，品尝特色小吃，游览国清寺，享受悠闲假期。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
@@ -470,38 +488,38 @@
     <item>
       <title>2026.9.16</title>
       <link>https://www.justzht.com/2026-9-16/</link>
-      <description>移民路途多波折，生活依旧有期待。</description>
+      <description>移民申请受阻，生活规划受影响，但仍有音乐和车作为慰藉。</description>
       <guid>https://www.justzht.com/2026-9-16/</guid>
     </item>
     <item>
       <title>2026.9.13</title>
       <link>https://www.justzht.com/2026-9-13/</link>
-      <description>Epoch更新，新元素加入，作者分享生活点滴。</description>
+      <description>Epoch更新，模拟宇宙项目进展，生活琐事与期待。</description>
       <guid>https://www.justzht.com/2026-9-13/</guid>
     </item>
     <item>
       <title>2026.9.10</title>
       <link>https://www.justzht.com/2026-9-10/</link>
-      <description>周末闲散生活，看电影，关注手动挡车，忙于Epoch Playdate版本开发。</description>
+      <description>周末闲散生活，看电影，关注Epoch Playdate开发，考虑买新车。</description>
       <guid>https://www.justzht.com/2026-9-10/</guid>
+    </item>
+    <item>
+      <title>Blog Theme Update Mermaid Support Is Here</title>
+      <link>https://www.bboy.app/2026/09/17/blog-theme-update-mermaid-support-is-here/</link>
+      <description>描述：一个分享个人见解、关注项目更新和技术文章的博客。</description>
+      <guid>https://www.bboy.app/2026/09/17/blog-theme-update-mermaid-support-is-here/</guid>
+    </item>
+    <item>
+      <title>博客主题更新：现在支持 Mermaid 了</title>
+      <link>https://www.bboy.app/2026/09/17/%E5%8D%9A%E5%AE%A2%E4%B8%BB%E9%A2%98%E6%9B%B4%E6%96%B0%E7%8E%B0%E5%9C%A8%E6%94%AF%E6%8C%81-mermaid-%E4%BA%86/</link>
+      <description>描述：一个分享个人见解、关注项目更新和技术文章的博客。</description>
+      <guid>https://www.bboy.app/2026/09/17/%E5%8D%9A%E5%AE%A2%E4%B8%BB%E9%A2%98%E6%9B%B4%E6%96%B0%E7%8E%B0%E5%9C%A8%E6%94%AF%E6%8C%81-mermaid-%E4%BA%86/</guid>
     </item>
     <item>
       <title>I Recreated My Own Version of TickTick with AI</title>
       <link>https://www.bboy.app/2026/09/09/i-recreated-my-own-version-of-ticktick-with-ai/</link>
       <description>描述：一个分享个人见解、关注项目更新和技术文章的博客。</description>
       <guid>https://www.bboy.app/2026/09/09/i-recreated-my-own-version-of-ticktick-with-ai/</guid>
-    </item>
-    <item>
-      <title>我用 AI 复刻了一个自己的 TickTick</title>
-      <link>https://www.bboy.app/2026/09/09/%E6%88%91%E7%94%A8-ai-%E5%A4%8D%E5%88%BB%E4%BA%86%E4%B8%80%E4%B8%AA%E8%87%AA%E5%B7%B1%E7%9A%84-ticktick/</link>
-      <description>描述：一个分享个人见解、关注项目更新和技术文章的博客。</description>
-      <guid>https://www.bboy.app/2026/09/09/%E6%88%91%E7%94%A8-ai-%E5%A4%8D%E5%88%BB%E4%BA%86%E4%B8%80%E4%B8%AA%E8%87%AA%E5%B7%B1%E7%9A%84-ticktick/</guid>
-    </item>
-    <item>
-      <title>Blog Theme Update Easier-to-Read Articles and Code Blocks</title>
-      <link>https://www.bboy.app/2026/09/03/blog-theme-update-easier-to-read-articles-and-code-blocks/</link>
-      <description>描述：一个分享个人见解、关注项目更新和技术文章的博客。</description>
-      <guid>https://www.bboy.app/2026/09/03/blog-theme-update-easier-to-read-articles-and-code-blocks/</guid>
     </item>
     <item>
       <title>【每日一面】事件模型与事件委托</title>
