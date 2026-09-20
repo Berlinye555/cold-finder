@@ -114,22 +114,22 @@
       <guid>http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html</guid>
     </item>
     <item>
+      <title>网友网络老</title>
+      <link>https://www.hecaitou.com/2026/09/blog-post.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/09/blog-post.html</guid>
+    </item>
+    <item>
+      <title>来自老友的照片</title>
+      <link>https://www.hecaitou.com/2026/09/photos-of-an-old-friend.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/09/photos-of-an-old-friend.html</guid>
+    </item>
+    <item>
       <title>技术恶性循环</title>
       <link>https://www.hecaitou.com/2026/09/fixing-tech-with-tech-a-vicious-cycle.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/09/fixing-tech-with-tech-a-vicious-cycle.html</guid>
-    </item>
-    <item>
-      <title>根本看不过来</title>
-      <link>https://www.hecaitou.com/2026/09/Impossible-to-Keep-Up.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/09/Impossible-to-Keep-Up.html</guid>
-    </item>
-    <item>
-      <title>从灵感到施工</title>
-      <link>https://www.hecaitou.com/2026/09/From-Spark-to-Breaking-Ground.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/09/From-Spark-to-Breaking-Ground.html</guid>
     </item>
     <item>
       <title>是微服务架构不香还是云不香？</title>
@@ -218,19 +218,19 @@
     <item>
       <title>让炼丹更科学一些（十）：单调性假设的拆与补</title>
       <link>https://spaces.ac.cn/archives/11885</link>
-      <description>本文探讨如何突破学习率策略限制，推广自适应梯度算法收敛理论。</description>
+      <description>本文探讨如何放宽经典自适应梯度算法中的单调性假设，扩展其理论框架。</description>
       <guid>https://spaces.ac.cn/archives/11885</guid>
     </item>
     <item>
       <title>让炼丹更科学一些（九）：经典自适应梯度算法</title>
       <link>https://spaces.ac.cn/archives/11882</link>
-      <description>本文重温经典论文《Adaptive Subgradient Methods》，深入探讨自适应梯度算法的起源与发展。</description>
+      <description>探索自适应梯度算法之源，AdaGrad引领优化器新潮流。</description>
       <guid>https://spaces.ac.cn/archives/11882</guid>
     </item>
     <item>
       <title>让炼丹更科学一些（八）：多阶段训练的学习率</title>
       <link>https://spaces.ac.cn/archives/11879</link>
-      <description>探讨多阶段训练中学习率调度的优化策略。</description>
+      <description>探讨多阶段训练学习率，实现更科学炼丹。</description>
       <guid>https://spaces.ac.cn/archives/11879</guid>
     </item>
     <item>
@@ -306,9 +306,15 @@
       <guid>https://www.gtdstudy.com/guestbook/79160fdf-d95f-4270-aa68-fe4c84ab5178/</guid>
     </item>
     <item>
+      <title>Fragments 0x0008</title>
+      <link>https://lenciel.com/2026/09/fragments-0x0008/</link>
+      <description>A社推迟上市，Rust社区发安全告示，智谱编辑器被挂路灯。</description>
+      <guid>https://lenciel.com/2026/09/fragments-0x0008/</guid>
+    </item>
+    <item>
       <title>Fragments 0x0007</title>
       <link>https://lenciel.com/2026/09/fragments-0x0007/</link>
-      <description>AI Loop反馈回路，构建与被构建的辩证。</description>
+      <description>反思AI圈流行的Loop，揭示反馈回路中的根本Loop。</description>
       <guid>https://lenciel.com/2026/09/fragments-0x0007/</guid>
     </item>
     <item>
@@ -316,12 +322,6 @@
       <link>https://lenciel.com/2026/09/fragments-0x0006/</link>
       <description/>
       <guid>https://lenciel.com/2026/09/fragments-0x0006/</guid>
-    </item>
-    <item>
-      <title>Fragments 0x0005</title>
-      <link>https://lenciel.com/2026/09/fragments-0x0005/</link>
-      <description>年轻人在选择大学志愿和工作时，先尝试融入三个圈，再考虑其他机会。</description>
-      <guid>https://lenciel.com/2026/09/fragments-0x0005/</guid>
     </item>
     <item>
       <title>骆驼、狮子、孩子、路飞、大笑</title>
@@ -440,13 +440,13 @@
     <item>
       <title>香港汇丰 Pulse 银联双币钻石信用卡</title>
       <link>https://battlele.com/hsbc-pulse/</link>
-      <description>香港汇丰Pulse银联卡7月大放水，内地用户可享优惠。</description>
+      <description>香港汇丰Pulse银联卡7月大放水，内地用户可通过400热线快速申请。</description>
       <guid>https://battlele.com/hsbc-pulse/</guid>
     </item>
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台之旅，体验特色小吃与古寺风情。</description>
+      <description>天台游记：体验当地美食，探访国清寺，享受悠闲假期。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
@@ -488,19 +488,19 @@
     <item>
       <title>2026.9.16</title>
       <link>https://www.justzht.com/2026-9-16/</link>
-      <description>移民申请受阻，生活小确幸慰藉心情。</description>
+      <description>移民结果出，升职未定，周末有音乐会和看车。</description>
       <guid>https://www.justzht.com/2026-9-16/</guid>
     </item>
     <item>
       <title>2026.9.13</title>
       <link>https://www.justzht.com/2026-9-13/</link>
-      <description>Epoch更新，周末北边写代码，准备申请工资，学手动挡，看DUNE 3两次。</description>
+      <description>Epoch更新，新元素加入，个人生活小记。</description>
       <guid>https://www.justzht.com/2026-9-13/</guid>
     </item>
     <item>
       <title>2026.9.10</title>
       <link>https://www.justzht.com/2026-9-10/</link>
-      <description>周末闲暇时光，忙于Epoch Playdate开发，还看了一场Akira重映。</description>
+      <description>周末闲散生活，看电影，关注Epoch Playdate开发，考虑购车。</description>
       <guid>https://www.justzht.com/2026-9-10/</guid>
     </item>
     <item>
