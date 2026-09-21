@@ -114,6 +114,12 @@
       <guid>http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html</guid>
     </item>
     <item>
+      <title>让我头大的两个问题</title>
+      <link>https://www.hecaitou.com/2026/09/two-questions-that-give-me-a-headache.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/09/two-questions-that-give-me-a-headache.html</guid>
+    </item>
+    <item>
       <title>网友网络老</title>
       <link>https://www.hecaitou.com/2026/09/blog-post.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
@@ -124,12 +130,6 @@
       <link>https://www.hecaitou.com/2026/09/photos-of-an-old-friend.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/09/photos-of-an-old-friend.html</guid>
-    </item>
-    <item>
-      <title>技术恶性循环</title>
-      <link>https://www.hecaitou.com/2026/09/fixing-tech-with-tech-a-vicious-cycle.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/09/fixing-tech-with-tech-a-vicious-cycle.html</guid>
     </item>
     <item>
       <title>是微服务架构不香还是云不香？</title>
@@ -168,7 +168,7 @@
       <guid>http://blog.youxu.info/2021/11/01/after-fire/</guid>
     </item>
     <item>
-      <title>最新微博：2026 年 9 月 18 日</title>
+      <title>最新微博：2026 年 9 月 20 日</title>
       <link>https://www.changhai.org/articles/miscellaneous/blog/202609.php#latest</link>
       <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
       <guid>https://www.changhai.org/articles/miscellaneous/blog/202609.php#latest</guid>
@@ -218,19 +218,19 @@
     <item>
       <title>让炼丹更科学一些（十）：单调性假设的拆与补</title>
       <link>https://spaces.ac.cn/archives/11885</link>
-      <description>本文探讨如何放宽经典自适应梯度算法中的单调性假设，扩展其理论框架。</description>
+      <description>本文探讨如何放宽经典自适应梯度算法的约束条件，拓展收敛理论。</description>
       <guid>https://spaces.ac.cn/archives/11885</guid>
     </item>
     <item>
       <title>让炼丹更科学一些（九）：经典自适应梯度算法</title>
       <link>https://spaces.ac.cn/archives/11882</link>
-      <description>探索自适应梯度算法之源，AdaGrad引领优化器新潮流。</description>
+      <description>回顾经典AdaGrad算法，探讨自适应梯度算法发展。</description>
       <guid>https://spaces.ac.cn/archives/11882</guid>
     </item>
     <item>
       <title>让炼丹更科学一些（八）：多阶段训练的学习率</title>
       <link>https://spaces.ac.cn/archives/11879</link>
-      <description>探讨多阶段训练学习率，实现更科学炼丹。</description>
+      <description>探讨多阶段训练学习率优化，实现训练过程简化。</description>
       <guid>https://spaces.ac.cn/archives/11879</guid>
     </item>
     <item>
@@ -314,7 +314,7 @@
     <item>
       <title>Fragments 0x0007</title>
       <link>https://lenciel.com/2026/09/fragments-0x0007/</link>
-      <description>反思AI圈流行的Loop，揭示反馈回路中的根本Loop。</description>
+      <description>AI圈流行Loop，作者质疑其本质，倡导温暖舒适的布朗运动。</description>
       <guid>https://lenciel.com/2026/09/fragments-0x0007/</guid>
     </item>
     <item>
@@ -434,13 +434,13 @@
     <item>
       <title>折腾半天终于办下来了：0 元与免实体地址申请个体工商户营业执照</title>
       <link>https://battlele.com/individual-business-guide/</link>
-      <description>折腾半天终于办下来了：0 元与免实体地址申请个体工商户营业执照</description>
+      <description>零成本申请个体户执照，只需网店地址，轻松搞定！</description>
       <guid>https://battlele.com/individual-business-guide/</guid>
     </item>
     <item>
       <title>香港汇丰 Pulse 银联双币钻石信用卡</title>
       <link>https://battlele.com/hsbc-pulse/</link>
-      <description>香港汇丰Pulse银联卡7月大放水，内地用户可通过400热线快速申请。</description>
+      <description>香港汇丰Pulse银联卡7月大放水，内地用户攻略全解析。</description>
       <guid>https://battlele.com/hsbc-pulse/</guid>
     </item>
     <item>
@@ -488,7 +488,7 @@
     <item>
       <title>2026.9.16</title>
       <link>https://www.justzht.com/2026-9-16/</link>
-      <description>移民结果出，升职未定，周末有音乐会和看车。</description>
+      <description>移民申请受挫，生活规划受影响。</description>
       <guid>https://www.justzht.com/2026-9-16/</guid>
     </item>
     <item>
@@ -500,7 +500,7 @@
     <item>
       <title>2026.9.10</title>
       <link>https://www.justzht.com/2026-9-10/</link>
-      <description>周末闲散生活，看电影，关注Epoch Playdate开发，考虑购车。</description>
+      <description>周末闲散，看电影，关注Epoch Playdate开发，考虑购车。</description>
       <guid>https://www.justzht.com/2026-9-10/</guid>
     </item>
     <item>
