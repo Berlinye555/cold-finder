@@ -114,6 +114,12 @@
       <guid>http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html</guid>
     </item>
     <item>
+      <title>今年抱怨的人要比去年更多一些</title>
+      <link>https://www.hecaitou.com/2026/09/More-Complaints-This-Year-Than-Last.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/09/More-Complaints-This-Year-Than-Last.html</guid>
+    </item>
+    <item>
       <title>在网上膨胀</title>
       <link>https://www.hecaitou.com/2026/09/Inflating-Online.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
@@ -124,12 +130,6 @@
       <link>https://www.hecaitou.com/2026/09/two-questions-that-give-me-a-headache.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/09/two-questions-that-give-me-a-headache.html</guid>
-    </item>
-    <item>
-      <title>网友网络老</title>
-      <link>https://www.hecaitou.com/2026/09/blog-post.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/09/blog-post.html</guid>
     </item>
     <item>
       <title>是微服务架构不香还是云不香？</title>
@@ -168,28 +168,22 @@
       <guid>http://blog.youxu.info/2021/11/01/after-fire/</guid>
     </item>
     <item>
+      <title>最新微博：2026 年 9 月 22日</title>
+      <link>https://www.changhai.org/articles/miscellaneous/blog/202609.php#latest</link>
+      <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
+      <guid>https://www.changhai.org/articles/miscellaneous/blog/202609.php#latest</guid>
+    </item>
+    <item>
       <title>Latest post on Threads：2026.09.21</title>
       <link>https://www.changhai.org/articles/miscellaneous/eblog/202609.php#latest</link>
       <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
       <guid>https://www.changhai.org/articles/miscellaneous/eblog/202609.php#latest</guid>
     </item>
     <item>
-      <title>最新微博：2026 年 9 月 20 日</title>
-      <link>https://www.changhai.org/articles/miscellaneous/blog/202609.php#latest</link>
-      <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
-      <guid>https://www.changhai.org/articles/miscellaneous/blog/202609.php#latest</guid>
-    </item>
-    <item>
       <title>微言小义 (2026.07 - 2026.08)</title>
       <link>https://www.changhai.org/articles/miscellaneous/blog/202607.php</link>
       <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
       <guid>https://www.changhai.org/articles/miscellaneous/blog/202607.php</guid>
-    </item>
-    <item>
-      <title>Fuck off, smartness</title>
-      <link>https://blog.yitianshijie.net/2026/09/14/fuck-off-smartness/</link>
-      <description>代表文章：《[李如一 | 论推荐之难](</description>
-      <guid>https://blog.yitianshijie.net/2026/09/14/fuck-off-smartness/</guid>
     </item>
     <item>
       <title>AI的说服 靠的不是懂你 是把你淹没</title>
@@ -212,19 +206,19 @@
     <item>
       <title>排序不等式及其推广</title>
       <link>https://spaces.ac.cn/archives/11910</link>
-      <description>探索排序不等式的经典与推广，揭示其在矩阵世界的深刻对应。</description>
+      <description>探索排序不等式及其在矩阵和多序列领域的深刻应用与推广。</description>
       <guid>https://spaces.ac.cn/archives/11910</guid>
     </item>
     <item>
       <title>让炼丹更科学一些（十）：单调性假设的拆与补</title>
       <link>https://spaces.ac.cn/archives/11885</link>
-      <description>本文探讨如何将经典自适应梯度算法推广至更广泛的情形，突破学习率策略和预条件矩阵的限制。</description>
+      <description>本文探讨如何突破经典自适应梯度算法的约束，推广收敛理论。</description>
       <guid>https://spaces.ac.cn/archives/11885</guid>
     </item>
     <item>
       <title>让炼丹更科学一些（九）：经典自适应梯度算法</title>
       <link>https://spaces.ac.cn/archives/11882</link>
-      <description>回顾经典AdaGrad论文，探索自适应梯度算法的传承与发展。</description>
+      <description>重温经典AdaGrad论文，探索自适应梯度算法之源。</description>
       <guid>https://spaces.ac.cn/archives/11882</guid>
     </item>
     <item>
@@ -282,22 +276,28 @@
       <guid>https://greatdk.com/2113.html</guid>
     </item>
     <item>
-      <title>来信 · 莫良</title>
-      <link>https://www.gtdstudy.com/guestbook/87f68869-3498-4076-94c5-d8537125e557/</link>
-      <description/>
-      <guid>https://www.gtdstudy.com/guestbook/87f68869-3498-4076-94c5-d8537125e557/</guid>
+      <title>深呼吸</title>
+      <link>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</link>
+      <description>一周内Awesome-Jev星标破千，分享项目进展与思考。</description>
+      <guid>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</guid>
     </item>
     <item>
       <title>动起来，否则你就要费劲思考了</title>
       <link>https://www.gtdstudy.com/posts/2026-09-15-pascal/</link>
-      <description/>
+      <description>动笔重逢，X粉丝破5000，打字75wpm，封存SPEC-AGENTS。</description>
       <guid>https://www.gtdstudy.com/posts/2026-09-15-pascal/</guid>
     </item>
     <item>
-      <title>来信 · 莫良</title>
-      <link>https://www.gtdstudy.com/guestbook/79160fdf-d95f-4270-aa68-fe4c84ab5178/</link>
-      <description/>
-      <guid>https://www.gtdstudy.com/guestbook/79160fdf-d95f-4270-aa68-fe4c84ab5178/</guid>
+      <title>质变带来成功，量变则不会</title>
+      <link>https://www.gtdstudy.com/posts/2026-07-27/</link>
+      <description>《卓越的日常性》：揭示卓越背后的质变与系统性。</description>
+      <guid>https://www.gtdstudy.com/posts/2026-07-27/</guid>
+    </item>
+    <item>
+      <title>Fragments 0x000A</title>
+      <link>https://lenciel.com/2026/09/fragments-0x000a/</link>
+      <description>情感碎片，等待无果的明天。</description>
+      <guid>https://lenciel.com/2026/09/fragments-0x000a/</guid>
     </item>
     <item>
       <title>Fragments 0x0009</title>
@@ -312,10 +312,10 @@
       <guid>https://lenciel.com/2026/09/fragments-0x0008/</guid>
     </item>
     <item>
-      <title>Fragments 0x0007</title>
-      <link>https://lenciel.com/2026/09/fragments-0x0007/</link>
-      <description>AI Loop 反馈回路构建，生活布朗运动中的温暖舒适。</description>
-      <guid>https://lenciel.com/2026/09/fragments-0x0007/</guid>
+      <title>不想好就开口的是什么人</title>
+      <link>https://kaix.in/2026/0922/</link>
+      <description>因多次更换 blog 程序，2004 年至今存留 548 篇日志，主要涉及咖啡、影音、阅读、生活记录等内容。</description>
+      <guid>https://kaix.in/2026/0922/</guid>
     </item>
     <item>
       <title>骆驼、狮子、孩子、路飞、大笑</title>
@@ -328,12 +328,6 @@
       <link>https://kaix.in/2026/0829/</link>
       <description>因多次更换 blog 程序，2004 年至今存留 548 篇日志，主要涉及咖啡、影音、阅读、生活记录等内容。</description>
       <guid>https://kaix.in/2026/0829/</guid>
-    </item>
-    <item>
-      <title>人不知而不愠</title>
-      <link>https://kaix.in/2026/0827/</link>
-      <description>因多次更换 blog 程序，2004 年至今存留 548 篇日志，主要涉及咖啡、影音、阅读、生活记录等内容。</description>
-      <guid>https://kaix.in/2026/0827/</guid>
     </item>
     <item>
       <title>2025 重新定义的生活</title>
@@ -428,19 +422,19 @@
     <item>
       <title>折腾半天终于办下来了：0 元与免实体地址申请个体工商户营业执照</title>
       <link>https://battlele.com/individual-business-guide/</link>
-      <description>折腾半天终于办下来了：0 元与免实体地址申请个体工商户营业执照</description>
+      <description>零成本免地址，轻松申请个体户营业执照。</description>
       <guid>https://battlele.com/individual-business-guide/</guid>
     </item>
     <item>
       <title>香港汇丰 Pulse 银联双币钻石信用卡</title>
       <link>https://battlele.com/hsbc-pulse/</link>
-      <description>香港汇丰Pulse银联双币钻石信用卡七月大放水，申请流程及使用指南。</description>
+      <description>香港汇丰Pulse银联双币钻石卡七月大放水，申请、激活及绑定Apple Pay全攻略。</description>
       <guid>https://battlele.com/hsbc-pulse/</guid>
     </item>
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台游记：体验台州天台，品尝特色小吃，游览国清寺。</description>
+      <description>天台游记：体验地道的台州美食，探访国清寺古韵。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
@@ -482,7 +476,7 @@
     <item>
       <title>2026.9.16</title>
       <link>https://www.justzht.com/2026-9-16/</link>
-      <description>移民申请受阻，生活规划受影响。</description>
+      <description>移民申请受阻，生活计划受影响。</description>
       <guid>https://www.justzht.com/2026-9-16/</guid>
     </item>
     <item>
@@ -494,7 +488,7 @@
     <item>
       <title>2026.9.10</title>
       <link>https://www.justzht.com/2026-9-10/</link>
-      <description>2026.9.10</description>
+      <description>周末宅家看电影，写游戏，考虑买二手车。</description>
       <guid>https://www.justzht.com/2026-9-10/</guid>
     </item>
     <item>
