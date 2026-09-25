@@ -78,6 +78,12 @@
       <guid>https://webfem.com/post/writing-platform-word-count-rules</guid>
     </item>
     <item>
+      <title>muse.ai 发现cpa-for-agentrouter-d4f 在非流式时会返回空内容 并进行修复</title>
+      <link>https://zelikk.blogspot.com/2026/09/museai-cpa-cliproxyapi-for-agentrouter-d4f-nonstream-fix.html</link>
+      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
+      <guid>https://zelikk.blogspot.com/2026/09/museai-cpa-cliproxyapi-for-agentrouter-d4f-nonstream-fix.html</guid>
+    </item>
+    <item>
       <title>修改版CPA cliproxyapi解决HTTP 400: The content[].thinking问题 继续白嫖agentrouter的deepseek-v4-flash 提供给Hermes使用</title>
       <link>https://zelikk.blogspot.com/2026/09/cpa-cliproxyapi-for-agentrouter-d4f-deepseek-v4-flash.html</link>
       <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
@@ -88,12 +94,6 @@
       <link>https://zelikk.blogspot.com/2026/09/forkgram-tdesktop-restore-playing-audio-file.html</link>
       <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
       <guid>https://zelikk.blogspot.com/2026/09/forkgram-tdesktop-restore-playing-audio-file.html</guid>
-    </item>
-    <item>
-      <title>从forkgram/tdesktop github action编译 win10 amd64 二进制文件 v7.2.8</title>
-      <link>https://zelikk.blogspot.com/2026/09/forkgram-tdesktop-github-action-win10-amd64-v728.html</link>
-      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
-      <guid>https://zelikk.blogspot.com/2026/09/forkgram-tdesktop-github-action-win10-amd64-v728.html</guid>
     </item>
     <item>
       <title>科技爱好者周刊（第 413 期）：再见了，React Native</title>
@@ -114,6 +114,12 @@
       <guid>http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html</guid>
     </item>
     <item>
+      <title>保持不好意思之心</title>
+      <link>https://www.hecaitou.com/2026/09/holding-onto-that-little-unease.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/09/holding-onto-that-little-unease.html</guid>
+    </item>
+    <item>
       <title>古早石榴味</title>
       <link>https://www.hecaitou.com/2026/09/old-taste-pomegranates.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
@@ -124,12 +130,6 @@
       <link>https://www.hecaitou.com/2026/09/More-Complaints-This-Year-Than-Last.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/09/More-Complaints-This-Year-Than-Last.html</guid>
-    </item>
-    <item>
-      <title>在网上膨胀</title>
-      <link>https://www.hecaitou.com/2026/09/Inflating-Online.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/09/Inflating-Online.html</guid>
     </item>
     <item>
       <title>是微服务架构不香还是云不香？</title>
@@ -168,7 +168,7 @@
       <guid>http://blog.youxu.info/2021/11/01/after-fire/</guid>
     </item>
     <item>
-      <title>最新微博：2026 年 9 月 23日</title>
+      <title>最新微博：2026 年 9 月 24 日</title>
       <link>https://www.changhai.org/articles/miscellaneous/blog/202609.php#latest</link>
       <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
       <guid>https://www.changhai.org/articles/miscellaneous/blog/202609.php#latest</guid>
@@ -206,19 +206,19 @@
     <item>
       <title>排序不等式及其推广</title>
       <link>https://spaces.ac.cn/archives/11910</link>
-      <description>探索排序不等式的经典与推广，矩阵对应及多序列扩展。</description>
+      <description>探索排序不等式的经典与推广，揭示其与冯·诺伊曼迹不等式的联系。</description>
       <guid>https://spaces.ac.cn/archives/11910</guid>
     </item>
     <item>
       <title>让炼丹更科学一些（十）：单调性假设的拆与补</title>
       <link>https://spaces.ac.cn/archives/11885</link>
-      <description>本文探讨如何放宽经典自适应梯度算法的假设，拓展其理论框架。</description>
+      <description>本文探讨如何扩展自适应梯度算法的收敛理论，突破学习率固定和预条件矩阵单调性限制。</description>
       <guid>https://spaces.ac.cn/archives/11885</guid>
     </item>
     <item>
       <title>让炼丹更科学一些（九）：经典自适应梯度算法</title>
       <link>https://spaces.ac.cn/archives/11882</link>
-      <description>回顾经典AdaGrad论文，探索自适应梯度算法的演变。</description>
+      <description>重温经典AdaGrad论文，探索自适应梯度算法之源。</description>
       <guid>https://spaces.ac.cn/archives/11882</guid>
     </item>
     <item>
@@ -278,25 +278,31 @@
     <item>
       <title>深呼吸</title>
       <link>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</link>
-      <description>一周内Awesome-Jev仓库星标破千，项目方向迭代迅速。</description>
+      <description>Awesome-Jev 仓库星标破千，议题迭代迅速。</description>
       <guid>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</guid>
     </item>
     <item>
       <title>动起来，否则你就要费劲思考了</title>
       <link>https://www.gtdstudy.com/posts/2026-09-15-pascal/</link>
-      <description>动笔重逢，X粉突破5000，打字75wpm，封存SPEC-AGENTS。</description>
+      <description>动笔写信，粉丝突破5000，打字速度提升，封存开发框架。</description>
       <guid>https://www.gtdstudy.com/posts/2026-09-15-pascal/</guid>
     </item>
     <item>
       <title>质变带来成功，量变则不会</title>
       <link>https://www.gtdstudy.com/posts/2026-07-27/</link>
-      <description>丹尼尔·F·钱布利斯教授揭示卓越源于质变与系统性。</description>
+      <description>丹尼尔·F·钱布利斯教授揭示卓越源于质变而非量变。</description>
       <guid>https://www.gtdstudy.com/posts/2026-07-27/</guid>
+    </item>
+    <item>
+      <title>Fragments 0x000B</title>
+      <link>https://lenciel.com/2026/09/fragments-0x000b/</link>
+      <description/>
+      <guid>https://lenciel.com/2026/09/fragments-0x000b/</guid>
     </item>
     <item>
       <title>Fragments 0x000A</title>
       <link>https://lenciel.com/2026/09/fragments-0x000a/</link>
-      <description>言语撕裂，明日瞬间成空，无因无期，等待无果。</description>
+      <description>言语撕裂，明日无期，等待无果。</description>
       <guid>https://lenciel.com/2026/09/fragments-0x000a/</guid>
     </item>
     <item>
@@ -304,12 +310,6 @@
       <link>https://lenciel.com/2026/09/fragments-0x0009/</link>
       <description/>
       <guid>https://lenciel.com/2026/09/fragments-0x0009/</guid>
-    </item>
-    <item>
-      <title>Fragments 0x0008</title>
-      <link>https://lenciel.com/2026/09/fragments-0x0008/</link>
-      <description>A社推迟上市，Rust社区发安全告示，智谱编辑器上传用户文件被曝光。</description>
-      <guid>https://lenciel.com/2026/09/fragments-0x0008/</guid>
     </item>
     <item>
       <title>不想好就开口的是什么人</title>
@@ -428,13 +428,13 @@
     <item>
       <title>香港汇丰 Pulse 银联双币钻石信用卡</title>
       <link>https://battlele.com/hsbc-pulse/</link>
-      <description>香港汇丰Pulse银联卡7月大放水，内地用户可享优惠。</description>
+      <description>香港汇丰Pulse银联卡7月大放水，内地用户注册指南全解析。</description>
       <guid>https://battlele.com/hsbc-pulse/</guid>
     </item>
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台游记：体验台州天台，品尝特色小吃，游览国清寺。</description>
+      <description>天台之旅，品美食，游国清寺，感受台州风情。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
@@ -476,13 +476,13 @@
     <item>
       <title>2026.9.22</title>
       <link>https://www.justzht.com/2026-9-22/</link>
-      <description>周末聚餐、购车、修车，肇事逃逸案件进展。</description>
+      <description>周末与友聚餐，购得老款宝马，处理肇事逃逸案件。</description>
       <guid>https://www.justzht.com/2026-9-22/</guid>
     </item>
     <item>
       <title>2026.9.16</title>
       <link>https://www.justzht.com/2026-9-16/</link>
-      <description>2026.9.16</description>
+      <description>移民结果揭晓，生活规划受影响。</description>
       <guid>https://www.justzht.com/2026-9-16/</guid>
     </item>
     <item>
