@@ -78,7 +78,13 @@
       <guid>https://webfem.com/post/writing-platform-word-count-rules</guid>
     </item>
     <item>
-      <title>用Agent部署 for-agentrouter-d4f 套娃</title>
+      <title>forkgram/tdesktop 在新窗口打开 带Topic的群组Forum 限定在topic中搜索</title>
+      <link>https://zelikk.blogspot.com/2026/09/forkgramtdesktop-topicforum-topic.html</link>
+      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
+      <guid>https://zelikk.blogspot.com/2026/09/forkgramtdesktop-topicforum-topic.html</guid>
+    </item>
+    <item>
+      <title>用Agent部署 cpa-for-agentrouter-d4f 套娃</title>
       <link>https://zelikk.blogspot.com/2026/09/agent-for-agentrouter-d4f.html</link>
       <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
       <guid>https://zelikk.blogspot.com/2026/09/agent-for-agentrouter-d4f.html</guid>
@@ -88,12 +94,6 @@
       <link>https://zelikk.blogspot.com/2026/09/museai-cpa-cliproxyapi-for-agentrouter-d4f-nonstream-fix.html</link>
       <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
       <guid>https://zelikk.blogspot.com/2026/09/museai-cpa-cliproxyapi-for-agentrouter-d4f-nonstream-fix.html</guid>
-    </item>
-    <item>
-      <title>修改版CPA cliproxyapi解决HTTP 400: The content[].thinking问题 继续白嫖agentrouter的deepseek-v4-flash 提供给Hermes使用</title>
-      <link>https://zelikk.blogspot.com/2026/09/cpa-cliproxyapi-for-agentrouter-d4f-deepseek-v4-flash.html</link>
-      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
-      <guid>https://zelikk.blogspot.com/2026/09/cpa-cliproxyapi-for-agentrouter-d4f-deepseek-v4-flash.html</guid>
     </item>
     <item>
       <title>科技爱好者周刊（第 413 期）：再见了，React Native</title>
@@ -114,6 +114,12 @@
       <guid>http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html</guid>
     </item>
     <item>
+      <title>第一次拜月娘</title>
+      <link>https://www.hecaitou.com/2026/09/worshipping-moon-goddess-first-time.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/09/worshipping-moon-goddess-first-time.html</guid>
+    </item>
+    <item>
       <title>终日网上翻垃圾</title>
       <link>https://www.hecaitou.com/2026/09/dumpster-diving-on-the-modern-web.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
@@ -124,12 +130,6 @@
       <link>https://www.hecaitou.com/2026/09/holding-onto-that-little-unease.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/09/holding-onto-that-little-unease.html</guid>
-    </item>
-    <item>
-      <title>古早石榴味</title>
-      <link>https://www.hecaitou.com/2026/09/old-taste-pomegranates.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/09/old-taste-pomegranates.html</guid>
     </item>
     <item>
       <title>是微服务架构不香还是云不香？</title>
@@ -186,12 +186,6 @@
       <guid>https://www.changhai.org/articles/miscellaneous/blog/202607.php</guid>
     </item>
     <item>
-      <title>六零日本書訊兩則</title>
-      <link>https://blog.yitianshijie.net/2026/09/25/two-new-books-on-60s-counterculture-in-japan/</link>
-      <description>代表文章：《[李如一 | 论推荐之难](</description>
-      <guid>https://blog.yitianshijie.net/2026/09/25/two-new-books-on-60s-counterculture-in-japan/</guid>
-    </item>
-    <item>
       <title>AI的说服 靠的不是懂你 是把你淹没</title>
       <link>http://weiwuhui.com/11101.html</link>
       <description>魏老师执教于上海交通大学媒体与传播学院，天奇创投基金管理合伙人。媒体行业的思考和见解，尽在魏老师。</description>
@@ -212,7 +206,7 @@
     <item>
       <title>排序不等式及其推广</title>
       <link>https://spaces.ac.cn/archives/11910</link>
-      <description>深入探讨排序不等式及其在矩阵和序列中的推广应用。</description>
+      <description>探索排序不等式的起源、推广及其矩阵对应物。</description>
       <guid>https://spaces.ac.cn/archives/11910</guid>
     </item>
     <item>
@@ -224,7 +218,7 @@
     <item>
       <title>让炼丹更科学一些（九）：经典自适应梯度算法</title>
       <link>https://spaces.ac.cn/archives/11882</link>
-      <description>本文回顾经典AdaGrad算法，探讨其影响下的自适应梯度优化器发展。</description>
+      <description>回顾经典AdaGrad论文，探索自适应梯度算法的起源与发展。</description>
       <guid>https://spaces.ac.cn/archives/11882</guid>
     </item>
     <item>
@@ -284,20 +278,26 @@
     <item>
       <title>深呼吸</title>
       <link>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</link>
-      <description>一周内Awesome-Jev星标破千，项目活跃，见证信息迭代速度。</description>
+      <description>一周内Awesome-Jev星标破千，项目迭代迅速。</description>
       <guid>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</guid>
     </item>
     <item>
       <title>动起来，否则你就要费劲思考了</title>
       <link>https://www.gtdstudy.com/posts/2026-09-15-pascal/</link>
-      <description>动笔重逢，X粉丝破5000，打字75wpm，封存SPEC-AGENTS。</description>
+      <description>动笔重逢，X粉破5000，打字75wpm，封存SPEC-AGENTS。</description>
       <guid>https://www.gtdstudy.com/posts/2026-09-15-pascal/</guid>
     </item>
     <item>
       <title>质变带来成功，量变则不会</title>
       <link>https://www.gtdstudy.com/posts/2026-07-27/</link>
-      <description>丹尼尔·F·钱布利斯揭示卓越源于系统性做事方式，而非单一量变。</description>
+      <description>《卓越的日常》揭示卓越源于质变，非量变，系统化训练关键。</description>
       <guid>https://www.gtdstudy.com/posts/2026-07-27/</guid>
+    </item>
+    <item>
+      <title>Fragments 0x000C</title>
+      <link>https://lenciel.com/2026/09/fragments-0x000c/</link>
+      <description/>
+      <guid>https://lenciel.com/2026/09/fragments-0x000c/</guid>
     </item>
     <item>
       <title>Fragments 0x000B</title>
@@ -308,14 +308,8 @@
     <item>
       <title>Fragments 0x000A</title>
       <link>https://lenciel.com/2026/09/fragments-0x000a/</link>
-      <description>言语撕裂，明日瞬间成空，等待无果。</description>
+      <description>文字撕裂心灵，等待无果的明天。</description>
       <guid>https://lenciel.com/2026/09/fragments-0x000a/</guid>
-    </item>
-    <item>
-      <title>Fragments 0x0009</title>
-      <link>https://lenciel.com/2026/09/fragments-0x0009/</link>
-      <description/>
-      <guid>https://lenciel.com/2026/09/fragments-0x0009/</guid>
     </item>
     <item>
       <title>不想好就开口的是什么人</title>
@@ -434,13 +428,13 @@
     <item>
       <title>香港汇丰 Pulse 银联双币钻石信用卡</title>
       <link>https://battlele.com/hsbc-pulse/</link>
-      <description>香港汇丰Pulse银联卡7月大放水，申请流程及使用攻略全解析。</description>
+      <description>香港汇丰Pulse银联双币钻石信用卡7月大放水，申请流程及注意事项全解析。</description>
       <guid>https://battlele.com/hsbc-pulse/</guid>
     </item>
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台游记，体验地道小吃与国清寺古韵。</description>
+      <description>天台游记：体验地道的台州美食，探访国清寺古韵。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
@@ -482,19 +476,19 @@
     <item>
       <title>2026.9.22</title>
       <link>https://www.justzht.com/2026-9-22/</link>
-      <description>周末与友聚餐，购置新车，处理肇事逃逸事宜。</description>
+      <description>周末与友相聚，购得心爱宝马，催收肇事逃逸进展。</description>
       <guid>https://www.justzht.com/2026-9-22/</guid>
     </item>
     <item>
       <title>2026.9.16</title>
       <link>https://www.justzht.com/2026-9-16/</link>
-      <description>今日NIW拒签，面签未果，思考未来方向。</description>
+      <description>等待电话、NIW拒签、周末安排。</description>
       <guid>https://www.justzht.com/2026-9-16/</guid>
     </item>
     <item>
       <title>2026.9.13</title>
       <link>https://www.justzht.com/2026-9-13/</link>
-      <description>Epoch更新，黑洞新元素，准备申请克扣工资，学习手动挡，期待看两次DUNE 3。</description>
+      <description>Epoch更新，新元素加入，个人生活小记。</description>
       <guid>https://www.justzht.com/2026-9-13/</guid>
     </item>
     <item>
