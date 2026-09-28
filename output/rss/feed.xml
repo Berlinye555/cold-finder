@@ -114,6 +114,12 @@
       <guid>http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html</guid>
     </item>
     <item>
+      <title>我的文化偏好</title>
+      <link>https://www.hecaitou.com/2026/09/my-cultural-preferences.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/09/my-cultural-preferences.html</guid>
+    </item>
+    <item>
       <title>第一次拜月娘</title>
       <link>https://www.hecaitou.com/2026/09/worshipping-moon-goddess-first-time.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
@@ -124,12 +130,6 @@
       <link>https://www.hecaitou.com/2026/09/dumpster-diving-on-the-modern-web.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/09/dumpster-diving-on-the-modern-web.html</guid>
-    </item>
-    <item>
-      <title>保持不好意思之心</title>
-      <link>https://www.hecaitou.com/2026/09/holding-onto-that-little-unease.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/09/holding-onto-that-little-unease.html</guid>
     </item>
     <item>
       <title>是微服务架构不香还是云不香？</title>
@@ -206,19 +206,19 @@
     <item>
       <title>排序不等式及其推广</title>
       <link>https://spaces.ac.cn/archives/11910</link>
-      <description>探索排序不等式的起源、推广及其矩阵对应物。</description>
+      <description>探索排序不等式的经典与推广，矩阵世界中的对应物及多序列、多矩阵的拓展。</description>
       <guid>https://spaces.ac.cn/archives/11910</guid>
     </item>
     <item>
       <title>让炼丹更科学一些（十）：单调性假设的拆与补</title>
       <link>https://spaces.ac.cn/archives/11885</link>
-      <description>本文探讨如何打破单调性假设，推广自适应梯度算法的收敛理论。</description>
+      <description>探索打破单调性假设，拓展自适应梯度算法收敛理论。</description>
       <guid>https://spaces.ac.cn/archives/11885</guid>
     </item>
     <item>
       <title>让炼丹更科学一些（九）：经典自适应梯度算法</title>
       <link>https://spaces.ac.cn/archives/11882</link>
-      <description>回顾经典AdaGrad论文，探索自适应梯度算法的起源与发展。</description>
+      <description>让炼丹更科学一些（九）：经典自适应梯度算法</description>
       <guid>https://spaces.ac.cn/archives/11882</guid>
     </item>
     <item>
@@ -278,19 +278,19 @@
     <item>
       <title>深呼吸</title>
       <link>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</link>
-      <description>一周内Awesome-Jev星标破千，项目迭代迅速。</description>
+      <description>一周内，Awesome-Jev Github 仓库星标破千，分享项目成长与思考。</description>
       <guid>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</guid>
     </item>
     <item>
       <title>动起来，否则你就要费劲思考了</title>
       <link>https://www.gtdstudy.com/posts/2026-09-15-pascal/</link>
-      <description>动笔重逢，X粉破5000，打字75wpm，封存SPEC-AGENTS。</description>
+      <description>动笔重逢，粉丝破5000，打字75wpm，封存SPEC-AGENTS框架。</description>
       <guid>https://www.gtdstudy.com/posts/2026-09-15-pascal/</guid>
     </item>
     <item>
       <title>质变带来成功，量变则不会</title>
       <link>https://www.gtdstudy.com/posts/2026-07-27/</link>
-      <description>《卓越的日常》揭示卓越源于质变，非量变，系统化训练关键。</description>
+      <description>《卓越的日常性》：卓越源于系统性努力，非简单量变。</description>
       <guid>https://www.gtdstudy.com/posts/2026-07-27/</guid>
     </item>
     <item>
@@ -308,7 +308,7 @@
     <item>
       <title>Fragments 0x000A</title>
       <link>https://lenciel.com/2026/09/fragments-0x000a/</link>
-      <description>文字撕裂心灵，等待无果的明天。</description>
+      <description>言语撕裂，明日瞬间成空，等待无果。</description>
       <guid>https://lenciel.com/2026/09/fragments-0x000a/</guid>
     </item>
     <item>
@@ -428,13 +428,13 @@
     <item>
       <title>香港汇丰 Pulse 银联双币钻石信用卡</title>
       <link>https://battlele.com/hsbc-pulse/</link>
-      <description>香港汇丰Pulse银联双币钻石信用卡7月大放水，申请流程及注意事项全解析。</description>
+      <description>香港汇丰Pulse银联双币钻石信用卡7月大放水，申请及使用攻略详解。</description>
       <guid>https://battlele.com/hsbc-pulse/</guid>
     </item>
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台游记：体验地道的台州美食，探访国清寺古韵。</description>
+      <description>天台之旅，美食美景两不误。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
@@ -474,22 +474,22 @@
       <guid>https://s5s5.me/4292</guid>
     </item>
     <item>
+      <title>2026.9.27</title>
+      <link>https://www.justzht.com/2026-9-27/</link>
+      <description>E39车机升级，生活与移民身份思考交织。</description>
+      <guid>https://www.justzht.com/2026-9-27/</guid>
+    </item>
+    <item>
       <title>2026.9.22</title>
       <link>https://www.justzht.com/2026-9-22/</link>
-      <description>周末与友相聚，购得心爱宝马，催收肇事逃逸进展。</description>
+      <description>周末与友聚餐，购得老款宝马，处理肇事逃逸案件。</description>
       <guid>https://www.justzht.com/2026-9-22/</guid>
     </item>
     <item>
       <title>2026.9.16</title>
       <link>https://www.justzht.com/2026-9-16/</link>
-      <description>等待电话、NIW拒签、周末安排。</description>
+      <description>移民申请受阻，生活小确幸慰藉心情。</description>
       <guid>https://www.justzht.com/2026-9-16/</guid>
-    </item>
-    <item>
-      <title>2026.9.13</title>
-      <link>https://www.justzht.com/2026-9-13/</link>
-      <description>Epoch更新，新元素加入，个人生活小记。</description>
-      <guid>https://www.justzht.com/2026-9-13/</guid>
     </item>
     <item>
       <title>Blog Theme Update Mermaid Support Is Here</title>
