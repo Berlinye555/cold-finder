@@ -42,6 +42,12 @@
       <guid>https://www.xiaoyuzhoufm.com/episode/68c6d2e22c82c9dcca527114?utm_source=rss</guid>
     </item>
     <item>
+      <title>让 AI 看见 SwiftUI：Xcode Preview MCP 的实践、陷阱与期待</title>
+      <link>https://fatbobman.com/zh/posts/letting-ai-see-swiftui/</link>
+      <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
+      <guid>https://fatbobman.com/zh/posts/letting-ai-see-swiftui/</guid>
+    </item>
+    <item>
       <title>iPhone Duo 留给开发者的一个月 - 肘子的 Swift 周报 #155</title>
       <link>https://fatbobman.com/zh/weekly/issue-155/</link>
       <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
@@ -52,12 +58,6 @@
       <link>https://fatbobman.com/zh/posts/arrangementview-think-before-you-arrange/</link>
       <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
       <guid>https://fatbobman.com/zh/posts/arrangementview-think-before-you-arrange/</guid>
-    </item>
-    <item>
-      <title>一场关于 SwiftUI 动画的“原生”之争 - 肘子的 Swift 周报 #154</title>
-      <link>https://fatbobman.com/zh/weekly/issue-154/</link>
-      <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
-      <guid>https://fatbobman.com/zh/weekly/issue-154/</guid>
     </item>
     <item>
       <title>如何解决 Unexpected token =</title>
@@ -114,6 +114,12 @@
       <guid>http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html</guid>
     </item>
     <item>
+      <title>同甘共苦电动牙刷</title>
+      <link>https://www.hecaitou.com/2026/09/through-thick-thin-modern-electric-toothbrush.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/09/through-thick-thin-modern-electric-toothbrush.html</guid>
+    </item>
+    <item>
       <title>从一到百千万</title>
       <link>https://www.hecaitou.com/2026/09/From-One-to-Millions.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
@@ -126,10 +132,22 @@
       <guid>https://www.hecaitou.com/2026/09/my-cultural-preferences.html</guid>
     </item>
     <item>
-      <title>第一次拜月娘</title>
-      <link>https://www.hecaitou.com/2026/09/worshipping-moon-goddess-first-time.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/09/worshipping-moon-goddess-first-time.html</guid>
+      <title>是微服务架构不香还是云不香？</title>
+      <link>https://coolshell.cn/articles/22422.html</link>
+      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
+      <guid>https://coolshell.cn/articles/22422.html</guid>
+    </item>
+    <item>
+      <title>我看ChatGPT: 为啥谷歌掉了千亿美金</title>
+      <link>https://coolshell.cn/articles/22398.html</link>
+      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
+      <guid>https://coolshell.cn/articles/22398.html</guid>
+    </item>
+    <item>
+      <title>聊聊 nostr 和 审查</title>
+      <link>https://coolshell.cn/articles/22367.html</link>
+      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
+      <guid>https://coolshell.cn/articles/22367.html</guid>
     </item>
     <item>
       <title>2016 年，我做过一次 AI 写代码创业</title>
@@ -150,16 +168,16 @@
       <guid>http://blog.youxu.info/2021/11/01/after-fire/</guid>
     </item>
     <item>
+      <title>最新微博：2026 年 9 月 29 日</title>
+      <link>https://www.changhai.org/articles/miscellaneous/blog/202609.php#latest</link>
+      <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
+      <guid>https://www.changhai.org/articles/miscellaneous/blog/202609.php#latest</guid>
+    </item>
+    <item>
       <title>罗斯福岛缆车景观</title>
       <link>https://www.youtube.com/watch?v=Ap2eimdu5qw</link>
       <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
       <guid>https://www.youtube.com/watch?v=Ap2eimdu5qw</guid>
-    </item>
-    <item>
-      <title>最新微博：2026 年 9 月 25 日</title>
-      <link>https://www.changhai.org/articles/miscellaneous/blog/202609.php#latest</link>
-      <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
-      <guid>https://www.changhai.org/articles/miscellaneous/blog/202609.php#latest</guid>
     </item>
     <item>
       <title>Latest post on Threads：2026.09.21</title>
@@ -188,7 +206,7 @@
     <item>
       <title>慢即是快：1. Shampoo的尽头是Muon？</title>
       <link>https://spaces.ac.cn/archives/11917</link>
-      <description>Shampoo优化器系列或趋同于Muon，预条件优化可能无效。</description>
+      <description>Shampoo系优化器虽多，但极限可能均指向Muon。</description>
       <guid>https://spaces.ac.cn/archives/11917</guid>
     </item>
     <item>
@@ -200,7 +218,7 @@
     <item>
       <title>让炼丹更科学一些（十）：单调性假设的拆与补</title>
       <link>https://spaces.ac.cn/archives/11885</link>
-      <description>探索打破学习率策略限制与预条件矩阵单调性假设，推广自适应梯度算法收敛理论。</description>
+      <description>本文探讨如何突破学习率策略限制，推广自适应梯度算法收敛理论。</description>
       <guid>https://spaces.ac.cn/archives/11885</guid>
     </item>
     <item>
@@ -260,19 +278,19 @@
     <item>
       <title>深呼吸</title>
       <link>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</link>
-      <description>Awesome-Jev 仓库星标破千，项目议题迭代迅速。</description>
+      <description>一周内Awesome-Jev星标破千，项目活跃，信息迭代速度惊人。</description>
       <guid>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</guid>
     </item>
     <item>
       <title>动起来，否则你就要费劲思考了</title>
       <link>https://www.gtdstudy.com/posts/2026-09-15-pascal/</link>
-      <description>动笔重逢，X粉丝破5000，打字75wpm，封存SPEC-AGENTS框架。</description>
+      <description>动笔重逢，粉丝突破5000，打字75wpm，封存SPEC-AGENTS，探索AI与软件工程。</description>
       <guid>https://www.gtdstudy.com/posts/2026-09-15-pascal/</guid>
     </item>
     <item>
       <title>质变带来成功，量变则不会</title>
       <link>https://www.gtdstudy.com/posts/2026-07-27/</link>
-      <description>《卓越的日常》揭示卓越源于质变与系统性努力。</description>
+      <description>丹尼尔·钱布利斯教授揭示卓越源于质变与系统性。</description>
       <guid>https://www.gtdstudy.com/posts/2026-07-27/</guid>
     </item>
     <item>
@@ -404,19 +422,19 @@
     <item>
       <title>折腾半天终于办下来了：0 元与免实体地址申请个体工商户营业执照</title>
       <link>https://battlele.com/individual-business-guide/</link>
-      <description>成功办理0元免地址个体户执照，轻松避免管理费。</description>
+      <description>零成本申请个体户执照，只需网店地址，轻松搞定！</description>
       <guid>https://battlele.com/individual-business-guide/</guid>
     </item>
     <item>
       <title>香港汇丰 Pulse 银联双币钻石信用卡</title>
       <link>https://battlele.com/hsbc-pulse/</link>
-      <description>香港汇丰Pulse银联卡7月大放水，内地用户申请攻略全解析。</description>
+      <description>香港汇丰Pulse银联卡七月大放水，申请及使用攻略全解析。</description>
       <guid>https://battlele.com/hsbc-pulse/</guid>
     </item>
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台之旅，美食美景两不误，体验台州的独特风情。</description>
+      <description>天台游记：体验台州天台，品尝特色小吃，游览国清寺。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
@@ -458,19 +476,19 @@
     <item>
       <title>2026.9.27</title>
       <link>https://www.justzht.com/2026-9-27/</link>
-      <description>改装E39车机，体验新生活，反思移民之路。</description>
+      <description>E39车机升级，生活小改变，移民路漫漫。</description>
       <guid>https://www.justzht.com/2026-9-27/</guid>
     </item>
     <item>
       <title>2026.9.22</title>
       <link>https://www.justzht.com/2026-9-22/</link>
-      <description>周末与友聚餐，购得老款宝马，处理肇事逃逸案件。</description>
+      <description>周末聚餐、看车购入25岁宝马，肇事逃逸案件进展。</description>
       <guid>https://www.justzht.com/2026-9-22/</guid>
     </item>
     <item>
       <title>2026.9.16</title>
       <link>https://www.justzht.com/2026-9-16/</link>
-      <description>移民路途多波折，生活依旧有期待。</description>
+      <description>移民申请受阻，生活小确幸慰藉心情。</description>
       <guid>https://www.justzht.com/2026-9-16/</guid>
     </item>
     <item>
@@ -492,22 +510,22 @@
       <guid>https://www.bboy.app/2026/09/09/i-recreated-my-own-version-of-ticktick-with-ai/</guid>
     </item>
     <item>
-      <title>【每日一面】事件模型与事件委托</title>
-      <link>https://iachieveall.com/posts/mei-ri-yi-mian-shi-jian-mo-xing-yu-shi-jian-wei-tuo/</link>
+      <title>Vibe Coding 到底是什么？从 Karpathy 一条推文说起</title>
+      <link>https://iachieveall.com/posts/vibe-coding-shi-shen-me/</link>
       <description>创作初衷：交流高质量技术，分享实战经验、面试指南，帮助阅读我的博客的人少走弯路，和技术同好共同探索。</description>
-      <guid>https://iachieveall.com/posts/mei-ri-yi-mian-shi-jian-mo-xing-yu-shi-jian-wei-tuo/</guid>
+      <guid>https://iachieveall.com/posts/vibe-coding-shi-shen-me/</guid>
     </item>
     <item>
-      <title>深入浅出前端路由体系：从 URL 到渲染的完整链路</title>
-      <link>https://iachieveall.com/posts/shen-ru-qian-chu-qian-duan-lu-you/</link>
+      <title>【每日一面】Flex 与 Grid 布局</title>
+      <link>https://iachieveall.com/posts/mei-ri-yi-mian-flex-yu-grid-bu-ju/</link>
       <description>创作初衷：交流高质量技术，分享实战经验、面试指南，帮助阅读我的博客的人少走弯路，和技术同好共同探索。</description>
-      <guid>https://iachieveall.com/posts/shen-ru-qian-chu-qian-duan-lu-you/</guid>
+      <guid>https://iachieveall.com/posts/mei-ri-yi-mian-flex-yu-grid-bu-ju/</guid>
     </item>
     <item>
-      <title>数字化转型的价值迷思：从技术指标到业务结果</title>
-      <link>https://iachieveall.com/posts/shu-zi-hua-zhuan-xing-de-jia-zhi-mi-si-cong-ji-shu-zhi-biao-dao-ye-wu-jie-guo/</link>
+      <title>【每日一面】盒模型与 BFC</title>
+      <link>https://iachieveall.com/posts/mei-ri-yi-mian-he-mo-xing-yu-bfc/</link>
       <description>创作初衷：交流高质量技术，分享实战经验、面试指南，帮助阅读我的博客的人少走弯路，和技术同好共同探索。</description>
-      <guid>https://iachieveall.com/posts/shu-zi-hua-zhuan-xing-de-jia-zhi-mi-si-cong-ji-shu-zhi-biao-dao-ye-wu-jie-guo/</guid>
+      <guid>https://iachieveall.com/posts/mei-ri-yi-mian-he-mo-xing-yu-bfc/</guid>
     </item>
   </channel>
 </rss>
