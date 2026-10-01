@@ -6,6 +6,12 @@
     <description>精选自 605 个中文博客 + GitHub 日榜</description>
     <language>zh-CN</language>
     <item>
+      <title>一个视频彻底看懂CSS scroll-axis-lock none的作用</title>
+      <link>https://www.zhangxinxu.com/wordpress/2026/09/scroll-axis-lock-none/</link>
+      <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
+      <guid>https://www.zhangxinxu.com/wordpress/2026/09/scroll-axis-lock-none/</guid>
+    </item>
+    <item>
       <title>独家：CSS背景色单方向扩展技术</title>
       <link>https://www.zhangxinxu.com/wordpress/2026/09/css-background-extend/</link>
       <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
@@ -16,12 +22,6 @@
       <link>https://www.zhangxinxu.com/wordpress/2026/09/css-root-units/</link>
       <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
       <guid>https://www.zhangxinxu.com/wordpress/2026/09/css-root-units/</guid>
-    </item>
-    <item>
-      <title>新时代下的tooltip提示效果的最佳实现</title>
-      <link>https://www.zhangxinxu.com/wordpress/2026/09/best-tooltip-effect/</link>
-      <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
-      <guid>https://www.zhangxinxu.com/wordpress/2026/09/best-tooltip-effect/</guid>
     </item>
     <item>
       <title>看完凡人真人版！韩立的性格狠点+师傅阵容，越聊越燃</title>
@@ -78,22 +78,22 @@
       <guid>https://webfem.com/post/writing-platform-word-count-rules</guid>
     </item>
     <item>
-      <title>forkgram/tdesktop 在新窗口打开 带Topic的群组Forum 限定在topic中搜索</title>
-      <link>https://zelikk.blogspot.com/2026/09/forkgramtdesktop-topicforum-topic.html</link>
+      <title>Cloudflare CLI cf工具 OAuth 授权 更方便使唤Agent操作 Cloudflare 了</title>
+      <link>https://zelikk.blogspot.com/2026/10/cloudflare-cli-cf-oauth-agent-cloudflare.html</link>
       <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
-      <guid>https://zelikk.blogspot.com/2026/09/forkgramtdesktop-topicforum-topic.html</guid>
+      <guid>https://zelikk.blogspot.com/2026/10/cloudflare-cli-cf-oauth-agent-cloudflare.html</guid>
     </item>
     <item>
-      <title>用Agent部署 cpa-for-agentrouter-d4f 套娃</title>
-      <link>https://zelikk.blogspot.com/2026/09/agent-for-agentrouter-d4f.html</link>
+      <title>stealth/space-bunny-alpha 的&quot;知识&quot;自带IP代理池</title>
+      <link>https://zelikk.blogspot.com/2026/10/stealthspace-bunny-alpha-ip.html</link>
       <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
-      <guid>https://zelikk.blogspot.com/2026/09/agent-for-agentrouter-d4f.html</guid>
+      <guid>https://zelikk.blogspot.com/2026/10/stealthspace-bunny-alpha-ip.html</guid>
     </item>
     <item>
-      <title>muse.ai 发现cpa-for-agentrouter-d4f 在非流式时会返回空内容 并进行修复</title>
-      <link>https://zelikk.blogspot.com/2026/09/museai-cpa-cliproxyapi-for-agentrouter-d4f-nonstream-fix.html</link>
+      <title>如何正确使唤Agent 及 错误案例</title>
+      <link>https://zelikk.blogspot.com/2026/09/how-to-request-agent-work-and-bad-case.html</link>
       <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
-      <guid>https://zelikk.blogspot.com/2026/09/museai-cpa-cliproxyapi-for-agentrouter-d4f-nonstream-fix.html</guid>
+      <guid>https://zelikk.blogspot.com/2026/09/how-to-request-agent-work-and-bad-case.html</guid>
     </item>
     <item>
       <title>科技爱好者周刊（第 413 期）：再见了，React Native</title>
@@ -114,6 +114,12 @@
       <guid>http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html</guid>
     </item>
     <item>
+      <title>我只想着那些小孩子</title>
+      <link>https://www.hecaitou.com/2026/09/what-about-children.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/09/what-about-children.html</guid>
+    </item>
+    <item>
       <title>同甘共苦电动牙刷</title>
       <link>https://www.hecaitou.com/2026/09/through-thick-thin-modern-electric-toothbrush.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
@@ -124,12 +130,6 @@
       <link>https://www.hecaitou.com/2026/09/From-One-to-Millions.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/09/From-One-to-Millions.html</guid>
-    </item>
-    <item>
-      <title>我的文化偏好</title>
-      <link>https://www.hecaitou.com/2026/09/my-cultural-preferences.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/09/my-cultural-preferences.html</guid>
     </item>
     <item>
       <title>是微服务架构不香还是云不香？</title>
@@ -206,19 +206,19 @@
     <item>
       <title>慢即是快：1. Shampoo的尽头是Muon？</title>
       <link>https://spaces.ac.cn/archives/11917</link>
-      <description>Shampoo系优化器虽多，但极限可能均指向Muon。</description>
+      <description>Shampoo优化器虽多，但极限可能只是Muon。</description>
       <guid>https://spaces.ac.cn/archives/11917</guid>
     </item>
     <item>
       <title>排序不等式及其推广</title>
       <link>https://spaces.ac.cn/archives/11910</link>
-      <description>探索排序不等式及其矩阵对应与推广。</description>
+      <description>探索排序不等式的起源、推广及其矩阵对应物。</description>
       <guid>https://spaces.ac.cn/archives/11910</guid>
     </item>
     <item>
       <title>让炼丹更科学一些（十）：单调性假设的拆与补</title>
       <link>https://spaces.ac.cn/archives/11885</link>
-      <description>本文探讨如何突破学习率策略限制，推广自适应梯度算法收敛理论。</description>
+      <description>本文探讨如何打破单调性假设，推广自适应梯度算法的收敛理论。</description>
       <guid>https://spaces.ac.cn/archives/11885</guid>
     </item>
     <item>
@@ -258,40 +258,28 @@
       <guid>https://hsu.cy/2026/04/markdown-emphases-cjk/</guid>
     </item>
     <item>
-      <title>庄子不会喜欢 AI：效率，机心，伯乐之罪</title>
-      <link>https://greatdk.com/2144.html</link>
-      <description>面包多创始人。</description>
-      <guid>https://greatdk.com/2144.html</guid>
-    </item>
-    <item>
-      <title>3 天 100 万注册用户，日烧千亿 token，一次意外的里程碑</title>
-      <link>https://greatdk.com/2149.html</link>
-      <description>面包多创始人。</description>
-      <guid>https://greatdk.com/2149.html</guid>
-    </item>
-    <item>
-      <title>TikTok 也曾经很在乎那一万个新增用户</title>
-      <link>https://greatdk.com/2113.html</link>
-      <description>面包多创始人。</description>
-      <guid>https://greatdk.com/2113.html</guid>
-    </item>
-    <item>
       <title>深呼吸</title>
       <link>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</link>
-      <description>一周内Awesome-Jev星标破千，项目活跃，信息迭代速度惊人。</description>
+      <description>Awesome-Jev Github 仓库一周星标破千，项目议题快速迭代。</description>
       <guid>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</guid>
     </item>
     <item>
       <title>动起来，否则你就要费劲思考了</title>
       <link>https://www.gtdstudy.com/posts/2026-09-15-pascal/</link>
-      <description>动笔重逢，粉丝突破5000，打字75wpm，封存SPEC-AGENTS，探索AI与软件工程。</description>
+      <description>动笔重逢，X粉破5000，打字75wpm，封存SPEC-AGENTS。</description>
       <guid>https://www.gtdstudy.com/posts/2026-09-15-pascal/</guid>
     </item>
     <item>
       <title>质变带来成功，量变则不会</title>
       <link>https://www.gtdstudy.com/posts/2026-07-27/</link>
-      <description>丹尼尔·钱布利斯教授揭示卓越源于质变与系统性。</description>
+      <description>丹尼尔·F·钱布利斯教授揭示卓越源于系统性努力，而非单纯量变。</description>
       <guid>https://www.gtdstudy.com/posts/2026-07-27/</guid>
+    </item>
+    <item>
+      <title>Fragments 0x000E</title>
+      <link>https://lenciel.com/2026/09/fragments-0x000e/</link>
+      <description>IMAX观影体验被沉重苦难取代，观众需求未满足。</description>
+      <guid>https://lenciel.com/2026/09/fragments-0x000e/</guid>
     </item>
     <item>
       <title>Fragments 0x000D</title>
@@ -306,10 +294,10 @@
       <guid>https://lenciel.com/2026/09/fragments-0x000c/</guid>
     </item>
     <item>
-      <title>Fragments 0x000B</title>
-      <link>https://lenciel.com/2026/09/fragments-0x000b/</link>
-      <description/>
-      <guid>https://lenciel.com/2026/09/fragments-0x000b/</guid>
+      <title>改变一切的是时间的缝隙</title>
+      <link>https://kaix.in/2026/0930/</link>
+      <description>因多次更换 blog 程序，2004 年至今存留 548 篇日志，主要涉及咖啡、影音、阅读、生活记录等内容。</description>
+      <guid>https://kaix.in/2026/0930/</guid>
     </item>
     <item>
       <title>不想好就开口的是什么人</title>
@@ -322,12 +310,6 @@
       <link>https://kaix.in/2026/0915/</link>
       <description>因多次更换 blog 程序，2004 年至今存留 548 篇日志，主要涉及咖啡、影音、阅读、生活记录等内容。</description>
       <guid>https://kaix.in/2026/0915/</guid>
-    </item>
-    <item>
-      <title>那时候，贾母也才十来岁</title>
-      <link>https://kaix.in/2026/0829/</link>
-      <description>因多次更换 blog 程序，2004 年至今存留 548 篇日志，主要涉及咖啡、影音、阅读、生活记录等内容。</description>
-      <guid>https://kaix.in/2026/0829/</guid>
     </item>
     <item>
       <title>2025 重新定义的生活</title>
@@ -422,19 +404,19 @@
     <item>
       <title>折腾半天终于办下来了：0 元与免实体地址申请个体工商户营业执照</title>
       <link>https://battlele.com/individual-business-guide/</link>
-      <description>零成本申请个体户执照，只需网店地址，轻松搞定！</description>
+      <description>零成本免地址申请个体户营业执照攻略，轻松完成季度申报。</description>
       <guid>https://battlele.com/individual-business-guide/</guid>
     </item>
     <item>
       <title>香港汇丰 Pulse 银联双币钻石信用卡</title>
       <link>https://battlele.com/hsbc-pulse/</link>
-      <description>香港汇丰Pulse银联卡七月大放水，申请及使用攻略全解析。</description>
+      <description>香港汇丰Pulse银联卡7月大放水，内地用户可享Apple Pay绑定等优惠。</description>
       <guid>https://battlele.com/hsbc-pulse/</guid>
     </item>
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台游记：体验台州天台，品尝特色小吃，游览国清寺。</description>
+      <description>天台游记：品尝特色小吃，游览国清寺，享受悠闲假期。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
@@ -476,19 +458,19 @@
     <item>
       <title>2026.9.27</title>
       <link>https://www.justzht.com/2026-9-27/</link>
-      <description>E39车机升级，生活小改变，移民路漫漫。</description>
+      <description>E39车机升级，健身与移民思考并行。</description>
       <guid>https://www.justzht.com/2026-9-27/</guid>
     </item>
     <item>
       <title>2026.9.22</title>
       <link>https://www.justzht.com/2026-9-22/</link>
-      <description>周末聚餐、看车购入25岁宝马，肇事逃逸案件进展。</description>
+      <description>周末与好友相聚，购入旧款宝马，处理肇事逃逸催收。</description>
       <guid>https://www.justzht.com/2026-9-22/</guid>
     </item>
     <item>
       <title>2026.9.16</title>
       <link>https://www.justzht.com/2026-9-16/</link>
-      <description>移民申请受阻，生活小确幸慰藉心情。</description>
+      <description>等待电话与移民结果，生活充满变数。</description>
       <guid>https://www.justzht.com/2026-9-16/</guid>
     </item>
     <item>
