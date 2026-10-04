@@ -78,6 +78,12 @@
       <guid>https://webfem.com/post/writing-platform-word-count-rules</guid>
     </item>
     <item>
+      <title>muse.ai 把视频教程总结成图文教程 按教程搭建 3x-ui 系统和节点</title>
+      <link>https://zelikk.blogspot.com/2026/10/muse-3x-ui-youtube-tutorial.html</link>
+      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
+      <guid>https://zelikk.blogspot.com/2026/10/muse-3x-ui-youtube-tutorial.html</guid>
+    </item>
+    <item>
       <title>部署在Cloudflare worker的电报入群验证机器人 用 muse 开发并部署</title>
       <link>https://zelikk.blogspot.com/2026/10/cloudflare-worker-turnstile-anti-bot-join-group-exam-muse.html</link>
       <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
@@ -90,10 +96,10 @@
       <guid>https://zelikk.blogspot.com/2026/10/cloudflare-worker-turnstile-anti-bot-join-group-exam.html</guid>
     </item>
     <item>
-      <title>muse.ai 通过 Cloudflare 免费版 Turnstile 人机验证</title>
-      <link>https://zelikk.blogspot.com/2026/10/museai-cloudflare-turnstile.html</link>
-      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
-      <guid>https://zelikk.blogspot.com/2026/10/museai-cloudflare-turnstile.html</guid>
+      <title>借你一用</title>
+      <link>https://www.hecaitou.com/2026/10/Borrowing-You.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/10/Borrowing-You.html</guid>
     </item>
     <item>
       <title>让 AI 开飞机如何</title>
@@ -106,12 +112,6 @@
       <link>https://www.hecaitou.com/2026/09/what-about-children.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/09/what-about-children.html</guid>
-    </item>
-    <item>
-      <title>同甘共苦电动牙刷</title>
-      <link>https://www.hecaitou.com/2026/09/through-thick-thin-modern-electric-toothbrush.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/09/through-thick-thin-modern-electric-toothbrush.html</guid>
     </item>
     <item>
       <title>是微服务架构不香还是云不香？</title>
@@ -186,22 +186,22 @@
       <guid>http://weiwuhui.com/11090.html</guid>
     </item>
     <item>
+      <title>通过微扰分析求解等式约束优化问题</title>
+      <link>https://spaces.ac.cn/archives/11928</link>
+      <description>通过微扰分析求解等式约束优化问题</description>
+      <guid>https://spaces.ac.cn/archives/11928</guid>
+    </item>
+    <item>
       <title>慢即是快：1. Shampoo的尽头是Muon？</title>
       <link>https://spaces.ac.cn/archives/11917</link>
-      <description>Shampoo系优化器虽强，但极限可能是Muon。</description>
+      <description>Shampoo优化器虽流行，但极限可能只是Muon。</description>
       <guid>https://spaces.ac.cn/archives/11917</guid>
     </item>
     <item>
       <title>排序不等式及其推广</title>
       <link>https://spaces.ac.cn/archives/11910</link>
-      <description>探索排序不等式的经典与推广，揭示其深层次应用。</description>
+      <description>探索排序不等式的经典与推广，矩阵对应与多序列拓展。</description>
       <guid>https://spaces.ac.cn/archives/11910</guid>
-    </item>
-    <item>
-      <title>让炼丹更科学一些（十）：单调性假设的拆与补</title>
-      <link>https://spaces.ac.cn/archives/11885</link>
-      <description>拆解单调性假设，拓展经典自适应梯度算法理论框架。</description>
-      <guid>https://spaces.ac.cn/archives/11885</guid>
     </item>
     <item>
       <title>捷径</title>
@@ -258,33 +258,33 @@
       <guid>https://greatdk.com/2113.html</guid>
     </item>
     <item>
+      <title>中秋与国庆</title>
+      <link>https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/</link>
+      <description>中秋忆亲，国庆观影，两篇温馨感悟。</description>
+      <guid>https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/</guid>
+    </item>
+    <item>
       <title>深呼吸</title>
       <link>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</link>
-      <description>Awesome-Jev 仓库星标破千，议题迭代快速，探索Jev与系统一模型。</description>
+      <description>一周内Awesome-Jev仓库星标破千，项目活跃，探索Jev议题变化。</description>
       <guid>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</guid>
     </item>
     <item>
       <title>动起来，否则你就要费劲思考了</title>
       <link>https://www.gtdstudy.com/posts/2026-09-15-pascal/</link>
-      <description>动笔重逢，X粉丝破5000，打字75wpm，封存SPEC-AGENTS框架。</description>
+      <description>动笔重逢，X粉丝破5000，打字75wpm，封存SPEC-AGENTS。</description>
       <guid>https://www.gtdstudy.com/posts/2026-09-15-pascal/</guid>
-    </item>
-    <item>
-      <title>质变带来成功，量变则不会</title>
-      <link>https://www.gtdstudy.com/posts/2026-07-27/</link>
-      <description>丹尼尔·F·钱布利斯教授揭示卓越源于质变而非量变。</description>
-      <guid>https://www.gtdstudy.com/posts/2026-07-27/</guid>
     </item>
     <item>
       <title>Fragments 0x000F</title>
       <link>https://lenciel.com/2026/10/fragments-0x000f/</link>
-      <description>代码质量与系统价值观一致，AI实现需满足真实需求。</description>
+      <description>代码质量与系统价值观一致，AI需满足真实需求，资深工程师需持续努力。</description>
       <guid>https://lenciel.com/2026/10/fragments-0x000f/</guid>
     </item>
     <item>
       <title>Fragments 0x000E</title>
       <link>https://lenciel.com/2026/09/fragments-0x000e/</link>
-      <description>IMAX观影体验被沉重苦难的桥段削弱。</description>
+      <description>IMAX体验不足，观众对沉重苦难题材已饱和。</description>
       <guid>https://lenciel.com/2026/09/fragments-0x000e/</guid>
     </item>
     <item>
@@ -404,19 +404,19 @@
     <item>
       <title>折腾半天终于办下来了：0 元与免实体地址申请个体工商户营业执照</title>
       <link>https://battlele.com/individual-business-guide/</link>
-      <description>零成本免地址申请个体户营业执照，轻松完成季度申报。</description>
+      <description>零成本申请个体户执照，轻松完成季度申报。</description>
       <guid>https://battlele.com/individual-business-guide/</guid>
     </item>
     <item>
       <title>香港汇丰 Pulse 银联双币钻石信用卡</title>
       <link>https://battlele.com/hsbc-pulse/</link>
-      <description>香港汇丰Pulse银联卡7月大放水，内地用户成功申请攻略。</description>
+      <description>香港汇丰Pulse银联卡七月大放水，申请、激活、绑定攻略详解。</description>
       <guid>https://battlele.com/hsbc-pulse/</guid>
     </item>
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台之旅，品尝特色小吃，游览国清寺，享受悠闲假期。</description>
+      <description>天台游记，体验地道的台州美食与古迹。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
@@ -458,7 +458,7 @@
     <item>
       <title>2026.10.1</title>
       <link>https://www.justzht.com/2026-10-1/</link>
-      <description>九月工作生活多事，升职无感，移民被拒，克扣工资，生活陷入停滞。</description>
+      <description>九月收束，升职无感，移民被拒，生活陷入停滞。</description>
       <guid>https://www.justzht.com/2026-10-1/</guid>
     </item>
     <item>
@@ -470,7 +470,7 @@
     <item>
       <title>2026.9.22</title>
       <link>https://www.justzht.com/2026-9-22/</link>
-      <description>周末聚餐，购入老款宝马，处理肇事逃逸案件。</description>
+      <description>周末与好友相聚，购车体验新宝马，处理肇事逃逸案件。</description>
       <guid>https://www.justzht.com/2026-9-22/</guid>
     </item>
     <item>
