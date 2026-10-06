@@ -42,6 +42,12 @@
       <guid>https://www.xiaoyuzhoufm.com/episode/68c6d2e22c82c9dcca527114?utm_source=rss</guid>
     </item>
     <item>
+      <title>Swift Server，又多了一个 Google - 肘子的 Swift 周报 #156</title>
+      <link>https://fatbobman.com/zh/weekly/issue-156/</link>
+      <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
+      <guid>https://fatbobman.com/zh/weekly/issue-156/</guid>
+    </item>
+    <item>
       <title>让 AI 看见 SwiftUI：Xcode Preview MCP 的实践、陷阱与期待</title>
       <link>https://fatbobman.com/zh/posts/letting-ai-see-swiftui/</link>
       <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
@@ -52,12 +58,6 @@
       <link>https://fatbobman.com/zh/weekly/issue-155/</link>
       <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
       <guid>https://fatbobman.com/zh/weekly/issue-155/</guid>
-    </item>
-    <item>
-      <title>ArrangementView：谋而后定</title>
-      <link>https://fatbobman.com/zh/posts/arrangementview-think-before-you-arrange/</link>
-      <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
-      <guid>https://fatbobman.com/zh/posts/arrangementview-think-before-you-arrange/</guid>
     </item>
     <item>
       <title>如何解决 Unexpected token =</title>
@@ -96,6 +96,12 @@
       <guid>https://zelikk.blogspot.com/2026/10/cloudflare-worker-turnstile-anti-bot-join-group-exam.html</guid>
     </item>
     <item>
+      <title>干点正事</title>
+      <link>https://www.hecaitou.com/2026/10/do-some-real-work-for-once.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/10/do-some-real-work-for-once.html</guid>
+    </item>
+    <item>
       <title>捡垃圾之乐</title>
       <link>https://www.hecaitou.com/2026/10/The-Joy-of-Junk.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
@@ -106,12 +112,6 @@
       <link>https://www.hecaitou.com/2026/10/Borrowing-You.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/10/Borrowing-You.html</guid>
-    </item>
-    <item>
-      <title>让 AI 开飞机如何</title>
-      <link>https://www.hecaitou.com/2026/10/what-if-we-let-ai-fly-the-plane.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/10/what-if-we-let-ai-fly-the-plane.html</guid>
     </item>
     <item>
       <title>是微服务架构不香还是云不香？</title>
@@ -150,6 +150,12 @@
       <guid>http://blog.youxu.info/2021/11/01/after-fire/</guid>
     </item>
     <item>
+      <title>Encounter</title>
+      <link>https://www.changhai.org/articles/retrospection/encounter.php</link>
+      <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
+      <guid>https://www.changhai.org/articles/retrospection/encounter.php</guid>
+    </item>
+    <item>
       <title>最新微博：2026 年 10 月 2 日</title>
       <link>https://www.changhai.org/articles/miscellaneous/blog/202609.php#latest</link>
       <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
@@ -160,12 +166,6 @@
       <link>https://www.changhai.org/articles/miscellaneous/eblog/202609.php#latest</link>
       <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
       <guid>https://www.changhai.org/articles/miscellaneous/eblog/202609.php#latest</guid>
-    </item>
-    <item>
-      <title>罗斯福岛缆车景观</title>
-      <link>https://www.youtube.com/watch?v=Ap2eimdu5qw</link>
-      <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
-      <guid>https://www.youtube.com/watch?v=Ap2eimdu5qw</guid>
     </item>
     <item>
       <title>AI的说服 靠的不是懂你 是把你淹没</title>
@@ -188,19 +188,19 @@
     <item>
       <title>通过微扰分析求解等式约束优化问题</title>
       <link>https://spaces.ac.cn/archives/11928</link>
-      <description>探索将微扰分析应用于带等式约束优化问题的新方法。</description>
+      <description>探索微扰分析在等式约束优化问题中的应用。</description>
       <guid>https://spaces.ac.cn/archives/11928</guid>
     </item>
     <item>
       <title>慢即是快：1. Shampoo的尽头是Muon？</title>
       <link>https://spaces.ac.cn/archives/11917</link>
-      <description>Shampoo系优化器虽受欢迎，但极限可能仍是Muon。</description>
+      <description>Shampoo系优化器虽多，但其极限或与Muon无异。</description>
       <guid>https://spaces.ac.cn/archives/11917</guid>
     </item>
     <item>
       <title>排序不等式及其推广</title>
       <link>https://spaces.ac.cn/archives/11910</link>
-      <description>深入解析排序不等式及其矩阵对应和推广方向。</description>
+      <description>探索排序不等式及其在矩阵和多序列中的推广。</description>
       <guid>https://spaces.ac.cn/archives/11910</guid>
     </item>
     <item>
@@ -260,31 +260,31 @@
     <item>
       <title>中秋与国庆</title>
       <link>https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/</link>
-      <description>中秋国庆双节，思念家乡与亲人，观影《欢迎来龙餐馆》，感受战争与人性。</description>
+      <description>中秋国庆双节，回忆与电影交织。</description>
       <guid>https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/</guid>
     </item>
     <item>
       <title>深呼吸</title>
       <link>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</link>
-      <description>一周内Awesome-Jev仓库星标破千，项目活跃，信息迭代迅速。</description>
+      <description>一周内，Awesome-Jev 仓库星标破千，项目迭代速度惊人。</description>
       <guid>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</guid>
     </item>
     <item>
       <title>动起来，否则你就要费劲思考了</title>
       <link>https://www.gtdstudy.com/posts/2026-09-15-pascal/</link>
-      <description>动笔重逢，粉丝破5000，打字75wpm，封存SPEC-AGENTS。</description>
+      <description>动笔重逢，X粉突破5000，打字75wpm，封存SPEC-AGENTS。</description>
       <guid>https://www.gtdstudy.com/posts/2026-09-15-pascal/</guid>
     </item>
     <item>
       <title>Fragments 0x000F</title>
       <link>https://lenciel.com/2026/10/fragments-0x000f/</link>
-      <description>代码质量需与系统价值观对齐，AI实现需关注真实需求。</description>
+      <description>代码质量与系统价值观一致，AI实现需满足真实需求。</description>
       <guid>https://lenciel.com/2026/10/fragments-0x000f/</guid>
     </item>
     <item>
       <title>Fragments 0x000E</title>
       <link>https://lenciel.com/2026/09/fragments-0x000e/</link>
-      <description>IMAX体验不再只为苦难与沉重，观众需求更丰富。</description>
+      <description>IMAX观影体验被沉重苦难取代，观众不买账。</description>
       <guid>https://lenciel.com/2026/09/fragments-0x000e/</guid>
     </item>
     <item>
@@ -404,19 +404,19 @@
     <item>
       <title>折腾半天终于办下来了：0 元与免实体地址申请个体工商户营业执照</title>
       <link>https://battlele.com/individual-business-guide/</link>
-      <description>零成本免地址申请个体户营业执照，轻松搞定申报流程。</description>
+      <description>零成本申请个体工商户营业执照，只需网店地址即可。</description>
       <guid>https://battlele.com/individual-business-guide/</guid>
     </item>
     <item>
       <title>香港汇丰 Pulse 银联双币钻石信用卡</title>
       <link>https://battlele.com/hsbc-pulse/</link>
-      <description>香港汇丰Pulse银联卡7月大放水，内地用户也能轻松申请。</description>
+      <description>香港汇丰Pulse银联卡7月大放水，内地用户注册攻略详述。</description>
       <guid>https://battlele.com/hsbc-pulse/</guid>
     </item>
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台游记：探秘台州天台，品味特色小吃，游览国清寺。</description>
+      <description>天台游记：体验当地美食，探访国清寺，享受悠闲假期。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
@@ -456,6 +456,12 @@
       <guid>https://s5s5.me/4292</guid>
     </item>
     <item>
+      <title>2026.10.5</title>
+      <link>https://www.justzht.com/2026-10-5/</link>
+      <description>周末趣事：找猫、修车、传教士敲门。</description>
+      <guid>https://www.justzht.com/2026-10-5/</guid>
+    </item>
+    <item>
       <title>2026.10.1</title>
       <link>https://www.justzht.com/2026-10-1/</link>
       <description>九月收束，升职无感，移民被拒，生活陷入停滞。</description>
@@ -464,14 +470,8 @@
     <item>
       <title>2026.9.27</title>
       <link>https://www.justzht.com/2026-9-27/</link>
-      <description>E39车机升级，健身房锻炼，移民之路心路历程。</description>
+      <description>E39车机升级，生活与工作交织的日常。</description>
       <guid>https://www.justzht.com/2026-9-27/</guid>
-    </item>
-    <item>
-      <title>2026.9.22</title>
-      <link>https://www.justzht.com/2026-9-22/</link>
-      <description>周末聚餐，购车体验，肇事逃逸案件进展。</description>
-      <guid>https://www.justzht.com/2026-9-22/</guid>
     </item>
     <item>
       <title>Blog Theme Update Mermaid Support Is Here</title>
