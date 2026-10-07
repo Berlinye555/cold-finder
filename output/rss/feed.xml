@@ -78,22 +78,28 @@
       <guid>https://webfem.com/post/writing-platform-word-count-rules</guid>
     </item>
     <item>
+      <title>muse.ai 给xkcd密码生成器添加 字母大写 分隔符 尾部数字 功能</title>
+      <link>https://zelikk.blogspot.com/2026/10/muse-xkcd-password.html</link>
+      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
+      <guid>https://zelikk.blogspot.com/2026/10/muse-xkcd-password.html</guid>
+    </item>
+    <item>
       <title>muse.ai 把视频教程总结成图文教程 按教程搭建 3x-ui 系统和节点</title>
       <link>https://zelikk.blogspot.com/2026/10/muse-3x-ui-youtube-tutorial.html</link>
       <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
       <guid>https://zelikk.blogspot.com/2026/10/muse-3x-ui-youtube-tutorial.html</guid>
     </item>
     <item>
-      <title>部署在Cloudflare worker的电报入群验证机器人 用 muse 开发并部署</title>
+      <title>部署在Cloudflare worker的电报入群验证机器人 用 muse.ai 开发并部署</title>
       <link>https://zelikk.blogspot.com/2026/10/cloudflare-worker-turnstile-anti-bot-join-group-exam-muse.html</link>
       <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
       <guid>https://zelikk.blogspot.com/2026/10/cloudflare-worker-turnstile-anti-bot-join-group-exam-muse.html</guid>
     </item>
     <item>
-      <title>部署在Cloudflare worker的电报入群验证机器人 用Turnstile作人机验证</title>
-      <link>https://zelikk.blogspot.com/2026/10/cloudflare-worker-turnstile-anti-bot-join-group-exam.html</link>
-      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
-      <guid>https://zelikk.blogspot.com/2026/10/cloudflare-worker-turnstile-anti-bot-join-group-exam.html</guid>
+      <title>康熙微服看短剧</title>
+      <link>https://www.hecaitou.com/2026/10/The-Emperor-Goes-Slumming.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/10/The-Emperor-Goes-Slumming.html</guid>
     </item>
     <item>
       <title>干点正事</title>
@@ -106,12 +112,6 @@
       <link>https://www.hecaitou.com/2026/10/The-Joy-of-Junk.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/10/The-Joy-of-Junk.html</guid>
-    </item>
-    <item>
-      <title>借你一用</title>
-      <link>https://www.hecaitou.com/2026/10/Borrowing-You.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/10/Borrowing-You.html</guid>
     </item>
     <item>
       <title>是微服务架构不香还是云不香？</title>
@@ -188,13 +188,13 @@
     <item>
       <title>通过微扰分析求解等式约束优化问题</title>
       <link>https://spaces.ac.cn/archives/11928</link>
-      <description>探索微扰分析在等式约束优化问题中的应用。</description>
+      <description>探索将微扰思想应用于等式约束优化问题的方法。</description>
       <guid>https://spaces.ac.cn/archives/11928</guid>
     </item>
     <item>
       <title>慢即是快：1. Shampoo的尽头是Muon？</title>
       <link>https://spaces.ac.cn/archives/11917</link>
-      <description>Shampoo系优化器虽多，但其极限或与Muon无异。</description>
+      <description>Shampoo优化器虽流行，但极限或与Muon相同。</description>
       <guid>https://spaces.ac.cn/archives/11917</guid>
     </item>
     <item>
@@ -266,32 +266,32 @@
     <item>
       <title>深呼吸</title>
       <link>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</link>
-      <description>一周内，Awesome-Jev 仓库星标破千，项目迭代速度惊人。</description>
+      <description>一周内，Awesome-Jev Github 仓库星标破千，项目活跃度极高。</description>
       <guid>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</guid>
     </item>
     <item>
       <title>动起来，否则你就要费劲思考了</title>
       <link>https://www.gtdstudy.com/posts/2026-09-15-pascal/</link>
-      <description>动笔重逢，X粉突破5000，打字75wpm，封存SPEC-AGENTS。</description>
+      <description>动笔重逢，X粉破5000，打字75wpm，封存SPEC-AGENTS。</description>
       <guid>https://www.gtdstudy.com/posts/2026-09-15-pascal/</guid>
+    </item>
+    <item>
+      <title>走向玛嘉 (1)</title>
+      <link>https://lenciel.com/2026/10/from-m-to-m-01/</link>
+      <description>失落文化与衰败自然触动心弦，现代生活趋势不可阻挡。</description>
+      <guid>https://lenciel.com/2026/10/from-m-to-m-01/</guid>
+    </item>
+    <item>
+      <title>Fragments 0x0010</title>
+      <link>https://lenciel.com/2026/10/fragments-0x0010/</link>
+      <description>Fragments 0x0010</description>
+      <guid>https://lenciel.com/2026/10/fragments-0x0010/</guid>
     </item>
     <item>
       <title>Fragments 0x000F</title>
       <link>https://lenciel.com/2026/10/fragments-0x000f/</link>
-      <description>代码质量与系统价值观一致，AI实现需满足真实需求。</description>
+      <description>代码质量与系统价值观一致，AI需满足真实需求。</description>
       <guid>https://lenciel.com/2026/10/fragments-0x000f/</guid>
-    </item>
-    <item>
-      <title>Fragments 0x000E</title>
-      <link>https://lenciel.com/2026/09/fragments-0x000e/</link>
-      <description>IMAX观影体验被沉重苦难取代，观众不买账。</description>
-      <guid>https://lenciel.com/2026/09/fragments-0x000e/</guid>
-    </item>
-    <item>
-      <title>Fragments 0x000D</title>
-      <link>https://lenciel.com/2026/09/fragments-0x000d/</link>
-      <description/>
-      <guid>https://lenciel.com/2026/09/fragments-0x000d/</guid>
     </item>
     <item>
       <title>改变一切的是时间的缝隙</title>
@@ -404,13 +404,13 @@
     <item>
       <title>折腾半天终于办下来了：0 元与免实体地址申请个体工商户营业执照</title>
       <link>https://battlele.com/individual-business-guide/</link>
-      <description>零成本申请个体工商户营业执照，只需网店地址即可。</description>
+      <description>零成本申请个体户执照，轻松完成季度申报。</description>
       <guid>https://battlele.com/individual-business-guide/</guid>
     </item>
     <item>
       <title>香港汇丰 Pulse 银联双币钻石信用卡</title>
       <link>https://battlele.com/hsbc-pulse/</link>
-      <description>香港汇丰Pulse银联卡7月大放水，内地用户注册攻略详述。</description>
+      <description>香港汇丰Pulse银联双币钻石信用卡7月大放水，申请流程及注意事项全解析。</description>
       <guid>https://battlele.com/hsbc-pulse/</guid>
     </item>
     <item>
@@ -458,19 +458,19 @@
     <item>
       <title>2026.10.5</title>
       <link>https://www.justzht.com/2026-10-5/</link>
-      <description>周末趣事：找猫、修车、传教士敲门。</description>
+      <description>周末琐事：寻猫、修车、传教士敲门。</description>
       <guid>https://www.justzht.com/2026-10-5/</guid>
     </item>
     <item>
       <title>2026.10.1</title>
       <link>https://www.justzht.com/2026-10-1/</link>
-      <description>九月收束，升职无感，移民被拒，生活陷入停滞。</description>
+      <description>升职无感，翘班懒散，九月收束多事，生活陷入停滞。</description>
       <guid>https://www.justzht.com/2026-10-1/</guid>
     </item>
     <item>
       <title>2026.9.27</title>
       <link>https://www.justzht.com/2026-9-27/</link>
-      <description>E39车机升级，生活与工作交织的日常。</description>
+      <description>E39车机升级，生活与移民之路交织。</description>
       <guid>https://www.justzht.com/2026-9-27/</guid>
     </item>
     <item>
