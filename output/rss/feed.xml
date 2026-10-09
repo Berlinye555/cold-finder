@@ -6,6 +6,12 @@
     <description>精选自 605 个中文博客 + GitHub 日榜</description>
     <language>zh-CN</language>
     <item>
+      <title>Document Picture-in-Picture API与任意元素画中画实现</title>
+      <link>https://www.zhangxinxu.com/wordpress/2026/10/document-picture-in-picture-api/</link>
+      <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
+      <guid>https://www.zhangxinxu.com/wordpress/2026/10/document-picture-in-picture-api/</guid>
+    </item>
+    <item>
       <title>一个视频彻底看懂CSS scroll-axis-lock none的作用</title>
       <link>https://www.zhangxinxu.com/wordpress/2026/09/scroll-axis-lock-none/</link>
       <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
@@ -16,12 +22,6 @@
       <link>https://www.zhangxinxu.com/wordpress/2026/09/css-background-extend/</link>
       <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
       <guid>https://www.zhangxinxu.com/wordpress/2026/09/css-background-extend/</guid>
-    </item>
-    <item>
-      <title>CSS rex、rlh、ric等根家族单位简介</title>
-      <link>https://www.zhangxinxu.com/wordpress/2026/09/css-root-units/</link>
-      <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
-      <guid>https://www.zhangxinxu.com/wordpress/2026/09/css-root-units/</guid>
     </item>
     <item>
       <title>看完凡人真人版！韩立的性格狠点+师傅阵容，越聊越燃</title>
@@ -96,6 +96,12 @@
       <guid>https://zelikk.blogspot.com/2026/10/muse-3x-ui-youtube-tutorial.html</guid>
     </item>
     <item>
+      <title>极限拉扯出好价</title>
+      <link>https://www.hecaitou.com/2026/10/The-Price-Tug-of-War.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/10/The-Price-Tug-of-War.html</guid>
+    </item>
+    <item>
       <title>吃的选择</title>
       <link>https://www.hecaitou.com/2026/10/what-we-choose-to-eat.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
@@ -106,30 +112,6 @@
       <link>https://www.hecaitou.com/2026/10/The-Emperor-Goes-Slumming.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/10/The-Emperor-Goes-Slumming.html</guid>
-    </item>
-    <item>
-      <title>干点正事</title>
-      <link>https://www.hecaitou.com/2026/10/do-some-real-work-for-once.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/10/do-some-real-work-for-once.html</guid>
-    </item>
-    <item>
-      <title>是微服务架构不香还是云不香？</title>
-      <link>https://coolshell.cn/articles/22422.html</link>
-      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
-      <guid>https://coolshell.cn/articles/22422.html</guid>
-    </item>
-    <item>
-      <title>我看ChatGPT: 为啥谷歌掉了千亿美金</title>
-      <link>https://coolshell.cn/articles/22398.html</link>
-      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
-      <guid>https://coolshell.cn/articles/22398.html</guid>
-    </item>
-    <item>
-      <title>聊聊 nostr 和 审查</title>
-      <link>https://coolshell.cn/articles/22367.html</link>
-      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
-      <guid>https://coolshell.cn/articles/22367.html</guid>
     </item>
     <item>
       <title>2016 年，我做过一次 AI 写代码创业</title>
@@ -188,19 +170,19 @@
     <item>
       <title>通过微扰分析求解等式约束优化问题</title>
       <link>https://spaces.ac.cn/archives/11928</link>
-      <description>探索微扰分析在等式约束优化问题中的应用与拉格朗日乘子法的直观关联。</description>
+      <description>探索微扰分析在等式约束优化问题中的应用。</description>
       <guid>https://spaces.ac.cn/archives/11928</guid>
     </item>
     <item>
       <title>慢即是快：1. Shampoo的尽头是Muon？</title>
       <link>https://spaces.ac.cn/archives/11917</link>
-      <description>Shampoo优化器虽流行，但极限可能是Muon。</description>
+      <description>Shampoo优化器系列或趋同于Muon，预条件优化或非必要。</description>
       <guid>https://spaces.ac.cn/archives/11917</guid>
     </item>
     <item>
       <title>排序不等式及其推广</title>
       <link>https://spaces.ac.cn/archives/11910</link>
-      <description>探索排序不等式的经典与推广，涵盖矩阵对应及多序列扩展。</description>
+      <description>深入探讨排序不等式及其在矩阵和多序列中的推广。</description>
       <guid>https://spaces.ac.cn/archives/11910</guid>
     </item>
     <item>
@@ -260,38 +242,38 @@
     <item>
       <title>中秋与国庆</title>
       <link>https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/</link>
-      <description>中秋国庆双节，思念亲人，观影《欢迎来龙餐馆》，感受战争与人性的深刻。</description>
+      <description>中秋国庆双节，回忆与电影交织。</description>
       <guid>https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/</guid>
     </item>
     <item>
       <title>深呼吸</title>
       <link>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</link>
-      <description>一周内，Awesome-Jev 星标破千，分享项目迭代与Jev模型思考。</description>
+      <description>Awesome-Jev 仓库星标破千，探索信息迭代速度与议题循环。</description>
       <guid>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</guid>
     </item>
     <item>
       <title>动起来，否则你就要费劲思考了</title>
       <link>https://www.gtdstudy.com/posts/2026-09-15-pascal/</link>
-      <description>动笔重逢，X粉丝破5000，打字75wpm，封存SPEC-AGENTS框架。</description>
+      <description>动笔重逢，X粉破5000，打字75wpm，封存SPEC-AGENTS。</description>
       <guid>https://www.gtdstudy.com/posts/2026-09-15-pascal/</guid>
+    </item>
+    <item>
+      <title>走向玛嘉 (3)</title>
+      <link>https://lenciel.com/2026/10/from-m-to-m-03/</link>
+      <description>契约精神缺失，系统易崩溃。</description>
+      <guid>https://lenciel.com/2026/10/from-m-to-m-03/</guid>
     </item>
     <item>
       <title>走向玛嘉 (2)</title>
       <link>https://lenciel.com/2026/10/from-m-to-m-02/</link>
-      <description>观世音菩萨从男变女，天朝百姓见证慈悲转变。</description>
+      <description>观世音菩萨从男性到白衣女相的演变，体现我国百姓对慈悲的深刻理解。</description>
       <guid>https://lenciel.com/2026/10/from-m-to-m-02/</guid>
     </item>
     <item>
       <title>走向玛嘉 (1)</title>
       <link>https://lenciel.com/2026/10/from-m-to-m-01/</link>
-      <description>失落文化与自然衰败，现代生活趋势不可阻挡。</description>
+      <description>失落文化与衰败自然触动心弦，现代生活趋势不可阻挡。</description>
       <guid>https://lenciel.com/2026/10/from-m-to-m-01/</guid>
-    </item>
-    <item>
-      <title>Fragments 0x0010</title>
-      <link>https://lenciel.com/2026/10/fragments-0x0010/</link>
-      <description>Fragments 0x0010</description>
-      <guid>https://lenciel.com/2026/10/fragments-0x0010/</guid>
     </item>
     <item>
       <title>我要免费送妳一支花</title>
@@ -404,19 +386,19 @@
     <item>
       <title>折腾半天终于办下来了：0 元与免实体地址申请个体工商户营业执照</title>
       <link>https://battlele.com/individual-business-guide/</link>
-      <description>0元免地址申请个体户执照，轻松搞定季度申报。</description>
+      <description>零成本申请个体户执照，只需网店地址，轻松搞定！</description>
       <guid>https://battlele.com/individual-business-guide/</guid>
     </item>
     <item>
       <title>香港汇丰 Pulse 银联双币钻石信用卡</title>
       <link>https://battlele.com/hsbc-pulse/</link>
-      <description>香港汇丰Pulse银联卡7月大放水，内地用户可申请，绑定Apple Pay享受优惠。</description>
+      <description>香港汇丰Pulse银联卡7月大放水，注册条件放宽，申请流程详解。</description>
       <guid>https://battlele.com/hsbc-pulse/</guid>
     </item>
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台之旅，品尝特色小吃，游览国清寺，享受悠闲假期。</description>
+      <description>天台游记：体验特色小吃，探访国清寺，享受悠闲假期。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
@@ -426,16 +408,16 @@
       <guid>https://jdhao.github.io/about/</guid>
     </item>
     <item>
+      <title>Pyrefly: the performant type checker for Python</title>
+      <link>https://jdhao.github.io/2026/10/08/use_pyrefly_as_type_checker/</link>
+      <description>编程; Nvim; 生活; 读书; 思考。</description>
+      <guid>https://jdhao.github.io/2026/10/08/use_pyrefly_as_type_checker/</guid>
+    </item>
+    <item>
       <title>Opentelemetry Trace Sampling in Action</title>
       <link>https://jdhao.github.io/2026/09/06/opentelemetry-tracing-part4/</link>
       <description>编程; Nvim; 生活; 读书; 思考。</description>
       <guid>https://jdhao.github.io/2026/09/06/opentelemetry-tracing-part4/</guid>
-    </item>
-    <item>
-      <title>Opentelemetry Tracing Integration for GCP Logging</title>
-      <link>https://jdhao.github.io/2026/09/06/opentelemetry-tracing-part3/</link>
-      <description>编程; Nvim; 生活; 读书; 思考。</description>
-      <guid>https://jdhao.github.io/2026/09/06/opentelemetry-tracing-part3/</guid>
     </item>
     <item>
       <title>我的 Blog 改版了, 重回网页设计的黄金时代, 像素化!</title>
@@ -458,19 +440,19 @@
     <item>
       <title>2026.10.5</title>
       <link>https://www.justzht.com/2026-10-5/</link>
-      <description>猫失踪，修车遇卖家敷衍，周日清晨门庭若市。</description>
+      <description>猫失踪寻回，E39车灯安装，意外传教事件。</description>
       <guid>https://www.justzht.com/2026-10-5/</guid>
     </item>
     <item>
       <title>2026.10.1</title>
       <link>https://www.justzht.com/2026-10-1/</link>
-      <description>升职无感，翘班懒散，九月底收束九月事。</description>
+      <description>九月工作、移民两件大事尘埃落定，生活陷入停滞。</description>
       <guid>https://www.justzht.com/2026-10-1/</guid>
     </item>
     <item>
       <title>2026.9.27</title>
       <link>https://www.justzht.com/2026-9-27/</link>
-      <description>E39车机升级，生活小变化，移民路漫漫。</description>
+      <description>E39车机升级，生活与移民双重挑战。</description>
       <guid>https://www.justzht.com/2026-9-27/</guid>
     </item>
     <item>
