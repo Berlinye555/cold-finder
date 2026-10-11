@@ -96,6 +96,12 @@
       <guid>https://zelikk.blogspot.com/2026/10/muse-3x-ui-youtube-tutorial.html</guid>
     </item>
     <item>
+      <title>他人特殊论</title>
+      <link>https://www.hecaitou.com/2026/10/the-myth-of-the-special-exception.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/10/the-myth-of-the-special-exception.html</guid>
+    </item>
+    <item>
       <title>坏人的定义</title>
       <link>https://www.hecaitou.com/2026/10/on-defining-the-bad-person.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
@@ -106,12 +112,6 @@
       <link>https://www.hecaitou.com/2026/10/The-Price-Tug-of-War.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/10/The-Price-Tug-of-War.html</guid>
-    </item>
-    <item>
-      <title>吃的选择</title>
-      <link>https://www.hecaitou.com/2026/10/what-we-choose-to-eat.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/10/what-we-choose-to-eat.html</guid>
     </item>
     <item>
       <title>是微服务架构不香还是云不香？</title>
@@ -194,13 +194,13 @@
     <item>
       <title>通过微扰分析求解等式约束优化问题</title>
       <link>https://spaces.ac.cn/archives/11928</link>
-      <description>微扰分析应用于等式约束优化问题，提升拉格朗日乘子法的直观性。</description>
+      <description>微扰分析应用于等式约束优化问题求解，探讨拉格朗日乘子法的直观性。</description>
       <guid>https://spaces.ac.cn/archives/11928</guid>
     </item>
     <item>
       <title>慢即是快：1. Shampoo的尽头是Muon？</title>
       <link>https://spaces.ac.cn/archives/11917</link>
-      <description>Shampoo优化器虽流行，但其极限可能仍是Muon。</description>
+      <description>Shampoo优化器虽流行，但极限或与Muon相同。</description>
       <guid>https://spaces.ac.cn/archives/11917</guid>
     </item>
     <item>
@@ -260,37 +260,37 @@
     <item>
       <title>中秋与国庆</title>
       <link>https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/</link>
-      <description>中秋忆祖，国庆观影，双重情感共鸣。</description>
+      <description>中秋国庆双节，怀念家乡与亲人，观影《欢迎来龙餐馆》，感受战争反思。</description>
       <guid>https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/</guid>
     </item>
     <item>
       <title>深呼吸</title>
       <link>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</link>
-      <description>一周内Awesome-Jev星标破千，分享项目收获与Jev议题循环。</description>
+      <description>一周内，Awesome-Jev 仓库星标破千，项目活跃，分享成长喜悦。</description>
       <guid>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</guid>
     </item>
     <item>
       <title>动起来，否则你就要费劲思考了</title>
       <link>https://www.gtdstudy.com/posts/2026-09-15-pascal/</link>
-      <description>动笔重逢，X粉丝破5000，打字75wpm，封存SPEC-AGENTS。</description>
+      <description>动笔重逢，粉丝突破5000，打字75wpm，封存SPEC-AGENTS，思考与进步同行。</description>
       <guid>https://www.gtdstudy.com/posts/2026-09-15-pascal/</guid>
     </item>
     <item>
       <title>走向玛嘉 (3)</title>
       <link>https://lenciel.com/2026/10/from-m-to-m-03/</link>
-      <description>契约精神缺失，系统易崩溃。</description>
+      <description>契约精神缺失，系统易崩溃，亲近自然因守约。</description>
       <guid>https://lenciel.com/2026/10/from-m-to-m-03/</guid>
     </item>
     <item>
       <title>走向玛嘉 (2)</title>
       <link>https://lenciel.com/2026/10/from-m-to-m-02/</link>
-      <description>观世音菩萨从男变女，彰显慈悲，天朝百姓独具慧眼。</description>
+      <description>观世音菩萨从男变女，天朝百姓见证慈悲演变。</description>
       <guid>https://lenciel.com/2026/10/from-m-to-m-02/</guid>
     </item>
     <item>
       <title>走向玛嘉 (1)</title>
       <link>https://lenciel.com/2026/10/from-m-to-m-01/</link>
-      <description>感受失落文化与衰败自然，思考现代生活的不可阻挡。</description>
+      <description>失落文化与衰败自然，现代生活趋势不可阻挡。</description>
       <guid>https://lenciel.com/2026/10/from-m-to-m-01/</guid>
     </item>
     <item>
@@ -404,19 +404,19 @@
     <item>
       <title>折腾半天终于办下来了：0 元与免实体地址申请个体工商户营业执照</title>
       <link>https://battlele.com/individual-business-guide/</link>
-      <description>零成本免地址申请个体户营业执照，轻松完成季度申报。</description>
+      <description>零成本免地址，轻松办理个体工商户营业执照。</description>
       <guid>https://battlele.com/individual-business-guide/</guid>
     </item>
     <item>
       <title>香港汇丰 Pulse 银联双币钻石信用卡</title>
       <link>https://battlele.com/hsbc-pulse/</link>
-      <description>香港汇丰Pulse银联卡7月大放水，内地用户注册攻略全解析。</description>
+      <description>香港汇丰Pulse银联卡7月大放水，申请及使用攻略详述。</description>
       <guid>https://battlele.com/hsbc-pulse/</guid>
     </item>
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台之旅，品尝特色小吃，游览国清寺，享受悠闲假期。</description>
+      <description>天台游记：体验天台特色小吃，游览国清寺，享受悠闲假期。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
@@ -458,19 +458,19 @@
     <item>
       <title>2026.10.5</title>
       <link>https://www.justzht.com/2026-10-5/</link>
-      <description>猫咪失踪，维修车灯，意外传教。</description>
+      <description>周末琐事：寻猫、修车、传教士敲门。</description>
       <guid>https://www.justzht.com/2026-10-5/</guid>
     </item>
     <item>
       <title>2026.10.1</title>
       <link>https://www.justzht.com/2026-10-1/</link>
-      <description>九月工作与生活多事，升职后心情平淡，面临移民拒绝与工资克扣。</description>
+      <description>九月底收束九月，升职无实感，移民被拒，工资克扣申请，生活陷入停滞。</description>
       <guid>https://www.justzht.com/2026-10-1/</guid>
     </item>
     <item>
       <title>2026.9.27</title>
       <link>https://www.justzht.com/2026-9-27/</link>
-      <description>改装E39车机，体验生活与移民挑战。</description>
+      <description>E39车机升级，健身房锻炼，反思移民之路。</description>
       <guid>https://www.justzht.com/2026-9-27/</guid>
     </item>
     <item>
@@ -492,22 +492,22 @@
       <guid>https://www.bboy.app/2026/09/09/i-recreated-my-own-version-of-ticktick-with-ai/</guid>
     </item>
     <item>
+      <title>Vibe Coding ≠ 让 AI 写代码</title>
+      <link>https://iachieveall.com/posts/vibe-coding-bu-deng-yu-ai-xie-dai-ma/</link>
+      <description>创作初衷：交流高质量技术，分享实战经验、面试指南，帮助阅读我的博客的人少走弯路，和技术同好共同探索。</description>
+      <guid>https://iachieveall.com/posts/vibe-coding-bu-deng-yu-ai-xie-dai-ma/</guid>
+    </item>
+    <item>
+      <title>【每日一面】选择器权重与层叠上下文</title>
+      <link>https://iachieveall.com/posts/mei-ri-yi-mian-xuan-ze-qi-quan-zhong-yu-ceng-die-shang-xia-wen/</link>
+      <description>创作初衷：交流高质量技术，分享实战经验、面试指南，帮助阅读我的博客的人少走弯路，和技术同好共同探索。</description>
+      <guid>https://iachieveall.com/posts/mei-ri-yi-mian-xuan-ze-qi-quan-zhong-yu-ceng-die-shang-xia-wen/</guid>
+    </item>
+    <item>
       <title>Vibe Coding 到底是什么？从 Karpathy 一条推文说起</title>
       <link>https://iachieveall.com/posts/vibe-coding-shi-shen-me/</link>
       <description>创作初衷：交流高质量技术，分享实战经验、面试指南，帮助阅读我的博客的人少走弯路，和技术同好共同探索。</description>
       <guid>https://iachieveall.com/posts/vibe-coding-shi-shen-me/</guid>
-    </item>
-    <item>
-      <title>【每日一面】Flex 与 Grid 布局</title>
-      <link>https://iachieveall.com/posts/mei-ri-yi-mian-flex-yu-grid-bu-ju/</link>
-      <description>创作初衷：交流高质量技术，分享实战经验、面试指南，帮助阅读我的博客的人少走弯路，和技术同好共同探索。</description>
-      <guid>https://iachieveall.com/posts/mei-ri-yi-mian-flex-yu-grid-bu-ju/</guid>
-    </item>
-    <item>
-      <title>【每日一面】盒模型与 BFC</title>
-      <link>https://iachieveall.com/posts/mei-ri-yi-mian-he-mo-xing-yu-bfc/</link>
-      <description>创作初衷：交流高质量技术，分享实战经验、面试指南，帮助阅读我的博客的人少走弯路，和技术同好共同探索。</description>
-      <guid>https://iachieveall.com/posts/mei-ri-yi-mian-he-mo-xing-yu-bfc/</guid>
     </item>
   </channel>
 </rss>
