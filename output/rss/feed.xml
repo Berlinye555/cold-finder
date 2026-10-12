@@ -96,6 +96,12 @@
       <guid>https://zelikk.blogspot.com/2026/10/muse-3x-ui-youtube-tutorial.html</guid>
     </item>
     <item>
+      <title>契入一本书的契机</title>
+      <link>https://www.hecaitou.com/2026/10/when-a-book-finally-clicks.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/10/when-a-book-finally-clicks.html</guid>
+    </item>
+    <item>
       <title>他人特殊论</title>
       <link>https://www.hecaitou.com/2026/10/the-myth-of-the-special-exception.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
@@ -106,12 +112,6 @@
       <link>https://www.hecaitou.com/2026/10/on-defining-the-bad-person.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/10/on-defining-the-bad-person.html</guid>
-    </item>
-    <item>
-      <title>极限拉扯出好价</title>
-      <link>https://www.hecaitou.com/2026/10/The-Price-Tug-of-War.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/10/The-Price-Tug-of-War.html</guid>
     </item>
     <item>
       <title>是微服务架构不香还是云不香？</title>
@@ -150,7 +150,7 @@
       <guid>http://blog.youxu.info/2021/11/01/after-fire/</guid>
     </item>
     <item>
-      <title>最新微博：2026 年 10 月 7 日</title>
+      <title>最新微博：2026 年 10 月 11 日</title>
       <link>https://www.changhai.org/articles/miscellaneous/blog/202609.php#latest</link>
       <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
       <guid>https://www.changhai.org/articles/miscellaneous/blog/202609.php#latest</guid>
@@ -188,19 +188,19 @@
     <item>
       <title>如何让GDN2更稳定一些？</title>
       <link>https://spaces.ac.cn/archives/11945</link>
-      <description>分析GDN2更新矩阵的不稳定问题及解决策略。</description>
+      <description>分析GDN2更新矩阵的稳定性问题及解决方案。</description>
       <guid>https://spaces.ac.cn/archives/11945</guid>
     </item>
     <item>
       <title>通过微扰分析求解等式约束优化问题</title>
       <link>https://spaces.ac.cn/archives/11928</link>
-      <description>微扰分析应用于等式约束优化问题求解，探讨拉格朗日乘子法的直观性。</description>
+      <description>微扰分析应用于等式约束优化问题，探讨拉格朗日乘子法的直观性。</description>
       <guid>https://spaces.ac.cn/archives/11928</guid>
     </item>
     <item>
       <title>慢即是快：1. Shampoo的尽头是Muon？</title>
       <link>https://spaces.ac.cn/archives/11917</link>
-      <description>Shampoo优化器虽流行，但极限或与Muon相同。</description>
+      <description>Shampoo优化器虽流行，但极限可能是Muon。</description>
       <guid>https://spaces.ac.cn/archives/11917</guid>
     </item>
     <item>
@@ -260,38 +260,38 @@
     <item>
       <title>中秋与国庆</title>
       <link>https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/</link>
-      <description>中秋国庆双节，怀念家乡与亲人，观影《欢迎来龙餐馆》，感受战争反思。</description>
+      <description>中秋国庆双节，回忆与电影交织。</description>
       <guid>https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/</guid>
     </item>
     <item>
       <title>深呼吸</title>
       <link>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</link>
-      <description>一周内，Awesome-Jev 仓库星标破千，项目活跃，分享成长喜悦。</description>
+      <description>一周内，Awesome-Jev 星标破千，分享项目迭代与传播学思考。</description>
       <guid>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</guid>
     </item>
     <item>
       <title>动起来，否则你就要费劲思考了</title>
       <link>https://www.gtdstudy.com/posts/2026-09-15-pascal/</link>
-      <description>动笔重逢，粉丝突破5000，打字75wpm，封存SPEC-AGENTS，思考与进步同行。</description>
+      <description>动笔重逢，X粉突破5000，打字75wpm，封存SPEC-AGENTS。</description>
       <guid>https://www.gtdstudy.com/posts/2026-09-15-pascal/</guid>
+    </item>
+    <item>
+      <title>Fragments 0x0011</title>
+      <link>https://lenciel.com/2026/10/fragments-0x0011/</link>
+      <description>现实复杂，互联网时代带来的是瓜非怜悯。</description>
+      <guid>https://lenciel.com/2026/10/fragments-0x0011/</guid>
     </item>
     <item>
       <title>走向玛嘉 (3)</title>
       <link>https://lenciel.com/2026/10/from-m-to-m-03/</link>
-      <description>契约精神缺失，系统易崩溃，亲近自然因守约。</description>
+      <description>契约精神缺失，系统易崩溃。</description>
       <guid>https://lenciel.com/2026/10/from-m-to-m-03/</guid>
     </item>
     <item>
       <title>走向玛嘉 (2)</title>
       <link>https://lenciel.com/2026/10/from-m-to-m-02/</link>
-      <description>观世音菩萨从男变女，天朝百姓见证慈悲演变。</description>
+      <description>观世音菩萨从男变女，天朝百姓见证慈悲转变。</description>
       <guid>https://lenciel.com/2026/10/from-m-to-m-02/</guid>
-    </item>
-    <item>
-      <title>走向玛嘉 (1)</title>
-      <link>https://lenciel.com/2026/10/from-m-to-m-01/</link>
-      <description>失落文化与衰败自然，现代生活趋势不可阻挡。</description>
-      <guid>https://lenciel.com/2026/10/from-m-to-m-01/</guid>
     </item>
     <item>
       <title>我要免费送妳一支花</title>
@@ -404,19 +404,19 @@
     <item>
       <title>折腾半天终于办下来了：0 元与免实体地址申请个体工商户营业执照</title>
       <link>https://battlele.com/individual-business-guide/</link>
-      <description>零成本免地址，轻松办理个体工商户营业执照。</description>
+      <description>零成本申请个体户执照，只需网店地址，轻松搞定！</description>
       <guid>https://battlele.com/individual-business-guide/</guid>
     </item>
     <item>
       <title>香港汇丰 Pulse 银联双币钻石信用卡</title>
       <link>https://battlele.com/hsbc-pulse/</link>
-      <description>香港汇丰Pulse银联卡7月大放水，申请及使用攻略详述。</description>
+      <description>香港汇丰Pulse银联卡7月大放水，快速申请攻略全解析。</description>
       <guid>https://battlele.com/hsbc-pulse/</guid>
     </item>
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台游记：体验天台特色小吃，游览国清寺，享受悠闲假期。</description>
+      <description>天台游记：体验台州天台的美食与古迹。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
@@ -458,19 +458,19 @@
     <item>
       <title>2026.10.5</title>
       <link>https://www.justzht.com/2026-10-5/</link>
-      <description>周末琐事：寻猫、修车、传教士敲门。</description>
+      <description>猫失踪，装车灯遇卖家疏忽，教堂传教者敲门。</description>
       <guid>https://www.justzht.com/2026-10-5/</guid>
     </item>
     <item>
       <title>2026.10.1</title>
       <link>https://www.justzht.com/2026-10-1/</link>
-      <description>九月底收束九月，升职无实感，移民被拒，工资克扣申请，生活陷入停滞。</description>
+      <description>九月工作生活多事，升职后心情未定，移民申请被拒，生活陷入停滞。</description>
       <guid>https://www.justzht.com/2026-10-1/</guid>
     </item>
     <item>
       <title>2026.9.27</title>
       <link>https://www.justzht.com/2026-9-27/</link>
-      <description>E39车机升级，健身房锻炼，反思移民之路。</description>
+      <description>改装E39车机，生活与工作交织的周末。</description>
       <guid>https://www.justzht.com/2026-9-27/</guid>
     </item>
     <item>
