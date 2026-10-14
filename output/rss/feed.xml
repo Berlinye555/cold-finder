@@ -96,6 +96,12 @@
       <guid>https://webfem.com/post/writing-platform-word-count-rules</guid>
     </item>
     <item>
+      <title>muse.ai 开发并部署一个 Cloudflare worker 操作一个telegram bot转发关键字消息到forum中</title>
+      <link>https://zelikk.blogspot.com/2026/10/muse-ai-cloudflare-worker-telegram-tg-keyword-forward.html</link>
+      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
+      <guid>https://zelikk.blogspot.com/2026/10/muse-ai-cloudflare-worker-telegram-tg-keyword-forward.html</guid>
+    </item>
+    <item>
       <title>重装VPS系统时, 恢复 Hermes 干活的能力</title>
       <link>https://zelikk.blogspot.com/2026/10/vps-reinstall-restore-hermes-skill.html</link>
       <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
@@ -106,12 +112,6 @@
       <link>https://zelikk.blogspot.com/2026/10/muse-xkcd-password.html</link>
       <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
       <guid>https://zelikk.blogspot.com/2026/10/muse-xkcd-password.html</guid>
-    </item>
-    <item>
-      <title>muse.ai 把视频教程总结成图文教程 按教程搭建 3x-ui 系统和节点</title>
-      <link>https://zelikk.blogspot.com/2026/10/muse-3x-ui-youtube-tutorial.html</link>
-      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
-      <guid>https://zelikk.blogspot.com/2026/10/muse-3x-ui-youtube-tutorial.html</guid>
     </item>
     <item>
       <title>也不能贼着我一个人薅吧</title>
@@ -130,24 +130,6 @@
       <link>https://www.hecaitou.com/2026/10/when-a-book-finally-clicks.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/10/when-a-book-finally-clicks.html</guid>
-    </item>
-    <item>
-      <title>是微服务架构不香还是云不香？</title>
-      <link>https://coolshell.cn/articles/22422.html</link>
-      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
-      <guid>https://coolshell.cn/articles/22422.html</guid>
-    </item>
-    <item>
-      <title>我看ChatGPT: 为啥谷歌掉了千亿美金</title>
-      <link>https://coolshell.cn/articles/22398.html</link>
-      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
-      <guid>https://coolshell.cn/articles/22398.html</guid>
-    </item>
-    <item>
-      <title>聊聊 nostr 和 审查</title>
-      <link>https://coolshell.cn/articles/22367.html</link>
-      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
-      <guid>https://coolshell.cn/articles/22367.html</guid>
     </item>
     <item>
       <title>2016 年，我做过一次 AI 写代码创业</title>
@@ -212,19 +194,19 @@
     <item>
       <title>如何让GDN2更稳定一些？</title>
       <link>https://spaces.ac.cn/archives/11945</link>
-      <description>分析GDN2更新矩阵稳定性问题及解决方案。</description>
+      <description>分析GDN2更新矩阵稳定性问题，探讨改进方法。</description>
       <guid>https://spaces.ac.cn/archives/11945</guid>
     </item>
     <item>
       <title>通过微扰分析求解等式约束优化问题</title>
       <link>https://spaces.ac.cn/archives/11928</link>
-      <description>通过微扰分析求解等式约束优化问题</description>
+      <description>微扰分析应用于等式约束优化问题求解，提升直观理解。</description>
       <guid>https://spaces.ac.cn/archives/11928</guid>
     </item>
     <item>
       <title>慢即是快：1. Shampoo的尽头是Muon？</title>
       <link>https://spaces.ac.cn/archives/11917</link>
-      <description>预条件优化器Shampoo系列或趋向极限Muon，预条件矩阵可能无用。</description>
+      <description>Shampoo优化器虽多，其极限可能只是Muon。</description>
       <guid>https://spaces.ac.cn/archives/11917</guid>
     </item>
     <item>
@@ -284,25 +266,31 @@
     <item>
       <title>中秋与国庆</title>
       <link>https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/</link>
-      <description>中秋国庆双节，思念家乡与亲人，观影《欢迎来龙餐馆》，感受战争与人性。</description>
+      <description>中秋国庆双节，回忆与电影交织。</description>
       <guid>https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/</guid>
     </item>
     <item>
       <title>深呼吸</title>
       <link>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</link>
-      <description>一周内Awesome-Jev仓库星标破千，项目活跃，探索Jev议题变化。</description>
+      <description>一周内，Awesome-Jev 星标破千，项目方向迭代迅速。</description>
       <guid>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</guid>
     </item>
     <item>
       <title>动起来，否则你就要费劲思考了</title>
       <link>https://www.gtdstudy.com/posts/2026-09-15-pascal/</link>
-      <description>动笔重逢，X粉突破5000，打字75wpm，封存SPEC-AGENTS。</description>
+      <description>动笔重逢，X粉破5000，打字75wpm，封存SPEC-AGENTS。</description>
       <guid>https://www.gtdstudy.com/posts/2026-09-15-pascal/</guid>
+    </item>
+    <item>
+      <title>Fragments 0x0012</title>
+      <link>https://lenciel.com/2026/10/fragments-0x0012/</link>
+      <description>信念源于本能，沟通应重事实。</description>
+      <guid>https://lenciel.com/2026/10/fragments-0x0012/</guid>
     </item>
     <item>
       <title>Fragments 0x0011</title>
       <link>https://lenciel.com/2026/10/fragments-0x0011/</link>
-      <description>现实复杂，互联网时代瓜多心累。</description>
+      <description>现实复杂，互联网时代，人心变“瓜”？</description>
       <guid>https://lenciel.com/2026/10/fragments-0x0011/</guid>
     </item>
     <item>
@@ -310,12 +298,6 @@
       <link>https://lenciel.com/2026/10/from-m-to-m-03/</link>
       <description>契约精神缺失，系统易崩溃。</description>
       <guid>https://lenciel.com/2026/10/from-m-to-m-03/</guid>
-    </item>
-    <item>
-      <title>走向玛嘉 (2)</title>
-      <link>https://lenciel.com/2026/10/from-m-to-m-02/</link>
-      <description>观世音菩萨从男变女，体现天朝百姓对慈悲的深刻理解。</description>
-      <guid>https://lenciel.com/2026/10/from-m-to-m-02/</guid>
     </item>
     <item>
       <title>巴别塔</title>
@@ -334,6 +316,24 @@
       <link>https://kaix.in/2026/0930/</link>
       <description>因多次更换 blog 程序，2004 年至今存留 548 篇日志，主要涉及咖啡、影音、阅读、生活记录等内容。</description>
       <guid>https://kaix.in/2026/0930/</guid>
+    </item>
+    <item>
+      <title>2025 重新定义的生活</title>
+      <link>https://diygod.cc/2025</link>
+      <description>作品：RSSHub、RSSHub Radar、DPlayer、APlayer。</description>
+      <guid>https://diygod.cc/2025</guid>
+    </item>
+    <item>
+      <title>欧洲旅游VLOG | 巴塞罗那 罗马 梵蒂冈 威尼斯 米兰 苏黎世 因特拉肯 巴黎</title>
+      <link>https://diygod.cc/europe-travel</link>
+      <description>作品：RSSHub、RSSHub Radar、DPlayer、APlayer。</description>
+      <guid>https://diygod.cc/europe-travel</guid>
+    </item>
+    <item>
+      <title>上古神器 Beancount：Crypto 与 AI 时代的复式记账终极方案</title>
+      <link>https://diygod.cc/beancount</link>
+      <description>作品：RSSHub、RSSHub Radar、DPlayer、APlayer。</description>
+      <guid>https://diygod.cc/beancount</guid>
     </item>
     <item>
       <title>2019 柳暗花明</title>
@@ -410,19 +410,19 @@
     <item>
       <title>折腾半天终于办下来了：0 元与免实体地址申请个体工商户营业执照</title>
       <link>https://battlele.com/individual-business-guide/</link>
-      <description>0元免地址申请个体户执照，轻松搞定！</description>
+      <description>零成本免地址申请个体户营业执照，轻松完成季度申报。</description>
       <guid>https://battlele.com/individual-business-guide/</guid>
     </item>
     <item>
       <title>香港汇丰 Pulse 银联双币钻石信用卡</title>
       <link>https://battlele.com/hsbc-pulse/</link>
-      <description>香港汇丰Pulse银联双币钻石卡，7月大放水，内地客户可享优惠。</description>
+      <description>香港汇丰Pulse银联卡7月大放水，申请、激活及使用全攻略。</description>
       <guid>https://battlele.com/hsbc-pulse/</guid>
     </item>
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台游记：体验地道的台州美食与国清寺的宁静。</description>
+      <description>天台游记：品尝特色小吃，游览国清寺，享受端午假期。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
@@ -464,7 +464,7 @@
     <item>
       <title>2026.10.5</title>
       <link>https://www.justzht.com/2026-10-5/</link>
-      <description>猫咪失踪，维修车灯，意外传教。</description>
+      <description>猫失踪，修车灯，门外来传教，周末日常。</description>
       <guid>https://www.justzht.com/2026-10-5/</guid>
     </item>
     <item>
@@ -476,7 +476,7 @@
     <item>
       <title>2026.9.27</title>
       <link>https://www.justzht.com/2026-9-27/</link>
-      <description>E39车机升级，生活与移民之路交织。</description>
+      <description>E39车机升级，健身与移民思考交织的周末。</description>
       <guid>https://www.justzht.com/2026-9-27/</guid>
     </item>
     <item>
@@ -498,6 +498,12 @@
       <guid>https://www.bboy.app/2026/09/09/i-recreated-my-own-version-of-ticktick-with-ai/</guid>
     </item>
     <item>
+      <title>一张票的诞生：电气作业票规则与系统设计深度指南</title>
+      <link>https://iachieveall.com/posts/yi-zhang-piao-de-dan-sheng/</link>
+      <description>创作初衷：交流高质量技术，分享实战经验、面试指南，帮助阅读我的博客的人少走弯路，和技术同好共同探索。</description>
+      <guid>https://iachieveall.com/posts/yi-zhang-piao-de-dan-sheng/</guid>
+    </item>
+    <item>
       <title>Vibe Coding ≠ 让 AI 写代码</title>
       <link>https://iachieveall.com/posts/vibe-coding-bu-deng-yu-ai-xie-dai-ma/</link>
       <description>创作初衷：交流高质量技术，分享实战经验、面试指南，帮助阅读我的博客的人少走弯路，和技术同好共同探索。</description>
@@ -508,12 +514,6 @@
       <link>https://iachieveall.com/posts/mei-ri-yi-mian-xuan-ze-qi-quan-zhong-yu-ceng-die-shang-xia-wen/</link>
       <description>创作初衷：交流高质量技术，分享实战经验、面试指南，帮助阅读我的博客的人少走弯路，和技术同好共同探索。</description>
       <guid>https://iachieveall.com/posts/mei-ri-yi-mian-xuan-ze-qi-quan-zhong-yu-ceng-die-shang-xia-wen/</guid>
-    </item>
-    <item>
-      <title>Vibe Coding 到底是什么？从 Karpathy 一条推文说起</title>
-      <link>https://iachieveall.com/posts/vibe-coding-shi-shen-me/</link>
-      <description>创作初衷：交流高质量技术，分享实战经验、面试指南，帮助阅读我的博客的人少走弯路，和技术同好共同探索。</description>
-      <guid>https://iachieveall.com/posts/vibe-coding-shi-shen-me/</guid>
     </item>
   </channel>
 </rss>
