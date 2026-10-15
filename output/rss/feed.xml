@@ -6,6 +6,12 @@
     <description>精选自 605 个中文博客 + GitHub 日榜</description>
     <language>zh-CN</language>
     <item>
+      <title>Nice！继text-wrap之后，Flex布局也支持balance排版了</title>
+      <link>https://www.zhangxinxu.com/wordpress/2026/10/flex-wrap-balance/</link>
+      <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
+      <guid>https://www.zhangxinxu.com/wordpress/2026/10/flex-wrap-balance/</guid>
+    </item>
+    <item>
       <title>Document Picture-in-Picture API与任意元素画中画实现</title>
       <link>https://www.zhangxinxu.com/wordpress/2026/10/document-picture-in-picture-api/</link>
       <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
@@ -16,12 +22,6 @@
       <link>https://www.zhangxinxu.com/wordpress/2026/09/scroll-axis-lock-none/</link>
       <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
       <guid>https://www.zhangxinxu.com/wordpress/2026/09/scroll-axis-lock-none/</guid>
-    </item>
-    <item>
-      <title>独家：CSS背景色单方向扩展技术</title>
-      <link>https://www.zhangxinxu.com/wordpress/2026/09/css-background-extend/</link>
-      <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
-      <guid>https://www.zhangxinxu.com/wordpress/2026/09/css-background-extend/</guid>
     </item>
     <item>
       <title>看完凡人真人版！韩立的性格狠点+师傅阵容，越聊越燃</title>
@@ -114,6 +114,12 @@
       <guid>https://zelikk.blogspot.com/2026/10/muse-xkcd-password.html</guid>
     </item>
     <item>
+      <title>伤害豁免</title>
+      <link>https://www.hecaitou.com/2026/10/damage-immunity.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/10/damage-immunity.html</guid>
+    </item>
+    <item>
       <title>也不能贼着我一个人薅吧</title>
       <link>https://www.hecaitou.com/2026/10/stop-shearing-the-same-sheep.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
@@ -126,10 +132,22 @@
       <guid>https://www.hecaitou.com/2026/10/The-Refrigerator-Artist.html</guid>
     </item>
     <item>
-      <title>契入一本书的契机</title>
-      <link>https://www.hecaitou.com/2026/10/when-a-book-finally-clicks.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/10/when-a-book-finally-clicks.html</guid>
+      <title>是微服务架构不香还是云不香？</title>
+      <link>https://coolshell.cn/articles/22422.html</link>
+      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
+      <guid>https://coolshell.cn/articles/22422.html</guid>
+    </item>
+    <item>
+      <title>我看ChatGPT: 为啥谷歌掉了千亿美金</title>
+      <link>https://coolshell.cn/articles/22398.html</link>
+      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
+      <guid>https://coolshell.cn/articles/22398.html</guid>
+    </item>
+    <item>
+      <title>聊聊 nostr 和 审查</title>
+      <link>https://coolshell.cn/articles/22367.html</link>
+      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
+      <guid>https://coolshell.cn/articles/22367.html</guid>
     </item>
     <item>
       <title>2016 年，我做过一次 AI 写代码创业</title>
@@ -200,13 +218,13 @@
     <item>
       <title>通过微扰分析求解等式约束优化问题</title>
       <link>https://spaces.ac.cn/archives/11928</link>
-      <description>微扰分析应用于等式约束优化问题求解，提升直观理解。</description>
+      <description>通过微扰分析求解等式约束优化问题</description>
       <guid>https://spaces.ac.cn/archives/11928</guid>
     </item>
     <item>
       <title>慢即是快：1. Shampoo的尽头是Muon？</title>
       <link>https://spaces.ac.cn/archives/11917</link>
-      <description>Shampoo优化器虽多，其极限可能只是Muon。</description>
+      <description>Shampoo优化器系列或趋向于Muon极限。</description>
       <guid>https://spaces.ac.cn/archives/11917</guid>
     </item>
     <item>
@@ -266,37 +284,37 @@
     <item>
       <title>中秋与国庆</title>
       <link>https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/</link>
-      <description>中秋国庆双节，回忆与电影交织。</description>
+      <description>中秋国庆，思念家乡，观影《欢迎来龙餐馆》，感悟战争与人性。</description>
       <guid>https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/</guid>
     </item>
     <item>
       <title>深呼吸</title>
       <link>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</link>
-      <description>一周内，Awesome-Jev 星标破千，项目方向迭代迅速。</description>
+      <description>一周内Awesome-Jev仓库星标破千，项目活跃，探索Jev议题变化。</description>
       <guid>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</guid>
     </item>
     <item>
       <title>动起来，否则你就要费劲思考了</title>
       <link>https://www.gtdstudy.com/posts/2026-09-15-pascal/</link>
-      <description>动笔重逢，X粉破5000，打字75wpm，封存SPEC-AGENTS。</description>
+      <description>动笔重逢，X粉丝破5000，打字75wpm，封存SPEC-AGENTS。</description>
       <guid>https://www.gtdstudy.com/posts/2026-09-15-pascal/</guid>
     </item>
     <item>
       <title>Fragments 0x0012</title>
       <link>https://lenciel.com/2026/10/fragments-0x0012/</link>
-      <description>信念源于本能，沟通应重事实。</description>
+      <description>关注事实而非冲动本能，倡导非暴力沟通。</description>
       <guid>https://lenciel.com/2026/10/fragments-0x0012/</guid>
     </item>
     <item>
       <title>Fragments 0x0011</title>
       <link>https://lenciel.com/2026/10/fragments-0x0011/</link>
-      <description>现实复杂，互联网时代，人心变“瓜”？</description>
+      <description>现实复杂，互联网移动化后，人心变冷漠，瓜田李下。</description>
       <guid>https://lenciel.com/2026/10/fragments-0x0011/</guid>
     </item>
     <item>
       <title>走向玛嘉 (3)</title>
       <link>https://lenciel.com/2026/10/from-m-to-m-03/</link>
-      <description>契约精神缺失，系统易崩溃。</description>
+      <description>契约精神缺失，系统易崩溃，亲近自然以寻敬畏。</description>
       <guid>https://lenciel.com/2026/10/from-m-to-m-03/</guid>
     </item>
     <item>
@@ -410,19 +428,19 @@
     <item>
       <title>折腾半天终于办下来了：0 元与免实体地址申请个体工商户营业执照</title>
       <link>https://battlele.com/individual-business-guide/</link>
-      <description>零成本免地址申请个体户营业执照，轻松完成季度申报。</description>
+      <description>零成本申请个体户执照，轻松完成季度申报。</description>
       <guid>https://battlele.com/individual-business-guide/</guid>
     </item>
     <item>
       <title>香港汇丰 Pulse 银联双币钻石信用卡</title>
       <link>https://battlele.com/hsbc-pulse/</link>
-      <description>香港汇丰Pulse银联卡7月大放水，申请、激活及使用全攻略。</description>
+      <description>香港汇丰 Pulse 银联双币钻石信用卡</description>
       <guid>https://battlele.com/hsbc-pulse/</guid>
     </item>
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台游记：品尝特色小吃，游览国清寺，享受端午假期。</description>
+      <description>天台之旅，品尝特色小吃，游览国清寺，享受悠闲假期。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
@@ -464,19 +482,19 @@
     <item>
       <title>2026.10.5</title>
       <link>https://www.justzht.com/2026-10-5/</link>
-      <description>猫失踪，修车灯，门外来传教，周末日常。</description>
+      <description>猫咪失踪，意外维修车灯，教堂传教士敲门。</description>
       <guid>https://www.justzht.com/2026-10-5/</guid>
     </item>
     <item>
       <title>2026.10.1</title>
       <link>https://www.justzht.com/2026-10-1/</link>
-      <description>九月收束，升职无感，移民被拒，生活陷入停滞。</description>
+      <description>九月工作生活多事，升职后心境转变，移民申请未果。</description>
       <guid>https://www.justzht.com/2026-10-1/</guid>
     </item>
     <item>
       <title>2026.9.27</title>
       <link>https://www.justzht.com/2026-9-27/</link>
-      <description>E39车机升级，健身与移民思考交织的周末。</description>
+      <description>E39车机升级，健身与生活平衡中度过一周。</description>
       <guid>https://www.justzht.com/2026-9-27/</guid>
     </item>
     <item>
