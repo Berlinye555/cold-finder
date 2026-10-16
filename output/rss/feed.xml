@@ -114,6 +114,12 @@
       <guid>https://zelikk.blogspot.com/2026/10/muse-xkcd-password.html</guid>
     </item>
     <item>
+      <title>介绍两位歌王</title>
+      <link>https://www.hecaitou.com/2026/10/meet-two-kings-of-song.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/10/meet-two-kings-of-song.html</guid>
+    </item>
+    <item>
       <title>伤害豁免</title>
       <link>https://www.hecaitou.com/2026/10/damage-immunity.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
@@ -124,30 +130,6 @@
       <link>https://www.hecaitou.com/2026/10/stop-shearing-the-same-sheep.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/10/stop-shearing-the-same-sheep.html</guid>
-    </item>
-    <item>
-      <title>冰箱艺术家</title>
-      <link>https://www.hecaitou.com/2026/10/The-Refrigerator-Artist.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/10/The-Refrigerator-Artist.html</guid>
-    </item>
-    <item>
-      <title>是微服务架构不香还是云不香？</title>
-      <link>https://coolshell.cn/articles/22422.html</link>
-      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
-      <guid>https://coolshell.cn/articles/22422.html</guid>
-    </item>
-    <item>
-      <title>我看ChatGPT: 为啥谷歌掉了千亿美金</title>
-      <link>https://coolshell.cn/articles/22398.html</link>
-      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
-      <guid>https://coolshell.cn/articles/22398.html</guid>
-    </item>
-    <item>
-      <title>聊聊 nostr 和 审查</title>
-      <link>https://coolshell.cn/articles/22367.html</link>
-      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
-      <guid>https://coolshell.cn/articles/22367.html</guid>
     </item>
     <item>
       <title>2016 年，我做过一次 AI 写代码创业</title>
@@ -168,6 +150,12 @@
       <guid>http://blog.youxu.info/2021/11/01/after-fire/</guid>
     </item>
     <item>
+      <title>Latest post on Threads：2026.10.15</title>
+      <link>https://www.changhai.org/articles/miscellaneous/eblog/202609.php#latest</link>
+      <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
+      <guid>https://www.changhai.org/articles/miscellaneous/eblog/202609.php#latest</guid>
+    </item>
+    <item>
       <title>最新微博：2026 年 10 月 12 日</title>
       <link>https://www.changhai.org/articles/miscellaneous/blog/202609.php#latest</link>
       <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
@@ -178,12 +166,6 @@
       <link>https://www.changhai.org/articles/retrospection/encounter.php</link>
       <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
       <guid>https://www.changhai.org/articles/retrospection/encounter.php</guid>
-    </item>
-    <item>
-      <title>Latest post on Threads：2026.09.30</title>
-      <link>https://www.changhai.org/articles/miscellaneous/eblog/202609.php#latest</link>
-      <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
-      <guid>https://www.changhai.org/articles/miscellaneous/eblog/202609.php#latest</guid>
     </item>
     <item>
       <title>納粹酒吧去不去？</title>
@@ -210,22 +192,22 @@
       <guid>http://weiwuhui.com/11090.html</guid>
     </item>
     <item>
+      <title>慢即是快：2. Adam的尽头还是Muon？</title>
+      <link>https://spaces.ac.cn/archives/11964</link>
+      <description>探讨正交最慢下降在预条件优化器中的应用，对比Kronecker积与对角近似。</description>
+      <guid>https://spaces.ac.cn/archives/11964</guid>
+    </item>
+    <item>
       <title>如何让GDN2更稳定一些？</title>
       <link>https://spaces.ac.cn/archives/11945</link>
-      <description>分析GDN2更新矩阵稳定性问题，探讨改进方法。</description>
+      <description>分析GDN2更新矩阵稳定性问题，探讨提升方法。</description>
       <guid>https://spaces.ac.cn/archives/11945</guid>
     </item>
     <item>
       <title>通过微扰分析求解等式约束优化问题</title>
       <link>https://spaces.ac.cn/archives/11928</link>
-      <description>通过微扰分析求解等式约束优化问题</description>
+      <description>探索微扰分析在等式约束优化问题中的应用。</description>
       <guid>https://spaces.ac.cn/archives/11928</guid>
-    </item>
-    <item>
-      <title>慢即是快：1. Shampoo的尽头是Muon？</title>
-      <link>https://spaces.ac.cn/archives/11917</link>
-      <description>Shampoo优化器系列或趋向于Muon极限。</description>
-      <guid>https://spaces.ac.cn/archives/11917</guid>
     </item>
     <item>
       <title>捷径</title>
@@ -264,58 +246,40 @@
       <guid>https://hsu.cy/2026/04/markdown-emphases-cjk/</guid>
     </item>
     <item>
-      <title>庄子不会喜欢 AI：效率，机心，伯乐之罪</title>
-      <link>https://greatdk.com/2144.html</link>
-      <description>面包多创始人。</description>
-      <guid>https://greatdk.com/2144.html</guid>
-    </item>
-    <item>
-      <title>3 天 100 万注册用户，日烧千亿 token，一次意外的里程碑</title>
-      <link>https://greatdk.com/2149.html</link>
-      <description>面包多创始人。</description>
-      <guid>https://greatdk.com/2149.html</guid>
-    </item>
-    <item>
-      <title>TikTok 也曾经很在乎那一万个新增用户</title>
-      <link>https://greatdk.com/2113.html</link>
-      <description>面包多创始人。</description>
-      <guid>https://greatdk.com/2113.html</guid>
-    </item>
-    <item>
       <title>中秋与国庆</title>
       <link>https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/</link>
-      <description>中秋国庆，思念家乡，观影《欢迎来龙餐馆》，感悟战争与人性。</description>
+      <description>中秋国庆双节，思念家乡与亲人，观影感受深刻电影《欢迎来龙餐馆》。</description>
       <guid>https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/</guid>
     </item>
     <item>
       <title>深呼吸</title>
       <link>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</link>
-      <description>一周内Awesome-Jev仓库星标破千，项目活跃，探索Jev议题变化。</description>
+      <description>一周内，Awesome-Jev 星标破千，项目迭代速度惊人。</description>
       <guid>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</guid>
     </item>
     <item>
       <title>动起来，否则你就要费劲思考了</title>
       <link>https://www.gtdstudy.com/posts/2026-09-15-pascal/</link>
-      <description>动笔重逢，X粉丝破5000，打字75wpm，封存SPEC-AGENTS。</description>
+      <description>动笔重逢，X粉丝破5000，打字75wpm，封存SPEC-AGENTS框架。</description>
       <guid>https://www.gtdstudy.com/posts/2026-09-15-pascal/</guid>
+    </item>
+    <item>
+      <title>Fragments 0x0013</title>
+      <link>https://lenciel.com/2026/10/fragments-0x0013/</link>
+      <description>丙戌日，宜逃避，忌奋斗，奇趣宜忌。</description>
+      <guid>https://lenciel.com/2026/10/fragments-0x0013/</guid>
     </item>
     <item>
       <title>Fragments 0x0012</title>
       <link>https://lenciel.com/2026/10/fragments-0x0012/</link>
-      <description>关注事实而非冲动本能，倡导非暴力沟通。</description>
+      <description>非暴力沟通重事实，轻冲动本能。</description>
       <guid>https://lenciel.com/2026/10/fragments-0x0012/</guid>
     </item>
     <item>
       <title>Fragments 0x0011</title>
       <link>https://lenciel.com/2026/10/fragments-0x0011/</link>
-      <description>现实复杂，互联网移动化后，人心变冷漠，瓜田李下。</description>
+      <description>现实复杂，互联网移动化后，人心变复杂。</description>
       <guid>https://lenciel.com/2026/10/fragments-0x0011/</guid>
-    </item>
-    <item>
-      <title>走向玛嘉 (3)</title>
-      <link>https://lenciel.com/2026/10/from-m-to-m-03/</link>
-      <description>契约精神缺失，系统易崩溃，亲近自然以寻敬畏。</description>
-      <guid>https://lenciel.com/2026/10/from-m-to-m-03/</guid>
     </item>
     <item>
       <title>巴别塔</title>
@@ -428,19 +392,19 @@
     <item>
       <title>折腾半天终于办下来了：0 元与免实体地址申请个体工商户营业执照</title>
       <link>https://battlele.com/individual-business-guide/</link>
-      <description>零成本申请个体户执照，轻松完成季度申报。</description>
+      <description>零成本免地址申请个体户执照，轻松完成季度申报。</description>
       <guid>https://battlele.com/individual-business-guide/</guid>
     </item>
     <item>
       <title>香港汇丰 Pulse 银联双币钻石信用卡</title>
       <link>https://battlele.com/hsbc-pulse/</link>
-      <description>香港汇丰 Pulse 银联双币钻石信用卡</description>
+      <description>香港汇丰Pulse银联卡7月大放水，内地用户可享优惠。</description>
       <guid>https://battlele.com/hsbc-pulse/</guid>
     </item>
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台之旅，品尝特色小吃，游览国清寺，享受悠闲假期。</description>
+      <description>天台之旅，品尝特色小吃，探访国清寺。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
@@ -482,19 +446,19 @@
     <item>
       <title>2026.10.5</title>
       <link>https://www.justzht.com/2026-10-5/</link>
-      <description>猫咪失踪，意外维修车灯，教堂传教士敲门。</description>
+      <description>猫咪失踪，维修天使眼车灯，意外遭遇传教。</description>
       <guid>https://www.justzht.com/2026-10-5/</guid>
     </item>
     <item>
       <title>2026.10.1</title>
       <link>https://www.justzht.com/2026-10-1/</link>
-      <description>九月工作生活多事，升职后心境转变，移民申请未果。</description>
+      <description>九月底收束九月，升职却无实感，移民被拒，打官司克扣工资。</description>
       <guid>https://www.justzht.com/2026-10-1/</guid>
     </item>
     <item>
       <title>2026.9.27</title>
       <link>https://www.justzht.com/2026-9-27/</link>
-      <description>E39车机升级，健身与生活平衡中度过一周。</description>
+      <description>改装 E39 车机，体验新车生活。</description>
       <guid>https://www.justzht.com/2026-9-27/</guid>
     </item>
     <item>
