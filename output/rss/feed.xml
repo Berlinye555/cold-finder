@@ -186,12 +186,6 @@
       <guid>https://www.changhai.org/articles/retrospection/encounter.php</guid>
     </item>
     <item>
-      <title>納粹酒吧去不去？</title>
-      <link>https://blog.yitianshijie.net/2026/10/13/shall-we-go-to-a-nazi-bar/</link>
-      <description>代表文章：《[李如一 | 论推荐之难](</description>
-      <guid>https://blog.yitianshijie.net/2026/10/13/shall-we-go-to-a-nazi-bar/</guid>
-    </item>
-    <item>
       <title>AI的说服 靠的不是懂你 是把你淹没</title>
       <link>http://weiwuhui.com/11101.html</link>
       <description>魏老师执教于上海交通大学媒体与传播学院，天奇创投基金管理合伙人。媒体行业的思考和见解，尽在魏老师。</description>
@@ -212,19 +206,19 @@
     <item>
       <title>慢即是快：2. Adam的尽头还是Muon？</title>
       <link>https://spaces.ac.cn/archives/11964</link>
-      <description>探索对角近似优化器在正交最慢下降框架下的性能表现。</description>
+      <description>探索正交最慢下降在优化器中的应用，探讨对角近似与Kronecker积的差异。</description>
       <guid>https://spaces.ac.cn/archives/11964</guid>
     </item>
     <item>
       <title>如何让GDN2更稳定一些？</title>
       <link>https://spaces.ac.cn/archives/11945</link>
-      <description>分析GDN2更新矩阵稳定性问题，探讨改进方法。</description>
+      <description>分析GDN2更新矩阵稳定性问题及解决方案。</description>
       <guid>https://spaces.ac.cn/archives/11945</guid>
     </item>
     <item>
       <title>通过微扰分析求解等式约束优化问题</title>
       <link>https://spaces.ac.cn/archives/11928</link>
-      <description>微扰分析法应用于等式约束优化问题求解，提升直观理解。</description>
+      <description>探索微扰分析在等式约束优化问题中的应用。</description>
       <guid>https://spaces.ac.cn/archives/11928</guid>
     </item>
     <item>
@@ -264,15 +258,33 @@
       <guid>https://hsu.cy/2026/04/markdown-emphases-cjk/</guid>
     </item>
     <item>
+      <title>庄子不会喜欢 AI：效率，机心，伯乐之罪</title>
+      <link>https://greatdk.com/2144.html</link>
+      <description>面包多创始人。</description>
+      <guid>https://greatdk.com/2144.html</guid>
+    </item>
+    <item>
+      <title>3 天 100 万注册用户，日烧千亿 token，一次意外的里程碑</title>
+      <link>https://greatdk.com/2149.html</link>
+      <description>面包多创始人。</description>
+      <guid>https://greatdk.com/2149.html</guid>
+    </item>
+    <item>
+      <title>TikTok 也曾经很在乎那一万个新增用户</title>
+      <link>https://greatdk.com/2113.html</link>
+      <description>面包多创始人。</description>
+      <guid>https://greatdk.com/2113.html</guid>
+    </item>
+    <item>
       <title>中秋与国庆</title>
       <link>https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/</link>
-      <description>中秋国庆之际，怀念家乡与亲人，观影感受反战电影《欢迎来龙餐馆》。</description>
+      <description>中秋国庆双节，怀念家乡与亲人，观影《欢迎来龙餐馆》，感受战争与人性。</description>
       <guid>https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/</guid>
     </item>
     <item>
       <title>深呼吸</title>
       <link>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</link>
-      <description>一周内Awesome-Jev仓库星标破千，项目活跃，探索Jev议题变化。</description>
+      <description>一周内，Awesome-Jev 星标破千，项目活跃，Jev 热度不减。</description>
       <guid>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</guid>
     </item>
     <item>
@@ -284,13 +296,13 @@
     <item>
       <title>Fragments 0x0014</title>
       <link>https://lenciel.com/2026/10/fragments-0x0014/</link>
-      <description>AGI/ASI来临前，高效化的人类可能已失去人性。</description>
+      <description>Fragments 0x0014</description>
       <guid>https://lenciel.com/2026/10/fragments-0x0014/</guid>
     </item>
     <item>
       <title>Fragments 0x0013</title>
       <link>https://lenciel.com/2026/10/fragments-0x0013/</link>
-      <description>丙戌日宜逃避，忌积极进取，趣味宜忌交织。</description>
+      <description>丙戌日，宜逃单跑路，忌拼搏求索。</description>
       <guid>https://lenciel.com/2026/10/fragments-0x0013/</guid>
     </item>
     <item>
@@ -410,19 +422,19 @@
     <item>
       <title>折腾半天终于办下来了：0 元与免实体地址申请个体工商户营业执照</title>
       <link>https://battlele.com/individual-business-guide/</link>
-      <description>零成本办理个体户营业执照，轻松完成季度申报。</description>
+      <description>零成本免地址申请个体户营业执照攻略，轻松搞定申报。</description>
       <guid>https://battlele.com/individual-business-guide/</guid>
     </item>
     <item>
       <title>香港汇丰 Pulse 银联双币钻石信用卡</title>
       <link>https://battlele.com/hsbc-pulse/</link>
-      <description>香港汇丰Pulse银联卡7月大放水，内地用户可享受多重优惠。</description>
+      <description>香港汇丰Pulse银联卡7月大放水，内地用户可享优惠。</description>
       <guid>https://battlele.com/hsbc-pulse/</guid>
     </item>
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台游记：体验当地美食，探访国清寺，享受悠闲假期。</description>
+      <description>天台游记：体验当地美食，探访国清寺，享受宁静假期。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
@@ -464,19 +476,19 @@
     <item>
       <title>2026.10.17</title>
       <link>https://www.justzht.com/2026-10-17/</link>
-      <description>生日礼物意外购得车香，Expedition亏电遇奇遇，Epoch开发稳步推进。</description>
+      <description>2026.10.17</description>
       <guid>https://www.justzht.com/2026-10-17/</guid>
     </item>
     <item>
       <title>2026.10.5</title>
       <link>https://www.justzht.com/2026-10-5/</link>
-      <description>猫咪失踪，维修车灯，意外传教。</description>
+      <description>周末奇遇记：找猫、修车、传教士敲门。</description>
       <guid>https://www.justzht.com/2026-10-5/</guid>
     </item>
     <item>
       <title>2026.10.1</title>
       <link>https://www.justzht.com/2026-10-1/</link>
-      <description>升职无感，翘班懒散，九月收束，生活陷入停滞。</description>
+      <description>2026.10.1</description>
       <guid>https://www.justzht.com/2026-10-1/</guid>
     </item>
     <item>
