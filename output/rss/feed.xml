@@ -96,6 +96,12 @@
       <guid>https://webfem.com/post/writing-platform-word-count-rules</guid>
     </item>
     <item>
+      <title>muse.ai 申请 telegram api id api hash</title>
+      <link>https://zelikk.blogspot.com/2026/10/museai-telegram-api-id-api-hash.html</link>
+      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
+      <guid>https://zelikk.blogspot.com/2026/10/museai-telegram-api-id-api-hash.html</guid>
+    </item>
+    <item>
       <title>muse.ai 登录 sb.sb 烧饼论坛 测试自定义CSS 关闭显示特效</title>
       <link>https://zelikk.blogspot.com/2026/10/museai-sbsb-css.html</link>
       <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
@@ -108,13 +114,13 @@
       <guid>https://zelikk.blogspot.com/2026/10/muse-ai-cloudflare-worker-telegram-tg-keyword-forward.html</guid>
     </item>
     <item>
-      <title>重装VPS系统时, 恢复 Hermes 干活的能力</title>
-      <link>https://zelikk.blogspot.com/2026/10/vps-reinstall-restore-hermes-skill.html</link>
-      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
-      <guid>https://zelikk.blogspot.com/2026/10/vps-reinstall-restore-hermes-skill.html</guid>
+      <title>都胡说八道了还又臭又长</title>
+      <link>https://www.hecaitou.com/2026/10/All-Filler-No-Fact.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/10/All-Filler-No-Fact.html</guid>
     </item>
     <item>
-      <title>这回我承认AI的确实有用</title>
+      <title>这回我承认AI确实有用</title>
       <link>https://www.hecaitou.com/2026/10/why-i-finally-admit-that-ai-is-genuinely-usef.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/10/why-i-finally-admit-that-ai-is-genuinely-usef.html</guid>
@@ -126,10 +132,22 @@
       <guid>https://www.hecaitou.com/2026/10/The-Light-Within.html</guid>
     </item>
     <item>
-      <title>人书俱老</title>
-      <link>https://www.hecaitou.com/2026/10/when-the-writer-and-the-work-mature-together.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/10/when-the-writer-and-the-work-mature-together.html</guid>
+      <title>是微服务架构不香还是云不香？</title>
+      <link>https://coolshell.cn/articles/22422.html</link>
+      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
+      <guid>https://coolshell.cn/articles/22422.html</guid>
+    </item>
+    <item>
+      <title>我看ChatGPT: 为啥谷歌掉了千亿美金</title>
+      <link>https://coolshell.cn/articles/22398.html</link>
+      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
+      <guid>https://coolshell.cn/articles/22398.html</guid>
+    </item>
+    <item>
+      <title>聊聊 nostr 和 审查</title>
+      <link>https://coolshell.cn/articles/22367.html</link>
+      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
+      <guid>https://coolshell.cn/articles/22367.html</guid>
     </item>
     <item>
       <title>2016 年，我做过一次 AI 写代码创业</title>
@@ -194,19 +212,19 @@
     <item>
       <title>连续化 Softmax Attention</title>
       <link>https://spaces.ac.cn/archives/11980</link>
-      <description>探索Softmax Attention连续化新路径，带来新见解。</description>
+      <description>Softmax Attention连续化探索新路径，论文《Continuum Attention》提出创新点。</description>
       <guid>https://spaces.ac.cn/archives/11980</guid>
     </item>
     <item>
       <title>慢即是快：2. Adam的尽头还是Muon？</title>
       <link>https://spaces.ac.cn/archives/11964</link>
-      <description>探索Adam优化器与正交最慢下降框架的结合，揭示其对角近似下的潜在优化潜力。</description>
+      <description>探索正交最慢下降对Adam优化器的影响，挑战对角近似与Kronecker积的关系。</description>
       <guid>https://spaces.ac.cn/archives/11964</guid>
     </item>
     <item>
       <title>如何让GDN2更稳定一些？</title>
       <link>https://spaces.ac.cn/archives/11945</link>
-      <description>分析GDN2更新矩阵稳定性问题，探讨提升方法。</description>
+      <description>分析GDN2更新矩阵稳定性问题，探讨改进方法。</description>
       <guid>https://spaces.ac.cn/archives/11945</guid>
     </item>
     <item>
@@ -248,38 +266,38 @@
     <item>
       <title>中秋与国庆</title>
       <link>https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/</link>
-      <description>中秋国庆双节，思念家乡与亲人，观影《欢迎来龙餐馆》，感受战争与人性。</description>
+      <description>中秋国庆双节，思念家乡与亲人，观影感受深刻反战电影。</description>
       <guid>https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/</guid>
     </item>
     <item>
       <title>深呼吸</title>
       <link>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</link>
-      <description>一周内Awesome-Jev星标破千，项目活跃，Jev议题迭代快速。</description>
+      <description>一周内Awesome-Jev星标破千，项目活跃，探索信息迭代速度。</description>
       <guid>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</guid>
     </item>
     <item>
       <title>动起来，否则你就要费劲思考了</title>
       <link>https://www.gtdstudy.com/posts/2026-09-15-pascal/</link>
-      <description>动笔重逢，粉丝破5000，打字75wpm，封存SPEC-AGENTS框架。</description>
+      <description>动笔重逢，X粉破5000，打字75wpm，封存SPEC-AGENTS。</description>
       <guid>https://www.gtdstudy.com/posts/2026-09-15-pascal/</guid>
+    </item>
+    <item>
+      <title>Fragments 0x0018</title>
+      <link>https://lenciel.com/2026/10/fragments-0x0018/</link>
+      <description>出行、入金、弯道超车宜，刮痧、搜神忌。</description>
+      <guid>https://lenciel.com/2026/10/fragments-0x0018/</guid>
     </item>
     <item>
       <title>Fragments 0x0017</title>
       <link>https://lenciel.com/2026/10/fragments-0x0017/</link>
-      <description>网络安全投入与产出不对称，时代变迁需警惕。</description>
+      <description>网络安全投入产出不对称，时代警惕大意。</description>
       <guid>https://lenciel.com/2026/10/fragments-0x0017/</guid>
     </item>
     <item>
       <title>Fragments 0x0016</title>
       <link>https://lenciel.com/2026/10/fragments-0x0016/</link>
-      <description>算法推荐旅行，解放还是束缚？</description>
+      <description>算法推荐旅行地，是解放还是束缚探索？</description>
       <guid>https://lenciel.com/2026/10/fragments-0x0016/</guid>
-    </item>
-    <item>
-      <title>Fragments 0x0015</title>
-      <link>https://lenciel.com/2026/10/fragments-0x0015/</link>
-      <description>宜立案坐化，忌涂鸦畏罪，生活编程两不误。</description>
-      <guid>https://lenciel.com/2026/10/fragments-0x0015/</guid>
     </item>
     <item>
       <title>移除了 webmention 功能</title>
@@ -392,19 +410,19 @@
     <item>
       <title>折腾半天终于办下来了：0 元与免实体地址申请个体工商户营业执照</title>
       <link>https://battlele.com/individual-business-guide/</link>
-      <description>零成本申请个体工商户执照，轻松解决管理费减免问题。</description>
+      <description>零成本申请个体户执照，轻松完成季度申报。</description>
       <guid>https://battlele.com/individual-business-guide/</guid>
     </item>
     <item>
       <title>香港汇丰 Pulse 银联双币钻石信用卡</title>
       <link>https://battlele.com/hsbc-pulse/</link>
-      <description>香港汇丰Pulse银联卡7月大放水，内地用户申请指南。</description>
+      <description>香港汇丰Pulse银联卡七月大放水，内地用户可享Apple Pay绑定及多项礼遇。</description>
       <guid>https://battlele.com/hsbc-pulse/</guid>
     </item>
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台（tāi）游记</description>
+      <description>天台游记：体验地道的台州美食与国清寺的宁静。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
@@ -446,19 +464,19 @@
     <item>
       <title>2026.10.21</title>
       <link>https://www.justzht.com/2026-10-21/</link>
-      <description>重映电影体验，山间午餐，Epoch 游戏移植新思路。</description>
+      <description>重映经典电影，回忆与生活交织。</description>
       <guid>https://www.justzht.com/2026-10-21/</guid>
     </item>
     <item>
       <title>2026.10.17</title>
       <link>https://www.justzht.com/2026-10-17/</link>
-      <description>生日礼物购物意外，车被偷电，游戏开发进度更新。</description>
+      <description>生日礼物变故，车充电遇奇遇，游戏开发进度汇报。</description>
       <guid>https://www.justzht.com/2026-10-17/</guid>
     </item>
     <item>
       <title>2026.10.5</title>
       <link>https://www.justzht.com/2026-10-5/</link>
-      <description>家中猫失踪，安装车灯遇卖家不负责任，周末门庭若市。</description>
+      <description>猫咪失踪，维修车灯，教堂传教员上门。</description>
       <guid>https://www.justzht.com/2026-10-5/</guid>
     </item>
     <item>
