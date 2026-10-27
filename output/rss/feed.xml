@@ -6,6 +6,12 @@
     <description>精选自 605 个中文博客 + GitHub 日榜</description>
     <language>zh-CN</language>
     <item>
+      <title>算了，还是讲下named-feature() @supports规则检测吧</title>
+      <link>https://www.zhangxinxu.com/wordpress/2026/10/css-supports-named-feature/</link>
+      <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
+      <guid>https://www.zhangxinxu.com/wordpress/2026/10/css-supports-named-feature/</guid>
+    </item>
+    <item>
       <title>Nice！继text-wrap之后，Flex布局也支持balance排版了</title>
       <link>https://www.zhangxinxu.com/wordpress/2026/10/flex-wrap-balance/</link>
       <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
@@ -16,12 +22,6 @@
       <link>https://www.zhangxinxu.com/wordpress/2026/10/document-picture-in-picture-api/</link>
       <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
       <guid>https://www.zhangxinxu.com/wordpress/2026/10/document-picture-in-picture-api/</guid>
-    </item>
-    <item>
-      <title>一个视频彻底看懂CSS scroll-axis-lock none的作用</title>
-      <link>https://www.zhangxinxu.com/wordpress/2026/09/scroll-axis-lock-none/</link>
-      <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
-      <guid>https://www.zhangxinxu.com/wordpress/2026/09/scroll-axis-lock-none/</guid>
     </item>
     <item>
       <title>看完凡人真人版！韩立的性格狠点+师傅阵容，越聊越燃</title>
@@ -60,6 +60,12 @@
       <guid>https://supercodepower.com/chrome-devtools-protocol</guid>
     </item>
     <item>
+      <title>当应用不再属于特定操作系统 - 肘子的 Swift 周报 #159</title>
+      <link>https://fatbobman.com/zh/weekly/issue-159/</link>
+      <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
+      <guid>https://fatbobman.com/zh/weekly/issue-159/</guid>
+    </item>
+    <item>
       <title>谁是 AI-relay App 的真正威胁 - 肘子的 Swift 周报 #158</title>
       <link>https://fatbobman.com/zh/weekly/issue-158/</link>
       <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
@@ -70,12 +76,6 @@
       <link>https://fatbobman.com/zh/weekly/issue-157/</link>
       <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
       <guid>https://fatbobman.com/zh/weekly/issue-157/</guid>
-    </item>
-    <item>
-      <title>AI-Friendly Framework：当抽象上移，验证如何跟上？</title>
-      <link>https://fatbobman.com/zh/posts/ai-friendly-framework/</link>
-      <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
-      <guid>https://fatbobman.com/zh/posts/ai-friendly-framework/</guid>
     </item>
     <item>
       <title>如何解决 Unexpected token =</title>
@@ -114,6 +114,12 @@
       <guid>https://zelikk.blogspot.com/2026/10/muse-ai-cloudflare-worker-telegram-tg-keyword-forward.html</guid>
     </item>
     <item>
+      <title>自己修脚</title>
+      <link>https://www.hecaitou.com/2026/10/The-Art-of-the-DIY-Pedicure.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/10/The-Art-of-the-DIY-Pedicure.html</guid>
+    </item>
+    <item>
       <title>都胡说八道了还又臭又长</title>
       <link>https://www.hecaitou.com/2026/10/All-Filler-No-Fact.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
@@ -124,12 +130,6 @@
       <link>https://www.hecaitou.com/2026/10/why-i-finally-admit-that-ai-is-genuinely-usef.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/10/why-i-finally-admit-that-ai-is-genuinely-usef.html</guid>
-    </item>
-    <item>
-      <title>心里有光</title>
-      <link>https://www.hecaitou.com/2026/10/The-Light-Within.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/10/The-Light-Within.html</guid>
     </item>
     <item>
       <title>是微服务架构不香还是云不香？</title>
@@ -168,7 +168,7 @@
       <guid>http://blog.youxu.info/2021/11/01/after-fire/</guid>
     </item>
     <item>
-      <title>最新微博：2026 年 10 月 24 日</title>
+      <title>最新微博：2026 年 10 月 26 日</title>
       <link>https://www.changhai.org/articles/miscellaneous/blog/202609.php#latest</link>
       <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
       <guid>https://www.changhai.org/articles/miscellaneous/blog/202609.php#latest</guid>
@@ -184,12 +184,6 @@
       <link>https://www.changhai.org/articles/retrospection/encounter.php</link>
       <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
       <guid>https://www.changhai.org/articles/retrospection/encounter.php</guid>
-    </item>
-    <item>
-      <title>納粹酒吧去不去？</title>
-      <link>https://blog.yitianshijie.net/2026/10/13/shall-we-go-to-a-nazi-bar/</link>
-      <description>代表文章：《[李如一 | 论推荐之难](</description>
-      <guid>https://blog.yitianshijie.net/2026/10/13/shall-we-go-to-a-nazi-bar/</guid>
     </item>
     <item>
       <title>AI的说服 靠的不是懂你 是把你淹没</title>
@@ -212,19 +206,19 @@
     <item>
       <title>连续化 Softmax Attention</title>
       <link>https://spaces.ac.cn/archives/11980</link>
-      <description>Softmax Attention连续化探索新路径，论文《Continuum Attention》提出创新点。</description>
+      <description>探索Softmax Attention连续化新路径，揭示其潜在应用价值。</description>
       <guid>https://spaces.ac.cn/archives/11980</guid>
     </item>
     <item>
       <title>慢即是快：2. Adam的尽头还是Muon？</title>
       <link>https://spaces.ac.cn/archives/11964</link>
-      <description>探索正交最慢下降对Adam优化器的影响，挑战对角近似与Kronecker积的关系。</description>
+      <description>探讨正交最慢下降在预条件优化器中的应用，对比对角近似与Kronecker积结构。</description>
       <guid>https://spaces.ac.cn/archives/11964</guid>
     </item>
     <item>
       <title>如何让GDN2更稳定一些？</title>
       <link>https://spaces.ac.cn/archives/11945</link>
-      <description>分析GDN2更新矩阵稳定性问题，探讨改进方法。</description>
+      <description>分析GDN2更新矩阵稳定性问题及解决方案。</description>
       <guid>https://spaces.ac.cn/archives/11945</guid>
     </item>
     <item>
@@ -266,37 +260,37 @@
     <item>
       <title>中秋与国庆</title>
       <link>https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/</link>
-      <description>中秋国庆双节，思念家乡与亲人，观影感受深刻反战电影。</description>
+      <description>中秋国庆双节，回忆与电影交织。</description>
       <guid>https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/</guid>
     </item>
     <item>
       <title>深呼吸</title>
       <link>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</link>
-      <description>一周内Awesome-Jev星标破千，项目活跃，探索信息迭代速度。</description>
+      <description>一周内，Awesome-Jev 仓库星标破千，项目活跃，见证信息迭代速度。</description>
       <guid>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</guid>
     </item>
     <item>
       <title>动起来，否则你就要费劲思考了</title>
       <link>https://www.gtdstudy.com/posts/2026-09-15-pascal/</link>
-      <description>动笔重逢，X粉破5000，打字75wpm，封存SPEC-AGENTS。</description>
+      <description>动笔重逢，粉丝突破5000，打字75wpm，封存SPEC-AGENTS。</description>
       <guid>https://www.gtdstudy.com/posts/2026-09-15-pascal/</guid>
     </item>
     <item>
       <title>Fragments 0x0018</title>
       <link>https://lenciel.com/2026/10/fragments-0x0018/</link>
-      <description>出行、入金、弯道超车宜，刮痧、搜神忌。</description>
+      <description>出行、投资、驾驶技巧宜，生活小忌。</description>
       <guid>https://lenciel.com/2026/10/fragments-0x0018/</guid>
     </item>
     <item>
       <title>Fragments 0x0017</title>
       <link>https://lenciel.com/2026/10/fragments-0x0017/</link>
-      <description>网络安全投入产出不对称，时代警惕大意。</description>
+      <description>网络安全投入产出不对称，时代需警惕。</description>
       <guid>https://lenciel.com/2026/10/fragments-0x0017/</guid>
     </item>
     <item>
       <title>Fragments 0x0016</title>
       <link>https://lenciel.com/2026/10/fragments-0x0016/</link>
-      <description>算法推荐旅行地，是解放还是束缚探索？</description>
+      <description>小红书旅行推荐算法引发旅行目的与执行方式思考。</description>
       <guid>https://lenciel.com/2026/10/fragments-0x0016/</guid>
     </item>
     <item>
@@ -354,6 +348,12 @@
       <guid>https://geekplux.com/posts/two-years-in-usa/</guid>
     </item>
     <item>
+      <title>句子-20261025</title>
+      <link>https://www.edony.ink/sentences-20261025/</link>
+      <description>喜欢我的文章，第二欢迎的是留言，第三欢迎的是分享，第四欢迎的是打赏。如果要问第一欢迎的是什么，我的答案是希望你也能开始自己的写作历程，把自己的见闻和思考分享出来，网络上高质量的中文内容，需要大家一起努力。</description>
+      <guid>https://www.edony.ink/sentences-20261025/</guid>
+    </item>
+    <item>
       <title>我曾有一辆叫&amp;quot;小蓝&amp;quot;的车</title>
       <link>https://www.edony.ink/diary/my-car-called-xiao-lan/</link>
       <description>喜欢我的文章，第二欢迎的是留言，第三欢迎的是分享，第四欢迎的是打赏。如果要问第一欢迎的是什么，我的答案是希望你也能开始自己的写作历程，把自己的见闻和思考分享出来，网络上高质量的中文内容，需要大家一起努力。</description>
@@ -364,12 +364,6 @@
       <link>https://www.edony.ink/staring-at-agent-attention-residue/</link>
       <description>喜欢我的文章，第二欢迎的是留言，第三欢迎的是分享，第四欢迎的是打赏。如果要问第一欢迎的是什么，我的答案是希望你也能开始自己的写作历程，把自己的见闻和思考分享出来，网络上高质量的中文内容，需要大家一起努力。</description>
       <guid>https://www.edony.ink/staring-at-agent-attention-residue/</guid>
-    </item>
-    <item>
-      <title>AI Hasn’t Rebuilt the Organization Yet. Anxiety Rebuilt Management First</title>
-      <link>https://www.edony.ink/en/ai-hasnt-rebuilt-the-organization-yet-anxiety-rebuilt-management-first/</link>
-      <description>喜欢我的文章，第二欢迎的是留言，第三欢迎的是分享，第四欢迎的是打赏。如果要问第一欢迎的是什么，我的答案是希望你也能开始自己的写作历程，把自己的见闻和思考分享出来，网络上高质量的中文内容，需要大家一起努力。</description>
-      <guid>https://www.edony.ink/en/ai-hasnt-rebuilt-the-organization-yet-anxiety-rebuilt-management-first/</guid>
     </item>
     <item>
       <title>No.605 虚拟货币简史（中）：中本聪是谁？</title>
@@ -410,19 +404,19 @@
     <item>
       <title>折腾半天终于办下来了：0 元与免实体地址申请个体工商户营业执照</title>
       <link>https://battlele.com/individual-business-guide/</link>
-      <description>零成本申请个体户执照，轻松完成季度申报。</description>
+      <description>零成本免地址申请个体户营业执照攻略。</description>
       <guid>https://battlele.com/individual-business-guide/</guid>
     </item>
     <item>
       <title>香港汇丰 Pulse 银联双币钻石信用卡</title>
       <link>https://battlele.com/hsbc-pulse/</link>
-      <description>香港汇丰Pulse银联卡七月大放水，内地用户可享Apple Pay绑定及多项礼遇。</description>
+      <description>香港汇丰Pulse银联卡7月大放水，内地用户申请攻略详解。</description>
       <guid>https://battlele.com/hsbc-pulse/</guid>
     </item>
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台游记：体验地道的台州美食与国清寺的宁静。</description>
+      <description>天台游记：探秘台州天台，品尝特色小吃，感受国清寺古韵。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
@@ -462,22 +456,22 @@
       <guid>https://s5s5.me/4292</guid>
     </item>
     <item>
+      <title>2026.10.25</title>
+      <link>https://www.justzht.com/2026-10-25/</link>
+      <description>Epoch支持多平台运行，新Mac Studio助力开发，周一有望肇事逃逸进展。</description>
+      <guid>https://www.justzht.com/2026-10-25/</guid>
+    </item>
+    <item>
       <title>2026.10.21</title>
       <link>https://www.justzht.com/2026-10-21/</link>
-      <description>重映经典电影，回忆与生活交织。</description>
+      <description>重映经典电影，跑山赏车，技术探索新方向。</description>
       <guid>https://www.justzht.com/2026-10-21/</guid>
     </item>
     <item>
       <title>2026.10.17</title>
       <link>https://www.justzht.com/2026-10-17/</link>
-      <description>生日礼物变故，车充电遇奇遇，游戏开发进度汇报。</description>
+      <description>生日聚会后，解决车问题和游戏开发，同时处理保险纠纷。</description>
       <guid>https://www.justzht.com/2026-10-17/</guid>
-    </item>
-    <item>
-      <title>2026.10.5</title>
-      <link>https://www.justzht.com/2026-10-5/</link>
-      <description>猫咪失踪，维修车灯，教堂传教员上门。</description>
-      <guid>https://www.justzht.com/2026-10-5/</guid>
     </item>
     <item>
       <title>Blog Theme Update Mermaid Support Is Here</title>
