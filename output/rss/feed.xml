@@ -114,6 +114,12 @@
       <guid>https://zelikk.blogspot.com/2026/10/museai-sbsb-css.html</guid>
     </item>
     <item>
+      <title>人有瑕疵</title>
+      <link>https://www.hecaitou.com/2026/10/human-imperfection.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/10/human-imperfection.html</guid>
+    </item>
+    <item>
       <title>谁说普通人了</title>
       <link>https://www.hecaitou.com/2026/10/who-said-anything-about-ordinary-people.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
@@ -124,12 +130,6 @@
       <link>https://www.hecaitou.com/2026/10/The-Art-of-the-DIY-Pedicure.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/10/The-Art-of-the-DIY-Pedicure.html</guid>
-    </item>
-    <item>
-      <title>都胡说八道了还又臭又长</title>
-      <link>https://www.hecaitou.com/2026/10/All-Filler-No-Fact.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/10/All-Filler-No-Fact.html</guid>
     </item>
     <item>
       <title>2016 年，我做过一次 AI 写代码创业</title>
@@ -150,7 +150,7 @@
       <guid>http://blog.youxu.info/2021/11/01/after-fire/</guid>
     </item>
     <item>
-      <title>最新微博：2026 年 10 月 27 日</title>
+      <title>最新微博：2026 年 10 月 28 日</title>
       <link>https://www.changhai.org/articles/miscellaneous/blog/202609.php#latest</link>
       <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
       <guid>https://www.changhai.org/articles/miscellaneous/blog/202609.php#latest</guid>
@@ -188,19 +188,19 @@
     <item>
       <title>从参数对称性到有效学习率</title>
       <link>https://spaces.ac.cn/archives/11985</link>
-      <description>探讨参数对称性在模型优化中的应用与挑战。</description>
+      <description>探讨参数对称性在模型优化中的应用及其挑战。</description>
       <guid>https://spaces.ac.cn/archives/11985</guid>
     </item>
     <item>
       <title>连续化 Softmax Attention</title>
       <link>https://spaces.ac.cn/archives/11980</link>
-      <description>Softmax Attention连续化探索新路径，带来创新研究。</description>
+      <description>探索Softmax Attention连续化新路径，揭示潜在有趣结果。</description>
       <guid>https://spaces.ac.cn/archives/11980</guid>
     </item>
     <item>
       <title>慢即是快：2. Adam的尽头还是Muon？</title>
       <link>https://spaces.ac.cn/archives/11964</link>
-      <description>探讨正交最慢下降在预条件优化器中的应用，对比Kronecker积与对角近似。</description>
+      <description>探索正交最慢下降在Adam优化器中的应用与结果。</description>
       <guid>https://spaces.ac.cn/archives/11964</guid>
     </item>
     <item>
@@ -242,37 +242,37 @@
     <item>
       <title>中秋与国庆</title>
       <link>https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/</link>
-      <description>中秋国庆双节，回忆与电影交织。</description>
+      <description>中秋国庆双节思念，回忆与电影感悟交织。</description>
       <guid>https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/</guid>
     </item>
     <item>
       <title>深呼吸</title>
       <link>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</link>
-      <description>Awesome-Jev 仓库星标破千，项目议题迭代迅速。</description>
+      <description>一周内Awesome-Jev星标破千，项目动态更新迅速。</description>
       <guid>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</guid>
     </item>
     <item>
       <title>动起来，否则你就要费劲思考了</title>
       <link>https://www.gtdstudy.com/posts/2026-09-15-pascal/</link>
-      <description>动笔重逢，粉丝突破5000，打字75wpm，封存SPEC-AGENTS。</description>
+      <description>动笔重逢，粉丝突破5000，打字速度75wpm，封存SPEC-AGENTS框架。</description>
       <guid>https://www.gtdstudy.com/posts/2026-09-15-pascal/</guid>
     </item>
     <item>
       <title>Fragments 0x0019</title>
       <link>https://lenciel.com/2026/10/fragments-0x0019/</link>
-      <description>AI算法控制生活，人类生活失去人性。</description>
+      <description>AI算法控制生活，人类失去自我。</description>
       <guid>https://lenciel.com/2026/10/fragments-0x0019/</guid>
     </item>
     <item>
       <title>Fragments 0x0018</title>
       <link>https://lenciel.com/2026/10/fragments-0x0018/</link>
-      <description>宜出行入金，忌暴力升级，宜弯道加速，宜换轮胎，宜偷梁换柱。</description>
+      <description>出行、投资、驾驶皆宜，生活小技巧与禁忌。</description>
       <guid>https://lenciel.com/2026/10/fragments-0x0018/</guid>
     </item>
     <item>
       <title>Fragments 0x0017</title>
       <link>https://lenciel.com/2026/10/fragments-0x0017/</link>
-      <description>网络安全投入产出不对称，时代要求不能大意。</description>
+      <description>网络安全重要性凸显，防患未然。</description>
       <guid>https://lenciel.com/2026/10/fragments-0x0017/</guid>
     </item>
     <item>
@@ -386,19 +386,19 @@
     <item>
       <title>折腾半天终于办下来了：0 元与免实体地址申请个体工商户营业执照</title>
       <link>https://battlele.com/individual-business-guide/</link>
-      <description>零成本免地址，轻松申请个体工商户营业执照。</description>
+      <description>零成本免地址申请个体户营业执照，轻松完成季度申报。</description>
       <guid>https://battlele.com/individual-business-guide/</guid>
     </item>
     <item>
       <title>香港汇丰 Pulse 银联双币钻石信用卡</title>
       <link>https://battlele.com/hsbc-pulse/</link>
-      <description>香港汇丰Pulse银联卡7月大放水，内地用户可享多重福利。</description>
+      <description>香港汇丰Pulse银联卡7月大放水，内地用户可享优惠。</description>
       <guid>https://battlele.com/hsbc-pulse/</guid>
     </item>
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台游记：体验台州天台，品尝特色小吃，游览国清寺。</description>
+      <description>天台之旅，品味特色小吃，领略国清寺魅力。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
@@ -446,32 +446,32 @@
     <item>
       <title>2026.10.21</title>
       <link>https://www.justzht.com/2026-10-21/</link>
-      <description>重映电影、跑山赏车、Playdate开发进展。</description>
+      <description>重映经典电影，探讨老物件与日常生活的关联。</description>
       <guid>https://www.justzht.com/2026-10-21/</guid>
     </item>
     <item>
       <title>2026.10.17</title>
       <link>https://www.justzht.com/2026-10-17/</link>
-      <description>生日礼物、车电故障、游戏开发进度及保险理赔纠纷。</description>
+      <description>生日礼物购物变故，车险索赔进展，游戏开发中。</description>
       <guid>https://www.justzht.com/2026-10-17/</guid>
     </item>
     <item>
-      <title>Blog Theme Update Mermaid Support Is Here</title>
-      <link>https://www.bboy.app/2026/09/17/blog-theme-update-mermaid-support-is-here/</link>
+      <title>When the Namespace Dropdown in the Argo Rollouts Dashboard Disappeared</title>
+      <link>https://www.bboy.app/2026/10/27/when-the-namespace-dropdown-in-the-argo-rollouts-dashboard-disappeared/</link>
       <description>描述：一个分享个人见解、关注项目更新和技术文章的博客。</description>
-      <guid>https://www.bboy.app/2026/09/17/blog-theme-update-mermaid-support-is-here/</guid>
+      <guid>https://www.bboy.app/2026/10/27/when-the-namespace-dropdown-in-the-argo-rollouts-dashboard-disappeared/</guid>
     </item>
     <item>
-      <title>博客主题更新：现在支持 Mermaid 了</title>
-      <link>https://www.bboy.app/2026/09/17/%E5%8D%9A%E5%AE%A2%E4%B8%BB%E9%A2%98%E6%9B%B4%E6%96%B0%E7%8E%B0%E5%9C%A8%E6%94%AF%E6%8C%81-mermaid-%E4%BA%86/</link>
+      <title>记一次ArgoRollouts Dashboard的namespace下拉框消失</title>
+      <link>https://www.bboy.app/2026/10/27/%E8%AE%B0%E4%B8%80%E6%AC%A1argorollouts-dashboard%E7%9A%84namespace%E4%B8%8B%E6%8B%89%E6%A1%86%E6%B6%88%E5%A4%B1/</link>
       <description>描述：一个分享个人见解、关注项目更新和技术文章的博客。</description>
-      <guid>https://www.bboy.app/2026/09/17/%E5%8D%9A%E5%AE%A2%E4%B8%BB%E9%A2%98%E6%9B%B4%E6%96%B0%E7%8E%B0%E5%9C%A8%E6%94%AF%E6%8C%81-mermaid-%E4%BA%86/</guid>
+      <guid>https://www.bboy.app/2026/10/27/%E8%AE%B0%E4%B8%80%E6%AC%A1argorollouts-dashboard%E7%9A%84namespace%E4%B8%8B%E6%8B%89%E6%A1%86%E6%B6%88%E5%A4%B1/</guid>
     </item>
     <item>
-      <title>I Recreated My Own Version of TickTick with AI</title>
-      <link>https://www.bboy.app/2026/09/09/i-recreated-my-own-version-of-ticktick-with-ai/</link>
+      <title>20261026的胡言乱语</title>
+      <link>https://www.bboy.app/2026/10/26/20261026%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/</link>
       <description>描述：一个分享个人见解、关注项目更新和技术文章的博客。</description>
-      <guid>https://www.bboy.app/2026/09/09/i-recreated-my-own-version-of-ticktick-with-ai/</guid>
+      <guid>https://www.bboy.app/2026/10/26/20261026%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/</guid>
     </item>
     <item>
       <title>Vibe Coding 的提问艺术：怎么把模糊的想法说成 AI 能懂的需求</title>
