@@ -96,6 +96,12 @@
       <guid>https://webfem.com/post/writing-platform-word-count-rules</guid>
     </item>
     <item>
+      <title>muse.ai 把 youtube 视频片段做成 telegram 视频贴纸</title>
+      <link>https://zelikk.blogspot.com/2026/10/muse-ai-youtube-telegram-video-sticker.html</link>
+      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
+      <guid>https://zelikk.blogspot.com/2026/10/muse-ai-youtube-telegram-video-sticker.html</guid>
+    </item>
+    <item>
       <title>WorkBuddy.ai 多个任务之间 不共享文件 / Muse.ai 多个任务之间 可以共享文件</title>
       <link>https://zelikk.blogspot.com/2026/10/workbuddyai-museai.html</link>
       <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
@@ -108,10 +114,10 @@
       <guid>https://zelikk.blogspot.com/2026/10/museai-telegram-api-id-api-hash.html</guid>
     </item>
     <item>
-      <title>muse.ai 登录 sb.sb 烧饼论坛 测试自定义CSS 关闭显示特效</title>
-      <link>https://zelikk.blogspot.com/2026/10/museai-sbsb-css.html</link>
-      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
-      <guid>https://zelikk.blogspot.com/2026/10/museai-sbsb-css.html</guid>
+      <title>讨论失眠会传染</title>
+      <link>https://www.hecaitou.com/2026/10/rule-1-of-insomnia-dont-talk-about-insomnia.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/10/rule-1-of-insomnia-dont-talk-about-insomnia.html</guid>
     </item>
     <item>
       <title>人有瑕疵</title>
@@ -124,12 +130,6 @@
       <link>https://www.hecaitou.com/2026/10/who-said-anything-about-ordinary-people.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/10/who-said-anything-about-ordinary-people.html</guid>
-    </item>
-    <item>
-      <title>自己修脚</title>
-      <link>https://www.hecaitou.com/2026/10/The-Art-of-the-DIY-Pedicure.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/10/The-Art-of-the-DIY-Pedicure.html</guid>
     </item>
     <item>
       <title>2016 年，我做过一次 AI 写代码创业</title>
@@ -150,16 +150,16 @@
       <guid>http://blog.youxu.info/2021/11/01/after-fire/</guid>
     </item>
     <item>
-      <title>最新微博：2026 年 10 月 28 日</title>
-      <link>https://www.changhai.org/articles/miscellaneous/blog/202609.php#latest</link>
-      <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
-      <guid>https://www.changhai.org/articles/miscellaneous/blog/202609.php#latest</guid>
-    </item>
-    <item>
-      <title>Latest post on Threads：2026.10.24</title>
+      <title>Latest post on Threads：2026.10.29</title>
       <link>https://www.changhai.org/articles/miscellaneous/eblog/202609.php#latest</link>
       <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
       <guid>https://www.changhai.org/articles/miscellaneous/eblog/202609.php#latest</guid>
+    </item>
+    <item>
+      <title>最新微博：2026 年 10 月 29 日</title>
+      <link>https://www.changhai.org/articles/miscellaneous/blog/202609.php#latest</link>
+      <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
+      <guid>https://www.changhai.org/articles/miscellaneous/blog/202609.php#latest</guid>
     </item>
     <item>
       <title>Encounter</title>
@@ -188,19 +188,19 @@
     <item>
       <title>从参数对称性到有效学习率</title>
       <link>https://spaces.ac.cn/archives/11985</link>
-      <description>探讨参数对称性在模型优化中的应用及其挑战。</description>
+      <description>探讨参数对称性在模型优化中的应用与争议。</description>
       <guid>https://spaces.ac.cn/archives/11985</guid>
     </item>
     <item>
       <title>连续化 Softmax Attention</title>
       <link>https://spaces.ac.cn/archives/11980</link>
-      <description>探索Softmax Attention连续化新路径，揭示潜在有趣结果。</description>
+      <description>Softmax Attention连续化，探索新路径，带来有趣结果。</description>
       <guid>https://spaces.ac.cn/archives/11980</guid>
     </item>
     <item>
       <title>慢即是快：2. Adam的尽头还是Muon？</title>
       <link>https://spaces.ac.cn/archives/11964</link>
-      <description>探索正交最慢下降在Adam优化器中的应用与结果。</description>
+      <description>探讨正交最慢下降在预条件优化器中的应用，对比Kronecker积与对角近似。</description>
       <guid>https://spaces.ac.cn/archives/11964</guid>
     </item>
     <item>
@@ -242,20 +242,26 @@
     <item>
       <title>中秋与国庆</title>
       <link>https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/</link>
-      <description>中秋国庆双节思念，回忆与电影感悟交织。</description>
+      <description>中秋国庆双节，回忆与电影交织。</description>
       <guid>https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/</guid>
     </item>
     <item>
       <title>深呼吸</title>
       <link>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</link>
-      <description>一周内Awesome-Jev星标破千，项目动态更新迅速。</description>
+      <description>一周内Awesome-Jev仓库星标破千，分享项目成长与思考。</description>
       <guid>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</guid>
     </item>
     <item>
       <title>动起来，否则你就要费劲思考了</title>
       <link>https://www.gtdstudy.com/posts/2026-09-15-pascal/</link>
-      <description>动笔重逢，粉丝突破5000，打字速度75wpm，封存SPEC-AGENTS框架。</description>
+      <description>动笔重逢，X粉破5000，打字75wpm，封存SPEC-AGENTS，AI助力效率提升。</description>
       <guid>https://www.gtdstudy.com/posts/2026-09-15-pascal/</guid>
+    </item>
+    <item>
+      <title>Fragments 0x001A</title>
+      <link>https://lenciel.com/2026/10/fragments-0x001a/</link>
+      <description>生活宜忌，幽默诠释人生百态。</description>
+      <guid>https://lenciel.com/2026/10/fragments-0x001a/</guid>
     </item>
     <item>
       <title>Fragments 0x0019</title>
@@ -266,14 +272,8 @@
     <item>
       <title>Fragments 0x0018</title>
       <link>https://lenciel.com/2026/10/fragments-0x0018/</link>
-      <description>出行、投资、驾驶皆宜，生活小技巧与禁忌。</description>
+      <description>出行、入金、弯道超车宜，刮痧、搜神忌。</description>
       <guid>https://lenciel.com/2026/10/fragments-0x0018/</guid>
-    </item>
-    <item>
-      <title>Fragments 0x0017</title>
-      <link>https://lenciel.com/2026/10/fragments-0x0017/</link>
-      <description>网络安全重要性凸显，防患未然。</description>
-      <guid>https://lenciel.com/2026/10/fragments-0x0017/</guid>
     </item>
     <item>
       <title>移除了 webmention 功能</title>
@@ -337,9 +337,9 @@
     </item>
     <item>
       <title>我曾有一辆叫&amp;quot;小蓝&amp;quot;的车</title>
-      <link>https://www.edony.ink/diary/my-car-called-xiao-lan/</link>
+      <link>https://www.edony.ink/my-car-called-xiao-lan/</link>
       <description>喜欢我的文章，第二欢迎的是留言，第三欢迎的是分享，第四欢迎的是打赏。如果要问第一欢迎的是什么，我的答案是希望你也能开始自己的写作历程，把自己的见闻和思考分享出来，网络上高质量的中文内容，需要大家一起努力。</description>
-      <guid>https://www.edony.ink/diary/my-car-called-xiao-lan/</guid>
+      <guid>https://www.edony.ink/my-car-called-xiao-lan/</guid>
     </item>
     <item>
       <title>当Agent在帮你跑任务的时候，你在做什么？</title>
@@ -392,13 +392,13 @@
     <item>
       <title>香港汇丰 Pulse 银联双币钻石信用卡</title>
       <link>https://battlele.com/hsbc-pulse/</link>
-      <description>香港汇丰Pulse银联卡7月大放水，内地用户可享优惠。</description>
+      <description>香港汇丰Pulse银联双币钻石信用卡，七月份大放水，申请流程及使用指南。</description>
       <guid>https://battlele.com/hsbc-pulse/</guid>
     </item>
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台之旅，品味特色小吃，领略国清寺魅力。</description>
+      <description>天台（tāi）游记</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
@@ -440,19 +440,19 @@
     <item>
       <title>2026.10.25</title>
       <link>https://www.justzht.com/2026-10-25/</link>
-      <description>Epoch原生支持多平台，Mac Studio新购助力开发。</description>
+      <description>Epoch跨平台运行，Mac Studio新购入，法律纠纷进展。</description>
       <guid>https://www.justzht.com/2026-10-25/</guid>
     </item>
     <item>
       <title>2026.10.21</title>
       <link>https://www.justzht.com/2026-10-21/</link>
-      <description>重映经典电影，探讨老物件与日常生活的关联。</description>
+      <description>重映经典电影，回忆与创新的交织。</description>
       <guid>https://www.justzht.com/2026-10-21/</guid>
     </item>
     <item>
       <title>2026.10.17</title>
       <link>https://www.justzht.com/2026-10-17/</link>
-      <description>生日礼物购物变故，车险索赔进展，游戏开发中。</description>
+      <description>生日聚会后，处理车和项目，解决保险纠纷。</description>
       <guid>https://www.justzht.com/2026-10-17/</guid>
     </item>
     <item>
