@@ -6,6 +6,12 @@
     <description>精选自 605 个中文博客 + GitHub 日榜</description>
     <language>zh-CN</language>
     <item>
+      <title>懒加载图片新支持了sizes=”auto”属性，其作用是？</title>
+      <link>https://www.zhangxinxu.com/wordpress/2026/10/loading-lazy-img-sizes-auto/</link>
+      <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
+      <guid>https://www.zhangxinxu.com/wordpress/2026/10/loading-lazy-img-sizes-auto/</guid>
+    </item>
+    <item>
       <title>算了，还是讲下named-feature() @supports规则检测吧</title>
       <link>https://www.zhangxinxu.com/wordpress/2026/10/css-supports-named-feature/</link>
       <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
@@ -16,12 +22,6 @@
       <link>https://www.zhangxinxu.com/wordpress/2026/10/flex-wrap-balance/</link>
       <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
       <guid>https://www.zhangxinxu.com/wordpress/2026/10/flex-wrap-balance/</guid>
-    </item>
-    <item>
-      <title>Document Picture-in-Picture API与任意元素画中画实现</title>
-      <link>https://www.zhangxinxu.com/wordpress/2026/10/document-picture-in-picture-api/</link>
-      <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
-      <guid>https://www.zhangxinxu.com/wordpress/2026/10/document-picture-in-picture-api/</guid>
     </item>
     <item>
       <title>看完凡人真人版！韩立的性格狠点+师傅阵容，越聊越燃</title>
@@ -96,6 +96,12 @@
       <guid>https://webfem.com/post/writing-platform-word-count-rules</guid>
     </item>
     <item>
+      <title>群抽奖 1x Racknerd 2 GB KVM VPS (2025's 11.11 Promo) 1年 群投票参与抽奖 drand.love提供随机数</title>
+      <link>https://zelikk.blogspot.com/2026/10/telegram-group-lottery-poll-drand-love.html</link>
+      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
+      <guid>https://zelikk.blogspot.com/2026/10/telegram-group-lottery-poll-drand-love.html</guid>
+    </item>
+    <item>
       <title>muse.ai 把 youtube 视频片段做成 telegram 视频贴纸</title>
       <link>https://zelikk.blogspot.com/2026/10/muse-ai-youtube-telegram-video-sticker.html</link>
       <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
@@ -108,10 +114,10 @@
       <guid>https://zelikk.blogspot.com/2026/10/workbuddyai-museai.html</guid>
     </item>
     <item>
-      <title>muse.ai 申请 telegram api id api hash</title>
-      <link>https://zelikk.blogspot.com/2026/10/museai-telegram-api-id-api-hash.html</link>
-      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
-      <guid>https://zelikk.blogspot.com/2026/10/museai-telegram-api-id-api-hash.html</guid>
+      <title>你当然应该去做视频</title>
+      <link>https://www.hecaitou.com/2026/10/of-course-you-should-pivot-to-video.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/10/of-course-you-should-pivot-to-video.html</guid>
     </item>
     <item>
       <title>讨论失眠会传染</title>
@@ -124,12 +130,6 @@
       <link>https://www.hecaitou.com/2026/10/human-imperfection.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/10/human-imperfection.html</guid>
-    </item>
-    <item>
-      <title>谁说普通人了</title>
-      <link>https://www.hecaitou.com/2026/10/who-said-anything-about-ordinary-people.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/10/who-said-anything-about-ordinary-people.html</guid>
     </item>
     <item>
       <title>2016 年，我做过一次 AI 写代码创业</title>
@@ -194,13 +194,13 @@
     <item>
       <title>连续化 Softmax Attention</title>
       <link>https://spaces.ac.cn/archives/11980</link>
-      <description>Softmax Attention连续化，探索新路径，带来有趣结果。</description>
+      <description>Softmax Attention连续化探索新路径，带来创新研究。</description>
       <guid>https://spaces.ac.cn/archives/11980</guid>
     </item>
     <item>
       <title>慢即是快：2. Adam的尽头还是Muon？</title>
       <link>https://spaces.ac.cn/archives/11964</link>
-      <description>探讨正交最慢下降在预条件优化器中的应用，对比Kronecker积与对角近似。</description>
+      <description>探索正交最慢下降在Adam等优化器上的应用，揭示其对角近似与Kronecker积的差异。</description>
       <guid>https://spaces.ac.cn/archives/11964</guid>
     </item>
     <item>
@@ -242,37 +242,37 @@
     <item>
       <title>中秋与国庆</title>
       <link>https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/</link>
-      <description>中秋国庆双节，回忆与电影交织。</description>
+      <description>中秋国庆之际，怀念家乡与亲人，观影《欢迎来龙餐馆》，感受战争与人性。</description>
       <guid>https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/</guid>
     </item>
     <item>
       <title>深呼吸</title>
       <link>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</link>
-      <description>一周内Awesome-Jev仓库星标破千，分享项目成长与思考。</description>
+      <description>一周内Awesome-Jev仓库星标破千，项目活跃，信息迭代迅速。</description>
       <guid>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</guid>
     </item>
     <item>
       <title>动起来，否则你就要费劲思考了</title>
       <link>https://www.gtdstudy.com/posts/2026-09-15-pascal/</link>
-      <description>动笔重逢，X粉破5000，打字75wpm，封存SPEC-AGENTS，AI助力效率提升。</description>
+      <description>动笔重逢，粉丝破5000，打字75wpm，AI助手助力，封存开发框架。</description>
       <guid>https://www.gtdstudy.com/posts/2026-09-15-pascal/</guid>
     </item>
     <item>
       <title>Fragments 0x001A</title>
       <link>https://lenciel.com/2026/10/fragments-0x001a/</link>
-      <description>生活宜忌，幽默诠释人生百态。</description>
+      <description>生活宜忌，趣味解读。</description>
       <guid>https://lenciel.com/2026/10/fragments-0x001a/</guid>
     </item>
     <item>
       <title>Fragments 0x0019</title>
       <link>https://lenciel.com/2026/10/fragments-0x0019/</link>
-      <description>AI算法控制生活，人类失去自我。</description>
+      <description>AI算法过度控制生活，人类失去自我。</description>
       <guid>https://lenciel.com/2026/10/fragments-0x0019/</guid>
     </item>
     <item>
       <title>Fragments 0x0018</title>
       <link>https://lenciel.com/2026/10/fragments-0x0018/</link>
-      <description>出行、入金、弯道超车宜，刮痧、搜神忌。</description>
+      <description>出行、投资、驾驶皆宜，生活小技巧与禁忌集锦。</description>
       <guid>https://lenciel.com/2026/10/fragments-0x0018/</guid>
     </item>
     <item>
@@ -386,19 +386,19 @@
     <item>
       <title>折腾半天终于办下来了：0 元与免实体地址申请个体工商户营业执照</title>
       <link>https://battlele.com/individual-business-guide/</link>
-      <description>零成本免地址申请个体户营业执照，轻松完成季度申报。</description>
+      <description>0元免地址申请个体户执照，轻松完成季度申报。</description>
       <guid>https://battlele.com/individual-business-guide/</guid>
     </item>
     <item>
       <title>香港汇丰 Pulse 银联双币钻石信用卡</title>
       <link>https://battlele.com/hsbc-pulse/</link>
-      <description>香港汇丰Pulse银联双币钻石信用卡，七月份大放水，申请流程及使用指南。</description>
+      <description>香港汇丰Pulse银联卡7月大放水，内地用户可享优惠。</description>
       <guid>https://battlele.com/hsbc-pulse/</guid>
     </item>
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台（tāi）游记</description>
+      <description>天台之旅，从美食到古迹，体验地道的台州风情。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
@@ -440,19 +440,19 @@
     <item>
       <title>2026.10.25</title>
       <link>https://www.justzht.com/2026-10-25/</link>
-      <description>Epoch跨平台运行，Mac Studio新购入，法律纠纷进展。</description>
+      <description>Epoch跨平台运行，Mac Studio新电脑助力开发。</description>
       <guid>https://www.justzht.com/2026-10-25/</guid>
     </item>
     <item>
       <title>2026.10.21</title>
       <link>https://www.justzht.com/2026-10-21/</link>
-      <description>重映经典电影，回忆与创新的交织。</description>
+      <description>重映经典电影，与老友赏车，技术优化新思路。</description>
       <guid>https://www.justzht.com/2026-10-21/</guid>
     </item>
     <item>
       <title>2026.10.17</title>
       <link>https://www.justzht.com/2026-10-17/</link>
-      <description>生日聚会后，处理车和项目，解决保险纠纷。</description>
+      <description>生日礼物买香水，车在Apple Park亏电，Epoch开发进度更新，Cayman车肇事逃逸案进展。</description>
       <guid>https://www.justzht.com/2026-10-17/</guid>
     </item>
     <item>
