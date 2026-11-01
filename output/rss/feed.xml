@@ -42,6 +42,12 @@
       <guid>https://www.xiaoyuzhoufm.com/episode/68c6d2e22c82c9dcca527114?utm_source=rss</guid>
     </item>
     <item>
+      <title>🧠 [AI] 以 GPT-2 为例，浅谈 Transformer 的推理流程</title>
+      <link>https://supercodepower.com/transformer</link>
+      <description>- RSS 链接：</description>
+      <guid>https://supercodepower.com/transformer</guid>
+    </item>
+    <item>
       <title>✨ [AI] 形势比人强，Chrome 大佬也去搞 Gemini 了</title>
       <link>https://supercodepower.com/addy-osmani-ai-blog</link>
       <description>- RSS 链接：</description>
@@ -52,12 +58,6 @@
       <link>https://supercodepower.com/what-can-cdp-do-in-browser-use</link>
       <description>- RSS 链接：</description>
       <guid>https://supercodepower.com/what-can-cdp-do-in-browser-use</guid>
-    </item>
-    <item>
-      <title>🦾 [浏览器自动化] 了解 CDP：browser-use 背后的隐藏功臣</title>
-      <link>https://supercodepower.com/chrome-devtools-protocol</link>
-      <description>- RSS 链接：</description>
-      <guid>https://supercodepower.com/chrome-devtools-protocol</guid>
     </item>
     <item>
       <title>当应用不再属于特定操作系统 - 肘子的 Swift 周报 #159</title>
@@ -114,6 +114,30 @@
       <guid>https://zelikk.blogspot.com/2026/10/workbuddyai-museai.html</guid>
     </item>
     <item>
+      <title>科技爱好者周刊（第 417 期）：不要让 AI 代表你</title>
+      <link>http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html</link>
+      <description>对我来说，博客首先是一种知识管理工具，其次才是传播工具。我的技术文章，主要用来整理我还不懂的知识。我只写那些我还没有完全掌握的东西，那些我精通的东西，往往没有动力写。炫耀从来不是我的动机，好奇才是。</description>
+      <guid>http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html</guid>
+    </item>
+    <item>
+      <title>科技爱好者周刊（第 416 期）：编程已经面目全非</title>
+      <link>http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html</link>
+      <description>对我来说，博客首先是一种知识管理工具，其次才是传播工具。我的技术文章，主要用来整理我还不懂的知识。我只写那些我还没有完全掌握的东西，那些我精通的东西，往往没有动力写。炫耀从来不是我的动机，好奇才是。</description>
+      <guid>http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html</guid>
+    </item>
+    <item>
+      <title>科技爱好者周刊（第 415 期）：3D 版《看不见的城市》</title>
+      <link>http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html</link>
+      <description>对我来说，博客首先是一种知识管理工具，其次才是传播工具。我的技术文章，主要用来整理我还不懂的知识。我只写那些我还没有完全掌握的东西，那些我精通的东西，往往没有动力写。炫耀从来不是我的动机，好奇才是。</description>
+      <guid>http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html</guid>
+    </item>
+    <item>
+      <title>独生子女的合作VS.在短视频下的成长</title>
+      <link>https://www.hecaitou.com/2026/10/the-only-child-panic-vs-the-short-video-panic.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/10/the-only-child-panic-vs-the-short-video-panic.html</guid>
+    </item>
+    <item>
       <title>你当然应该去做视频</title>
       <link>https://www.hecaitou.com/2026/10/of-course-you-should-pivot-to-video.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
@@ -126,10 +150,22 @@
       <guid>https://www.hecaitou.com/2026/10/rule-1-of-insomnia-dont-talk-about-insomnia.html</guid>
     </item>
     <item>
-      <title>人有瑕疵</title>
-      <link>https://www.hecaitou.com/2026/10/human-imperfection.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/10/human-imperfection.html</guid>
+      <title>是微服务架构不香还是云不香？</title>
+      <link>https://coolshell.cn/articles/22422.html</link>
+      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
+      <guid>https://coolshell.cn/articles/22422.html</guid>
+    </item>
+    <item>
+      <title>我看ChatGPT: 为啥谷歌掉了千亿美金</title>
+      <link>https://coolshell.cn/articles/22398.html</link>
+      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
+      <guid>https://coolshell.cn/articles/22398.html</guid>
+    </item>
+    <item>
+      <title>聊聊 nostr 和 审查</title>
+      <link>https://coolshell.cn/articles/22367.html</link>
+      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
+      <guid>https://coolshell.cn/articles/22367.html</guid>
     </item>
     <item>
       <title>2016 年，我做过一次 AI 写代码创业</title>
@@ -150,16 +186,16 @@
       <guid>http://blog.youxu.info/2021/11/01/after-fire/</guid>
     </item>
     <item>
+      <title>最新微博：2026 年 10 月 30 日</title>
+      <link>https://www.changhai.org/articles/miscellaneous/blog/202609.php#latest</link>
+      <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
+      <guid>https://www.changhai.org/articles/miscellaneous/blog/202609.php#latest</guid>
+    </item>
+    <item>
       <title>Latest post on Threads：2026.10.29</title>
       <link>https://www.changhai.org/articles/miscellaneous/eblog/202609.php#latest</link>
       <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
       <guid>https://www.changhai.org/articles/miscellaneous/eblog/202609.php#latest</guid>
-    </item>
-    <item>
-      <title>最新微博：2026 年 10 月 29 日</title>
-      <link>https://www.changhai.org/articles/miscellaneous/blog/202609.php#latest</link>
-      <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
-      <guid>https://www.changhai.org/articles/miscellaneous/blog/202609.php#latest</guid>
     </item>
     <item>
       <title>Encounter</title>
@@ -188,19 +224,19 @@
     <item>
       <title>从参数对称性到有效学习率</title>
       <link>https://spaces.ac.cn/archives/11985</link>
-      <description>探讨参数对称性在模型优化中的应用与争议。</description>
+      <description>探讨参数对称性在模型优化中的应用及其争议。</description>
       <guid>https://spaces.ac.cn/archives/11985</guid>
     </item>
     <item>
       <title>连续化 Softmax Attention</title>
       <link>https://spaces.ac.cn/archives/11980</link>
-      <description>Softmax Attention连续化探索新路径，带来创新研究。</description>
+      <description>探索Softmax Attention连续化，揭示新的有趣结果。</description>
       <guid>https://spaces.ac.cn/archives/11980</guid>
     </item>
     <item>
       <title>慢即是快：2. Adam的尽头还是Muon？</title>
       <link>https://spaces.ac.cn/archives/11964</link>
-      <description>探索正交最慢下降在Adam等优化器上的应用，揭示其对角近似与Kronecker积的差异。</description>
+      <description>探讨正交最慢下降框架在预条件优化器中的应用，对比Kronecker积与对角近似。</description>
       <guid>https://spaces.ac.cn/archives/11964</guid>
     </item>
     <item>
@@ -242,38 +278,38 @@
     <item>
       <title>中秋与国庆</title>
       <link>https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/</link>
-      <description>中秋国庆之际，怀念家乡与亲人，观影《欢迎来龙餐馆》，感受战争与人性。</description>
+      <description>中秋国庆，思念家乡，品味电影《欢迎来龙餐馆》。</description>
       <guid>https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/</guid>
     </item>
     <item>
       <title>深呼吸</title>
       <link>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</link>
-      <description>一周内Awesome-Jev仓库星标破千，项目活跃，信息迭代迅速。</description>
+      <description>一周内，Awesome-Jev 仓库星标破千，项目活跃度极高。</description>
       <guid>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</guid>
     </item>
     <item>
       <title>动起来，否则你就要费劲思考了</title>
       <link>https://www.gtdstudy.com/posts/2026-09-15-pascal/</link>
-      <description>动笔重逢，粉丝破5000，打字75wpm，AI助手助力，封存开发框架。</description>
+      <description>动笔重逢，X粉突破5000，打字75wpm，封存SPEC-AGENTS。</description>
       <guid>https://www.gtdstudy.com/posts/2026-09-15-pascal/</guid>
+    </item>
+    <item>
+      <title>Fragments 0x001B</title>
+      <link>https://lenciel.com/2026/10/fragments-0x001b/</link>
+      <description>瞻仰大佛时，感受尺度失衡，心生疏离与压迫。</description>
+      <guid>https://lenciel.com/2026/10/fragments-0x001b/</guid>
     </item>
     <item>
       <title>Fragments 0x001A</title>
       <link>https://lenciel.com/2026/10/fragments-0x001a/</link>
-      <description>生活宜忌，趣味解读。</description>
+      <description>生活宜静宜动，忌冲动行事。</description>
       <guid>https://lenciel.com/2026/10/fragments-0x001a/</guid>
     </item>
     <item>
       <title>Fragments 0x0019</title>
       <link>https://lenciel.com/2026/10/fragments-0x0019/</link>
-      <description>AI算法过度控制生活，人类失去自我。</description>
+      <description>AI算法过度控制生活，人类失去个性。</description>
       <guid>https://lenciel.com/2026/10/fragments-0x0019/</guid>
-    </item>
-    <item>
-      <title>Fragments 0x0018</title>
-      <link>https://lenciel.com/2026/10/fragments-0x0018/</link>
-      <description>出行、投资、驾驶皆宜，生活小技巧与禁忌集锦。</description>
-      <guid>https://lenciel.com/2026/10/fragments-0x0018/</guid>
     </item>
     <item>
       <title>移除了 webmention 功能</title>
@@ -386,19 +422,19 @@
     <item>
       <title>折腾半天终于办下来了：0 元与免实体地址申请个体工商户营业执照</title>
       <link>https://battlele.com/individual-business-guide/</link>
-      <description>0元免地址申请个体户执照，轻松完成季度申报。</description>
+      <description>零成本免地址申请个体户营业执照，轻松完成季度申报。</description>
       <guid>https://battlele.com/individual-business-guide/</guid>
     </item>
     <item>
       <title>香港汇丰 Pulse 银联双币钻石信用卡</title>
       <link>https://battlele.com/hsbc-pulse/</link>
-      <description>香港汇丰Pulse银联卡7月大放水，内地用户可享优惠。</description>
+      <description>香港汇丰Pulse银联卡七月份大放水，内地用户申请攻略详解。</description>
       <guid>https://battlele.com/hsbc-pulse/</guid>
     </item>
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台之旅，从美食到古迹，体验地道的台州风情。</description>
+      <description>天台游记：体验特色小吃，游览国清寺。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
@@ -440,19 +476,19 @@
     <item>
       <title>2026.10.25</title>
       <link>https://www.justzht.com/2026-10-25/</link>
-      <description>Epoch跨平台运行，Mac Studio新电脑助力开发。</description>
+      <description>Epoch原生支持多平台，Mac Studio新购助开发。</description>
       <guid>https://www.justzht.com/2026-10-25/</guid>
     </item>
     <item>
       <title>2026.10.21</title>
       <link>https://www.justzht.com/2026-10-21/</link>
-      <description>重映经典电影，与老友赏车，技术优化新思路。</description>
+      <description>重映经典电影，旧物新趣，技术移植梦想成真。</description>
       <guid>https://www.justzht.com/2026-10-21/</guid>
     </item>
     <item>
       <title>2026.10.17</title>
       <link>https://www.justzht.com/2026-10-17/</link>
-      <description>生日礼物买香水，车在Apple Park亏电，Epoch开发进度更新，Cayman车肇事逃逸案进展。</description>
+      <description>生日礼物意外，车故障，游戏开发进展，保险纠纷。</description>
       <guid>https://www.justzht.com/2026-10-17/</guid>
     </item>
     <item>
@@ -474,22 +510,22 @@
       <guid>https://www.bboy.app/2026/10/26/20261026%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/</guid>
     </item>
     <item>
+      <title>从零跑通一个 Agent</title>
+      <link>https://iachieveall.com/posts/cong-ling-pao-tong-yi-ge-agent/</link>
+      <description>创作初衷：交流高质量技术，分享实战经验、面试指南，帮助阅读我的博客的人少走弯路，和技术同好共同探索。</description>
+      <guid>https://iachieveall.com/posts/cong-ling-pao-tong-yi-ge-agent/</guid>
+    </item>
+    <item>
+      <title>做 Agent 一定要学 Python 吗？</title>
+      <link>https://iachieveall.com/posts/zuo-agent-yiding-yao-xue-python-ma/</link>
+      <description>创作初衷：交流高质量技术，分享实战经验、面试指南，帮助阅读我的博客的人少走弯路，和技术同好共同探索。</description>
+      <guid>https://iachieveall.com/posts/zuo-agent-yiding-yao-xue-python-ma/</guid>
+    </item>
+    <item>
       <title>Vibe Coding 的提问艺术：怎么把模糊的想法说成 AI 能懂的需求</title>
       <link>https://iachieveall.com/posts/vibe-coding-ti-wen-yi-shu/</link>
       <description>创作初衷：交流高质量技术，分享实战经验、面试指南，帮助阅读我的博客的人少走弯路，和技术同好共同探索。</description>
       <guid>https://iachieveall.com/posts/vibe-coding-ti-wen-yi-shu/</guid>
-    </item>
-    <item>
-      <title>【每日一面】浏览器缓存策略</title>
-      <link>https://iachieveall.com/posts/mei-ri-yi-mian-liu-lan-qi-huan-cun-ce-lue/</link>
-      <description>创作初衷：交流高质量技术，分享实战经验、面试指南，帮助阅读我的博客的人少走弯路，和技术同好共同探索。</description>
-      <guid>https://iachieveall.com/posts/mei-ri-yi-mian-liu-lan-qi-huan-cun-ce-lue/</guid>
-    </item>
-    <item>
-      <title>Vibe Coding 第一课：用一句话生成你的第一个应用</title>
-      <link>https://iachieveall.com/posts/vibe-coding-di-yi-ke/</link>
-      <description>创作初衷：交流高质量技术，分享实战经验、面试指南，帮助阅读我的博客的人少走弯路，和技术同好共同探索。</description>
-      <guid>https://iachieveall.com/posts/vibe-coding-di-yi-ke/</guid>
     </item>
   </channel>
 </rss>
