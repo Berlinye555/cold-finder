@@ -42,7 +42,7 @@
       <guid>https://www.xiaoyuzhoufm.com/episode/68c6d2e22c82c9dcca527114?utm_source=rss</guid>
     </item>
     <item>
-      <title>🧠 [AI] 以 GPT-2 为例，浅谈 Transformer 的推理流程</title>
+      <title>🧠 [AI] 浅谈 Transformer 的推理流程</title>
       <link>https://supercodepower.com/transformer</link>
       <description>- RSS 链接：</description>
       <guid>https://supercodepower.com/transformer</guid>
@@ -132,6 +132,12 @@
       <guid>http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html</guid>
     </item>
     <item>
+      <title>蓝战非的脸却浮现在心头</title>
+      <link>https://www.hecaitou.com/2026/11/why-an-influencers-face-is-haunting-my-meditation.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/11/why-an-influencers-face-is-haunting-my-meditation.html</guid>
+    </item>
+    <item>
       <title>独生子女的合作VS.在短视频下的成长</title>
       <link>https://www.hecaitou.com/2026/10/the-only-child-panic-vs-the-short-video-panic.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
@@ -142,30 +148,6 @@
       <link>https://www.hecaitou.com/2026/10/of-course-you-should-pivot-to-video.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/10/of-course-you-should-pivot-to-video.html</guid>
-    </item>
-    <item>
-      <title>讨论失眠会传染</title>
-      <link>https://www.hecaitou.com/2026/10/rule-1-of-insomnia-dont-talk-about-insomnia.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/10/rule-1-of-insomnia-dont-talk-about-insomnia.html</guid>
-    </item>
-    <item>
-      <title>是微服务架构不香还是云不香？</title>
-      <link>https://coolshell.cn/articles/22422.html</link>
-      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
-      <guid>https://coolshell.cn/articles/22422.html</guid>
-    </item>
-    <item>
-      <title>我看ChatGPT: 为啥谷歌掉了千亿美金</title>
-      <link>https://coolshell.cn/articles/22398.html</link>
-      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
-      <guid>https://coolshell.cn/articles/22398.html</guid>
-    </item>
-    <item>
-      <title>聊聊 nostr 和 审查</title>
-      <link>https://coolshell.cn/articles/22367.html</link>
-      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
-      <guid>https://coolshell.cn/articles/22367.html</guid>
     </item>
     <item>
       <title>2016 年，我做过一次 AI 写代码创业</title>
@@ -186,10 +168,10 @@
       <guid>http://blog.youxu.info/2021/11/01/after-fire/</guid>
     </item>
     <item>
-      <title>最新微博：2026 年 10 月 30 日</title>
-      <link>https://www.changhai.org/articles/miscellaneous/blog/202609.php#latest</link>
+      <title>最新微博：2026 年 11 月 1 日</title>
+      <link>https://www.changhai.org/articles/miscellaneous/blog/202611.php#latest</link>
       <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
-      <guid>https://www.changhai.org/articles/miscellaneous/blog/202609.php#latest</guid>
+      <guid>https://www.changhai.org/articles/miscellaneous/blog/202611.php#latest</guid>
     </item>
     <item>
       <title>Latest post on Threads：2026.10.29</title>
@@ -222,22 +204,22 @@
       <guid>http://weiwuhui.com/11090.html</guid>
     </item>
     <item>
+      <title>平均之路：从Attention到TTT</title>
+      <link>https://spaces.ac.cn/archives/11993</link>
+      <description>探索从Softmax Attention到Gated DeltaNet的线性化过程，揭示Attention与TTT的近似联系。</description>
+      <guid>https://spaces.ac.cn/archives/11993</guid>
+    </item>
+    <item>
       <title>从参数对称性到有效学习率</title>
       <link>https://spaces.ac.cn/archives/11985</link>
-      <description>探讨参数对称性在模型优化中的应用及其争议。</description>
+      <description>探讨参数对称性在模型优化中的应用及其挑战。</description>
       <guid>https://spaces.ac.cn/archives/11985</guid>
     </item>
     <item>
       <title>连续化 Softmax Attention</title>
       <link>https://spaces.ac.cn/archives/11980</link>
-      <description>探索Softmax Attention连续化，揭示新的有趣结果。</description>
+      <description>探索Softmax Attention连续化，揭示新路径下的有趣结果。</description>
       <guid>https://spaces.ac.cn/archives/11980</guid>
-    </item>
-    <item>
-      <title>慢即是快：2. Adam的尽头还是Muon？</title>
-      <link>https://spaces.ac.cn/archives/11964</link>
-      <description>探讨正交最慢下降框架在预条件优化器中的应用，对比Kronecker积与对角近似。</description>
-      <guid>https://spaces.ac.cn/archives/11964</guid>
     </item>
     <item>
       <title>在香港骑共享单车：访客视角的经验</title>
@@ -276,39 +258,39 @@
       <guid>https://greatdk.com/2113.html</guid>
     </item>
     <item>
+      <title>一代版本一代神</title>
+      <link>https://www.gtdstudy.com/posts/2026-11-01-new-version-new-god/</link>
+      <description>AI短剧新版本，草根逆袭成神，抓住机会成关键。</description>
+      <guid>https://www.gtdstudy.com/posts/2026-11-01-new-version-new-god/</guid>
+    </item>
+    <item>
       <title>中秋与国庆</title>
       <link>https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/</link>
-      <description>中秋国庆，思念家乡，品味电影《欢迎来龙餐馆》。</description>
+      <description>中秋国庆双节，回忆爷爷奶奶的温馨时光，观影《欢迎来龙餐馆》，感受战争与和平。</description>
       <guid>https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/</guid>
     </item>
     <item>
       <title>深呼吸</title>
       <link>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</link>
-      <description>一周内，Awesome-Jev 仓库星标破千，项目活跃度极高。</description>
+      <description>一周内Awesome-Jev仓库星标破千，项目方向迭代迅速。</description>
       <guid>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</guid>
-    </item>
-    <item>
-      <title>动起来，否则你就要费劲思考了</title>
-      <link>https://www.gtdstudy.com/posts/2026-09-15-pascal/</link>
-      <description>动笔重逢，X粉突破5000，打字75wpm，封存SPEC-AGENTS。</description>
-      <guid>https://www.gtdstudy.com/posts/2026-09-15-pascal/</guid>
     </item>
     <item>
       <title>Fragments 0x001B</title>
       <link>https://lenciel.com/2026/10/fragments-0x001b/</link>
-      <description>瞻仰大佛时，感受尺度失衡，心生疏离与压迫。</description>
+      <description>大佛金碧辉煌，观瞻间尺度失衡，心生疏离压迫感。</description>
       <guid>https://lenciel.com/2026/10/fragments-0x001b/</guid>
     </item>
     <item>
       <title>Fragments 0x001A</title>
       <link>https://lenciel.com/2026/10/fragments-0x001a/</link>
-      <description>生活宜静宜动，忌冲动行事。</description>
+      <description>宜忌生活小贴士，涵盖经世智慧与日常禁忌。</description>
       <guid>https://lenciel.com/2026/10/fragments-0x001a/</guid>
     </item>
     <item>
       <title>Fragments 0x0019</title>
       <link>https://lenciel.com/2026/10/fragments-0x0019/</link>
-      <description>AI算法过度控制生活，人类失去个性。</description>
+      <description>AI算法控制生活，人类生活失去人性。</description>
       <guid>https://lenciel.com/2026/10/fragments-0x0019/</guid>
     </item>
     <item>
@@ -422,19 +404,19 @@
     <item>
       <title>折腾半天终于办下来了：0 元与免实体地址申请个体工商户营业执照</title>
       <link>https://battlele.com/individual-business-guide/</link>
-      <description>零成本免地址申请个体户营业执照，轻松完成季度申报。</description>
+      <description>零成本办理个体户营业执照，轻松完成季度申报。</description>
       <guid>https://battlele.com/individual-business-guide/</guid>
     </item>
     <item>
       <title>香港汇丰 Pulse 银联双币钻石信用卡</title>
       <link>https://battlele.com/hsbc-pulse/</link>
-      <description>香港汇丰Pulse银联卡七月份大放水，内地用户申请攻略详解。</description>
+      <description>香港汇丰Pulse银联卡7月大放水，内地用户可享Apple Pay绑定及多重礼遇。</description>
       <guid>https://battlele.com/hsbc-pulse/</guid>
     </item>
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台游记：体验特色小吃，游览国清寺。</description>
+      <description>天台之旅，品尝地道小吃，探访国清寺，体验休闲度假。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
@@ -476,19 +458,19 @@
     <item>
       <title>2026.10.25</title>
       <link>https://www.justzht.com/2026-10-25/</link>
-      <description>Epoch原生支持多平台，Mac Studio新购助开发。</description>
+      <description>Epoch原生跨平台运行，Mac新电脑助力开发。</description>
       <guid>https://www.justzht.com/2026-10-25/</guid>
     </item>
     <item>
       <title>2026.10.21</title>
       <link>https://www.justzht.com/2026-10-21/</link>
-      <description>重映经典电影，旧物新趣，技术移植梦想成真。</description>
+      <description>重映经典电影，探讨老物件的现代意义。</description>
       <guid>https://www.justzht.com/2026-10-21/</guid>
     </item>
     <item>
       <title>2026.10.17</title>
       <link>https://www.justzht.com/2026-10-17/</link>
-      <description>生日礼物意外，车故障，游戏开发进展，保险纠纷。</description>
+      <description>生日礼物选购意外，车电问题，游戏开发进展，保险理赔纠纷。</description>
       <guid>https://www.justzht.com/2026-10-17/</guid>
     </item>
     <item>
