@@ -60,6 +60,12 @@
       <guid>https://supercodepower.com/what-can-cdp-do-in-browser-use</guid>
     </item>
     <item>
+      <title>快速消失的硬盘容量 - 肘子的 Swift 周报 #160</title>
+      <link>https://fatbobman.com/zh/weekly/issue-160/</link>
+      <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
+      <guid>https://fatbobman.com/zh/weekly/issue-160/</guid>
+    </item>
+    <item>
       <title>当应用不再属于特定操作系统 - 肘子的 Swift 周报 #159</title>
       <link>https://fatbobman.com/zh/weekly/issue-159/</link>
       <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
@@ -70,12 +76,6 @@
       <link>https://fatbobman.com/zh/weekly/issue-158/</link>
       <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
       <guid>https://fatbobman.com/zh/weekly/issue-158/</guid>
-    </item>
-    <item>
-      <title>当 Build in Public 重新转入地下 - 肘子的 Swift 周报 #157</title>
-      <link>https://fatbobman.com/zh/weekly/issue-157/</link>
-      <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
-      <guid>https://fatbobman.com/zh/weekly/issue-157/</guid>
     </item>
     <item>
       <title>如何解决 Unexpected token =</title>
@@ -96,6 +96,12 @@
       <guid>https://webfem.com/post/writing-platform-word-count-rules</guid>
     </item>
     <item>
+      <title>部落格文章（與他們的產地）</title>
+      <link>https://zelikk.blogspot.com/2026/11/blog-blog-club.html</link>
+      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
+      <guid>https://zelikk.blogspot.com/2026/11/blog-blog-club.html</guid>
+    </item>
+    <item>
       <title>群抽奖 1x Racknerd 2 GB KVM VPS (2025's 11.11 Promo) 1年 群投票参与抽奖 drand.love提供随机数</title>
       <link>https://zelikk.blogspot.com/2026/10/telegram-group-lottery-poll-drand-love.html</link>
       <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
@@ -106,12 +112,6 @@
       <link>https://zelikk.blogspot.com/2026/10/muse-ai-youtube-telegram-video-sticker.html</link>
       <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
       <guid>https://zelikk.blogspot.com/2026/10/muse-ai-youtube-telegram-video-sticker.html</guid>
-    </item>
-    <item>
-      <title>WorkBuddy.ai 多个任务之间 不共享文件 / Muse.ai 多个任务之间 可以共享文件</title>
-      <link>https://zelikk.blogspot.com/2026/10/workbuddyai-museai.html</link>
-      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
-      <guid>https://zelikk.blogspot.com/2026/10/workbuddyai-museai.html</guid>
     </item>
     <item>
       <title>科技爱好者周刊（第 417 期）：不要让 AI 代表你</title>
@@ -132,22 +132,22 @@
       <guid>http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html</guid>
     </item>
     <item>
+      <title>减重的段位</title>
+      <link>https://www.hecaitou.com/2026/11/the-tiers-of-weight-loss.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/11/the-tiers-of-weight-loss.html</guid>
+    </item>
+    <item>
+      <title>ber，打哪儿来的「知识」？</title>
+      <link>https://www.hecaitou.com/2026/11/blog-post.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/11/blog-post.html</guid>
+    </item>
+    <item>
       <title>蓝战非的脸却浮现在心头</title>
       <link>https://www.hecaitou.com/2026/11/why-an-influencers-face-is-haunting-my-meditation.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/11/why-an-influencers-face-is-haunting-my-meditation.html</guid>
-    </item>
-    <item>
-      <title>独生子女的合作VS.在短视频下的成长</title>
-      <link>https://www.hecaitou.com/2026/10/the-only-child-panic-vs-the-short-video-panic.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/10/the-only-child-panic-vs-the-short-video-panic.html</guid>
-    </item>
-    <item>
-      <title>你当然应该去做视频</title>
-      <link>https://www.hecaitou.com/2026/10/of-course-you-should-pivot-to-video.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/10/of-course-you-should-pivot-to-video.html</guid>
     </item>
     <item>
       <title>2016 年，我做过一次 AI 写代码创业</title>
@@ -206,19 +206,19 @@
     <item>
       <title>平均之路：从Attention到TTT</title>
       <link>https://spaces.ac.cn/archives/11993</link>
-      <description>探索从Softmax Attention到Gated DeltaNet的线性化过程，揭示Attention与TTT的近似联系。</description>
+      <description>探索从Softmax Attention到线性模型的线性化路径，揭示Attention与TTT的近似关系。</description>
       <guid>https://spaces.ac.cn/archives/11993</guid>
     </item>
     <item>
       <title>从参数对称性到有效学习率</title>
       <link>https://spaces.ac.cn/archives/11985</link>
-      <description>探讨参数对称性在模型优化中的应用及其挑战。</description>
+      <description>探讨参数对称性在模型优化中的应用及其争议。</description>
       <guid>https://spaces.ac.cn/archives/11985</guid>
     </item>
     <item>
       <title>连续化 Softmax Attention</title>
       <link>https://spaces.ac.cn/archives/11980</link>
-      <description>探索Softmax Attention连续化，揭示新路径下的有趣结果。</description>
+      <description>探索Softmax Attention连续化，揭示新路径。</description>
       <guid>https://spaces.ac.cn/archives/11980</guid>
     </item>
     <item>
@@ -260,38 +260,38 @@
     <item>
       <title>一代版本一代神</title>
       <link>https://www.gtdstudy.com/posts/2026-11-01-new-version-new-god/</link>
-      <description>AI短剧新版本，草根逆袭成神，抓住机会成关键。</description>
+      <description>AI短剧新版本，草根逆袭成神。</description>
       <guid>https://www.gtdstudy.com/posts/2026-11-01-new-version-new-god/</guid>
     </item>
     <item>
       <title>中秋与国庆</title>
       <link>https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/</link>
-      <description>中秋国庆双节，回忆爷爷奶奶的温馨时光，观影《欢迎来龙餐馆》，感受战争与和平。</description>
+      <description>中秋国庆双节，回忆与观影两不误。</description>
       <guid>https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/</guid>
     </item>
     <item>
       <title>深呼吸</title>
       <link>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</link>
-      <description>一周内Awesome-Jev仓库星标破千，项目方向迭代迅速。</description>
+      <description>Awesome-Jev Github 仓库星标破千，探索信息迭代速度。</description>
       <guid>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</guid>
     </item>
     <item>
+      <title>Fragments 0x001C</title>
+      <link>http://0.0.0.0:4003/2026/11/fragments-0x001c/</link>
+      <description>拉伯雷三十岁，人文主义兴起，希腊罗马典籍批量印刷，思想复兴。</description>
+      <guid>http://0.0.0.0:4003/2026/11/fragments-0x001c/</guid>
+    </item>
+    <item>
       <title>Fragments 0x001B</title>
-      <link>https://lenciel.com/2026/10/fragments-0x001b/</link>
-      <description>大佛金碧辉煌，观瞻间尺度失衡，心生疏离压迫感。</description>
-      <guid>https://lenciel.com/2026/10/fragments-0x001b/</guid>
+      <link>http://0.0.0.0:4003/2026/10/fragments-0x001b/</link>
+      <description>瞻仰高耸大佛，感受尺度失衡与自然之美对比。</description>
+      <guid>http://0.0.0.0:4003/2026/10/fragments-0x001b/</guid>
     </item>
     <item>
       <title>Fragments 0x001A</title>
-      <link>https://lenciel.com/2026/10/fragments-0x001a/</link>
-      <description>宜忌生活小贴士，涵盖经世智慧与日常禁忌。</description>
-      <guid>https://lenciel.com/2026/10/fragments-0x001a/</guid>
-    </item>
-    <item>
-      <title>Fragments 0x0019</title>
-      <link>https://lenciel.com/2026/10/fragments-0x0019/</link>
-      <description>AI算法控制生活，人类生活失去人性。</description>
-      <guid>https://lenciel.com/2026/10/fragments-0x0019/</guid>
+      <link>http://0.0.0.0:4003/2026/10/fragments-0x001a/</link>
+      <description>生活宜静宜动，宜自然，忌冲动，忌浪费。</description>
+      <guid>http://0.0.0.0:4003/2026/10/fragments-0x001a/</guid>
     </item>
     <item>
       <title>移除了 webmention 功能</title>
@@ -404,19 +404,19 @@
     <item>
       <title>折腾半天终于办下来了：0 元与免实体地址申请个体工商户营业执照</title>
       <link>https://battlele.com/individual-business-guide/</link>
-      <description>零成本办理个体户营业执照，轻松完成季度申报。</description>
+      <description>0元免地址申请个体户执照，轻松完成季度申报。</description>
       <guid>https://battlele.com/individual-business-guide/</guid>
     </item>
     <item>
       <title>香港汇丰 Pulse 银联双币钻石信用卡</title>
       <link>https://battlele.com/hsbc-pulse/</link>
-      <description>香港汇丰Pulse银联卡7月大放水，内地用户可享Apple Pay绑定及多重礼遇。</description>
+      <description>香港汇丰Pulse银联卡7月大放水，内地用户可享Apple Pay绑定及多礼遇。</description>
       <guid>https://battlele.com/hsbc-pulse/</guid>
     </item>
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台之旅，品尝地道小吃，探访国清寺，体验休闲度假。</description>
+      <description>天台游记：体验特色小吃，探访国清寺，享受悠闲假期。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
@@ -456,22 +456,22 @@
       <guid>https://s5s5.me/4292</guid>
     </item>
     <item>
+      <title>2026.11.1</title>
+      <link>https://www.justzht.com/2026-11-1/</link>
+      <description>诉讼结束，渲染系统优化中，万圣节与友共度。</description>
+      <guid>https://www.justzht.com/2026-11-1/</guid>
+    </item>
+    <item>
       <title>2026.10.25</title>
       <link>https://www.justzht.com/2026-10-25/</link>
-      <description>Epoch原生跨平台运行，Mac新电脑助力开发。</description>
+      <description>Epoch 支持多平台运行，新 Mac Studio 助力开发，律师谈判进展。</description>
       <guid>https://www.justzht.com/2026-10-25/</guid>
     </item>
     <item>
       <title>2026.10.21</title>
       <link>https://www.justzht.com/2026-10-21/</link>
-      <description>重映经典电影，探讨老物件的现代意义。</description>
+      <description>重映经典电影，探讨老物件与日常生活的关联。</description>
       <guid>https://www.justzht.com/2026-10-21/</guid>
-    </item>
-    <item>
-      <title>2026.10.17</title>
-      <link>https://www.justzht.com/2026-10-17/</link>
-      <description>生日礼物选购意外，车电问题，游戏开发进展，保险理赔纠纷。</description>
-      <guid>https://www.justzht.com/2026-10-17/</guid>
     </item>
     <item>
       <title>When the Namespace Dropdown in the Argo Rollouts Dashboard Disappeared</title>
