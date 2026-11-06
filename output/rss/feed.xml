@@ -96,6 +96,12 @@
       <guid>https://webfem.com/post/writing-platform-word-count-rules</guid>
     </item>
     <item>
+      <title>让Agent自我检查 自我增强</title>
+      <link>https://zelikk.blogspot.com/2026/11/agent.html</link>
+      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
+      <guid>https://zelikk.blogspot.com/2026/11/agent.html</guid>
+    </item>
+    <item>
       <title>部落格文章（與他們的產地）</title>
       <link>https://zelikk.blogspot.com/2026/11/blog-blog-club.html</link>
       <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
@@ -108,28 +114,28 @@
       <guid>https://zelikk.blogspot.com/2026/10/telegram-group-lottery-poll-drand-love.html</guid>
     </item>
     <item>
-      <title>muse.ai 把 youtube 视频片段做成 telegram 视频贴纸</title>
-      <link>https://zelikk.blogspot.com/2026/10/muse-ai-youtube-telegram-video-sticker.html</link>
-      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
-      <guid>https://zelikk.blogspot.com/2026/10/muse-ai-youtube-telegram-video-sticker.html</guid>
-    </item>
-    <item>
       <title>后疫情时代下美国 CS Master 申请纪实</title>
       <link>https://halfrost.com/halfrost_2021/</link>
-      <description>后疫情时代，美国CS Master申请之路充满挑战，本文分享申请纪实与心得。</description>
+      <description>后疫情时代，美国CS Master申请纪实，分享申请心得与踩坑经验。</description>
       <guid>https://halfrost.com/halfrost_2021/</guid>
     </item>
     <item>
       <title>下一个五年计划起航 ！</title>
       <link>https://halfrost.com/halfrost_2020/</link>
-      <description>2020年疫情下，武汉火神山、雷神山医院建设见证中国速度与力量。</description>
+      <description>回顾2020，武汉抗疫，火神山雷神山彰显中国速度。</description>
       <guid>https://halfrost.com/halfrost_2020/</guid>
     </item>
     <item>
       <title>面试中 LRU / LFU 的青铜与王者</title>
       <link>https://halfrost.com/lru_lfu_interview/</link>
-      <description>深入解析LRU/LFU缓存算法，面试必备！</description>
+      <description>深入解析LRU/LFU缓存淘汰算法，面试必备！</description>
       <guid>https://halfrost.com/lru_lfu_interview/</guid>
+    </item>
+    <item>
+      <title>科技爱好者周刊（第 418 期）：如果科技停止在21世纪初</title>
+      <link>http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html</link>
+      <description>对我来说，博客首先是一种知识管理工具，其次才是传播工具。我的技术文章，主要用来整理我还不懂的知识。我只写那些我还没有完全掌握的东西，那些我精通的东西，往往没有动力写。炫耀从来不是我的动机，好奇才是。</description>
+      <guid>http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html</guid>
     </item>
     <item>
       <title>科技爱好者周刊（第 417 期）：不要让 AI 代表你</title>
@@ -144,10 +150,10 @@
       <guid>http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html</guid>
     </item>
     <item>
-      <title>科技爱好者周刊（第 415 期）：3D 版《看不见的城市》</title>
-      <link>http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html</link>
-      <description>对我来说，博客首先是一种知识管理工具，其次才是传播工具。我的技术文章，主要用来整理我还不懂的知识。我只写那些我还没有完全掌握的东西，那些我精通的东西，往往没有动力写。炫耀从来不是我的动机，好奇才是。</description>
-      <guid>http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html</guid>
+      <title>意外花开</title>
+      <link>https://www.hecaitou.com/2026/11/the-unexpected-bloom.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/11/the-unexpected-bloom.html</guid>
     </item>
     <item>
       <title>生日快乐，和菜头先生（2026）</title>
@@ -160,12 +166,6 @@
       <link>https://www.hecaitou.com/2026/11/eating-on-loop-mode.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/11/eating-on-loop-mode.html</guid>
-    </item>
-    <item>
-      <title>减重的段位</title>
-      <link>https://www.hecaitou.com/2026/11/the-tiers-of-weight-loss.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/11/the-tiers-of-weight-loss.html</guid>
     </item>
     <item>
       <title>2016 年，我做过一次 AI 写代码创业</title>
@@ -186,22 +186,28 @@
       <guid>http://blog.youxu.info/2021/11/01/after-fire/</guid>
     </item>
     <item>
+      <title>Latest post on Threads：2026.11.05</title>
+      <link>https://www.changhai.org/articles/miscellaneous/eblog/202609.php#latest</link>
+      <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
+      <guid>https://www.changhai.org/articles/miscellaneous/eblog/202609.php#latest</guid>
+    </item>
+    <item>
       <title>最新微博：2026 年 11 月 4 日</title>
       <link>https://www.changhai.org/articles/miscellaneous/blog/202611.php#latest</link>
       <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
       <guid>https://www.changhai.org/articles/miscellaneous/blog/202611.php#latest</guid>
     </item>
     <item>
-      <title>Latest post on Threads：2026.10.29</title>
-      <link>https://www.changhai.org/articles/miscellaneous/eblog/202609.php#latest</link>
-      <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
-      <guid>https://www.changhai.org/articles/miscellaneous/eblog/202609.php#latest</guid>
-    </item>
-    <item>
       <title>Encounter</title>
       <link>https://www.changhai.org/articles/retrospection/encounter.php</link>
       <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
       <guid>https://www.changhai.org/articles/retrospection/encounter.php</guid>
+    </item>
+    <item>
+      <title>一部有望冲击奥斯卡最佳电影的…纪录片</title>
+      <link>http://weiwuhui.com/11115.html</link>
+      <description>魏老师执教于上海交通大学媒体与传播学院，天奇创投基金管理合伙人。媒体行业的思考和见解，尽在魏老师。</description>
+      <guid>http://weiwuhui.com/11115.html</guid>
     </item>
     <item>
       <title>古装短剧的品质到底处在什么位置</title>
@@ -216,15 +222,9 @@
       <guid>http://weiwuhui.com/11109.html</guid>
     </item>
     <item>
-      <title>美国最近火了一个AI，一条全新的反AGI的技术路线</title>
-      <link>http://weiwuhui.com/11107.html</link>
-      <description>魏老师执教于上海交通大学媒体与传播学院，天奇创投基金管理合伙人。媒体行业的思考和见解，尽在魏老师。</description>
-      <guid>http://weiwuhui.com/11107.html</guid>
-    </item>
-    <item>
       <title>平均之路：从Attention到TTT</title>
       <link>https://spaces.ac.cn/archives/11993</link>
-      <description>探索从Attention到TTT的线性化路径，揭示近似与代价。</description>
+      <description>探索从Softmax Attention到Gated DeltaNet的线性化过程，新路线建立Attention与TTT近似联系。</description>
       <guid>https://spaces.ac.cn/archives/11993</guid>
     </item>
     <item>
@@ -236,7 +236,7 @@
     <item>
       <title>连续化 Softmax Attention</title>
       <link>https://spaces.ac.cn/archives/11980</link>
-      <description>Softmax Attention连续化新探索，探索‘连续化—离散化’路径新可能。</description>
+      <description>探索Softmax Attention连续化，开启注意力机制新篇章。</description>
       <guid>https://spaces.ac.cn/archives/11980</guid>
     </item>
     <item>
@@ -258,51 +258,33 @@
       <guid>https://hsu.cy/2026/04/markdown-emphases-cjk/</guid>
     </item>
     <item>
-      <title>庄子不会喜欢 AI：效率，机心，伯乐之罪</title>
-      <link>https://greatdk.com/2144.html</link>
-      <description>面包多创始人。</description>
-      <guid>https://greatdk.com/2144.html</guid>
-    </item>
-    <item>
-      <title>3 天 100 万注册用户，日烧千亿 token，一次意外的里程碑</title>
-      <link>https://greatdk.com/2149.html</link>
-      <description>面包多创始人。</description>
-      <guid>https://greatdk.com/2149.html</guid>
-    </item>
-    <item>
-      <title>TikTok 也曾经很在乎那一万个新增用户</title>
-      <link>https://greatdk.com/2113.html</link>
-      <description>面包多创始人。</description>
-      <guid>https://greatdk.com/2113.html</guid>
-    </item>
-    <item>
       <title>一代版本一代神</title>
       <link>https://www.gtdstudy.com/posts/2026-11-01-new-version-new-god/</link>
-      <description>AI短剧新版本，草根逆袭成神，抓住更新机会。</description>
+      <description>AI短剧风头劲，草根逆袭成神记。</description>
       <guid>https://www.gtdstudy.com/posts/2026-11-01-new-version-new-god/</guid>
     </item>
     <item>
       <title>中秋与国庆</title>
       <link>https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/</link>
-      <description>中秋与国庆</description>
+      <description>中秋国庆双节，怀念亲人，观影新体验。</description>
       <guid>https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/</guid>
     </item>
     <item>
       <title>深呼吸</title>
       <link>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</link>
-      <description>一周内Awesome-Jev星标破千，项目热度持续升温。</description>
+      <description>一周内Awesome-Jev仓库星标破千，项目方向迭代迅速。</description>
       <guid>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</guid>
     </item>
     <item>
       <title>Fragments 0x001D</title>
       <link>https://lenciel.com/2026/11/fragments-0x001d/</link>
-      <description>文学巨匠书写成长疗愈，俚语亦珍贵。</description>
+      <description>文学巨匠书写成长与疗愈，俚语亦含郑卫遗风。</description>
       <guid>https://lenciel.com/2026/11/fragments-0x001d/</guid>
     </item>
     <item>
       <title>Fragments 0x001C</title>
       <link>https://lenciel.com/2026/11/fragments-0x001c/</link>
-      <description>拉伯雷时期，人文主义兴起，希腊罗马典籍丰富，激发才俊好奇心。</description>
+      <description>拉伯雷三十岁，人文主义兴起，希腊罗马典籍引领思想复兴。</description>
       <guid>https://lenciel.com/2026/11/fragments-0x001c/</guid>
     </item>
     <item>
@@ -422,19 +404,19 @@
     <item>
       <title>折腾半天终于办下来了：0 元与免实体地址申请个体工商户营业执照</title>
       <link>https://battlele.com/individual-business-guide/</link>
-      <description>零成本免地址申请个体户营业执照攻略，轻松搞定！</description>
+      <description>零成本申请个体工商户执照，轻松完成季度申报。</description>
       <guid>https://battlele.com/individual-business-guide/</guid>
     </item>
     <item>
       <title>香港汇丰 Pulse 银联双币钻石信用卡</title>
       <link>https://battlele.com/hsbc-pulse/</link>
-      <description>香港汇丰Pulse银联卡7月大放水，内地用户攻略全解析。</description>
+      <description>香港汇丰Pulse银联卡7月大放水，申请及使用攻略详解。</description>
       <guid>https://battlele.com/hsbc-pulse/</guid>
     </item>
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台游记：体验台州天台美食与国清寺古韵。</description>
+      <description>天台游记：体验台州美食与国清寺的宁静。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
@@ -476,19 +458,19 @@
     <item>
       <title>2026.11.1</title>
       <link>https://www.justzht.com/2026-11-1/</link>
-      <description>诉讼结束，渲染系统进展，万圣节趣事。</description>
+      <description>诉讼结束，渲染系统优化中，万圣节与友相聚。</description>
       <guid>https://www.justzht.com/2026-11-1/</guid>
     </item>
     <item>
       <title>2026.10.25</title>
       <link>https://www.justzht.com/2026-10-25/</link>
-      <description>Epoch原生跨平台运行，Mac新电脑助力开发。</description>
+      <description>Epoch支持多平台运行，Mac Studio助力开发。</description>
       <guid>https://www.justzht.com/2026-10-25/</guid>
     </item>
     <item>
       <title>2026.10.21</title>
       <link>https://www.justzht.com/2026-10-21/</link>
-      <description>重映经典电影，老物件新体验，技术移植新愿景。</description>
+      <description>重映经典电影，探讨老物与生活，探讨Playdate移植。</description>
       <guid>https://www.justzht.com/2026-10-21/</guid>
     </item>
     <item>
@@ -510,6 +492,12 @@
       <guid>https://www.bboy.app/2026/10/26/20261026%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/</guid>
     </item>
     <item>
+      <title>大模型是怎么工作的</title>
+      <link>https://iachieveall.com/posts/da-mo-xing-shi-zen-me-gong-zuo-de/</link>
+      <description>创作初衷：交流高质量技术，分享实战经验、面试指南，帮助阅读我的博客的人少走弯路，和技术同好共同探索。</description>
+      <guid>https://iachieveall.com/posts/da-mo-xing-shi-zen-me-gong-zuo-de/</guid>
+    </item>
+    <item>
       <title>从零跑通一个 Agent</title>
       <link>https://iachieveall.com/posts/cong-ling-pao-tong-yi-ge-agent/</link>
       <description>创作初衷：交流高质量技术，分享实战经验、面试指南，帮助阅读我的博客的人少走弯路，和技术同好共同探索。</description>
@@ -520,12 +508,6 @@
       <link>https://iachieveall.com/posts/zuo-agent-yiding-yao-xue-python-ma/</link>
       <description>创作初衷：交流高质量技术，分享实战经验、面试指南，帮助阅读我的博客的人少走弯路，和技术同好共同探索。</description>
       <guid>https://iachieveall.com/posts/zuo-agent-yiding-yao-xue-python-ma/</guid>
-    </item>
-    <item>
-      <title>Vibe Coding 的提问艺术：怎么把模糊的想法说成 AI 能懂的需求</title>
-      <link>https://iachieveall.com/posts/vibe-coding-ti-wen-yi-shu/</link>
-      <description>创作初衷：交流高质量技术，分享实战经验、面试指南，帮助阅读我的博客的人少走弯路，和技术同好共同探索。</description>
-      <guid>https://iachieveall.com/posts/vibe-coding-ti-wen-yi-shu/</guid>
     </item>
   </channel>
 </rss>
