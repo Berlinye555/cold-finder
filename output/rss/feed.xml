@@ -116,19 +116,19 @@
     <item>
       <title>后疫情时代下美国 CS Master 申请纪实</title>
       <link>https://halfrost.com/halfrost_2021/</link>
-      <description>后疫情时代，美国CS硕士申请路途艰难，本文分享申请心得。</description>
+      <description>后疫情时代美国CS硕士申请挑战多，本文揭秘全程心得。</description>
       <guid>https://halfrost.com/halfrost_2021/</guid>
     </item>
     <item>
       <title>下一个五年计划起航 ！</title>
       <link>https://halfrost.com/halfrost_2020/</link>
-      <description>回顾2020，武汉抗疫，火神雷神山医院见证中国速度。</description>
+      <description>回顾2020，武汉抗疫，火神山雷神山奇迹诞生。</description>
       <guid>https://halfrost.com/halfrost_2020/</guid>
     </item>
     <item>
       <title>面试中 LRU / LFU 的青铜与王者</title>
       <link>https://halfrost.com/lru_lfu_interview/</link>
-      <description>深入剖析LRU和LFU缓存算法，面试必备！</description>
+      <description>剖析LRU/LFU缓存算法，揭秘面试难题。</description>
       <guid>https://halfrost.com/lru_lfu_interview/</guid>
     </item>
     <item>
@@ -150,6 +150,12 @@
       <guid>http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html</guid>
     </item>
     <item>
+      <title>坚硬的西瓜</title>
+      <link>https://www.hecaitou.com/2026/11/The-Hard-Watermelon.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/11/The-Hard-Watermelon.html</guid>
+    </item>
+    <item>
       <title>其实所有人都在暗暗为你加油</title>
       <link>https://www.hecaitou.com/2026/11/everyone-secretly-cheering-for-you.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
@@ -160,12 +166,6 @@
       <link>https://www.hecaitou.com/2026/11/more-important-than-reclaiming-youth.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/11/more-important-than-reclaiming-youth.html</guid>
-    </item>
-    <item>
-      <title>每句话都很烦</title>
-      <link>https://www.hecaitou.com/2026/11/every-single-sentence-is-annoying.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/11/every-single-sentence-is-annoying.html</guid>
     </item>
     <item>
       <title>2016 年，我做过一次 AI 写代码创业</title>
@@ -224,19 +224,19 @@
     <item>
       <title>让炼丹更科学一些（十一）：无调度学习率新思路</title>
       <link>https://spaces.ac.cn/archives/12003</link>
-      <description>论文提出无调度学习率新方法，实现理想速度收敛。</description>
+      <description>无调度学习率新思路实现，深度学习训练借鉴启示。</description>
       <guid>https://spaces.ac.cn/archives/12003</guid>
     </item>
     <item>
       <title>平均之路：从Attention到TTT</title>
       <link>https://spaces.ac.cn/archives/11993</link>
-      <description>探索从Softmax Attention到线性模型的线性化路径，揭示Attention与TTT的近似关系。</description>
+      <description>探索从Softmax Attention到Gated DeltaNet的线性化过程，揭示Attention与TTT的近似联系。</description>
       <guid>https://spaces.ac.cn/archives/11993</guid>
     </item>
     <item>
       <title>从参数对称性到有效学习率</title>
       <link>https://spaces.ac.cn/archives/11985</link>
-      <description>探讨参数对称性在模型优化中的应用与争议。</description>
+      <description>探讨参数对称性在模型优化中的应用及其争议。</description>
       <guid>https://spaces.ac.cn/archives/11985</guid>
     </item>
     <item>
@@ -278,31 +278,31 @@
     <item>
       <title>一代版本一代神</title>
       <link>https://www.gtdstudy.com/posts/2026-11-01-new-version-new-god/</link>
-      <description>AI短剧新潮流，草根逆袭成神记。</description>
+      <description>AI短剧新版本，草根逆袭成神。</description>
       <guid>https://www.gtdstudy.com/posts/2026-11-01-new-version-new-god/</guid>
     </item>
     <item>
       <title>中秋与国庆</title>
       <link>https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/</link>
-      <description>中秋国庆双节，思念家乡与亲人，观影感悟深刻反战电影。</description>
+      <description>中秋国庆双节，回忆与电影交织。</description>
       <guid>https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/</guid>
     </item>
     <item>
       <title>深呼吸</title>
       <link>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</link>
-      <description>一周内，Awesome-Jev Github 仓库星标破千，项目活跃度极高。</description>
+      <description>一周内Awesome-Jev星标破千，项目活跃，分享收获。</description>
       <guid>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</guid>
     </item>
     <item>
       <title>Fragments 0x0020</title>
       <link>https://lenciel.com/2026/11/fragments-0x0020/</link>
-      <description>朋友感慨人生若能重来，引发对生死轮回的思考。</description>
+      <description>人生若可重来，轮回是否必要？莫言《生死疲劳》中的独特见解引人深思。</description>
       <guid>https://lenciel.com/2026/11/fragments-0x0020/</guid>
     </item>
     <item>
       <title>Fragments 0x001F</title>
       <link>https://lenciel.com/2026/11/fragments-0x001f/</link>
-      <description>成长独立，珍惜陪伴，渐行渐远。</description>
+      <description>成长是个人事，期望不必强求。</description>
       <guid>https://lenciel.com/2026/11/fragments-0x001f/</guid>
     </item>
     <item>
@@ -422,19 +422,19 @@
     <item>
       <title>折腾半天终于办下来了：0 元与免实体地址申请个体工商户营业执照</title>
       <link>https://battlele.com/individual-business-guide/</link>
-      <description>零成本申请个体工商户执照，轻松搞定税务申报。</description>
+      <description>零成本免地址申请个体户执照，轻松搞定申报流程。</description>
       <guid>https://battlele.com/individual-business-guide/</guid>
     </item>
     <item>
       <title>香港汇丰 Pulse 银联双币钻石信用卡</title>
       <link>https://battlele.com/hsbc-pulse/</link>
-      <description>香港汇丰Pulse银联双币钻石信用卡，七月大放水，申请流程详解。</description>
+      <description>香港汇丰Pulse银联卡7月大放水，内地用户可享Apple Pay绑定及多重礼遇。</description>
       <guid>https://battlele.com/hsbc-pulse/</guid>
     </item>
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台之旅，美食与古迹相伴，畅游台州天台。</description>
+      <description>天台游记：品尝当地美食，探访国清寺，享受宁静假期。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
@@ -476,19 +476,19 @@
     <item>
       <title>2026.11.1</title>
       <link>https://www.justzht.com/2026-11-1/</link>
-      <description>诉讼结束，项目进展，湾区万圣节趣事。</description>
+      <description>诉讼结束，项目进展，万圣节湾区之旅。</description>
       <guid>https://www.justzht.com/2026-11-1/</guid>
     </item>
     <item>
       <title>2026.10.25</title>
       <link>https://www.justzht.com/2026-10-25/</link>
-      <description>Epoch原生支持多平台，Mac Studio新购助力开发。</description>
+      <description>Epoch原生运行Mac，新Mac Studio助开发，处理肇事逃逸案件。</description>
       <guid>https://www.justzht.com/2026-10-25/</guid>
     </item>
     <item>
       <title>2026.10.21</title>
       <link>https://www.justzht.com/2026-10-21/</link>
-      <description>重映老电影，探讨时间与日常的关联。</description>
+      <description>老电影新看，山间趣事，技术移植梦想成真。</description>
       <guid>https://www.justzht.com/2026-10-21/</guid>
     </item>
     <item>
