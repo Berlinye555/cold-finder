@@ -116,20 +116,26 @@
     <item>
       <title>后疫情时代下美国 CS Master 申请纪实</title>
       <link>https://halfrost.com/halfrost_2021/</link>
-      <description>后疫情时代美国CS硕士申请挑战多，本文揭秘全程心得。</description>
+      <description>后疫情时代美国CS硕士申请挑战多，本文揭秘申请全流程与心得。</description>
       <guid>https://halfrost.com/halfrost_2021/</guid>
     </item>
     <item>
       <title>下一个五年计划起航 ！</title>
       <link>https://halfrost.com/halfrost_2020/</link>
-      <description>回顾2020，武汉抗疫，火神山雷神山奇迹诞生。</description>
+      <description>回顾2020，展望新五年计划，共克时艰，共创辉煌。</description>
       <guid>https://halfrost.com/halfrost_2020/</guid>
     </item>
     <item>
       <title>面试中 LRU / LFU 的青铜与王者</title>
       <link>https://halfrost.com/lru_lfu_interview/</link>
-      <description>剖析LRU/LFU缓存算法，揭秘面试难题。</description>
+      <description>揭秘LRU/LFU缓存算法面试技巧，助你脱颖而出。</description>
       <guid>https://halfrost.com/lru_lfu_interview/</guid>
+    </item>
+    <item>
+      <title>科技爱好者周刊（第 419 期）：机房来了，写字楼走了</title>
+      <link>http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html</link>
+      <description>对我来说，博客首先是一种知识管理工具，其次才是传播工具。我的技术文章，主要用来整理我还不懂的知识。我只写那些我还没有完全掌握的东西，那些我精通的东西，往往没有动力写。炫耀从来不是我的动机，好奇才是。</description>
+      <guid>http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html</guid>
     </item>
     <item>
       <title>科技爱好者周刊（第 418 期）：如果科技停止在21世纪初</title>
@@ -142,12 +148,6 @@
       <link>http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html</link>
       <description>对我来说，博客首先是一种知识管理工具，其次才是传播工具。我的技术文章，主要用来整理我还不懂的知识。我只写那些我还没有完全掌握的东西，那些我精通的东西，往往没有动力写。炫耀从来不是我的动机，好奇才是。</description>
       <guid>http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html</guid>
-    </item>
-    <item>
-      <title>科技爱好者周刊（第 416 期）：编程已经面目全非</title>
-      <link>http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html</link>
-      <description>对我来说，博客首先是一种知识管理工具，其次才是传播工具。我的技术文章，主要用来整理我还不懂的知识。我只写那些我还没有完全掌握的东西，那些我精通的东西，往往没有动力写。炫耀从来不是我的动机，好奇才是。</description>
-      <guid>http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html</guid>
     </item>
     <item>
       <title>坚硬的西瓜</title>
@@ -186,7 +186,7 @@
       <guid>http://blog.youxu.info/2021/11/01/after-fire/</guid>
     </item>
     <item>
-      <title>Latest post on Threads：2026.11.08</title>
+      <title>Latest post on Threads：2026.11.12</title>
       <link>https://www.changhai.org/articles/miscellaneous/eblog/202609.php#latest</link>
       <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
       <guid>https://www.changhai.org/articles/miscellaneous/eblog/202609.php#latest</guid>
@@ -224,7 +224,7 @@
     <item>
       <title>让炼丹更科学一些（十一）：无调度学习率新思路</title>
       <link>https://spaces.ac.cn/archives/12003</link>
-      <description>无调度学习率新思路实现，深度学习训练借鉴启示。</description>
+      <description>让炼丹更科学一些（十一）：无调度学习率新思路</description>
       <guid>https://spaces.ac.cn/archives/12003</guid>
     </item>
     <item>
@@ -236,7 +236,7 @@
     <item>
       <title>从参数对称性到有效学习率</title>
       <link>https://spaces.ac.cn/archives/11985</link>
-      <description>探讨参数对称性在模型优化中的应用及其争议。</description>
+      <description>探讨参数对称性在模型优化中的应用与争议。</description>
       <guid>https://spaces.ac.cn/archives/11985</guid>
     </item>
     <item>
@@ -284,25 +284,25 @@
     <item>
       <title>中秋与国庆</title>
       <link>https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/</link>
-      <description>中秋国庆双节，回忆与电影交织。</description>
+      <description>中秋国庆双节，思念家乡与亲人，观影《欢迎来龙餐馆》，感受战争与人性。</description>
       <guid>https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/</guid>
     </item>
     <item>
       <title>深呼吸</title>
       <link>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</link>
-      <description>一周内Awesome-Jev星标破千，项目活跃，分享收获。</description>
+      <description>一周内Awesome-Jev仓库星标破千，项目活跃，信息迭代迅速。</description>
       <guid>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</guid>
     </item>
     <item>
       <title>Fragments 0x0020</title>
       <link>https://lenciel.com/2026/11/fragments-0x0020/</link>
-      <description>人生若可重来，轮回是否必要？莫言《生死疲劳》中的独特见解引人深思。</description>
+      <description>朋友感叹人生若能重来，引发对轮回与人性的思考。</description>
       <guid>https://lenciel.com/2026/11/fragments-0x0020/</guid>
     </item>
     <item>
       <title>Fragments 0x001F</title>
       <link>https://lenciel.com/2026/11/fragments-0x001f/</link>
-      <description>成长是个人事，期望不必强求。</description>
+      <description>成长是个人旅程，期望与陪伴终将渐行渐远。</description>
       <guid>https://lenciel.com/2026/11/fragments-0x001f/</guid>
     </item>
     <item>
@@ -422,19 +422,19 @@
     <item>
       <title>折腾半天终于办下来了：0 元与免实体地址申请个体工商户营业执照</title>
       <link>https://battlele.com/individual-business-guide/</link>
-      <description>零成本免地址申请个体户执照，轻松搞定申报流程。</description>
+      <description>零成本免地址申请个体户执照，轻松完成季度申报。</description>
       <guid>https://battlele.com/individual-business-guide/</guid>
     </item>
     <item>
       <title>香港汇丰 Pulse 银联双币钻石信用卡</title>
       <link>https://battlele.com/hsbc-pulse/</link>
-      <description>香港汇丰Pulse银联卡7月大放水，内地用户可享Apple Pay绑定及多重礼遇。</description>
+      <description>香港汇丰Pulse银联卡7月大放水，内地用户攻略全解析。</description>
       <guid>https://battlele.com/hsbc-pulse/</guid>
     </item>
     <item>
       <title>天台（tāi）游记</title>
       <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台游记：品尝当地美食，探访国清寺，享受宁静假期。</description>
+      <description>天台游记：体验特色小吃，游览国清寺，享受悠闲假期。</description>
       <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
@@ -476,19 +476,19 @@
     <item>
       <title>2026.11.1</title>
       <link>https://www.justzht.com/2026-11-1/</link>
-      <description>诉讼结束，项目进展，万圣节湾区之旅。</description>
+      <description>诉讼结束，项目进展，湾区万圣节趣事。</description>
       <guid>https://www.justzht.com/2026-11-1/</guid>
     </item>
     <item>
       <title>2026.10.25</title>
       <link>https://www.justzht.com/2026-10-25/</link>
-      <description>Epoch原生运行Mac，新Mac Studio助开发，处理肇事逃逸案件。</description>
+      <description>Epoch原生支持多平台，Mac Studio新购助力开发。</description>
       <guid>https://www.justzht.com/2026-10-25/</guid>
     </item>
     <item>
       <title>2026.10.21</title>
       <link>https://www.justzht.com/2026-10-21/</link>
-      <description>老电影新看，山间趣事，技术移植梦想成真。</description>
+      <description>重映经典电影，回忆与生活交织的时光。</description>
       <guid>https://www.justzht.com/2026-10-21/</guid>
     </item>
     <item>
