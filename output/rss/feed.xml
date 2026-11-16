@@ -116,19 +116,19 @@
     <item>
       <title>后疫情时代下美国 CS Master 申请纪实</title>
       <link>https://halfrost.com/halfrost_2021/</link>
-      <description>后疫情时代，美国CS Master申请纪实，留学之路困难重重。</description>
+      <description>后疫情时代，美国CS Master申请纪实，分享申请全过程与心得。</description>
       <guid>https://halfrost.com/halfrost_2021/</guid>
     </item>
     <item>
       <title>下一个五年计划起航 ！</title>
       <link>https://halfrost.com/halfrost_2020/</link>
-      <description>2020年疫情下，中国展现基建速度与精神力量，火神山、雷神山医院见证奋斗与团结。</description>
+      <description>回顾2020，展望未来五年计划，共克时艰，砥砺前行。</description>
       <guid>https://halfrost.com/halfrost_2020/</guid>
     </item>
     <item>
       <title>面试中 LRU / LFU 的青铜与王者</title>
       <link>https://halfrost.com/lru_lfu_interview/</link>
-      <description>解析LRU和LFU缓存算法，揭秘面试难题。</description>
+      <description>解析LRU与LFU缓存算法，面试必备。</description>
       <guid>https://halfrost.com/lru_lfu_interview/</guid>
     </item>
     <item>
@@ -150,6 +150,12 @@
       <guid>http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html</guid>
     </item>
     <item>
+      <title>只为怀旧就可惜了</title>
+      <link>https://www.hecaitou.com/2026/11/more-than-nostalgia.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/11/more-than-nostalgia.html</guid>
+    </item>
+    <item>
       <title>无需敌人的喜欢</title>
       <link>https://www.hecaitou.com/2026/11/a-love-that-needs-no-enemy.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
@@ -160,30 +166,6 @@
       <link>https://www.hecaitou.com/2026/11/they-deserve-a-standing-ovation.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/11/they-deserve-a-standing-ovation.html</guid>
-    </item>
-    <item>
-      <title>坚硬的西瓜</title>
-      <link>https://www.hecaitou.com/2026/11/The-Hard-Watermelon.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/11/The-Hard-Watermelon.html</guid>
-    </item>
-    <item>
-      <title>是微服务架构不香还是云不香？</title>
-      <link>https://coolshell.cn/articles/22422.html</link>
-      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
-      <guid>https://coolshell.cn/articles/22422.html</guid>
-    </item>
-    <item>
-      <title>我看ChatGPT: 为啥谷歌掉了千亿美金</title>
-      <link>https://coolshell.cn/articles/22398.html</link>
-      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
-      <guid>https://coolshell.cn/articles/22398.html</guid>
-    </item>
-    <item>
-      <title>聊聊 nostr 和 审查</title>
-      <link>https://coolshell.cn/articles/22367.html</link>
-      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
-      <guid>https://coolshell.cn/articles/22367.html</guid>
     </item>
     <item>
       <title>2016 年，我做过一次 AI 写代码创业</title>
@@ -204,6 +186,12 @@
       <guid>http://blog.youxu.info/2021/11/01/after-fire/</guid>
     </item>
     <item>
+      <title>Latest post on Threads：2026.11.15</title>
+      <link>https://www.changhai.org/articles/miscellaneous/eblog/202609.php#latest</link>
+      <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
+      <guid>https://www.changhai.org/articles/miscellaneous/eblog/202609.php#latest</guid>
+    </item>
+    <item>
       <title>国际数学家大会掠影</title>
       <link>https://www.changhai.org/articles/science/mathematics/collection1/ICM.php</link>
       <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
@@ -214,12 +202,6 @@
       <link>https://www.changhai.org/articles/miscellaneous/blog/202611.php#latest</link>
       <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
       <guid>https://www.changhai.org/articles/miscellaneous/blog/202611.php#latest</guid>
-    </item>
-    <item>
-      <title>Latest post on Threads：2026.11.12</title>
-      <link>https://www.changhai.org/articles/miscellaneous/eblog/202609.php#latest</link>
-      <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
-      <guid>https://www.changhai.org/articles/miscellaneous/eblog/202609.php#latest</guid>
     </item>
     <item>
       <title>一部有望冲击奥斯卡最佳电影的…纪录片</title>
@@ -242,13 +224,13 @@
     <item>
       <title>让炼丹更科学一些（十一）：无调度学习率新思路</title>
       <link>https://spaces.ac.cn/archives/12003</link>
-      <description>无调度学习率新思路，实现训练过程随时终止，近乎最优解。</description>
+      <description>探索无调度学习率新方法，实现训练过程灵活终止，提升收敛速度。</description>
       <guid>https://spaces.ac.cn/archives/12003</guid>
     </item>
     <item>
       <title>平均之路：从Attention到TTT</title>
       <link>https://spaces.ac.cn/archives/11993</link>
-      <description>探索从Softmax Attention到线性模型TTT的线性化过程及近似。</description>
+      <description>探索从Softmax Attention到Gated DeltaNet的线性化过程，引入三步平均操作，建立Attention与TTT近似联系。</description>
       <guid>https://spaces.ac.cn/archives/11993</guid>
     </item>
     <item>
@@ -276,58 +258,76 @@
       <guid>https://hsu.cy/2026/04/markdown-emphases-cjk/</guid>
     </item>
     <item>
+      <title>庄子不会喜欢 AI：效率，机心，伯乐之罪</title>
+      <link>https://greatdk.com/2144.html</link>
+      <description>面包多创始人。</description>
+      <guid>https://greatdk.com/2144.html</guid>
+    </item>
+    <item>
+      <title>3 天 100 万注册用户，日烧千亿 token，一次意外的里程碑</title>
+      <link>https://greatdk.com/2149.html</link>
+      <description>面包多创始人。</description>
+      <guid>https://greatdk.com/2149.html</guid>
+    </item>
+    <item>
+      <title>TikTok 也曾经很在乎那一万个新增用户</title>
+      <link>https://greatdk.com/2113.html</link>
+      <description>面包多创始人。</description>
+      <guid>https://greatdk.com/2113.html</guid>
+    </item>
+    <item>
       <title>一代版本一代神</title>
       <link>https://www.gtdstudy.com/posts/2026-11-01-new-version-new-god/</link>
-      <description>一代版本一代神</description>
+      <description>AI短剧新版本，草根逆袭成神。</description>
       <guid>https://www.gtdstudy.com/posts/2026-11-01-new-version-new-god/</guid>
     </item>
     <item>
       <title>中秋与国庆</title>
       <link>https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/</link>
-      <description>中秋国庆双节，回忆与电影交织。</description>
+      <description>中秋忆祖孙，国庆观战片，情感与思考交织。</description>
       <guid>https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/</guid>
     </item>
     <item>
       <title>深呼吸</title>
       <link>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</link>
-      <description>一周内Awesome-Jev仓库星标破千，项目迭代速度惊人。</description>
+      <description>一周内，Awesome-Jev Github 仓库星标破千，项目活跃。</description>
       <guid>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</guid>
     </item>
     <item>
       <title>Axiom 设计系统</title>
       <link>https://roriri.one/2026/10/15/ax-design/</link>
-      <description>初代设计系统趣味与可访问性完美平衡，新系统却沉沦于保守与单调。</description>
+      <description>初代设计系统趣味性与可访问性平衡，新版本却沉沦。</description>
       <guid>https://roriri.one/2026/10/15/ax-design/</guid>
     </item>
     <item>
       <title>我吃到了那颗梦寐以求的小药丸</title>
       <link>https://roriri.one/2026/08/06/adhd-pills/</link>
-      <description>ADHD患者求医之路充满波折，最终在新的城市找到了理解和帮助。</description>
+      <description>患者历经波折终获ADHD治疗，体验两重天。</description>
       <guid>https://roriri.one/2026/08/06/adhd-pills/</guid>
     </item>
     <item>
       <title>Sneakerweb：互联网的脆弱与韧性</title>
       <link>https://roriri.one/2026/07/09/sneakerweb/</link>
-      <description>探讨互联网内容传播的演变，从易到难，再到古巴离线内容系统的兴起与衰落。</description>
+      <description>探讨互联网内容传播的脆弱与韧性，以古巴离线内容系统为例。</description>
       <guid>https://roriri.one/2026/07/09/sneakerweb/</guid>
+    </item>
+    <item>
+      <title>Fragments 0x0022</title>
+      <link>https://lenciel.com/2026/11/fragments-0x0022/</link>
+      <description>画作展现文明碎片，引发思考而非答案。</description>
+      <guid>https://lenciel.com/2026/11/fragments-0x0022/</guid>
+    </item>
+    <item>
+      <title>Fragments 0x0021</title>
+      <link>https://lenciel.com/2026/11/fragments-0x0021/</link>
+      <description/>
+      <guid>https://lenciel.com/2026/11/fragments-0x0021/</guid>
     </item>
     <item>
       <title>Fragments 0x0020</title>
       <link>https://lenciel.com/2026/11/fragments-0x0020/</link>
-      <description>人生若可重来，莫言《生死疲劳》中主角轮回人生启示。</description>
+      <description>朋友感慨人生若能重来，引发对轮回与人生的思考。</description>
       <guid>https://lenciel.com/2026/11/fragments-0x0020/</guid>
-    </item>
-    <item>
-      <title>Fragments 0x001F</title>
-      <link>https://lenciel.com/2026/11/fragments-0x001f/</link>
-      <description>成长是个人旅程，期望与陪伴终将渐行渐远。</description>
-      <guid>https://lenciel.com/2026/11/fragments-0x001f/</guid>
-    </item>
-    <item>
-      <title>Fragments 0x001E</title>
-      <link>https://lenciel.com/2026/11/fragments-0x001e/</link>
-      <description/>
-      <guid>https://lenciel.com/2026/11/fragments-0x001e/</guid>
     </item>
     <item>
       <title>听到别人的声音</title>
@@ -438,22 +438,22 @@
       <guid>https://wangrufei.com/archives/402</guid>
     </item>
     <item>
+      <title>2026 关西八日游下篇</title>
+      <link>https://battlele.com/2026-kansai-tour-2/</link>
+      <description>奈良之游，感受京都古韵与现代交融的魅力。</description>
+      <guid>https://battlele.com/2026-kansai-tour-2/</guid>
+    </item>
+    <item>
+      <title>2026 关西八日游上篇</title>
+      <link>https://battlele.com/2026-kansai-tour/</link>
+      <description>2026关西游，签证涨价前的明智选择。</description>
+      <guid>https://battlele.com/2026-kansai-tour/</guid>
+    </item>
+    <item>
       <title>折腾半天终于办下来了：0 元与免实体地址申请个体工商户营业执照</title>
       <link>https://battlele.com/individual-business-guide/</link>
-      <description>零成本免地址申请个体户执照，轻松完成季度申报。</description>
+      <description>零成本免地址，轻松申请个体户营业执照。</description>
       <guid>https://battlele.com/individual-business-guide/</guid>
-    </item>
-    <item>
-      <title>香港汇丰 Pulse 银联双币钻石信用卡</title>
-      <link>https://battlele.com/hsbc-pulse/</link>
-      <description>香港汇丰Pulse银联双币钻石信用卡，七月大放水，申请、激活、绑定一步到位。</description>
-      <guid>https://battlele.com/hsbc-pulse/</guid>
-    </item>
-    <item>
-      <title>天台（tāi）游记</title>
-      <link>https://battlele.com/tiantai-trip/</link>
-      <description>天台游记：体验台州天台，品尝特色小吃，游览国清寺。</description>
-      <guid>https://battlele.com/tiantai-trip/</guid>
     </item>
     <item>
       <title>About</title>
@@ -494,19 +494,19 @@
     <item>
       <title>2026.11.12</title>
       <link>https://www.justzht.com/2026-11-12/</link>
-      <description>手动挡宝马E39故障，Expedition应急，年末考虑卖车。</description>
+      <description>手动挡宝马失灵，年末不搬家，考虑卖车换新。</description>
       <guid>https://www.justzht.com/2026-11-12/</guid>
     </item>
     <item>
       <title>2026.11.1</title>
       <link>https://www.justzht.com/2026-11-1/</link>
-      <description>诉讼结束，渲染系统优化中，万圣节与友共度。</description>
+      <description>诉讼结束，游戏进展，湾区万圣节偶遇。</description>
       <guid>https://www.justzht.com/2026-11-1/</guid>
     </item>
     <item>
       <title>2026.10.25</title>
       <link>https://www.justzht.com/2026-10-25/</link>
-      <description>Epoch跨平台运行，Mac新电脑助力开发。</description>
+      <description>Epoch 支持多平台运行，新Mac Studio助力开发。</description>
       <guid>https://www.justzht.com/2026-10-25/</guid>
     </item>
     <item>
