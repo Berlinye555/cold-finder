@@ -6,6 +6,12 @@
     <description>精选自 605 个中文博客 + GitHub 日榜</description>
     <language>zh-CN</language>
     <item>
+      <title>CSS终于支持random()随机函数了，等死老子了</title>
+      <link>https://www.zhangxinxu.com/wordpress/2026/11/css-math-random/</link>
+      <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
+      <guid>https://www.zhangxinxu.com/wordpress/2026/11/css-math-random/</guid>
+    </item>
+    <item>
       <title>JS拖拽交互必用setPointerCapture方法</title>
       <link>https://www.zhangxinxu.com/wordpress/2026/11/js-drag-set-pointer-capture/</link>
       <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
@@ -16,12 +22,6 @@
       <link>https://www.zhangxinxu.com/wordpress/2026/10/loading-lazy-img-sizes-auto/</link>
       <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
       <guid>https://www.zhangxinxu.com/wordpress/2026/10/loading-lazy-img-sizes-auto/</guid>
-    </item>
-    <item>
-      <title>算了，还是讲下named-feature() @supports规则检测吧</title>
-      <link>https://www.zhangxinxu.com/wordpress/2026/10/css-supports-named-feature/</link>
-      <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
-      <guid>https://www.zhangxinxu.com/wordpress/2026/10/css-supports-named-feature/</guid>
     </item>
     <item>
       <title>看完凡人真人版！韩立的性格狠点+师傅阵容，越聊越燃</title>
@@ -60,6 +60,12 @@
       <guid>https://supercodepower.com/what-can-cdp-do-in-browser-use</guid>
     </item>
     <item>
+      <title>把「更好」放在「更快」之前 - 肘子的 Swift 周报 #162</title>
+      <link>https://fatbobman.com/zh/weekly/issue-162/</link>
+      <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
+      <guid>https://fatbobman.com/zh/weekly/issue-162/</guid>
+    </item>
+    <item>
       <title>参与学生移动应用大赛有感 - 肘子的 Swift 周报 #161</title>
       <link>https://fatbobman.com/zh/weekly/issue-161/</link>
       <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
@@ -70,12 +76,6 @@
       <link>https://fatbobman.com/zh/weekly/issue-160/</link>
       <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
       <guid>https://fatbobman.com/zh/weekly/issue-160/</guid>
-    </item>
-    <item>
-      <title>当应用不再属于特定操作系统 - 肘子的 Swift 周报 #159</title>
-      <link>https://fatbobman.com/zh/weekly/issue-159/</link>
-      <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
-      <guid>https://fatbobman.com/zh/weekly/issue-159/</guid>
     </item>
     <item>
       <title>如何解决 Unexpected token =</title>
@@ -116,19 +116,19 @@
     <item>
       <title>后疫情时代下美国 CS Master 申请纪实</title>
       <link>https://halfrost.com/halfrost_2021/</link>
-      <description>后疫情时代，美国CS Master申请纪实，分享申请全过程与心得。</description>
+      <description>后疫情时代，美国CS Master申请之路充满挑战，本文为你揭秘申请全过程。</description>
       <guid>https://halfrost.com/halfrost_2021/</guid>
     </item>
     <item>
       <title>下一个五年计划起航 ！</title>
       <link>https://halfrost.com/halfrost_2020/</link>
-      <description>回顾2020，展望未来五年计划，共克时艰，砥砺前行。</description>
+      <description>下一个五年计划启航，回顾2020疫情与火神山、雷神山建设。</description>
       <guid>https://halfrost.com/halfrost_2020/</guid>
     </item>
     <item>
       <title>面试中 LRU / LFU 的青铜与王者</title>
       <link>https://halfrost.com/lru_lfu_interview/</link>
-      <description>解析LRU与LFU缓存算法，面试必备。</description>
+      <description>揭秘LRU/LFU缓存淘汰算法，面试必备！</description>
       <guid>https://halfrost.com/lru_lfu_interview/</guid>
     </item>
     <item>
@@ -150,22 +150,22 @@
       <guid>http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html</guid>
     </item>
     <item>
+      <title>解析：不要介入他人因果</title>
+      <link>https://www.hecaitou.com/2026/11/deconstructing-others-karma.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/11/deconstructing-others-karma.html</guid>
+    </item>
+    <item>
+      <title>低潮时不要做重要决策</title>
+      <link>https://www.hecaitou.com/2026/11/dont-make-major-decisions-during-a-low-point.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/11/dont-make-major-decisions-during-a-low-point.html</guid>
+    </item>
+    <item>
       <title>只为怀旧就可惜了</title>
       <link>https://www.hecaitou.com/2026/11/more-than-nostalgia.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/11/more-than-nostalgia.html</guid>
-    </item>
-    <item>
-      <title>无需敌人的喜欢</title>
-      <link>https://www.hecaitou.com/2026/11/a-love-that-needs-no-enemy.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/11/a-love-that-needs-no-enemy.html</guid>
-    </item>
-    <item>
-      <title>起立一下是应该的</title>
-      <link>https://www.hecaitou.com/2026/11/they-deserve-a-standing-ovation.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/11/they-deserve-a-standing-ovation.html</guid>
     </item>
     <item>
       <title>2016 年，我做过一次 AI 写代码创业</title>
@@ -204,6 +204,12 @@
       <guid>https://www.changhai.org/articles/miscellaneous/blog/202611.php#latest</guid>
     </item>
     <item>
+      <title>黄仁勋事件中 遥遥领先的纽约时报</title>
+      <link>http://weiwuhui.com/11119.html</link>
+      <description>魏老师执教于上海交通大学媒体与传播学院，天奇创投基金管理合伙人。媒体行业的思考和见解，尽在魏老师。</description>
+      <guid>http://weiwuhui.com/11119.html</guid>
+    </item>
+    <item>
       <title>一部有望冲击奥斯卡最佳电影的…纪录片</title>
       <link>http://weiwuhui.com/11115.html</link>
       <description>魏老师执教于上海交通大学媒体与传播学院，天奇创投基金管理合伙人。媒体行业的思考和见解，尽在魏老师。</description>
@@ -216,27 +222,21 @@
       <guid>http://weiwuhui.com/11111.html</guid>
     </item>
     <item>
-      <title>周末 叽歪几句本号的写作</title>
-      <link>http://weiwuhui.com/11109.html</link>
-      <description>魏老师执教于上海交通大学媒体与传播学院，天奇创投基金管理合伙人。媒体行业的思考和见解，尽在魏老师。</description>
-      <guid>http://weiwuhui.com/11109.html</guid>
-    </item>
-    <item>
       <title>让炼丹更科学一些（十一）：无调度学习率新思路</title>
       <link>https://spaces.ac.cn/archives/12003</link>
-      <description>探索无调度学习率新方法，实现训练过程灵活终止，提升收敛速度。</description>
+      <description>探索无调度学习率新思路，实现理想速度收敛。</description>
       <guid>https://spaces.ac.cn/archives/12003</guid>
     </item>
     <item>
       <title>平均之路：从Attention到TTT</title>
       <link>https://spaces.ac.cn/archives/11993</link>
-      <description>探索从Softmax Attention到Gated DeltaNet的线性化过程，引入三步平均操作，建立Attention与TTT近似联系。</description>
+      <description>探索从Softmax Attention到线性模型的线性化路径，揭示Attention与TTT的近似联系。</description>
       <guid>https://spaces.ac.cn/archives/11993</guid>
     </item>
     <item>
       <title>从参数对称性到有效学习率</title>
       <link>https://spaces.ac.cn/archives/11985</link>
-      <description>探讨参数对称性在模型优化中的应用与争议。</description>
+      <description>探讨参数对称性在模型优化中的应用及其争议。</description>
       <guid>https://spaces.ac.cn/archives/11985</guid>
     </item>
     <item>
@@ -278,37 +278,37 @@
     <item>
       <title>一代版本一代神</title>
       <link>https://www.gtdstudy.com/posts/2026-11-01-new-version-new-god/</link>
-      <description>AI短剧新版本，草根逆袭成神。</description>
+      <description>AI短剧新潮流，草根逆袭成神记。</description>
       <guid>https://www.gtdstudy.com/posts/2026-11-01-new-version-new-god/</guid>
     </item>
     <item>
       <title>中秋与国庆</title>
       <link>https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/</link>
-      <description>中秋忆祖孙，国庆观战片，情感与思考交织。</description>
+      <description>中秋忆祖孙，国庆观战片，双重情感交织。</description>
       <guid>https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/</guid>
     </item>
     <item>
       <title>深呼吸</title>
       <link>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</link>
-      <description>一周内，Awesome-Jev Github 仓库星标破千，项目活跃。</description>
+      <description>一周内Awesome-Jev仓库星标破千，分享项目方向变化及Jev议题循环。</description>
       <guid>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</guid>
     </item>
     <item>
       <title>Axiom 设计系统</title>
       <link>https://roriri.one/2026/10/15/ax-design/</link>
-      <description>初代设计系统趣味性与可访问性平衡，新版本却沉沦。</description>
+      <description>初代设计系统经典，新版本却失趣味。</description>
       <guid>https://roriri.one/2026/10/15/ax-design/</guid>
     </item>
     <item>
       <title>我吃到了那颗梦寐以求的小药丸</title>
       <link>https://roriri.one/2026/08/06/adhd-pills/</link>
-      <description>患者历经波折终获ADHD治疗，体验两重天。</description>
+      <description>历经波折，我终于吃到了治疗ADHD的小药丸。</description>
       <guid>https://roriri.one/2026/08/06/adhd-pills/</guid>
     </item>
     <item>
       <title>Sneakerweb：互联网的脆弱与韧性</title>
       <link>https://roriri.one/2026/07/09/sneakerweb/</link>
-      <description>探讨互联网内容传播的脆弱与韧性，以古巴离线内容系统为例。</description>
+      <description>探讨互联网内容的迁移与保存，对比史前与云端时代。</description>
       <guid>https://roriri.one/2026/07/09/sneakerweb/</guid>
     </item>
     <item>
@@ -326,8 +326,14 @@
     <item>
       <title>Fragments 0x0020</title>
       <link>https://lenciel.com/2026/11/fragments-0x0020/</link>
-      <description>朋友感慨人生若能重来，引发对轮回与人生的思考。</description>
+      <description>朋友感叹人生若能重来，莫言小说启示轮回与人畜同理。</description>
       <guid>https://lenciel.com/2026/11/fragments-0x0020/</guid>
+    </item>
+    <item>
+      <title>为什么人们不因桌椅凌乱而困扰</title>
+      <link>https://kaix.in/2026/1116/</link>
+      <description>因多次更换 blog 程序，2004 年至今存留 548 篇日志，主要涉及咖啡、影音、阅读、生活记录等内容。</description>
+      <guid>https://kaix.in/2026/1116/</guid>
     </item>
     <item>
       <title>听到别人的声音</title>
@@ -340,12 +346,6 @@
       <link>https://kaix.in/2026/1023/</link>
       <description>因多次更换 blog 程序，2004 年至今存留 548 篇日志，主要涉及咖啡、影音、阅读、生活记录等内容。</description>
       <guid>https://kaix.in/2026/1023/</guid>
-    </item>
-    <item>
-      <title>AI 为什么总是惹人议论</title>
-      <link>https://kaix.in/2026/1017/</link>
-      <description>因多次更换 blog 程序，2004 年至今存留 548 篇日志，主要涉及咖啡、影音、阅读、生活记录等内容。</description>
-      <guid>https://kaix.in/2026/1017/</guid>
     </item>
     <item>
       <title>全屋隐私网关：用两台 NAS 藏起全家的 IP</title>
@@ -440,19 +440,19 @@
     <item>
       <title>2026 关西八日游下篇</title>
       <link>https://battlele.com/2026-kansai-tour-2/</link>
-      <description>奈良之游，感受京都古韵与现代交融的魅力。</description>
+      <description>奈良之游，感受古都韵味，品味京极商店街魅力。</description>
       <guid>https://battlele.com/2026-kansai-tour-2/</guid>
     </item>
     <item>
       <title>2026 关西八日游上篇</title>
       <link>https://battlele.com/2026-kansai-tour/</link>
-      <description>2026关西游，签证涨价前的明智选择。</description>
+      <description>关西八日游，提前规划，签证涨价前果断行动。</description>
       <guid>https://battlele.com/2026-kansai-tour/</guid>
     </item>
     <item>
       <title>折腾半天终于办下来了：0 元与免实体地址申请个体工商户营业执照</title>
       <link>https://battlele.com/individual-business-guide/</link>
-      <description>零成本免地址，轻松申请个体户营业执照。</description>
+      <description>零成本免地址申请个体户执照，轻松完成季度申报。</description>
       <guid>https://battlele.com/individual-business-guide/</guid>
     </item>
     <item>
@@ -492,22 +492,10 @@
       <guid>https://s5s5.me/4292</guid>
     </item>
     <item>
-      <title>2026.11.12</title>
-      <link>https://www.justzht.com/2026-11-12/</link>
-      <description>手动挡宝马失灵，年末不搬家，考虑卖车换新。</description>
-      <guid>https://www.justzht.com/2026-11-12/</guid>
-    </item>
-    <item>
-      <title>2026.11.1</title>
-      <link>https://www.justzht.com/2026-11-1/</link>
-      <description>诉讼结束，游戏进展，湾区万圣节偶遇。</description>
-      <guid>https://www.justzht.com/2026-11-1/</guid>
-    </item>
-    <item>
-      <title>2026.10.25</title>
-      <link>https://www.justzht.com/2026-10-25/</link>
-      <description>Epoch 支持多平台运行，新Mac Studio助力开发。</description>
-      <guid>https://www.justzht.com/2026-10-25/</guid>
+      <title>清理磁盘已满的mysql</title>
+      <link>https://www.bboy.app/2026/11/16/%E6%B8%85%E7%90%86%E7%A3%81%E7%9B%98%E5%B7%B2%E6%BB%A1%E7%9A%84mysql/</link>
+      <description>描述：一个分享个人见解、关注项目更新和技术文章的博客。</description>
+      <guid>https://www.bboy.app/2026/11/16/%E6%B8%85%E7%90%86%E7%A3%81%E7%9B%98%E5%B7%B2%E6%BB%A1%E7%9A%84mysql/</guid>
     </item>
     <item>
       <title>When the Namespace Dropdown in the Argo Rollouts Dashboard Disappeared</title>
@@ -520,12 +508,6 @@
       <link>https://www.bboy.app/2026/10/27/%E8%AE%B0%E4%B8%80%E6%AC%A1argorollouts-dashboard%E7%9A%84namespace%E4%B8%8B%E6%8B%89%E6%A1%86%E6%B6%88%E5%A4%B1/</link>
       <description>描述：一个分享个人见解、关注项目更新和技术文章的博客。</description>
       <guid>https://www.bboy.app/2026/10/27/%E8%AE%B0%E4%B8%80%E6%AC%A1argorollouts-dashboard%E7%9A%84namespace%E4%B8%8B%E6%8B%89%E6%A1%86%E6%B6%88%E5%A4%B1/</guid>
-    </item>
-    <item>
-      <title>20261026的胡言乱语</title>
-      <link>https://www.bboy.app/2026/10/26/20261026%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/</link>
-      <description>描述：一个分享个人见解、关注项目更新和技术文章的博客。</description>
-      <guid>https://www.bboy.app/2026/10/26/20261026%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/</guid>
     </item>
     <item>
       <title>工具调用 Function Calling，让 Agent 真正能动手</title>
