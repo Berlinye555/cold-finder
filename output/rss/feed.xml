@@ -116,19 +116,19 @@
     <item>
       <title>后疫情时代下美国 CS Master 申请纪实</title>
       <link>https://halfrost.com/halfrost_2021/</link>
-      <description>后疫情时代，美国CS Master申请之路充满挑战，本文为你揭秘申请全过程。</description>
+      <description>后疫情时代，美国CS硕士申请困难重重，本文分享申请经验与心得。</description>
       <guid>https://halfrost.com/halfrost_2021/</guid>
     </item>
     <item>
       <title>下一个五年计划起航 ！</title>
       <link>https://halfrost.com/halfrost_2020/</link>
-      <description>下一个五年计划启航，回顾2020疫情与火神山、雷神山建设。</description>
+      <description>回顾2020，展望下一个五年计划，共克时艰，共建未来。</description>
       <guid>https://halfrost.com/halfrost_2020/</guid>
     </item>
     <item>
       <title>面试中 LRU / LFU 的青铜与王者</title>
       <link>https://halfrost.com/lru_lfu_interview/</link>
-      <description>揭秘LRU/LFU缓存淘汰算法，面试必备！</description>
+      <description>解析LRU/LFU缓存淘汰算法，揭秘面试难题。</description>
       <guid>https://halfrost.com/lru_lfu_interview/</guid>
     </item>
     <item>
@@ -186,22 +186,22 @@
       <guid>http://blog.youxu.info/2021/11/01/after-fire/</guid>
     </item>
     <item>
-      <title>Latest post on Threads：2026.11.15</title>
+      <title>Latest post on Threads：2026.11.17</title>
       <link>https://www.changhai.org/articles/miscellaneous/eblog/202609.php#latest</link>
       <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
       <guid>https://www.changhai.org/articles/miscellaneous/eblog/202609.php#latest</guid>
+    </item>
+    <item>
+      <title>最新微博：2026 年 11 月 17 日</title>
+      <link>https://www.changhai.org/articles/miscellaneous/blog/202611.php#latest</link>
+      <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
+      <guid>https://www.changhai.org/articles/miscellaneous/blog/202611.php#latest</guid>
     </item>
     <item>
       <title>国际数学家大会掠影</title>
       <link>https://www.changhai.org/articles/science/mathematics/collection1/ICM.php</link>
       <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
       <guid>https://www.changhai.org/articles/science/mathematics/collection1/ICM.php</guid>
-    </item>
-    <item>
-      <title>最新微博：2026 年 11 月 14 日</title>
-      <link>https://www.changhai.org/articles/miscellaneous/blog/202611.php#latest</link>
-      <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
-      <guid>https://www.changhai.org/articles/miscellaneous/blog/202611.php#latest</guid>
     </item>
     <item>
       <title>黄仁勋事件中 遥遥领先的纽约时报</title>
@@ -222,22 +222,22 @@
       <guid>http://weiwuhui.com/11111.html</guid>
     </item>
     <item>
+      <title>最佳学习率调度的变分估计</title>
+      <link>https://spaces.ac.cn/archives/12010</link>
+      <description>论文提出将训练简化为微分方程，通过变分估计实现最佳学习率调度。</description>
+      <guid>https://spaces.ac.cn/archives/12010</guid>
+    </item>
+    <item>
       <title>让炼丹更科学一些（十一）：无调度学习率新思路</title>
       <link>https://spaces.ac.cn/archives/12003</link>
-      <description>探索无调度学习率新思路，实现理想速度收敛。</description>
+      <description>探索无调度学习率新思路，实现训练过程灵活终止。</description>
       <guid>https://spaces.ac.cn/archives/12003</guid>
     </item>
     <item>
       <title>平均之路：从Attention到TTT</title>
       <link>https://spaces.ac.cn/archives/11993</link>
-      <description>探索从Softmax Attention到线性模型的线性化路径，揭示Attention与TTT的近似联系。</description>
+      <description>探索从Softmax Attention到Gated DeltaNet的线性化过程及Attention与TTT的近似。</description>
       <guid>https://spaces.ac.cn/archives/11993</guid>
-    </item>
-    <item>
-      <title>从参数对称性到有效学习率</title>
-      <link>https://spaces.ac.cn/archives/11985</link>
-      <description>探讨参数对称性在模型优化中的应用及其争议。</description>
-      <guid>https://spaces.ac.cn/archives/11985</guid>
     </item>
     <item>
       <title>在香港骑共享单车：访客视角的经验</title>
@@ -278,43 +278,43 @@
     <item>
       <title>一代版本一代神</title>
       <link>https://www.gtdstudy.com/posts/2026-11-01-new-version-new-god/</link>
-      <description>AI短剧新潮流，草根逆袭成神记。</description>
+      <description>AI短剧崛起，剧本精彩，草根逆袭成神。</description>
       <guid>https://www.gtdstudy.com/posts/2026-11-01-new-version-new-god/</guid>
     </item>
     <item>
       <title>中秋与国庆</title>
       <link>https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/</link>
-      <description>中秋忆祖孙，国庆观战片，双重情感交织。</description>
+      <description>中秋国庆双节，回忆与电影交织。</description>
       <guid>https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/</guid>
     </item>
     <item>
       <title>深呼吸</title>
       <link>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</link>
-      <description>一周内Awesome-Jev仓库星标破千，分享项目方向变化及Jev议题循环。</description>
+      <description>一周内，Awesome-Jev 仓库星标破千，项目迭代快速。</description>
       <guid>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</guid>
     </item>
     <item>
       <title>Axiom 设计系统</title>
       <link>https://roriri.one/2026/10/15/ax-design/</link>
-      <description>初代设计系统经典，新版本却失趣味。</description>
+      <description>初代设计系统经典，新版本却沉沦，设计师如何平衡趣味与规范？</description>
       <guid>https://roriri.one/2026/10/15/ax-design/</guid>
     </item>
     <item>
       <title>我吃到了那颗梦寐以求的小药丸</title>
       <link>https://roriri.one/2026/08/06/adhd-pills/</link>
-      <description>历经波折，我终于吃到了治疗ADHD的小药丸。</description>
+      <description>患者经历 ADHD 治疗过程中的繁琐流程，最终在新的城市获得有效治疗。</description>
       <guid>https://roriri.one/2026/08/06/adhd-pills/</guid>
     </item>
     <item>
       <title>Sneakerweb：互联网的脆弱与韧性</title>
       <link>https://roriri.one/2026/07/09/sneakerweb/</link>
-      <description>探讨互联网内容的迁移与保存，对比史前与云端时代。</description>
+      <description>探讨互联网内容传播的脆弱与韧性，以古巴离线内容系统为例。</description>
       <guid>https://roriri.one/2026/07/09/sneakerweb/</guid>
     </item>
     <item>
       <title>Fragments 0x0022</title>
       <link>https://lenciel.com/2026/11/fragments-0x0022/</link>
-      <description>画作展现文明碎片，引发思考而非答案。</description>
+      <description>画作留问题，文明碎片交织成谜</description>
       <guid>https://lenciel.com/2026/11/fragments-0x0022/</guid>
     </item>
     <item>
@@ -326,7 +326,7 @@
     <item>
       <title>Fragments 0x0020</title>
       <link>https://lenciel.com/2026/11/fragments-0x0020/</link>
-      <description>朋友感叹人生若能重来，莫言小说启示轮回与人畜同理。</description>
+      <description>人生若可重来，轮回何须六道？莫言《生死疲劳》启示人生哲理。</description>
       <guid>https://lenciel.com/2026/11/fragments-0x0020/</guid>
     </item>
     <item>
@@ -440,19 +440,19 @@
     <item>
       <title>2026 关西八日游下篇</title>
       <link>https://battlele.com/2026-kansai-tour-2/</link>
-      <description>奈良之游，感受古都韵味，品味京极商店街魅力。</description>
+      <description>奈良游学，体验弥生轩早餐，漫步新京极商店街。</description>
       <guid>https://battlele.com/2026-kansai-tour-2/</guid>
     </item>
     <item>
       <title>2026 关西八日游上篇</title>
       <link>https://battlele.com/2026-kansai-tour/</link>
-      <description>关西八日游，提前规划，签证涨价前果断行动。</description>
+      <description>关西八日游，提前规划，签证涨价应对。</description>
       <guid>https://battlele.com/2026-kansai-tour/</guid>
     </item>
     <item>
       <title>折腾半天终于办下来了：0 元与免实体地址申请个体工商户营业执照</title>
       <link>https://battlele.com/individual-business-guide/</link>
-      <description>零成本免地址申请个体户执照，轻松完成季度申报。</description>
+      <description>零成本免地址申请个体工商户营业执照，轻松解决管理费减免问题。</description>
       <guid>https://battlele.com/individual-business-guide/</guid>
     </item>
     <item>
@@ -490,6 +490,24 @@
       <link>https://s5s5.me/4292</link>
       <description>代表文章：《[小程序是不是应该淘汰了？](</description>
       <guid>https://s5s5.me/4292</guid>
+    </item>
+    <item>
+      <title>2026.11.12</title>
+      <link>https://www.justzht.com/2026-11-12/</link>
+      <description>E39打不着火，Expedition代步，思考是否卖车。</description>
+      <guid>https://www.justzht.com/2026-11-12/</guid>
+    </item>
+    <item>
+      <title>2026.11.1</title>
+      <link>https://www.justzht.com/2026-11-1/</link>
+      <description>诉讼结束，游戏进展，湾区万圣节奇遇。</description>
+      <guid>https://www.justzht.com/2026-11-1/</guid>
+    </item>
+    <item>
+      <title>2026.10.25</title>
+      <link>https://www.justzht.com/2026-10-25/</link>
+      <description>Epoch 支持多平台运行，Mac Studio 购入助力开发。</description>
+      <guid>https://www.justzht.com/2026-10-25/</guid>
     </item>
     <item>
       <title>清理磁盘已满的mysql</title>
