@@ -6,6 +6,12 @@
     <description>精选自 605 个中文博客 + GitHub 日榜</description>
     <language>zh-CN</language>
     <item>
+      <title>继textarea之后，iframe也自适应大小啦！</title>
+      <link>https://www.zhangxinxu.com/wordpress/2026/11/ifmame-sizing-content/</link>
+      <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
+      <guid>https://www.zhangxinxu.com/wordpress/2026/11/ifmame-sizing-content/</guid>
+    </item>
+    <item>
       <title>CSS终于支持random()随机函数了，等死老子了</title>
       <link>https://www.zhangxinxu.com/wordpress/2026/11/css-math-random/</link>
       <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
@@ -16,12 +22,6 @@
       <link>https://www.zhangxinxu.com/wordpress/2026/11/js-drag-set-pointer-capture/</link>
       <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
       <guid>https://www.zhangxinxu.com/wordpress/2026/11/js-drag-set-pointer-capture/</guid>
-    </item>
-    <item>
-      <title>懒加载图片新支持了sizes=”auto”属性，其作用是？</title>
-      <link>https://www.zhangxinxu.com/wordpress/2026/10/loading-lazy-img-sizes-auto/</link>
-      <description>09年华中科技大学毕业，现上海；腾讯阅文集团前端开发。专注web前端偏前领域，著有书籍《CSS世界》《CSS选择器世界》《CSS新世界》。</description>
-      <guid>https://www.zhangxinxu.com/wordpress/2026/10/loading-lazy-img-sizes-auto/</guid>
     </item>
     <item>
       <title>🧠 [AI] 浅谈 Transformer 的推理流程</title>
@@ -98,19 +98,19 @@
     <item>
       <title>后疫情时代下美国 CS Master 申请纪实</title>
       <link>https://halfrost.com/halfrost_2021/</link>
-      <description>后疫情时代，美国CS Master申请纪实，留学困难与心得分享。</description>
+      <description>后疫情时代美国CS硕士申请纪实，分享申请全过程及心得。</description>
       <guid>https://halfrost.com/halfrost_2021/</guid>
     </item>
     <item>
       <title>下一个五年计划起航 ！</title>
       <link>https://halfrost.com/halfrost_2020/</link>
-      <description>下一个五年计划起航 ！</description>
+      <description>回顾2020，武汉抗疫，火神雷神山医院建设，见证中国力量。</description>
       <guid>https://halfrost.com/halfrost_2020/</guid>
     </item>
     <item>
       <title>面试中 LRU / LFU 的青铜与王者</title>
       <link>https://halfrost.com/lru_lfu_interview/</link>
-      <description>LRU和LFU缓存算法在面试中至关重要，本文深入解析其原理与实现。</description>
+      <description>剖析LRU/LFU缓存算法，面试必备！</description>
       <guid>https://halfrost.com/lru_lfu_interview/</guid>
     </item>
     <item>
@@ -186,7 +186,7 @@
       <guid>http://blog.youxu.info/2021/11/01/after-fire/</guid>
     </item>
     <item>
-      <title>最新微博：2026 年 11 月 18 日</title>
+      <title>最新微博：2026 年 11 月 20 日</title>
       <link>https://www.changhai.org/articles/miscellaneous/blog/202611.php#latest</link>
       <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
       <guid>https://www.changhai.org/articles/miscellaneous/blog/202611.php#latest</guid>
@@ -202,6 +202,12 @@
       <link>https://www.changhai.org/articles/science/mathematics/collection1/ICM.php</link>
       <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
       <guid>https://www.changhai.org/articles/science/mathematics/collection1/ICM.php</guid>
+    </item>
+    <item>
+      <title>Tokaku EP1: 廣東話的流動世界</title>
+      <link>https://blog.yitianshijie.net/2026/11/20/tokaku-ep1-cantonese-on-the-move/</link>
+      <description>代表文章：《[李如一 | 论推荐之难](</description>
+      <guid>https://blog.yitianshijie.net/2026/11/20/tokaku-ep1-cantonese-on-the-move/</guid>
     </item>
     <item>
       <title>黄仁勋会不会回归 如奥特曼故事？</title>
@@ -224,19 +230,19 @@
     <item>
       <title>最佳学习率调度的变分估计</title>
       <link>https://spaces.ac.cn/archives/12010</link>
-      <description>论文提出基于变分估计的最佳学习率调度新方法，将训练动态简化为一维微分方程。</description>
+      <description>新论文提出基于变分估计的最佳学习率调度方法，简化模型训练为微分方程，实现高效学习。</description>
       <guid>https://spaces.ac.cn/archives/12010</guid>
     </item>
     <item>
       <title>让炼丹更科学一些（十一）：无调度学习率新思路</title>
       <link>https://spaces.ac.cn/archives/12003</link>
-      <description>无调度学习率新思路实现，优化深度学习训练。</description>
+      <description>探索无调度学习率新思路，实现理想速度收敛最优解。</description>
       <guid>https://spaces.ac.cn/archives/12003</guid>
     </item>
     <item>
       <title>平均之路：从Attention到TTT</title>
       <link>https://spaces.ac.cn/archives/11993</link>
-      <description>探索从Softmax Attention到Gated DeltaNet的线性化过程，并构建Attention与TTT的近似联系。</description>
+      <description>探索从Softmax Attention到Gated DeltaNet的线性化路径，揭示Attention与TTT近似关系。</description>
       <guid>https://spaces.ac.cn/archives/11993</guid>
     </item>
     <item>
@@ -284,50 +290,50 @@
     <item>
       <title>中秋与国庆</title>
       <link>https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/</link>
-      <description>中秋与国庆</description>
+      <description>中秋国庆双节，回忆与电影交织。</description>
       <guid>https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/</guid>
     </item>
     <item>
       <title>深呼吸</title>
       <link>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</link>
-      <description>一周内Awesome-Jev星标破千，项目活跃，探索Jev议题变化。</description>
+      <description>Awesome-Jev 仓库星标破千，议题迭代速度惊人。</description>
       <guid>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</guid>
     </item>
     <item>
       <title>Axiom 设计系统</title>
       <link>https://roriri.one/2026/10/15/ax-design/</link>
-      <description>初代设计系统经典，新版本却失趣。</description>
+      <description>初代设计系统经典，新版本需回归本质。</description>
       <guid>https://roriri.one/2026/10/15/ax-design/</guid>
     </item>
     <item>
       <title>我吃到了那颗梦寐以求的小药丸</title>
       <link>https://roriri.one/2026/08/06/adhd-pills/</link>
-      <description>从求医困难到顺利用药，作者分享了自己克服 ADHD 的经历。</description>
+      <description>从求诊困难到获得治疗，作者经历的心路历程。</description>
       <guid>https://roriri.one/2026/08/06/adhd-pills/</guid>
     </item>
     <item>
       <title>Sneakerweb：互联网的脆弱与韧性</title>
       <link>https://roriri.one/2026/07/09/sneakerweb/</link>
-      <description>探讨互联网内容传播的脆弱与韧性，从古巴离线内容系统看数字时代的挑战。</description>
+      <description>探讨互联网内容传播的脆弱与韧性，从古巴离线内容系统看互联网发展。</description>
       <guid>https://roriri.one/2026/07/09/sneakerweb/</guid>
+    </item>
+    <item>
+      <title>Fragments 0x0024</title>
+      <link>https://lenciel.com/2026/11/fragments-0x0024/</link>
+      <description/>
+      <guid>https://lenciel.com/2026/11/fragments-0x0024/</guid>
+    </item>
+    <item>
+      <title>Fragments 0x0023</title>
+      <link>https://lenciel.com/2026/11/fragments-0x0023/</link>
+      <description>气候失调、科技失智、艺术失宠，时代迷茫，唯有手机相伴。</description>
+      <guid>https://lenciel.com/2026/11/fragments-0x0023/</guid>
     </item>
     <item>
       <title>Fragments 0x0022</title>
       <link>https://lenciel.com/2026/11/fragments-0x0022/</link>
-      <description>画作留下问题而非答案，文明碎片交织成谜。</description>
+      <description>画作展现文明碎片，引发对中心思想的思考。</description>
       <guid>https://lenciel.com/2026/11/fragments-0x0022/</guid>
-    </item>
-    <item>
-      <title>Fragments 0x0021</title>
-      <link>https://lenciel.com/2026/11/fragments-0x0021/</link>
-      <description/>
-      <guid>https://lenciel.com/2026/11/fragments-0x0021/</guid>
-    </item>
-    <item>
-      <title>Fragments 0x0020</title>
-      <link>https://lenciel.com/2026/11/fragments-0x0020/</link>
-      <description>朋友感慨人生若能重来，引发对轮回与生命的思考。</description>
-      <guid>https://lenciel.com/2026/11/fragments-0x0020/</guid>
     </item>
     <item>
       <title>为什么人们不因桌椅凌乱而困扰</title>
@@ -440,19 +446,19 @@
     <item>
       <title>2026 HK 说走就走下篇</title>
       <link>https://battlele.com/2026-hongkong-tour-2/</link>
-      <description>体验香港皇岗口岸新设施，感受便捷通关与港式悠闲。</description>
+      <description>香港之旅惊喜连连，戒指失而复得，体验新皇岗口岸的便捷与豪华。</description>
       <guid>https://battlele.com/2026-hongkong-tour-2/</guid>
     </item>
     <item>
       <title>2026 HK 说走就走上篇</title>
       <link>https://battlele.com/2026-hongkong-tour-1/</link>
-      <description>香港质保之旅，体验春秋航空与KMB。</description>
+      <description>香港黑车坐地起价，投诉难追责，警方劝放弃。</description>
       <guid>https://battlele.com/2026-hongkong-tour-1/</guid>
     </item>
     <item>
       <title>2026 关西八日游下篇</title>
       <link>https://battlele.com/2026-kansai-tour-2/</link>
-      <description>奈良漫步，京都购物，感受古都魅力。</description>
+      <description>奈良之游，感受古都韵味，体验日本生活。</description>
       <guid>https://battlele.com/2026-kansai-tour-2/</guid>
     </item>
     <item>
@@ -494,19 +500,19 @@
     <item>
       <title>2026.11.12</title>
       <link>https://www.justzht.com/2026-11-12/</link>
-      <description>宝马E39突然打不着火，作者赶忙开Expedition去应约，反思车辆与生活的选择。</description>
+      <description>宝马E39失灵，转手Expedition，年末不搬家。</description>
       <guid>https://www.justzht.com/2026-11-12/</guid>
     </item>
     <item>
       <title>2026.11.1</title>
       <link>https://www.justzht.com/2026-11-1/</link>
-      <description>诉讼结束，渲染系统优化中，与朋友湾区游玩。</description>
+      <description>诉讼结束，游戏进展，湾区万圣节趣事。</description>
       <guid>https://www.justzht.com/2026-11-1/</guid>
     </item>
     <item>
       <title>2026.10.25</title>
       <link>https://www.justzht.com/2026-10-25/</link>
-      <description>Epoch跨平台运行，Mac新电脑助力开发。</description>
+      <description>Epoch跨平台运行，Mac新电脑助力开发，法律纠纷进展。</description>
       <guid>https://www.justzht.com/2026-10-25/</guid>
     </item>
     <item>
