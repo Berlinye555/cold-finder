@@ -98,19 +98,19 @@
     <item>
       <title>后疫情时代下美国 CS Master 申请纪实</title>
       <link>https://halfrost.com/halfrost_2021/</link>
-      <description>后疫情时代美国CS硕士申请纪实，分享申请全过程及心得。</description>
+      <description>后疫情时代美国CS Master申请纪实，留学生艰难路分享心得。</description>
       <guid>https://halfrost.com/halfrost_2021/</guid>
     </item>
     <item>
       <title>下一个五年计划起航 ！</title>
       <link>https://halfrost.com/halfrost_2020/</link>
-      <description>回顾2020，武汉抗疫，火神雷神山医院建设，见证中国力量。</description>
+      <description>回顾2020，武汉抗疫，火神雷神山奇迹，共克时艰。</description>
       <guid>https://halfrost.com/halfrost_2020/</guid>
     </item>
     <item>
       <title>面试中 LRU / LFU 的青铜与王者</title>
       <link>https://halfrost.com/lru_lfu_interview/</link>
-      <description>剖析LRU/LFU缓存算法，面试必备！</description>
+      <description>揭秘LRU/LFU缓存算法面试技巧，助你通关大厂。</description>
       <guid>https://halfrost.com/lru_lfu_interview/</guid>
     </item>
     <item>
@@ -132,40 +132,22 @@
       <guid>http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html</guid>
     </item>
     <item>
+      <title>工具闪闪亮</title>
+      <link>https://www.hecaitou.com/2026/11/shiny-new-tools.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/11/shiny-new-tools.html</guid>
+    </item>
+    <item>
+      <title>在两条街之外</title>
+      <link>https://www.hecaitou.com/2026/11/beyond-the-two-streets.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/11/beyond-the-two-streets.html</guid>
+    </item>
+    <item>
       <title>做个好叔叔是容易的</title>
       <link>https://www.hecaitou.com/2026/11/being-a-good-uncle-is-easy.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/11/being-a-good-uncle-is-easy.html</guid>
-    </item>
-    <item>
-      <title>别变成老年人上网</title>
-      <link>https://www.hecaitou.com/2026/11/elderly-internet-mode.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/11/elderly-internet-mode.html</guid>
-    </item>
-    <item>
-      <title>在凌晨五点醒来</title>
-      <link>https://www.hecaitou.com/2026/11/awake-at-5-am.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/11/awake-at-5-am.html</guid>
-    </item>
-    <item>
-      <title>是微服务架构不香还是云不香？</title>
-      <link>https://coolshell.cn/articles/22422.html</link>
-      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
-      <guid>https://coolshell.cn/articles/22422.html</guid>
-    </item>
-    <item>
-      <title>我看ChatGPT: 为啥谷歌掉了千亿美金</title>
-      <link>https://coolshell.cn/articles/22398.html</link>
-      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
-      <guid>https://coolshell.cn/articles/22398.html</guid>
-    </item>
-    <item>
-      <title>聊聊 nostr 和 审查</title>
-      <link>https://coolshell.cn/articles/22367.html</link>
-      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
-      <guid>https://coolshell.cn/articles/22367.html</guid>
     </item>
     <item>
       <title>2016 年，我做过一次 AI 写代码创业</title>
@@ -186,16 +168,16 @@
       <guid>http://blog.youxu.info/2021/11/01/after-fire/</guid>
     </item>
     <item>
+      <title>Latest post on Threads：2026.11.21</title>
+      <link>https://www.changhai.org/articles/miscellaneous/eblog/202609.php#latest</link>
+      <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
+      <guid>https://www.changhai.org/articles/miscellaneous/eblog/202609.php#latest</guid>
+    </item>
+    <item>
       <title>最新微博：2026 年 11 月 20 日</title>
       <link>https://www.changhai.org/articles/miscellaneous/blog/202611.php#latest</link>
       <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
       <guid>https://www.changhai.org/articles/miscellaneous/blog/202611.php#latest</guid>
-    </item>
-    <item>
-      <title>Latest post on Threads：2026.11.17</title>
-      <link>https://www.changhai.org/articles/miscellaneous/eblog/202609.php#latest</link>
-      <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
-      <guid>https://www.changhai.org/articles/miscellaneous/eblog/202609.php#latest</guid>
     </item>
     <item>
       <title>国际数学家大会掠影</title>
@@ -230,19 +212,19 @@
     <item>
       <title>最佳学习率调度的变分估计</title>
       <link>https://spaces.ac.cn/archives/12010</link>
-      <description>新论文提出基于变分估计的最佳学习率调度方法，简化模型训练为微分方程，实现高效学习。</description>
+      <description>新论文提出基于变分估计的LR调度方法，将训练动态简化为一维微分方程。</description>
       <guid>https://spaces.ac.cn/archives/12010</guid>
     </item>
     <item>
       <title>让炼丹更科学一些（十一）：无调度学习率新思路</title>
       <link>https://spaces.ac.cn/archives/12003</link>
-      <description>探索无调度学习率新思路，实现理想速度收敛最优解。</description>
+      <description>探索无调度学习率新思路，实现理想速度收敛。</description>
       <guid>https://spaces.ac.cn/archives/12003</guid>
     </item>
     <item>
       <title>平均之路：从Attention到TTT</title>
       <link>https://spaces.ac.cn/archives/11993</link>
-      <description>探索从Softmax Attention到Gated DeltaNet的线性化路径，揭示Attention与TTT近似关系。</description>
+      <description>探索从Softmax Attention到Gated DeltaNet的线性化过程，引入三步平均操作，构建Attention与TTT近似。</description>
       <guid>https://spaces.ac.cn/archives/11993</guid>
     </item>
     <item>
@@ -290,31 +272,31 @@
     <item>
       <title>中秋与国庆</title>
       <link>https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/</link>
-      <description>中秋国庆双节，回忆与电影交织。</description>
+      <description>中秋国庆双节，思念家乡与亲人，观影感受深刻反战电影。</description>
       <guid>https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/</guid>
     </item>
     <item>
       <title>深呼吸</title>
       <link>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</link>
-      <description>Awesome-Jev 仓库星标破千，议题迭代速度惊人。</description>
+      <description>一周内，Awesome-Jev Github 仓库星标破千，项目活跃。</description>
       <guid>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</guid>
     </item>
     <item>
       <title>Axiom 设计系统</title>
       <link>https://roriri.one/2026/10/15/ax-design/</link>
-      <description>初代设计系统经典，新版本需回归本质。</description>
+      <description>初代设计系统经典，新版本却失趣味。</description>
       <guid>https://roriri.one/2026/10/15/ax-design/</guid>
     </item>
     <item>
       <title>我吃到了那颗梦寐以求的小药丸</title>
       <link>https://roriri.one/2026/08/06/adhd-pills/</link>
-      <description>从求诊困难到获得治疗，作者经历的心路历程。</description>
+      <description>ADHD患者求医过程艰难，换城市后终获理解与支持。</description>
       <guid>https://roriri.one/2026/08/06/adhd-pills/</guid>
     </item>
     <item>
       <title>Sneakerweb：互联网的脆弱与韧性</title>
       <link>https://roriri.one/2026/07/09/sneakerweb/</link>
-      <description>探讨互联网内容传播的脆弱与韧性，从古巴离线内容系统看互联网发展。</description>
+      <description>互联网内容传输的演变与挑战。</description>
       <guid>https://roriri.one/2026/07/09/sneakerweb/</guid>
     </item>
     <item>
@@ -332,8 +314,14 @@
     <item>
       <title>Fragments 0x0022</title>
       <link>https://lenciel.com/2026/11/fragments-0x0022/</link>
-      <description>画作展现文明碎片，引发对中心思想的思考。</description>
+      <description>画作留疑问，文明碎片交织成谜</description>
       <guid>https://lenciel.com/2026/11/fragments-0x0022/</guid>
+    </item>
+    <item>
+      <title>图书的插画</title>
+      <link>https://kaix.in/2026/1121/</link>
+      <description>因多次更换 blog 程序，2004 年至今存留 548 篇日志，主要涉及咖啡、影音、阅读、生活记录等内容。</description>
+      <guid>https://kaix.in/2026/1121/</guid>
     </item>
     <item>
       <title>为什么人们不因桌椅凌乱而困扰</title>
@@ -346,12 +334,6 @@
       <link>https://kaix.in/2026/1105/</link>
       <description>因多次更换 blog 程序，2004 年至今存留 548 篇日志，主要涉及咖啡、影音、阅读、生活记录等内容。</description>
       <guid>https://kaix.in/2026/1105/</guid>
-    </item>
-    <item>
-      <title>移除了 webmention 功能</title>
-      <link>https://kaix.in/2026/1023/</link>
-      <description>因多次更换 blog 程序，2004 年至今存留 548 篇日志，主要涉及咖啡、影音、阅读、生活记录等内容。</description>
-      <guid>https://kaix.in/2026/1023/</guid>
     </item>
     <item>
       <title>全屋隐私网关：用两台 NAS 藏起全家的 IP</title>
@@ -446,19 +428,19 @@
     <item>
       <title>2026 HK 说走就走下篇</title>
       <link>https://battlele.com/2026-hongkong-tour-2/</link>
-      <description>香港之旅惊喜连连，戒指失而复得，体验新皇岗口岸的便捷与豪华。</description>
+      <description>意外找回戒指，体验新皇岗口岸便捷通关。</description>
       <guid>https://battlele.com/2026-hongkong-tour-2/</guid>
     </item>
     <item>
       <title>2026 HK 说走就走上篇</title>
       <link>https://battlele.com/2026-hongkong-tour-1/</link>
-      <description>香港黑车坐地起价，投诉难追责，警方劝放弃。</description>
+      <description>香港黑车坐地起价，维权过程曲折。</description>
       <guid>https://battlele.com/2026-hongkong-tour-1/</guid>
     </item>
     <item>
       <title>2026 关西八日游下篇</title>
       <link>https://battlele.com/2026-kansai-tour-2/</link>
-      <description>奈良之游，感受古都韵味，体验日本生活。</description>
+      <description>奈良古城漫步，体验京极商店街的京都风情。</description>
       <guid>https://battlele.com/2026-kansai-tour-2/</guid>
     </item>
     <item>
@@ -500,19 +482,19 @@
     <item>
       <title>2026.11.12</title>
       <link>https://www.justzht.com/2026-11-12/</link>
-      <description>宝马E39失灵，转手Expedition，年末不搬家。</description>
+      <description>手动挡宝马E39罢工，Expedition救场，年底不搬家。</description>
       <guid>https://www.justzht.com/2026-11-12/</guid>
     </item>
     <item>
       <title>2026.11.1</title>
       <link>https://www.justzht.com/2026-11-1/</link>
-      <description>诉讼结束，游戏进展，湾区万圣节趣事。</description>
+      <description>诉讼结束，渲染系统优化，湾区万圣节奇遇。</description>
       <guid>https://www.justzht.com/2026-11-1/</guid>
     </item>
     <item>
       <title>2026.10.25</title>
       <link>https://www.justzht.com/2026-10-25/</link>
-      <description>Epoch跨平台运行，Mac新电脑助力开发，法律纠纷进展。</description>
+      <description>Epoch跨平台运行，Mac Studio新电脑助力开发。</description>
       <guid>https://www.justzht.com/2026-10-25/</guid>
     </item>
     <item>
