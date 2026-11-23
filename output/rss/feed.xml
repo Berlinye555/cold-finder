@@ -78,6 +78,12 @@
       <guid>https://webfem.com/post/writing-platform-word-count-rules</guid>
     </item>
     <item>
+      <title>v2rayN 主窗口上”更新优选IP”按钮</title>
+      <link>https://zelikk.blogspot.com/2026/11/v2rayn-ip.html</link>
+      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
+      <guid>https://zelikk.blogspot.com/2026/11/v2rayn-ip.html</guid>
+    </item>
+    <item>
       <title>hermes update 跳过 node tui webui 的构建</title>
       <link>https://zelikk.blogspot.com/2026/11/hermes-update-skip-node-tui-webui.html</link>
       <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
@@ -90,27 +96,21 @@
       <guid>https://zelikk.blogspot.com/2026/11/agent.html</guid>
     </item>
     <item>
-      <title>部落格文章（與他們的產地）</title>
-      <link>https://zelikk.blogspot.com/2026/11/blog-blog-club.html</link>
-      <description>希望我分享的实践过程能让你也成为创造者, 自己动手解决问题.</description>
-      <guid>https://zelikk.blogspot.com/2026/11/blog-blog-club.html</guid>
-    </item>
-    <item>
       <title>后疫情时代下美国 CS Master 申请纪实</title>
       <link>https://halfrost.com/halfrost_2021/</link>
-      <description>后疫情时代美国CS Master申请纪实，留学生艰难路分享心得。</description>
+      <description>后疫情时代下美国 CS Master 申请纪实</description>
       <guid>https://halfrost.com/halfrost_2021/</guid>
     </item>
     <item>
       <title>下一个五年计划起航 ！</title>
       <link>https://halfrost.com/halfrost_2020/</link>
-      <description>回顾2020，武汉抗疫，火神雷神山奇迹，共克时艰。</description>
+      <description>回顾2020年疫情下的武汉，见证火神山、雷神山的奇迹与中国人民的团结力量。</description>
       <guid>https://halfrost.com/halfrost_2020/</guid>
     </item>
     <item>
       <title>面试中 LRU / LFU 的青铜与王者</title>
       <link>https://halfrost.com/lru_lfu_interview/</link>
-      <description>揭秘LRU/LFU缓存算法面试技巧，助你通关大厂。</description>
+      <description>深入解析LRU/LFU缓存算法，面试必备！</description>
       <guid>https://halfrost.com/lru_lfu_interview/</guid>
     </item>
     <item>
@@ -132,6 +132,12 @@
       <guid>http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html</guid>
     </item>
     <item>
+      <title>让 AI 想象我家</title>
+      <link>https://www.hecaitou.com/2026/11/how-ai-imagines-my-home.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/11/how-ai-imagines-my-home.html</guid>
+    </item>
+    <item>
       <title>工具闪闪亮</title>
       <link>https://www.hecaitou.com/2026/11/shiny-new-tools.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
@@ -142,12 +148,6 @@
       <link>https://www.hecaitou.com/2026/11/beyond-the-two-streets.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/11/beyond-the-two-streets.html</guid>
-    </item>
-    <item>
-      <title>做个好叔叔是容易的</title>
-      <link>https://www.hecaitou.com/2026/11/being-a-good-uncle-is-easy.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/11/being-a-good-uncle-is-easy.html</guid>
     </item>
     <item>
       <title>2016 年，我做过一次 AI 写代码创业</title>
@@ -168,16 +168,16 @@
       <guid>http://blog.youxu.info/2021/11/01/after-fire/</guid>
     </item>
     <item>
+      <title>最新微博：2026 年 11 月 22 日</title>
+      <link>https://www.changhai.org/articles/miscellaneous/blog/202611.php#latest</link>
+      <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
+      <guid>https://www.changhai.org/articles/miscellaneous/blog/202611.php#latest</guid>
+    </item>
+    <item>
       <title>Latest post on Threads：2026.11.21</title>
       <link>https://www.changhai.org/articles/miscellaneous/eblog/202609.php#latest</link>
       <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
       <guid>https://www.changhai.org/articles/miscellaneous/eblog/202609.php#latest</guid>
-    </item>
-    <item>
-      <title>最新微博：2026 年 11 月 20 日</title>
-      <link>https://www.changhai.org/articles/miscellaneous/blog/202611.php#latest</link>
-      <description>物理学博士，科普作家。复旦大学物理系 (本科)，哥伦比亚大学物理系 (博士)。爱好包括阅读、观影、音乐、相声、散步和远足。</description>
-      <guid>https://www.changhai.org/articles/miscellaneous/blog/202611.php#latest</guid>
     </item>
     <item>
       <title>国际数学家大会掠影</title>
@@ -192,6 +192,12 @@
       <guid>https://blog.yitianshijie.net/2026/11/20/tokaku-ep1-cantonese-on-the-move/</guid>
     </item>
     <item>
+      <title>可能会被清洗的黄仁勋部下</title>
+      <link>http://weiwuhui.com/11136.html</link>
+      <description>魏老师执教于上海交通大学媒体与传播学院，天奇创投基金管理合伙人。媒体行业的思考和见解，尽在魏老师。</description>
+      <guid>http://weiwuhui.com/11136.html</guid>
+    </item>
+    <item>
       <title>黄仁勋会不会回归 如奥特曼故事？</title>
       <link>http://weiwuhui.com/11122.html</link>
       <description>魏老师执教于上海交通大学媒体与传播学院，天奇创投基金管理合伙人。媒体行业的思考和见解，尽在魏老师。</description>
@@ -204,28 +210,22 @@
       <guid>http://weiwuhui.com/11119.html</guid>
     </item>
     <item>
-      <title>一部有望冲击奥斯卡最佳电影的…纪录片</title>
-      <link>http://weiwuhui.com/11115.html</link>
-      <description>魏老师执教于上海交通大学媒体与传播学院，天奇创投基金管理合伙人。媒体行业的思考和见解，尽在魏老师。</description>
-      <guid>http://weiwuhui.com/11115.html</guid>
+      <title>Muon背后的优化理论：1. 全量、随机与动量</title>
+      <link>https://spaces.ac.cn/archives/12014</link>
+      <description>深入剖析Muon优化器背后的优化理论，探讨全量、随机与动量。</description>
+      <guid>https://spaces.ac.cn/archives/12014</guid>
     </item>
     <item>
       <title>最佳学习率调度的变分估计</title>
       <link>https://spaces.ac.cn/archives/12010</link>
-      <description>新论文提出基于变分估计的LR调度方法，将训练动态简化为一维微分方程。</description>
+      <description>论文提出将训练动态简化为微分方程，用变分估计最佳学习率调度。</description>
       <guid>https://spaces.ac.cn/archives/12010</guid>
     </item>
     <item>
       <title>让炼丹更科学一些（十一）：无调度学习率新思路</title>
       <link>https://spaces.ac.cn/archives/12003</link>
-      <description>探索无调度学习率新思路，实现理想速度收敛。</description>
+      <description>无调度学习率新思路，实现理想速度收敛最优解。</description>
       <guid>https://spaces.ac.cn/archives/12003</guid>
-    </item>
-    <item>
-      <title>平均之路：从Attention到TTT</title>
-      <link>https://spaces.ac.cn/archives/11993</link>
-      <description>探索从Softmax Attention到Gated DeltaNet的线性化过程，引入三步平均操作，构建Attention与TTT近似。</description>
-      <guid>https://spaces.ac.cn/archives/11993</guid>
     </item>
     <item>
       <title>在香港骑共享单车：访客视角的经验</title>
@@ -266,38 +266,44 @@
     <item>
       <title>一代版本一代神</title>
       <link>https://www.gtdstudy.com/posts/2026-11-01-new-version-new-god/</link>
-      <description>AI短剧新版本，草根逆袭成神。</description>
+      <description>一代版本一代神</description>
       <guid>https://www.gtdstudy.com/posts/2026-11-01-new-version-new-god/</guid>
     </item>
     <item>
       <title>中秋与国庆</title>
       <link>https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/</link>
-      <description>中秋国庆双节，思念家乡与亲人，观影感受深刻反战电影。</description>
+      <description>中秋国庆双节，思念亲人，观影新片。</description>
       <guid>https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/</guid>
     </item>
     <item>
       <title>深呼吸</title>
       <link>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</link>
-      <description>一周内，Awesome-Jev Github 仓库星标破千，项目活跃。</description>
+      <description>一周内Awesome-Jev仓库星标破千，项目活跃，探索Jev议题变化。</description>
       <guid>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</guid>
     </item>
     <item>
       <title>Axiom 设计系统</title>
       <link>https://roriri.one/2026/10/15/ax-design/</link>
-      <description>初代设计系统经典，新版本却失趣味。</description>
+      <description>Axiom 设计系统</description>
       <guid>https://roriri.one/2026/10/15/ax-design/</guid>
     </item>
     <item>
       <title>我吃到了那颗梦寐以求的小药丸</title>
       <link>https://roriri.one/2026/08/06/adhd-pills/</link>
-      <description>ADHD患者求医过程艰难，换城市后终获理解与支持。</description>
+      <description>我吃到了那颗梦寐以求的小药丸</description>
       <guid>https://roriri.one/2026/08/06/adhd-pills/</guid>
     </item>
     <item>
       <title>Sneakerweb：互联网的脆弱与韧性</title>
       <link>https://roriri.one/2026/07/09/sneakerweb/</link>
-      <description>互联网内容传输的演变与挑战。</description>
+      <description>互联网时代，内容存储与传输的变迁与挑战。</description>
       <guid>https://roriri.one/2026/07/09/sneakerweb/</guid>
+    </item>
+    <item>
+      <title>Fragments 0x0025</title>
+      <link>https://lenciel.com/2026/11/fragments-0x0025/</link>
+      <description/>
+      <guid>https://lenciel.com/2026/11/fragments-0x0025/</guid>
     </item>
     <item>
       <title>Fragments 0x0024</title>
@@ -308,14 +314,8 @@
     <item>
       <title>Fragments 0x0023</title>
       <link>https://lenciel.com/2026/11/fragments-0x0023/</link>
-      <description>气候失调、科技失智、艺术失宠，时代迷茫，唯有手机相伴。</description>
+      <description>气候失调，科技失智，时代迷茫，唯有手机相伴。</description>
       <guid>https://lenciel.com/2026/11/fragments-0x0023/</guid>
-    </item>
-    <item>
-      <title>Fragments 0x0022</title>
-      <link>https://lenciel.com/2026/11/fragments-0x0022/</link>
-      <description>画作留疑问，文明碎片交织成谜</description>
-      <guid>https://lenciel.com/2026/11/fragments-0x0022/</guid>
     </item>
     <item>
       <title>图书的插画</title>
@@ -428,19 +428,19 @@
     <item>
       <title>2026 HK 说走就走下篇</title>
       <link>https://battlele.com/2026-hongkong-tour-2/</link>
-      <description>意外找回戒指，体验新皇岗口岸便捷通关。</description>
+      <description>香港之旅惊喜连连，失而复得的戒指，体验新皇岗口岸的便捷与豪华。</description>
       <guid>https://battlele.com/2026-hongkong-tour-2/</guid>
     </item>
     <item>
       <title>2026 HK 说走就走上篇</title>
       <link>https://battlele.com/2026-hongkong-tour-1/</link>
-      <description>香港黑车坐地起价，维权过程曲折。</description>
+      <description>香港黑车维权，证据不足，警员劝放弃。</description>
       <guid>https://battlele.com/2026-hongkong-tour-1/</guid>
     </item>
     <item>
       <title>2026 关西八日游下篇</title>
       <link>https://battlele.com/2026-kansai-tour-2/</link>
-      <description>奈良古城漫步，体验京极商店街的京都风情。</description>
+      <description>奈良体验弥生轩早餐，漫步京都新京极商店街，感受古扇店文化韵味。</description>
       <guid>https://battlele.com/2026-kansai-tour-2/</guid>
     </item>
     <item>
@@ -482,19 +482,19 @@
     <item>
       <title>2026.11.12</title>
       <link>https://www.justzht.com/2026-11-12/</link>
-      <description>手动挡宝马E39罢工，Expedition救场，年底不搬家。</description>
+      <description>E39故障，开Expedition赴宴，反思是否结束手动挡体验。</description>
       <guid>https://www.justzht.com/2026-11-12/</guid>
     </item>
     <item>
       <title>2026.11.1</title>
       <link>https://www.justzht.com/2026-11-1/</link>
-      <description>诉讼结束，渲染系统优化，湾区万圣节奇遇。</description>
+      <description>诉讼结束，游戏开发进展，湾区万圣节奇遇。</description>
       <guid>https://www.justzht.com/2026-11-1/</guid>
     </item>
     <item>
       <title>2026.10.25</title>
       <link>https://www.justzht.com/2026-10-25/</link>
-      <description>Epoch跨平台运行，Mac Studio新电脑助力开发。</description>
+      <description>Epoch跨平台运行，Mac新电脑助力开发。</description>
       <guid>https://www.justzht.com/2026-10-25/</guid>
     </item>
     <item>
