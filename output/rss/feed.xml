@@ -42,6 +42,12 @@
       <guid>https://supercodepower.com/what-can-cdp-do-in-browser-use</guid>
     </item>
     <item>
+      <title>大众的 macOS，还是开发者的 macOS？ - 肘子的 Swift 周报 #163</title>
+      <link>https://fatbobman.com/zh/weekly/issue-163/</link>
+      <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
+      <guid>https://fatbobman.com/zh/weekly/issue-163/</guid>
+    </item>
+    <item>
       <title>把「更好」放在「更快」之前 - 肘子的 Swift 周报 #162</title>
       <link>https://fatbobman.com/zh/weekly/issue-162/</link>
       <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
@@ -52,12 +58,6 @@
       <link>https://fatbobman.com/zh/weekly/issue-161/</link>
       <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
       <guid>https://fatbobman.com/zh/weekly/issue-161/</guid>
-    </item>
-    <item>
-      <title>快速消失的硬盘容量 - 肘子的 Swift 周报 #160</title>
-      <link>https://fatbobman.com/zh/weekly/issue-160/</link>
-      <description>创建这个博客的初衷是为了记录在学习过程中碰到的问题。随着读者的增多，现在也会有意识地写一些适合更多人阅读的文章。这里不仅是技术的备忘录，更是与作者世界沟通的桥梁。</description>
-      <guid>https://fatbobman.com/zh/weekly/issue-160/</guid>
     </item>
     <item>
       <title>如何解决 Unexpected token =</title>
@@ -98,19 +98,19 @@
     <item>
       <title>后疫情时代下美国 CS Master 申请纪实</title>
       <link>https://halfrost.com/halfrost_2021/</link>
-      <description>后疫情时代下美国 CS Master 申请纪实</description>
+      <description>后疫情时代美国CS Master申请困难重重，本文揭秘申请全过程。</description>
       <guid>https://halfrost.com/halfrost_2021/</guid>
     </item>
     <item>
       <title>下一个五年计划起航 ！</title>
       <link>https://halfrost.com/halfrost_2020/</link>
-      <description>回顾2020年疫情下的武汉，见证火神山、雷神山的奇迹与中国人民的团结力量。</description>
+      <description>2020年终总结，疫情下的中国力量与奋斗精神。</description>
       <guid>https://halfrost.com/halfrost_2020/</guid>
     </item>
     <item>
       <title>面试中 LRU / LFU 的青铜与王者</title>
       <link>https://halfrost.com/lru_lfu_interview/</link>
-      <description>深入解析LRU/LFU缓存算法，面试必备！</description>
+      <description>剖析LRU和LFU缓存算法，面试必备技巧。</description>
       <guid>https://halfrost.com/lru_lfu_interview/</guid>
     </item>
     <item>
@@ -132,6 +132,12 @@
       <guid>http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html</guid>
     </item>
     <item>
+      <title>电影里穿皮衣的总能归来</title>
+      <link>https://www.hecaitou.com/2026/11/the-leather-jacket-always-comes-back.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/11/the-leather-jacket-always-comes-back.html</guid>
+    </item>
+    <item>
       <title>让 AI 想象我家</title>
       <link>https://www.hecaitou.com/2026/11/how-ai-imagines-my-home.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
@@ -144,10 +150,22 @@
       <guid>https://www.hecaitou.com/2026/11/shiny-new-tools.html</guid>
     </item>
     <item>
-      <title>在两条街之外</title>
-      <link>https://www.hecaitou.com/2026/11/beyond-the-two-streets.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/11/beyond-the-two-streets.html</guid>
+      <title>是微服务架构不香还是云不香？</title>
+      <link>https://coolshell.cn/articles/22422.html</link>
+      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
+      <guid>https://coolshell.cn/articles/22422.html</guid>
+    </item>
+    <item>
+      <title>我看ChatGPT: 为啥谷歌掉了千亿美金</title>
+      <link>https://coolshell.cn/articles/22398.html</link>
+      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
+      <guid>https://coolshell.cn/articles/22398.html</guid>
+    </item>
+    <item>
+      <title>聊聊 nostr 和 审查</title>
+      <link>https://coolshell.cn/articles/22367.html</link>
+      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
+      <guid>https://coolshell.cn/articles/22367.html</guid>
     </item>
     <item>
       <title>2016 年，我做过一次 AI 写代码创业</title>
@@ -218,13 +236,13 @@
     <item>
       <title>最佳学习率调度的变分估计</title>
       <link>https://spaces.ac.cn/archives/12010</link>
-      <description>论文提出将训练动态简化为微分方程，用变分估计最佳学习率调度。</description>
+      <description>论文提出将训练简化为微分方程，用变分估计优化学习率调度。</description>
       <guid>https://spaces.ac.cn/archives/12010</guid>
     </item>
     <item>
       <title>让炼丹更科学一些（十一）：无调度学习率新思路</title>
       <link>https://spaces.ac.cn/archives/12003</link>
-      <description>无调度学习率新思路，实现理想速度收敛最优解。</description>
+      <description>论文提出无调度学习率新思路，实现理想速度收敛最优解。</description>
       <guid>https://spaces.ac.cn/archives/12003</guid>
     </item>
     <item>
@@ -266,37 +284,37 @@
     <item>
       <title>一代版本一代神</title>
       <link>https://www.gtdstudy.com/posts/2026-11-01-new-version-new-god/</link>
-      <description>一代版本一代神</description>
+      <description>AI短剧新版本崛起，草根逆袭成神。</description>
       <guid>https://www.gtdstudy.com/posts/2026-11-01-new-version-new-god/</guid>
     </item>
     <item>
       <title>中秋与国庆</title>
       <link>https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/</link>
-      <description>中秋国庆双节，思念亲人，观影新片。</description>
+      <description>中秋国庆双节，回忆与观影交织。</description>
       <guid>https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/</guid>
     </item>
     <item>
       <title>深呼吸</title>
       <link>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</link>
-      <description>一周内Awesome-Jev仓库星标破千，项目活跃，探索Jev议题变化。</description>
+      <description>一周内Awesome-Jev星标破千，分享项目迭代与Jev热点思考。</description>
       <guid>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</guid>
     </item>
     <item>
       <title>Axiom 设计系统</title>
       <link>https://roriri.one/2026/10/15/ax-design/</link>
-      <description>Axiom 设计系统</description>
+      <description>初代设计系统经典，新版本各有遗憾。</description>
       <guid>https://roriri.one/2026/10/15/ax-design/</guid>
     </item>
     <item>
       <title>我吃到了那颗梦寐以求的小药丸</title>
       <link>https://roriri.one/2026/08/06/adhd-pills/</link>
-      <description>我吃到了那颗梦寐以求的小药丸</description>
+      <description>历经波折，终于获得治疗ADHD的药物。</description>
       <guid>https://roriri.one/2026/08/06/adhd-pills/</guid>
     </item>
     <item>
       <title>Sneakerweb：互联网的脆弱与韧性</title>
       <link>https://roriri.one/2026/07/09/sneakerweb/</link>
-      <description>互联网时代，内容存储与传输的变迁与挑战。</description>
+      <description>探讨互联网内容传输的演变，从便捷到脆弱，再到韧性的古巴离线内容系统。</description>
       <guid>https://roriri.one/2026/07/09/sneakerweb/</guid>
     </item>
     <item>
@@ -314,7 +332,7 @@
     <item>
       <title>Fragments 0x0023</title>
       <link>https://lenciel.com/2026/11/fragments-0x0023/</link>
-      <description>气候失调，科技失智，时代迷茫，唯有手机相伴。</description>
+      <description>气候失调，科技失智，时代迷茫，唯有手机陪伴。</description>
       <guid>https://lenciel.com/2026/11/fragments-0x0023/</guid>
     </item>
     <item>
@@ -428,19 +446,19 @@
     <item>
       <title>2026 HK 说走就走下篇</title>
       <link>https://battlele.com/2026-hongkong-tour-2/</link>
-      <description>香港之旅惊喜连连，失而复得的戒指，体验新皇岗口岸的便捷与豪华。</description>
+      <description>香港之旅惊喜连连，戒指失而复得，体验新皇岗口岸24小时通关。</description>
       <guid>https://battlele.com/2026-hongkong-tour-2/</guid>
     </item>
     <item>
       <title>2026 HK 说走就走上篇</title>
       <link>https://battlele.com/2026-hongkong-tour-1/</link>
-      <description>香港黑车维权，证据不足，警员劝放弃。</description>
+      <description>香港黑车坐地起价，投诉过程艰难，警方劝放弃追责。</description>
       <guid>https://battlele.com/2026-hongkong-tour-1/</guid>
     </item>
     <item>
       <title>2026 关西八日游下篇</title>
       <link>https://battlele.com/2026-kansai-tour-2/</link>
-      <description>奈良体验弥生轩早餐，漫步京都新京极商店街，感受古扇店文化韵味。</description>
+      <description>奈良之旅，体验弥生轩早餐与新京极商店街的京都风情。</description>
       <guid>https://battlele.com/2026-kansai-tour-2/</guid>
     </item>
     <item>
@@ -482,19 +500,19 @@
     <item>
       <title>2026.11.12</title>
       <link>https://www.justzht.com/2026-11-12/</link>
-      <description>E39故障，开Expedition赴宴，反思是否结束手动挡体验。</description>
+      <description>E39打不着火，Expedition救场，年末不搬家。</description>
       <guid>https://www.justzht.com/2026-11-12/</guid>
     </item>
     <item>
       <title>2026.11.1</title>
       <link>https://www.justzht.com/2026-11-1/</link>
-      <description>诉讼结束，游戏开发进展，湾区万圣节奇遇。</description>
+      <description>诉讼结束，渲染系统优化中，万圣节与友游玩。</description>
       <guid>https://www.justzht.com/2026-11-1/</guid>
     </item>
     <item>
       <title>2026.10.25</title>
       <link>https://www.justzht.com/2026-10-25/</link>
-      <description>Epoch跨平台运行，Mac新电脑助力开发。</description>
+      <description>Epoch原生跨平台，Mac新电脑助力开发。</description>
       <guid>https://www.justzht.com/2026-10-25/</guid>
     </item>
     <item>
