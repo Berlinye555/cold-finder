@@ -98,19 +98,19 @@
     <item>
       <title>后疫情时代下美国 CS Master 申请纪实</title>
       <link>https://halfrost.com/halfrost_2021/</link>
-      <description>后疫情时代美国CS硕士申请挑战多，本文揭秘申请全流程及心得。</description>
+      <description>后疫情时代，美国CS Master申请困难重重，本文揭秘申请全过程。</description>
       <guid>https://halfrost.com/halfrost_2021/</guid>
     </item>
     <item>
       <title>下一个五年计划起航 ！</title>
       <link>https://halfrost.com/halfrost_2020/</link>
-      <description>下一个五年计划起航 ！</description>
+      <description>回顾2020，武汉抗疫，火神山雷神山，共克时艰。</description>
       <guid>https://halfrost.com/halfrost_2020/</guid>
     </item>
     <item>
       <title>面试中 LRU / LFU 的青铜与王者</title>
       <link>https://halfrost.com/lru_lfu_interview/</link>
-      <description>解析LRU与LFU缓存算法，揭秘面试难题。</description>
+      <description>深入解析LRU和LFU缓存算法，揭秘面试中的关键问题。</description>
       <guid>https://halfrost.com/lru_lfu_interview/</guid>
     </item>
     <item>
@@ -132,6 +132,12 @@
       <guid>http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html</guid>
     </item>
     <item>
+      <title>再啰嗦几句减肥</title>
+      <link>https://www.hecaitou.com/2026/11/a-few-more-ramblings-on-weight-loss.html</link>
+      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
+      <guid>https://www.hecaitou.com/2026/11/a-few-more-ramblings-on-weight-loss.html</guid>
+    </item>
+    <item>
       <title>无尽的解释</title>
       <link>https://www.hecaitou.com/2026/11/Explanations-Without-End.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
@@ -142,30 +148,6 @@
       <link>https://www.hecaitou.com/2026/11/the-leather-jacket-always-comes-back.html</link>
       <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
       <guid>https://www.hecaitou.com/2026/11/the-leather-jacket-always-comes-back.html</guid>
-    </item>
-    <item>
-      <title>让 AI 想象我家</title>
-      <link>https://www.hecaitou.com/2026/11/how-ai-imagines-my-home.html</link>
-      <description>在今天重新审视博客，发现博客还是有其他互联网产品所替代不了的优势。详见文章：《[重开博客](</description>
-      <guid>https://www.hecaitou.com/2026/11/how-ai-imagines-my-home.html</guid>
-    </item>
-    <item>
-      <title>是微服务架构不香还是云不香？</title>
-      <link>https://coolshell.cn/articles/22422.html</link>
-      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
-      <guid>https://coolshell.cn/articles/22422.html</guid>
-    </item>
-    <item>
-      <title>我看ChatGPT: 为啥谷歌掉了千亿美金</title>
-      <link>https://coolshell.cn/articles/22398.html</link>
-      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
-      <guid>https://coolshell.cn/articles/22398.html</guid>
-    </item>
-    <item>
-      <title>聊聊 nostr 和 审查</title>
-      <link>https://coolshell.cn/articles/22367.html</link>
-      <description>骨灰级程序员。擅长领域：专注底层，C++，JAVA，UNIX/LINUX等。</description>
-      <guid>https://coolshell.cn/articles/22367.html</guid>
     </item>
     <item>
       <title>2016 年，我做过一次 AI 写代码创业</title>
@@ -210,6 +192,12 @@
       <guid>https://blog.yitianshijie.net/2026/11/20/tokaku-ep1-cantonese-on-the-move/</guid>
     </item>
     <item>
+      <title>微信公号的加热 有没有用</title>
+      <link>http://weiwuhui.com/11140.html</link>
+      <description>魏老师执教于上海交通大学媒体与传播学院，天奇创投基金管理合伙人。媒体行业的思考和见解，尽在魏老师。</description>
+      <guid>http://weiwuhui.com/11140.html</guid>
+    </item>
+    <item>
       <title>可能会被清洗的黄仁勋部下</title>
       <link>http://weiwuhui.com/11136.html</link>
       <description>魏老师执教于上海交通大学媒体与传播学院，天奇创投基金管理合伙人。媒体行业的思考和见解，尽在魏老师。</description>
@@ -222,27 +210,21 @@
       <guid>http://weiwuhui.com/11122.html</guid>
     </item>
     <item>
-      <title>黄仁勋事件中 遥遥领先的纽约时报</title>
-      <link>http://weiwuhui.com/11119.html</link>
-      <description>魏老师执教于上海交通大学媒体与传播学院，天奇创投基金管理合伙人。媒体行业的思考和见解，尽在魏老师。</description>
-      <guid>http://weiwuhui.com/11119.html</guid>
-    </item>
-    <item>
       <title>Muon背后的优化理论：1. 全量、随机与动量</title>
       <link>https://spaces.ac.cn/archives/12014</link>
-      <description>深入解析Muon优化器背后的优化理论，探讨全量、随机与动量。</description>
+      <description>深入解析Muon优化器背后的理论，平衡简洁性与复杂性。</description>
       <guid>https://spaces.ac.cn/archives/12014</guid>
     </item>
     <item>
       <title>最佳学习率调度的变分估计</title>
       <link>https://spaces.ac.cn/archives/12010</link>
-      <description>论文提出基于变分估计的LR调度新方法，将训练动态简化为一维微分方程。</description>
+      <description>论文提出基于变分估计的LR调度新方法，将训练简化为微分方程，实现最佳学习率调度。</description>
       <guid>https://spaces.ac.cn/archives/12010</guid>
     </item>
     <item>
       <title>让炼丹更科学一些（十一）：无调度学习率新思路</title>
       <link>https://spaces.ac.cn/archives/12003</link>
-      <description>无调度学习率新思路突破，实现理想速度收敛。</description>
+      <description>探索无调度学习率新思路，实现训练过程灵活终止。</description>
       <guid>https://spaces.ac.cn/archives/12003</guid>
     </item>
     <item>
@@ -290,25 +272,25 @@
     <item>
       <title>中秋与国庆</title>
       <link>https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/</link>
-      <description>中秋国庆双节，思念家乡与亲人，观影《欢迎来龙餐馆》，感受战争与人性的深刻反思。</description>
+      <description>中秋国庆双节，回忆与电影交织。</description>
       <guid>https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/</guid>
     </item>
     <item>
       <title>深呼吸</title>
       <link>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</link>
-      <description>一周内Awesome-Jev仓库星标破千，项目活跃，信息迭代速度惊人。</description>
+      <description>一周内Awesome-Jev仓库星标破千，项目迭代迅速。</description>
       <guid>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</guid>
     </item>
     <item>
       <title>Axiom 设计系统</title>
       <link>https://roriri.one/2026/10/15/ax-design/</link>
-      <description>初代设计系统平衡趣味性与可访问性，新系统却失趣味。</description>
+      <description>初代设计系统趣与美的完美结合，新系统却失色。</description>
       <guid>https://roriri.one/2026/10/15/ax-design/</guid>
     </item>
     <item>
       <title>我吃到了那颗梦寐以求的小药丸</title>
       <link>https://roriri.one/2026/08/06/adhd-pills/</link>
-      <description>患者经历 ADHD 治疗过程中的繁琐与无奈，最终在新的城市找到了理解和帮助。</description>
+      <description>患者克服重重阻碍，终获ADHD治疗。</description>
       <guid>https://roriri.one/2026/08/06/adhd-pills/</guid>
     </item>
     <item>
@@ -320,7 +302,7 @@
     <item>
       <title>Fragments 0x0026</title>
       <link>https://lenciel.com/2026/11/fragments-0x0026/</link>
-      <description>玩家对游戏内充值的失望情绪分析。</description>
+      <description>玩家对游戏内充值与回报不平衡的吐槽。</description>
       <guid>https://lenciel.com/2026/11/fragments-0x0026/</guid>
     </item>
     <item>
@@ -446,19 +428,19 @@
     <item>
       <title>2026 HK 说走就走下篇</title>
       <link>https://battlele.com/2026-hongkong-tour-2/</link>
-      <description>香港之旅惊喜连连，戒指失而复得，体验新皇岗口岸的便捷与豪华。</description>
+      <description>意外找回戒指，体验香港皇岗口岸新设施。</description>
       <guid>https://battlele.com/2026-hongkong-tour-2/</guid>
     </item>
     <item>
       <title>2026 HK 说走就走上篇</title>
       <link>https://battlele.com/2026-hongkong-tour-1/</link>
-      <description>香港黑车维权，证据不足，警方劝放弃。</description>
+      <description>香港黑车纠纷，警方称证据不足，劝放弃追责。</description>
       <guid>https://battlele.com/2026-hongkong-tour-1/</guid>
     </item>
     <item>
       <title>2026 关西八日游下篇</title>
       <link>https://battlele.com/2026-kansai-tour-2/</link>
-      <description>奈良游学，弥生轩早餐，新京极商店街探秘。</description>
+      <description>奈良漫步，体验京都传统与现代交融的魅力。</description>
       <guid>https://battlele.com/2026-kansai-tour-2/</guid>
     </item>
     <item>
@@ -500,19 +482,19 @@
     <item>
       <title>2026.11.12</title>
       <link>https://www.justzht.com/2026-11-12/</link>
-      <description>E39打不着火，Expedition代步，考虑卖车。</description>
+      <description>E39突发故障，Expedition临时救急，年底假期不搬家。</description>
       <guid>https://www.justzht.com/2026-11-12/</guid>
     </item>
     <item>
       <title>2026.11.1</title>
       <link>https://www.justzht.com/2026-11-1/</link>
-      <description>诉讼结束，游戏进展，湾区万圣节趣事。</description>
+      <description>诉讼结束，渲染系统优化中，与朋友湾区万圣节游玩。</description>
       <guid>https://www.justzht.com/2026-11-1/</guid>
     </item>
     <item>
       <title>2026.10.25</title>
       <link>https://www.justzht.com/2026-10-25/</link>
-      <description>Epoch跨平台运行，Mac新电脑助力开发。</description>
+      <description>Epoch原生支持多平台，Mac Studio新购助力开发。</description>
       <guid>https://www.justzht.com/2026-10-25/</guid>
     </item>
     <item>
