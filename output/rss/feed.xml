@@ -98,20 +98,26 @@
     <item>
       <title>后疫情时代下美国 CS Master 申请纪实</title>
       <link>https://halfrost.com/halfrost_2021/</link>
-      <description>后疫情时代，美国CS Master申请困难重重，本文揭秘申请全过程。</description>
+      <description>后疫情时代，美国CS硕士申请之路充满挑战，本文分享申请纪实及心得。</description>
       <guid>https://halfrost.com/halfrost_2021/</guid>
     </item>
     <item>
       <title>下一个五年计划起航 ！</title>
       <link>https://halfrost.com/halfrost_2020/</link>
-      <description>回顾2020，武汉抗疫，火神山雷神山，共克时艰。</description>
+      <description>回顾2020，展望新五年，共抗疫情，建设新篇章。</description>
       <guid>https://halfrost.com/halfrost_2020/</guid>
     </item>
     <item>
       <title>面试中 LRU / LFU 的青铜与王者</title>
       <link>https://halfrost.com/lru_lfu_interview/</link>
-      <description>深入解析LRU和LFU缓存算法，揭秘面试中的关键问题。</description>
+      <description>深入解析LRU和LFU缓存算法，面试必备！</description>
       <guid>https://halfrost.com/lru_lfu_interview/</guid>
+    </item>
+    <item>
+      <title>科技爱好者周刊（第 421 期）：AI 的疯狂造富</title>
+      <link>http://www.ruanyifeng.com/blog/2026/11/weekly-issue-421.html</link>
+      <description>对我来说，博客首先是一种知识管理工具，其次才是传播工具。我的技术文章，主要用来整理我还不懂的知识。我只写那些我还没有完全掌握的东西，那些我精通的东西，往往没有动力写。炫耀从来不是我的动机，好奇才是。</description>
+      <guid>http://www.ruanyifeng.com/blog/2026/11/weekly-issue-421.html</guid>
     </item>
     <item>
       <title>科技爱好者周刊（第 420 期）：最分心的一年</title>
@@ -124,12 +130,6 @@
       <link>http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html</link>
       <description>对我来说，博客首先是一种知识管理工具，其次才是传播工具。我的技术文章，主要用来整理我还不懂的知识。我只写那些我还没有完全掌握的东西，那些我精通的东西，往往没有动力写。炫耀从来不是我的动机，好奇才是。</description>
       <guid>http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html</guid>
-    </item>
-    <item>
-      <title>科技爱好者周刊（第 418 期）：如果科技停止在21世纪初</title>
-      <link>http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html</link>
-      <description>对我来说，博客首先是一种知识管理工具，其次才是传播工具。我的技术文章，主要用来整理我还不懂的知识。我只写那些我还没有完全掌握的东西，那些我精通的东西，往往没有动力写。炫耀从来不是我的动机，好奇才是。</description>
-      <guid>http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html</guid>
     </item>
     <item>
       <title>再啰嗦几句减肥</title>
@@ -212,19 +212,19 @@
     <item>
       <title>Muon背后的优化理论：1. 全量、随机与动量</title>
       <link>https://spaces.ac.cn/archives/12014</link>
-      <description>深入解析Muon优化器背后的理论，平衡简洁性与复杂性。</description>
+      <description>深入剖析Muon优化器，探讨其背后的优化理论与方法。</description>
       <guid>https://spaces.ac.cn/archives/12014</guid>
     </item>
     <item>
       <title>最佳学习率调度的变分估计</title>
       <link>https://spaces.ac.cn/archives/12010</link>
-      <description>论文提出基于变分估计的LR调度新方法，将训练简化为微分方程，实现最佳学习率调度。</description>
+      <description>论文提出通过一维微分方程和变分估计，实现最佳学习率调度。</description>
       <guid>https://spaces.ac.cn/archives/12010</guid>
     </item>
     <item>
       <title>让炼丹更科学一些（十一）：无调度学习率新思路</title>
       <link>https://spaces.ac.cn/archives/12003</link>
-      <description>探索无调度学习率新思路，实现训练过程灵活终止。</description>
+      <description>探索无调度学习率新思路，实现理想速度收敛至最优解。</description>
       <guid>https://spaces.ac.cn/archives/12003</guid>
     </item>
     <item>
@@ -266,7 +266,7 @@
     <item>
       <title>一代版本一代神</title>
       <link>https://www.gtdstudy.com/posts/2026-11-01-new-version-new-god/</link>
-      <description>AI短剧新版本，草根逆袭成神。</description>
+      <description>AI短剧崛起，草根逆袭成神，抓住版本更新机会。</description>
       <guid>https://www.gtdstudy.com/posts/2026-11-01-new-version-new-god/</guid>
     </item>
     <item>
@@ -278,31 +278,31 @@
     <item>
       <title>深呼吸</title>
       <link>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</link>
-      <description>一周内Awesome-Jev仓库星标破千，项目迭代迅速。</description>
+      <description>一周内，Awesome-Jev Github 仓库星标破千，项目活跃度极高。</description>
       <guid>https://www.gtdstudy.com/posts/2026-09-21-deep-breath/</guid>
     </item>
     <item>
       <title>Axiom 设计系统</title>
       <link>https://roriri.one/2026/10/15/ax-design/</link>
-      <description>初代设计系统趣与美的完美结合，新系统却失色。</description>
+      <description>初代设计系统经典，新版本却失趣味。</description>
       <guid>https://roriri.one/2026/10/15/ax-design/</guid>
     </item>
     <item>
       <title>我吃到了那颗梦寐以求的小药丸</title>
       <link>https://roriri.one/2026/08/06/adhd-pills/</link>
-      <description>患者克服重重阻碍，终获ADHD治疗。</description>
+      <description>ADHD患者历经波折，终在异乡找到治疗之路。</description>
       <guid>https://roriri.one/2026/08/06/adhd-pills/</guid>
     </item>
     <item>
       <title>Sneakerweb：互联网的脆弱与韧性</title>
       <link>https://roriri.one/2026/07/09/sneakerweb/</link>
-      <description>探讨互联网内容传播的脆弱与韧性，以古巴离线内容系统为例。</description>
+      <description>互联网内容传输从易到难，古巴离线内容系统展现韧性。</description>
       <guid>https://roriri.one/2026/07/09/sneakerweb/</guid>
     </item>
     <item>
       <title>Fragments 0x0026</title>
       <link>https://lenciel.com/2026/11/fragments-0x0026/</link>
-      <description>玩家对游戏内充值与回报不平衡的吐槽。</description>
+      <description>玩家对游戏内购和设计不满，却难以指责赌场。</description>
       <guid>https://lenciel.com/2026/11/fragments-0x0026/</guid>
     </item>
     <item>
@@ -428,19 +428,19 @@
     <item>
       <title>2026 HK 说走就走下篇</title>
       <link>https://battlele.com/2026-hongkong-tour-2/</link>
-      <description>意外找回戒指，体验香港皇岗口岸新设施。</description>
+      <description>香港之旅，惊喜连连，体验新皇岗口岸的便捷与豪华。</description>
       <guid>https://battlele.com/2026-hongkong-tour-2/</guid>
     </item>
     <item>
       <title>2026 HK 说走就走上篇</title>
       <link>https://battlele.com/2026-hongkong-tour-1/</link>
-      <description>香港黑车纠纷，警方称证据不足，劝放弃追责。</description>
+      <description>香港黑车维权，警员劝放弃，跨城追责成本高。</description>
       <guid>https://battlele.com/2026-hongkong-tour-1/</guid>
     </item>
     <item>
       <title>2026 关西八日游下篇</title>
       <link>https://battlele.com/2026-kansai-tour-2/</link>
-      <description>奈良漫步，体验京都传统与现代交融的魅力。</description>
+      <description>奈良之游，古都风情与时尚交汇。</description>
       <guid>https://battlele.com/2026-kansai-tour-2/</guid>
     </item>
     <item>
@@ -482,19 +482,19 @@
     <item>
       <title>2026.11.12</title>
       <link>https://www.justzht.com/2026-11-12/</link>
-      <description>E39突发故障，Expedition临时救急，年底假期不搬家。</description>
+      <description>宝马E39启动故障，反思手动挡体验，年末未搬家。</description>
       <guid>https://www.justzht.com/2026-11-12/</guid>
     </item>
     <item>
       <title>2026.11.1</title>
       <link>https://www.justzht.com/2026-11-1/</link>
-      <description>诉讼结束，渲染系统优化中，与朋友湾区万圣节游玩。</description>
+      <description>诉讼结束，项目进展，万圣节湾区之行。</description>
       <guid>https://www.justzht.com/2026-11-1/</guid>
     </item>
     <item>
       <title>2026.10.25</title>
       <link>https://www.justzht.com/2026-10-25/</link>
-      <description>Epoch原生支持多平台，Mac Studio新购助力开发。</description>
+      <description>Epoch原生跨平台运行，Mac新电脑助力开发，法律纠纷进展。</description>
       <guid>https://www.justzht.com/2026-10-25/</guid>
     </item>
     <item>
